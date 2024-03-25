@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/base.astro'
+import PageHero from '../components/pagehero.astro'
+import type { CollectionEntry } from 'astro:content'
+
+export interface Props {
+  frontmatter: CollectionEntry<'page'>['data']
+}
+
+const { frontmatter } = Astro.props
+---
+
+<Base {frontmatter}>
+  <main class='dark:bg-gray-900'>
+    <article class='post'>
+      <header>
+        <PageHero
+          title={frontmatter.title!}
+          description={frontmatter.description}
+          image={frontmatter.image}
+        />
+      </header>
+      <section
+        class='lg:prose-xl mx-auto my-8 max-w-screen-lg px-4 prose prose-purple lg:px-0 dark:prose-invert'
+      >
+        <slot />
+      </section>
+    </article>
+  </main>
+</Base>

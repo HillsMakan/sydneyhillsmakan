@@ -1,0 +1,61 @@
+---
+import { ViewTransitions } from 'astro:transitions'
+import type { CollectionEntry } from 'astro:content'
+import SEO from '../components/seo.astro'
+import Header from '../components/header.astro'
+import Footer from '../components/footer.astro'
+import Gallery from '../components/gallery.astro'
+import Images from '../components/images.astro'
+
+export interface Props {
+  frontmatter: CollectionEntry<'page'>['data'] | CollectionEntry<'blog'>['data']
+}
+
+const { frontmatter } = Astro.props
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta http-equiv='Referrer-Policy' content='no-referrer, strict-origin-when-cross-origin' />
+    <meta name='viewport' content='width=device-width' />
+    <link rel='icon' href={`${Astro.site}favicon.ico`} sizes='any' />
+    <link rel='icon' href={`${Astro.site}favicon.svg`} type='image/svg+xml' />
+    <link rel='apple-touch-icon' href={`${Astro.site}apple-touchicon.png`} />
+    <link rel='manifest' href={`${Astro.site}site.webmanifest`} />
+    <link rel='sitemap' href={`${Astro.site}sitemap-indexxml`} />
+    <link rel='alternate' type='application/rss+xml' title='RSS' href={`${Astro.site}rss.xml`} />
+    <meta name='generator' content={Astro.generator} />
+    <SEO frontmatter={frontmatter} />
+    <ViewTransitions />
+    <script is:inline>
+      const setDarkMode = () => {
+        if (
+          localStorage.theme === 'dark' ||
+          (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
+        ) {
+          document.documentElement.classList.add('dark')
+        } else {
+          document.documentElement.classList.remove('dark')
+        }
+      }
+      setDarkMode() //initial navigation
+      document.addEventListener('astro:after-swap', setDarkMode) // Runs on view transitions navigation
+    </script>
+    <style is:inline>
+      [x-cloak] {
+        display: none !important;
+      }
+    </style>
+    <slot name='in-head' />
+  </head>
+  <body class='dark:bg-gray-900'>
+    <Header />
+    <slot />
+    {frontmatter.gallery && <Gallery folder={frontmatter.gallery} />}
+    {frontmatter.images && <Images images={frontmatter.images} />}
+    <slot name='before-footer' />
+    <Footer />
+  </body>
+</html>
