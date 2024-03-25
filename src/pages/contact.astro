@@ -4,11 +4,13 @@ import { getCollection } from 'astro:content'
 import { Image } from 'astro:assets'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
-import image from '../assets/images/phone.jpg'
+import image from '../assets/site/banner.jpg'
+import logocta from '../assets/site/logocta.jpg'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
-  title: 'Contact',
-  description: 'Our presence is real and digital. Contact us through the following ways.',
+  title: '🍜 Join Sydney Hills Makan (Foodie) Group 🌏',
+  description:
+    'You do not have to leave in the Hills to join. It is open to everyone, and everyone is most welcome.',
   image: image
 }
 
@@ -25,7 +27,7 @@ const social = await getCollection('social')
         <div class='flex flex-wrap items-start'>
           <div class='block w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-4/12 lg:flex'>
             <div class='w-full'>
-              <Image src={image} alt='cover image' />
+              <Image src={logocta} alt='cover image' />
             </div>
           </div>
           <div class='w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12'>

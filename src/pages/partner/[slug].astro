@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { getCollection } from 'astro:content'
+import Layout from '../../layouts/partner.astro'
+
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  let partners = await getCollection('partner', ({ data }) => {
+    return data.draft !== true
+  })
+  // partners = partners.sort((a, b) => +b.data.publishDate - +a.data.publishDate)
+  return partners.map((partner, i) => ({
+    params: { slug: partner.slug },
+    props: {
+      partner,
+      prev: i > 0 && partners[i - 1],
+      next: i < partners.length - 1 && partners[i + 1]
+    }
+  }))
+}
+
+export interface Props {
+  partner: CollectionEntry<'partner'>
+  prev: CollectionEntry<'partner'>
+  next: CollectionEntry<'partner'>
+}
+
+// 2. When its time to render, you can get the entry directly from the prop
+const { partner, prev, next } = Astro.props
+
+// @ts-ignore
+const { Content } = await partner.render()
+---
+
+<Layout partner={partner} {prev} {next}>
+  <Content />
+</Layout>

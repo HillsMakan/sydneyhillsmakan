@@ -1,14 +1,9 @@
 ---
 title: MIT Licence
 description: The MIT License, explained.
-author: chris-tham
 pubDate: 2022-08-09T00:00:00.000Z
-image: ../../assets/images/cross.jpg
-categories:
-  - information
-tags:
-  - mit
-  - licence
+image: ../../assets/site/banner.jpg
+categories: [restaurant]
 ---
 
 ## Introduction

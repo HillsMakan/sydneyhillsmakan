@@ -2,6 +2,10 @@ import rss from '@astrojs/rss'
 import { getCollection, getEntry } from 'astro:content'
 import { SiteMetadata } from '../config'
 
+const defaultAuthor = {
+  slug: 'default',
+  collection: 'author'
+}
 export async function GET(context) {
   const posts = await getCollection('blog', ({ data }) => {
     return data.draft !== true
@@ -26,7 +30,7 @@ export async function GET(context) {
     // see "Generating items" section for required data and advanced use cases
     items: await Promise.all(
       posts.map(async (post) => {
-        const author = await getEntry(post.data.author)
+        const author = await getEntry(post.data.author || defaultAuthor)
         return {
           link: context.site + 'blog/' + post.slug,
           title: post.data.title,

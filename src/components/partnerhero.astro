@@ -1,0 +1,30 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { Image } from 'astro:assets'
+
+export interface Props {
+  frontmatter: CollectionEntry<'partner'>['data']
+}
+
+const { frontmatter } = Astro.props
+---
+
+<div class='relative mx-auto my-4 h-64 w-full max-w-screen-xl md:mb-0'>
+  <div
+    class='absolute bottom-0 left-0 z-10 h-full w-full from-gray-700 bg-gradient-to-t xl:rounded-lg'
+  >
+  </div>
+  <Image
+    src={frontmatter.image!}
+    alt='featured image'
+    class='absolute left-0 top-0 z-0 h-full w-full object-cover xl:rounded-lg'
+  />
+  <div class='absolute bottom-0 left-0 z-20 p-4'>
+    <h2 class='text-4xl text-white font-bold leading-tight'>
+      {frontmatter.title}
+    </h2>
+    <h2 class='text-xl text-purple-200 font-medium italic'>
+      {frontmatter.description}
+    </h2>
+  </div>
+</div>

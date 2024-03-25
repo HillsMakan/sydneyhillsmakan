@@ -1,13 +1,13 @@
 ---
 import type { PaginateFunction, Page } from 'astro'
 import type { CollectionEntry } from 'astro:content'
-import { SiteMetadata, PAGE_SIZE } from '../../../config'
+import { PAGE_SIZE } from '../../../config'
 import { getCollection } from 'astro:content'
 import Base from '../../../layouts/base.astro'
 import PageHero from '../../../components/pagehero.astro'
 import BlogRoll from '../../../components/blogroll.astro'
 import PaginateControl from '../../../components/paginatecontrol.astro'
-import image from '../../../assets/images/typewriter.jpg'
+import image from '../../../assets/site/banner.jpg'
 
 export interface Props {
   page: Page<CollectionEntry<'blog'>>
@@ -37,6 +37,8 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
   )
 
   const tags = Array.from(new Set(posts.flatMap((post) => post.data.tags)))
+
+  if (!tags[0]) return []
 
   return tags.flatMap((tag) => {
     return paginate(

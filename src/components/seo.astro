@@ -12,7 +12,7 @@ import type {
   WebSite,
   WithContext
 } from 'schema-dts'
-import { SiteMetadata, DefaultImage, LogoImage } from '../config'
+import { SiteMetadata, DefaultImage, Logo } from '../config'
 
 export interface Props {
   frontmatter: CollectionEntry<'page'>['data'] | CollectionEntry<'blog'>['data']
@@ -29,7 +29,7 @@ const image = await getImage({
   width: 1200,
   format: 'jpg'
 })
-const logo = LogoImage
+const logo = Logo
 const publishDate = frontmatter.pubDate || SiteMetadata.buildTime
 const author = frontmatter.author ? frontmatter.author.slug : 'Astro Blog'
 const openGraph = {

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content'
-import { Logo } from '../config'
+import { Logo, SiteMetadata } from '../config'
 
 const social = await getCollection('social')
 ---
@@ -23,12 +23,12 @@ const social = await getCollection('social')
       >
         © {new Date().getFullYear()} MIT licence
         <a
-          href='https://hellotham.com'
+          href={Astro.site}
           class='ml-1 text-purple-600 dark:text-purple-300 hover:text-pink-600 dark:hover:text-pink-300'
           rel='noopener noreferrer'
           target='_blank'
         >
-          Hello Tham Pty Ltd
+          {SiteMetadata.title}
         </a>
       </p>
     </span>

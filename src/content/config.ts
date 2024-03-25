@@ -17,6 +17,22 @@ const blog = defineCollection({
     })
 })
 
+const partner = defineCollection({
+  schema: ({ image }) =>
+    z.object({
+      draft: z.boolean().optional(),
+      title: z.string(),
+      description: z.string().optional(),
+      image: image().optional(),
+      categories: z.array(z.string()).optional(),
+      cuisine: z.array(z.string()).optional(),
+      region: z.array(z.string()).optional(),
+      discount_pct: z.number().optional(),
+      discount_text: z.string().optional(),
+      comment: z.string().optional()
+    })
+})
+
 const page = defineCollection({
   schema: ({ image }) =>
     z.object({
@@ -64,6 +80,7 @@ const social = defineCollection({
 export const collections = {
   blog,
   page,
+  partner,
   category,
   author,
   social

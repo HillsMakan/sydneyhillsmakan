@@ -1,50 +1,6 @@
-# Astro Blog
+# Sydney Hills Makan Group Website
 
-Simple blog theme based on [Hello Astro](https://hellotham.github.io/hello-astro) but supports only Markdown and does not have the extra integrations. Uses UnoCSS instead of Tailwind.
-
-Uses the following integrations:
-
-- @astrojs/sitemap
-- @astrojs/rss
-- @astrojs/alpinejs
-- astro-seo
-- astro-robots-txt
-
-## Features
-
-- Full-featured blog with frontmatter (title, description, author, date, image, tags)
-- High performance low overhead with minimal Javascript (AlpineJS)
-- Full text client based search of blog pages via lunrjs (search index only loaded on first invocation of search on a page)
-- Index page and individual pages for authors, categories and tags, including pagination
-- Support for RSS feed, sitemap and robots.txt
-- Full SEO support including Open Graph, Twitter Cards and Schema.org via JSON-LD
-- Full support for Light and dark UI modes, as well as following system preferences, in accordance to TailwindCSS recommendation
-- Customised 404 error page
-- Calculates and show reading time for blog posts
-- CSS/JS assets of external libraries loaded only when needed on a per page and per package basis - no unnecessary bloat
-- Photo gallery and lightbox using PhotoSwipe (including display of EXIF tags)
-- Carousel component using Swiper
-
-## External Packages
-
-The start uses the following external packages:
-
-- [Astro](https://astro.build/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Markdown](https://www.markdownguide.org/)
-- [Schema.org](https://schema.org/) and [JSON for Linking Data](https://json-ld.org/), type-checked using [schema-dts](https://github.com/google/schema-dts)
-- [Open Graph](https://ogp.me/) used by [Facebook](https://developers.facebook.com/docs/sharing/webmasters/#markup)
-- [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-- [AlpineJS](https://alpinejs.dev)
-- Local full text search using [Lunr](https://lunrjs.com)
-- [reading-time](https://github.com/ngryman/reading-time)
-- [PhotoSwipe](https://photoswipe.com)
-- [exifr](https://mutiny.cz/exifr/)
-- [Swiper](https://swiperjs.com/)
-- [Remark Emoji](https://github.com/rhysd/remark-emoji)
-- [UnoCSS](https://unocss.dev)
-
-It follows the [JAMstack architecture](https://jamstack.org) by automatically building a static version from the Git repository. The demo is deployed on Github Pages.
+Based on [Astro Blog](https://github.com/ChristineTham/astro-blog)
 
 ## 🚀 Project Structure
 

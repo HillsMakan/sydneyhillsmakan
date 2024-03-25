@@ -3,32 +3,35 @@ import type { CollectionEntry } from 'astro:content'
 import { getCollection } from 'astro:content'
 import { SiteMetadata } from '../config'
 import Base from '../layouts/base.astro'
-import Hero from '../components/hero.astro'
-import Features from '../components/features.astro'
-import FindOutMore from '../components/findoutmore.astro'
-import LatestArticles from '../components/latestarticles.astro'
+import { DefaultImage } from '../config'
+import { Image } from 'astro:assets'
+import MyHero from '../components/myhero.astro'
+// import Hero from '../components/hero.astro'
+// import Features from '../components/features.astro'
+// import FindOutMore from '../components/findoutmore.astro'
+// import LatestArticles from '../components/latestarticles.astro'
+import Partners from '../components/partners.astro'
 import CTA from '../components/cta.astro'
-import image from '../assets/images/Alpine lake sunset.jpg'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
   title: SiteMetadata.title,
   description: SiteMetadata.description,
-  image: image
+  image: DefaultImage
 }
 
-const posts = await getCollection('blog', ({ data }) => {
+const partners = await getCollection('partner', ({ data }) => {
   return data.draft !== true
 })
-const latestPosts = posts.sort((a, b) =>
-  a.data.pubDate && b.data.pubDate ? +b.data.pubDate - +a.data.pubDate : 0
-)
 ---
 
 <Base frontmatter={frontmatter}>
-  <Hero />
+  <Image class='w-full' src={DefaultImage} alt='banner' />
+  <MyHero />
+  <Partners {partners} />
+  <!-- <Hero />
   <Features />
-  <FindOutMore />
-  <LatestArticles posts={latestPosts} />
+  <FindOutMore /> -->
+  <!-- <LatestArticles posts={latestPosts} /> -->
   <CTA />
   <div class='bg-white p-24 dark:bg-black md:p-12'></div>
 </Base>

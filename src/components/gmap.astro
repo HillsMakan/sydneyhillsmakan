@@ -1,0 +1,20 @@
+---
+interface Props {
+  search: string
+  zoom?: number
+}
+
+const { search, zoom = 19 } = Astro.props
+---
+
+<div class='w-full'>
+  <div>
+    <iframe
+      width='100%'
+      height='500'
+      id='gmap_canvas'
+      src={`https://maps.google.com/maps?q=${new URLSearchParams(search).toString()}&t=&z=${zoom}&ie=UTF8&iwloc=&output=embed`}
+      loading='lazy'
+      allowfullscreen></iframe>
+  </div>
+</div>

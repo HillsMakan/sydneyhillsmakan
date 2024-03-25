@@ -1,6 +1,6 @@
 ---
 import { Image } from 'astro:assets'
-import { FeaturedImage } from '../config'
+import { DefaultImage } from '../config'
 ---
 
 <div class='relative overflow-hidden bg-white dark:bg-gray-900'>
@@ -67,7 +67,7 @@ import { FeaturedImage } from '../config'
   <div class='bg-purple-100 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 dark:bg-purple-500'>
     <Image
       class='h-56 w-full object-cover lg:h-full lg:w-full md:h-96 sm:h-72'
-      src={FeaturedImage}
+      src={DefaultImage}
       alt='a beautiful field of flowers next to a lake surrounded by mountains and trees at sunset'
     />
   </div>

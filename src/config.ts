@@ -7,8 +7,9 @@ export interface TagType {
 }
 
 export const SiteMetadata = {
-  title: 'Hello Astro',
-  description: 'An Astro starter for corporate/marketing/blog websites.',
+  title: 'Sydney Hills Makan Group',
+  description:
+    'Indulge in the world of flavors with SHMG – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.',
   author: {
     name: 'Chris Tham',
     twitter: '@chris1tham',
@@ -17,29 +18,28 @@ export const SiteMetadata = {
     summary: 'Outrageous actualiser.'
   },
   org: {
-    name: 'Hello Tham',
-    twitter: '@hellothamcom',
-    url: 'https://hellotham.com',
+    name: 'Sydney Hills Makan',
+    twitter: '@sydneyhillsmakan',
+    url: 'https://sydneyhillsmakan.netlify.app',
     email: 'info@hellotham.com',
     summary:
-      'Hello Tham is a boutique management consulting firm. We specialise in Business and IT strategies, operating models, strategic roadmaps, enterprise architecture, analytics and business process design.'
+      "SHMG is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join. Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor."
   },
-  location: 'Rivendell, Middle Earth',
+  location: 'Sydney, Australia',
   latlng: [-33.86785, 151.20732] as [number, number],
-  repository: 'https://github.com/hellotham/hello-astro',
+  repository: 'https://github.com/ChristineTham/sydneyhillsmakan',
   buildTime: new Date()
 }
 
-export { default as Logo } from './assets/astro/astro-icon-dark.svg'
-export { default as LogoImage } from './assets/astro/astro-logo-dark.png'
-export { default as FeaturedImage } from './assets/images/Alpine lake sunset.jpg'
-export { default as DefaultImage } from './assets/images/Alpine lake sunset.jpg'
+export { default as Logo } from './assets/site/logo.jpg'
+export { default as DefaultImage } from './assets/site/banner.jpg'
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },
+  { name: 'Partners', href: 'partner' },
   { name: 'About', href: 'about' },
   { name: 'Contact', href: 'contact' },
-  { name: 'Blog', href: 'blog' }
+  { name: 'Privacy', href: 'privacy' }
 ]
 
 export const PAGE_SIZE = 6

@@ -1,11 +1,15 @@
 import { getCollection, getEntry } from 'astro:content'
 
+const defaultAuthor = {
+  slug: 'default',
+  collection: 'author'
+}
 const posts = await getCollection('blog', (p) => {
   return !p.data.draft
 })
 const documents = await Promise.all(
   posts.map(async (post) => {
-    const author = await getEntry(post.data.author)
+    const author = await getEntry(post.data.author || defaultAuthor)
     return {
       url: import.meta.env.BASE_URL + 'blog/' + post.slug,
       title: post.data.title,

@@ -1,64 +1,30 @@
 ---
-title: About
-description: Description of Hello Astro Starter
-pubDate: 2023-06-13T00:00:00.000Z
-image: ../../assets/images/Alpine lake sunset.jpg
+title: '🍜 About Sydney Hills Makan (Foodie) Group 🌏'
+description: Indulge in the world of flavors with SHMG – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.
+image: ../../assets/site/banner.jpg
 ---
 
-This is multi-purpose Astro starter template based on the following:
+SHMG is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join.
+Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor.
 
-- [Astro](https://astro.build/) as a modern static site generator
-- [TypeScript](https://www.typescriptlang.org/)
-- [TailwindCSS](https://tailwindcss.com) and [TailwindUI](https://tailwindui.com)
-- [Iconify](https://iconify.design/)
-- [Hero Patterns](https://heropatterns.com/)
-- [unDraw](https://undraw.co/) for illustrations
-- [Markdown](https://www.markdownguide.org/)
-- [MDX](https://mdxjs.com/)
-- [Markdoc](https://markdoc.dev)
-- [Schema.org](https://schema.org/) and [JSON for Linking Data](https://json-ld.org/), type-checked using [schema-dts](https://github.com/google/schema-dts)
-- [Open Graph](https://ogp.me/) used by [Facebook](https://developers.facebook.com/docs/sharing/webmasters/#markup)
-- [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-- [AlpineJS](https://alpinejs.dev)
-- Local full text search using [Lunr](https://lunrjs.com)
-- Math equations using [KaTeX](https://katex.org) via [remark-math and rehype-katex](https://github.com/remarkjs/remark-math)
-- Diagrams using [Mermaid](https://mermaid-js.github.io/mermaid/#/), [Markmap](https://markmap.js.org) and [PlantUML](https://plantuml.com)
-- Open Street Map using [Leaflet](https://leafletjs.com/)
-- [reading-time](https://github.com/ngryman/reading-time)
-- [PhotoSwipe](https://photoswipe.com)
-- [exifr](https://mutiny.cz/exifr/)
-- [Swiper](https://swiperjs.com/)
-- [Remark Emoji](https://github.com/rhysd/remark-emoji)
+## 🎁 Members' Exclusive Benefits
 
-It follows the [JAMstack architecture](https://jamstack.org) by automatically building a static version from the Git repository. The demo is deployed on [Github Pages](https://pages.github.com).
+As a valued member, feast on special discounts that go beyond the plate! Enjoy exclusive perks not only from restaurants but also from partners in various industries. Your membership is the key to unlocking savings and experiences across different facets of life. HMG member card is free for everyone to use. Just save it on your mobile, show the member card and receive the Discounts. Easy and simple. And at the same time support our Partners as they are supporting us.
 
-Hello Astro can used for any/all of the following:
+## 💼 Partners Support
 
-- corporate/marketing site
-- blog
-- documentation site
-- portfolio site supporting photo galleries
+We believe in supporting local businesses. Our group is proud to collaborate with a variety of different industries like restaurants, cafes, hotels, salons, services and etc. By being a part of our community, you're not just a foodie – you're a supporter of the local food ecosystem and country economy cycle. Experience the synergy of community and commerce as we join hands to uplift various sectors.
 
-This starter is open source (MIT licence) - fork it and customise for your needs.
+HMG invites all businesses to join our thriving community and be part of our Partners List Directory for free. Contact us if you are interested to know more.
 
-## Features
+## 🤝 Community Unity
 
-- Author content in a mix of Markdown, MDX and Markdoc
-- Full-featured blog with frontmatter (title, description, author, date, image, tags)
-- High performance low overhead with minimal Javascript (AlpineJS)
-- Full text client based search of blog pages via lunrjs (search index only loaded on first invocation of search on a page)
-- Index page and individual pages for authors, categories and tags, including pagination
-- Support for RSS feed, sitemap and robots.txt
-- SVG design (unDraw, Hero Patterns, Iconify)
-- Support for code syntax highlighting
-- Full SEO support including Open Graph, Twitter Cards and Schema.org via JSON-LD
-- Full support for light and dark UI modes, as well as following system preferences, in accordance to TailwindCSS recommendation
-- Customised 404 error page
-- Display math equations using KaTeX via remark-math/rehype-katex (enclosed in `$`...`$` or `$$`...`$$`)
-- Display Mermaid, Markmap, PlantUML diagrams (authored as a code block with language `mermaid`, `markmap` and `plantuml`)
-- Display map at geo coordinates and zoom level using `Map` component (need to also include `extra: ['map']` in frontmatter to load CSS/JS assets for page)
-- Calculates and show reading time for blog posts
-- CSS/JS assets of external libraries loaded only when needed on a per page and per package basis - no unnecessary bloat
-- Photo gallery and lightbox using PhotoSwipe (including display of EXIF tags)
-- Carousel component using Swiper
-- Documentation pages (modelled after astro docs starter but using Tailwind)
+More than just a group, we're a family. We encourage everyone to share your recipes, culinary adventures, and foodie tips. Connect with others who share your passion for great food and community spirit. It is ok to provide feedback but constructive feedback please as we do not want to have to go to the full extreme to condemn anyone's cooking or services. We'd rather give them time to improve. Together, we create a supportive and engaging environment.
+
+## 🌍 Global Foodie Network
+
+Exciting news awaits! SHMG is part of a global network. Join us in exploring and connecting with our other foodie groups in Canberra, Melbourne, Brisbane, Adelaide, Perth, Malaysia, Singapore, and Thailand. (Just type City Name/Country + Makan (Foodie) Group).
+
+HMG and Admins are not liable for any decisions / purchases / collaboration made between members and sellers. Please kindly do your due diligence and research before any purchases. We do not take or receive any referral fees or commissions or ask for free stuff when recommending anything. Our recommendation as a food lover own taste buds and experiences.
+
+Join Sydney Hills Makan (Foodie) Group and embark on a delicious journey with us! 🥢🍽🌎

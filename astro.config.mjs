@@ -15,7 +15,7 @@ export default defineConfig({
       noExternal: ['swiper']
     }
   },
-  site: 'https://hellotham.github.io',
+  site: 'https://sydneyhillsmakan.netlify.app',
   integrations: [UnoCSS({
     injectReset: true // or a path to the reset file
   }), sitemap(), alpinejs(), robotsTxt()],

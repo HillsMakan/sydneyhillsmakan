@@ -1,6 +1,6 @@
 ---
-title: 'Astro Blog'
-image: ../../assets/astro/astro-icon-dark.png
-contact: 'info@hellotham.com'
-description: 'Astronaut'
+title: 'Sydney Hills Makan Group'
+image: ../../assets/site/logo.jpg
+contact: 'aaron_gan@hotmail.com'
+description: 'Sydney Hills Makan Group'
 ---

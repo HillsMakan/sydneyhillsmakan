@@ -4,7 +4,7 @@ import type { Page } from 'astro'
 
 export interface Props {
   base: string
-  page: Page<CollectionEntry<'blog'>>
+  page: Page<CollectionEntry<'blog'>> | Page<CollectionEntry<'partner'>>
 }
 
 // const { id } = Astro.params
