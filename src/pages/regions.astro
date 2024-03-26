@@ -1,0 +1,73 @@
+---
+import { getCollection } from 'astro:content'
+import type { CollectionEntry } from 'astro:content'
+import type { TagType } from '../config'
+import Base from '../layouts/base.astro'
+import PageHero from '../components/pagehero.astro'
+import image from '../assets/backgrounds/region.png'
+
+const frontmatter: CollectionEntry<'page'>['data'] = {
+  title: 'Regions',
+  description: 'Partners by region',
+  image: image
+}
+
+const partners = await getCollection('partner', ({ data }) => {
+  return data.draft !== true
+})
+
+const tagmap: Map<string, TagType> = new Map()
+
+partners.forEach((partner) => {
+  partner.data.region &&
+    partner.data.region.forEach((tag) => {
+      let utag = tagmap.get(tag)
+      if (utag) {
+        utag.count += 1
+        utag.pages.push(partner)
+      } else {
+        utag = { tag: tag, count: 1, pages: [partner] }
+      }
+      tagmap.set(tag, utag)
+    })
+})
+
+const regions = Array.from(tagmap.values()).sort((a, b) =>
+  a.tag.toLowerCase().localeCompare(b.tag.toLowerCase())
+)
+---
+
+<Base frontmatter={frontmatter}>
+  <header>
+    <PageHero title={frontmatter.title!} description={frontmatter.description} {image} />
+  </header>
+  <main class='mt-10 dark:bg-gray-900'>
+    <div
+      class='grid grid-cols-2 mx-4 mb-24 mt-6 gap-x-4 gap-y-4 lg:grid-cols-5 md:grid-cols-4 sm:grid-cols-3 xl:grid-cols-6 xl:gap-x-6 xl:gap-y-6'
+    >
+      {
+        regions.map((tag) => (
+          <a href={`${import.meta.env.BASE_URL}region/${tag.tag}/`} class='group'>
+            <section
+              class='group relative h-24 w-full overflow-hidden rounded-lg bg-cover bg-center shadow-lg transition duration-300 ease-in-out hover:shadow-2xl'
+              style={{
+                backgroundColor: '#dfdbe5',
+                // backgroundImage: `url(${OGImage})`,
+                backgroundImage: `url(${image.src})`
+              }}
+            >
+              <div class='absolute inset-0 bg-black bg-opacity-50 transition duration-300 ease-in-out group-hover:opacity-75' />
+              <div class='relative h-full w-full flex items-center justify-center px-4 lg:px-4 sm:px-6'>
+                <h3 class='text-center text-2xl text-white font-bold'>
+                  <span class='absolute inset-0' />
+                  {tag.tag}
+                </h3>
+                <p class='text-center text-sm text-gray-200 font-medium'>&nbsp;({tag.count})</p>
+              </div>
+            </section>
+          </a>
+        ))
+      }
+    </div>
+  </main>
+</Base>

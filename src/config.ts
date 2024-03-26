@@ -3,7 +3,7 @@ import type { CollectionEntry } from 'astro:content'
 export interface TagType {
   tag: string
   count: number
-  pages: CollectionEntry<'blog'>[]
+  pages: CollectionEntry<'blog'>[] | CollectionEntry<'partner'>[]
 }
 
 export const SiteMetadata = {
@@ -37,9 +37,10 @@ export { default as DefaultImage } from './assets/site/banner.jpg'
 export const NavigationLinks = [
   { name: 'Home', href: '' },
   { name: 'Partners', href: 'partner' },
+  { name: 'Cuisines', href: 'cuisines' },
+  { name: 'Regions', href: 'regions' },
   { name: 'About', href: 'about' },
-  { name: 'Contact', href: 'contact' },
-  { name: 'Privacy', href: 'privacy' }
+  { name: 'Contact', href: 'contact' }
 ]
 
-export const PAGE_SIZE = 6
+export const PAGE_SIZE = 96

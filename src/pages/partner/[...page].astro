@@ -36,11 +36,7 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
 
 <Base frontmatter={frontmatter}>
   <header>
-    <PageHero
-      title={frontmatter.title}
-      description={frontmatter.description}
-      image={DefaultImage}
-    >
+    <PageHero title={frontmatter.title} description={frontmatter.description} image={DefaultImage}>
       <PaginateControl base={currentPage} page={page} />
     </PageHero>
   </header>
@@ -50,11 +46,11 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
         {
           page.data.map((partner) => (
             <div class='group relative'>
-              <div class='w-full overflow-hidden rounded-md bg-gray-200 group-hover:opacity-75'>
+              <div class='aspect-3/2 w-full overflow-hidden rounded-md bg-gray-200 group-hover:opacity-75'>
                 <Image
                   src={partner.data.image!}
                   alt={partner.data.title}
-                  class='h-full w-full object-cover object-center lg:h-full lg:w-full'
+                  class='w-full object-cover object-center lg:h-full lg:w-full'
                 />
               </div>
               <div class='mt-4 flex justify-between'>
@@ -65,7 +61,9 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
                       {partner.data.title}
                     </a>
                   </h3>
-                  <p class='mt-1 text-sm text-gray-500'>{partner.data.cuisine}</p>
+                  <p class='mt-1 text-sm text-gray-500'>
+                    {partner.data.cuisine && partner.data.cuisine.join(', ')}
+                  </p>
                 </div>
                 <p class='text-sm text-gray-900 font-medium'>{partner.data.discount_pct}%</p>
               </div>

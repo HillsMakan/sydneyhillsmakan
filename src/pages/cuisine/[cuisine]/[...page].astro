@@ -1,0 +1,63 @@
+---
+import type { PaginateFunction, Page } from 'astro'
+import type { CollectionEntry } from 'astro:content'
+import { PAGE_SIZE } from '../../../config'
+import { getCollection } from 'astro:content'
+import Base from '../../../layouts/base.astro'
+import PageHero from '../../../components/pagehero.astro'
+import Partners from '../../../components/partners.astro'
+import PaginateControl from '../../../components/paginatecontrol.astro'
+import image from '../../../assets/site/banner.jpg'
+
+export interface Props {
+  page: Page<CollectionEntry<'partner'>>
+}
+
+const { cuisine } = Astro.params
+const { page } = Astro.props
+
+const frontmatter: CollectionEntry<'page'>['data'] = {
+  title:
+    'Cuisine: ' +
+    cuisine +
+    (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
+  description:
+    'Showing partners ' + (page.start + 1) + '-' + (page.end + 1) + ' (total ' + page.total + ')',
+  image: image
+}
+
+const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/$/, '')
+
+export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
+  const partners = await getCollection('partner', ({ data }) => {
+    return data.draft !== true
+  })
+
+  const cuisines = Array.from(new Set(partners.flatMap((partner) => partner.data.cuisine)))
+
+  if (!cuisines[0]) return []
+
+  return cuisines.flatMap((cuisine) => {
+    return paginate(
+      partners.filter(
+        (partner) => partner.data.cuisine && partner.data.cuisine?.includes(cuisine!)
+      ),
+      {
+        params: { cuisine },
+        pageSize: PAGE_SIZE
+      }
+    )
+  })
+}
+---
+
+<Base frontmatter={frontmatter}>
+  <header>
+    <PageHero title={frontmatter.title!} description={frontmatter.description} {image}>
+      <PaginateControl base={currentPage} page={page} />
+    </PageHero>
+  </header>
+  <main class='mt-10 bg-gray-100 dark:bg-gray-900'>
+    <Partners partners={page.data} />
+  </main>
+</Base>
