@@ -47,7 +47,6 @@ const cuisines = Array.from(tagmap.values()).sort((a, b) =>
     >
       {
         cuisines
-          .sort((a, b) => b.count - a.count)
           .map((tag) => (
             <a href={`${import.meta.env.BASE_URL}cuisine/${tag.tag}/`} class='group'>
               <section
