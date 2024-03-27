@@ -10,7 +10,8 @@ import MyHero from '../components/myhero.astro'
 // import Features from '../components/features.astro'
 // import FindOutMore from '../components/findoutmore.astro'
 // import LatestArticles from '../components/latestarticles.astro'
-import Partners from '../components/partners.astro'
+// import Partners from '../components/partners.astro'
+import Explore from '../components/explore.astro'
 import CTA from '../components/cta.astro'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
@@ -19,15 +20,16 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
   image: DefaultImage
 }
 
-const partners = await getCollection('partner', ({ data }) => {
-  return data.draft !== true
-})
+// const partners = await getCollection('partner', ({ data }) => {
+//   return data.draft !== true
+// })
 ---
 
 <Base frontmatter={frontmatter}>
   <Image class='w-full' src={DefaultImage} alt='banner' />
   <MyHero />
-  <Partners {partners} />
+  <Explore />
+  <!-- <Partners {partners} /> -->
   <!-- <Hero />
   <Features />
   <FindOutMore /> -->
