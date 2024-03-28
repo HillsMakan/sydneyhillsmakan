@@ -12,7 +12,6 @@ categories:
 image: ../../assets/images/killineychippendale.jpg
 discount_pct: 10
 discount_text: excluding promotions and Liven payment
-
 ---
 
 RB011, Lower Ground Floor  

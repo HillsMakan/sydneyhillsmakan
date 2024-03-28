@@ -11,7 +11,6 @@ categories:
 image: ../../assets/images/jimsnewcastle.jpg
 discount_pct: 10
 discount_text: meals only
-
 ---
 
 2096A JIM'S MALAYSIA  

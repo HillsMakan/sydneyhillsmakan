@@ -11,7 +11,6 @@ categories:
 image: ../../assets/images/jimscastlehill.jpg
 discount_pct: 10
 discount_text: meals only
-
 ---
 
 Castle Towers  

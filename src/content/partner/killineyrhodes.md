@@ -12,7 +12,6 @@ categories:
 image: ../../assets/images/killineyrhodes.jpg
 discount_pct: 10
 discount_text: excluding promotions and Liven payment
-
 ---
 
 1 Rider Blvd  

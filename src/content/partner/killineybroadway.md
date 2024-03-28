@@ -12,7 +12,6 @@ categories:
 image: ../../assets/images/killineybroadway.jpg
 discount_pct: 10
 discount_text: excluding promotions and Liven payment
-
 ---
 
 Shop 220, 1 Bay St  

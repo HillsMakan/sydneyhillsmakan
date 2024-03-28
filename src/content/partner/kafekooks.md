@@ -12,7 +12,6 @@ categories:
 image: ../../assets/images/kafekooks.jpg
 discount_pct: 10
 discount_text: plus $5 off first order as a thank you to all new app users
-
 ---
 
 2096A JIM'S MALAYSIA  

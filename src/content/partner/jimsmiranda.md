@@ -11,7 +11,6 @@ categories:
 image: ../../assets/images/jimsmiranda.jpg
 discount_pct: 10
 discount_text: meals only
-
 ---
 
 Westfield Miranda  

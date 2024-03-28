@@ -12,7 +12,6 @@ categories:
 image: ../../assets/images/ipohhawkermarrickville.jpg
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
-
 ---
 
 Marrickville Metro  
