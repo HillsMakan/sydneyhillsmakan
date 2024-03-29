@@ -3,7 +3,7 @@ import type { CollectionEntry } from 'astro:content'
 export interface TagType {
   tag: string
   count: number
-  pages: CollectionEntry<'blog'>[] | CollectionEntry<'partner'>[]
+  pages: (CollectionEntry<'blog'> | CollectionEntry<'partner'>)[]
 }
 
 export const SiteMetadata = {

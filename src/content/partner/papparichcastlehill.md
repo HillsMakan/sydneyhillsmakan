@@ -1,5 +1,5 @@
 ---
-title: PappaRich Castle Hill Restaurant 
+title: PappaRich Castle Hill Restaurant
 description: Malaysian Cuisine & Halal
 cuisine:
   - Malaysian

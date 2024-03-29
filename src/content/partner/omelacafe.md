@@ -1,5 +1,5 @@
 ---
-title: Omela Café & Restaurant 
+title: Omela Café & Restaurant
 description: Malaysian Halal
 cuisine:
   - Malaysian

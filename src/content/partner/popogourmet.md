@@ -1,5 +1,5 @@
 ---
-title: POPO Gourmet Restaurant 
+title: POPO Gourmet Restaurant
 description: Malaysian Cuisine
 cuisine:
   - Malaysian
@@ -11,7 +11,6 @@ categories:
 image: ../../assets/images/popogourmet.jpg
 discount_pct: 5
 discount_text: minimum spend $30
-
 ---
 
 Milsons Village  

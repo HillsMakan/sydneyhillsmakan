@@ -1,5 +1,5 @@
 ---
-title: Peanut Butter Bar 
+title: Peanut Butter Bar
 description: Dessert
 cuisine:
   - Dessert
@@ -11,7 +11,6 @@ categories:
 image: ../../assets/images/peanutbutterbar.jpg
 discount_pct: 5
 discount_text: Please show your member card to the waiter to redeem and must order with waiter only when placing your order. Available for dine-in service only and not in conjunction with any other offer.
-
 ---
 
 Westpoint Shopping Centre Blacktown  
