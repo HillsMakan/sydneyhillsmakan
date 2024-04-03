@@ -1,5 +1,5 @@
 ---
-title: Zizie Omar at Omela Café & Restaurant 
+title: Zizie Omar at Omela Café & Restaurant
 description: Malaysian Halal
 cuisine:
   - Malaysian

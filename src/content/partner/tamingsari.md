@@ -1,5 +1,5 @@
 ---
-title: Warung Taming Sari restaurant 
+title: Warung Taming Sari restaurant
 description: Malaysian Halal cuisine
 cuisine:
   - Malaysian

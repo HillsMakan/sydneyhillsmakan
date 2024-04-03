@@ -26,6 +26,7 @@ const partner = defineCollection({
       link: z.string().url().optional(),
       image: image().optional(),
       images: z.array(image()).optional(),
+      gallery: z.string().optional(),
       categories: z.array(z.string()).optional(),
       cuisine: z.array(z.string()).optional(),
       region: z.array(z.string()).optional(),
