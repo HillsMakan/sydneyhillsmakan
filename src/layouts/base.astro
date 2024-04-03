@@ -8,7 +8,10 @@ import Gallery from '../components/gallery.astro'
 import Images from '../components/images.astro'
 
 export interface Props {
-  frontmatter: CollectionEntry<'page'>['data'] | CollectionEntry<'blog'>['data']
+  frontmatter:
+    | CollectionEntry<'page'>['data']
+    | CollectionEntry<'blog'>['data']
+    | CollectionEntry<'partner'>['data']
 }
 
 const { frontmatter } = Astro.props

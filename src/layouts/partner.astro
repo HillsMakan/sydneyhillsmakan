@@ -55,6 +55,12 @@ const { partner, prev, next } = Astro.props
                 <dt class='text-gray-900 font-medium'>Description</dt>
                 <dd class='mt-2 text-sm text-gray-500'>{partner.data.description}</dd>
               </div>
+              {partner.data.link &&
+                <div class='border-t border-gray-200 pt-2'>
+                  <dt class='text-gray-900 font-medium'>Link</dt>
+                  <dd class='mt-2 text-sm text-gray-500'><a href={partner.data.link}>{partner.data.link}</a></dd>
+                </div>
+              }
             </dl>
           </div>
           <div>

@@ -10,6 +10,17 @@ region:
 categories:
   - restaurant
 image: ../../assets/images/kafekooks.jpg
+images:
+  - ../../assets/images/kafekooks1.jpg
+  - ../../assets/images/kafekooks2.jpg
+  - ../../assets/images/kafekooks3.jpg
+  - ../../assets/images/kafekooks4.jpg
+  - ../../assets/images/kafekooks5.jpg
+  - ../../assets/images/kafekooks6.jpg
+  - ../../assets/images/kafekooks7.png
+  - ../../assets/images/kafekooks8.jpg
+  - ../../assets/images/kafekooks9.jpg
+  - ../../assets/images/kafekooks10.jpg
 discount_pct: 10
 discount_text: plus $5 off first order as a thank you to all new app users
 ---
@@ -19,14 +30,3 @@ Charlestown Square
 Newcastle NSW
 
 (Corner of Ridley St and Pearson St)
-
-![1](../../assets/images/kafekooks1.jpg)
-![2](../../assets/images/kafekooks2.jpg)
-![3](../../assets/images/kafekooks3.jpg)
-![4](../../assets/images/kafekooks4.jpg)
-![5](../../assets/images/kafekooks5.jpg)
-![6](../../assets/images/kafekooks6.jpg)
-![7](../../assets/images/kafekooks7.png)
-![8](../../assets/images/kafekooks8.jpg)
-![9](../../assets/images/kafekooks9.jpg)
-![10](../../assets/images/kafekooks10.jpg)

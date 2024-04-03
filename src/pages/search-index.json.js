@@ -26,18 +26,20 @@ let documents = await Promise.all(
     }
   })
 )
-documents = documents.concat(partners.map(partner => ({
-  url: import.meta.env.BASE_URL + 'partner/' + partner.slug,
-  title: partner.data.title,
-  description: partner.data.description,
-  title: partner.data.title,
-  categories: partner.data.categories.map((category) => category.slug),
-  cuisine: partner.data.cuisine,
-  region: partner.data.region,
-  discount_text: partner.data.discount_text,
-  comment: partner.data.comment,
-  content: partner.body
-})))
+documents = documents.concat(
+  partners.map((partner) => ({
+    url: import.meta.env.BASE_URL + 'partner/' + partner.slug,
+    title: partner.data.title,
+    description: partner.data.description,
+    title: partner.data.title,
+    categories: partner.data.categories.map((category) => category.slug),
+    cuisine: partner.data.cuisine,
+    region: partner.data.region,
+    discount_text: partner.data.discount_text,
+    comment: partner.data.comment,
+    content: partner.body
+  }))
+)
 
 const idx = lunr(function () {
   this.ref('url')
