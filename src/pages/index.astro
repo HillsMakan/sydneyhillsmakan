@@ -25,6 +25,7 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
 // })
 ---
 
+<script slot='in-head' src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
 <Base frontmatter={frontmatter}>
   <Image class='w-full' src={DefaultImage} alt='banner' />
   <MyHero />
@@ -36,4 +37,15 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
   <!-- <LatestArticles posts={latestPosts} /> -->
   <CTA />
   <div class='bg-white p-24 dark:bg-black md:p-12'></div>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', (user) => {
+        if (!user) {
+          window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/'
+          })
+        }
+      })
+    }
+  </script>
 </Base>
