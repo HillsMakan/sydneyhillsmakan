@@ -22,11 +22,11 @@
     "@iconify-json/logos": "^1.1.42",
     "@julr/unocss-preset-forms": "^0.1.0",
     "@types/alpinejs": "^3.13.10",
-    "@typescript-eslint/parser": "^7.5.0",
-    "@unocss/eslint-config": "^0.59.0",
-    "@unocss/reset": "^0.59.0",
+    "@typescript-eslint/parser": "^7.6.0",
+    "@unocss/eslint-config": "^0.59.2",
+    "@unocss/reset": "^0.59.2",
     "alpinejs": "^3.13.8",
-    "astro": "^4.5.16",
+    "astro": "^4.6.1",
     "astro-robots-txt": "^1.0.0",
     "eslint": "^9.0.0",
     "eslint-plugin-astro": "^0.34.0",
@@ -40,9 +40,9 @@
     "reading-time": "^1.5.0",
     "remark-emoji": "^4.0.1",
     "schema-dts": "^1.1.2",
-    "typescript": "~5.4.4",
+    "typescript": "~5.4.5",
     "unist-util-visit": "^5.0.0",
-    "unocss": "^0.59.0",
+    "unocss": "^0.59.2",
     "vite": "^5.2.8"
   },
   "dependencies": {
@@ -54,7 +54,7 @@
     "mermaid": "^10.9.0",
     "photoswipe": "^5.4.3",
     "photoswipe-dynamic-caption-plugin": "^1.2.7",
-    "swiper": "^11.1.0"
+    "swiper": "^11.1.1"
   },
   "packageManager": "pnpm@8.15.5+sha256.4b4efa12490e5055d59b9b9fc9438b7d581a6b7af3b5675eb5c5f447cee1a589"
 }
