@@ -16,19 +16,19 @@
   },
   "devDependencies": {
     "@astrojs/alpinejs": "^0.4.0",
-    "@astrojs/sitemap": "^3.1.2",
+    "@astrojs/sitemap": "^3.1.4",
     "@iconify-json/bi": "^1.1.23",
     "@iconify-json/heroicons": "^1.1.20",
     "@iconify-json/logos": "^1.1.42",
     "@julr/unocss-preset-forms": "^0.1.0",
     "@types/alpinejs": "^3.13.10",
-    "@typescript-eslint/parser": "^7.6.0",
-    "@unocss/eslint-config": "^0.59.2",
-    "@unocss/reset": "^0.59.2",
-    "alpinejs": "^3.13.8",
-    "astro": "^4.6.1",
+    "@typescript-eslint/parser": "^7.7.1",
+    "@unocss/eslint-config": "^0.59.4",
+    "@unocss/reset": "^0.59.4",
+    "alpinejs": "^3.13.10",
+    "astro": "^4.6.4",
     "astro-robots-txt": "^1.0.0",
-    "eslint": "^9.0.0",
+    "eslint": "^9.1.1",
     "eslint-plugin-astro": "^0.34.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-markdown": "^4.0.1",
@@ -42,8 +42,8 @@
     "schema-dts": "^1.1.2",
     "typescript": "~5.4.5",
     "unist-util-visit": "^5.0.0",
-    "unocss": "^0.59.2",
-    "vite": "^5.2.8"
+    "unocss": "^0.59.4",
+    "vite": "^5.2.10"
   },
   "dependencies": {
     "@astrojs/check": "^0.5.10",
@@ -56,5 +56,5 @@
     "photoswipe-dynamic-caption-plugin": "^1.2.7",
     "swiper": "^11.1.1"
   },
-  "packageManager": "pnpm@8.15.5+sha256.4b4efa12490e5055d59b9b9fc9438b7d581a6b7af3b5675eb5c5f447cee1a589"
+  "packageManager": "pnpm@9.0.6+sha256.0624e30eff866cdeb363b15061bdb7fd9425b17bc1bb42c22f5f4efdea21f6b3"
 }

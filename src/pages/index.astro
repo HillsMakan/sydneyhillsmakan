@@ -25,7 +25,8 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
 // })
 ---
 
-<script slot='in-head' is:inline src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
+<script slot='in-head' is:inline src='https://identity.netlify.com/v1/netlify-identity-widget.js'
+></script>
 <Base frontmatter={frontmatter}>
   <Image class='w-full' src={DefaultImage} alt='banner' />
   <MyHero />
