@@ -3,7 +3,7 @@ title: CANEBLAST - Parklea Markets
 description: Sugarcane Juice Bar
 image: ../../assets/images/caneblast.jpg
 categories:
-  - Parklea Markets
+  - Parklea Markets Stall
 cuisine:
   - Drinks
 region:
