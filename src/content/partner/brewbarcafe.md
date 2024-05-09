@@ -21,6 +21,7 @@ Hot & Cold Drinks., Pastry, Toastie, Meals & Etc.
 The Langston Apartments,\
 Ground Floor,\
 8 Chambers Court,\
-Epping, NSW
+Epping, \
+NSW
 
 (Between Epping Station 3 mins walk and Epping Library 1 min walk)
