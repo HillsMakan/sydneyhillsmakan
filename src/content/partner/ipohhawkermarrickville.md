@@ -1,5 +1,5 @@
 ---
-title: Ipoh Hawker Restaurant - Marrickville
+title: Ipoh Hawker - Marrickville
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkermarrickville.jpg
 categories:
