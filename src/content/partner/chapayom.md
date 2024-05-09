@@ -15,8 +15,8 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
-
-551 George St  
-Sydney NSW
+551 George St,\
+Sydney, \
+NSW
 
 (In Meriton Tower building. On the right after you enter the entrance)
