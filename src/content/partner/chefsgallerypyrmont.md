@@ -1,5 +1,5 @@
 ---
-title: Chefs Gallery Pyrmont Restaurant
+title: Chefs Gallery Pyrmont
 description: Chinese Cuisine
 image: ../../assets/images/chefsgallerypyrmont.jpg
 categories:
