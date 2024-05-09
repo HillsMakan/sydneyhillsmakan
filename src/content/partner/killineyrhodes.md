@@ -1,18 +1,19 @@
 ---
 title: Killiney Kopitiam Restaurants - Rhodes
-description: (Singapore Street Food Cuisine) (Halal Friendly)
+description: Singapore Street Food Cuisine and Halal Friendly
+image: ../../assets/images/killineyrhodes.jpg
+categories:
+  - Restaurant
 cuisine:
   - Singaporean
-  - halal
+  - Halal
 region:
+  - Rhodes
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/killineyrhodes.jpg
 discount_pct: 10
-discount_text: excluding promotions and Liven payment
+discount_text: Excluding promotions and Liven payment
 ---
-
-1 Rider Blvd  
-Rhodes NSW
+1 Rider Blvd,\
+Rhodes,\
+NSW
