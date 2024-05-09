@@ -1,6 +1,6 @@
 ---
 title: Auzz Juice Bar - Parklea Markets
-description: Parklea Markets Stall
+description: Sugarcane Juice Bar
 image: ../../assets/images/auzzjuice.jpg
 categories:
   - Parklea Markets
