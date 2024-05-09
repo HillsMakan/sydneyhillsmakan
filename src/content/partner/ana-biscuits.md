@@ -20,10 +20,6 @@ region:
 discount_pct: 10
 comment: Excluding promotions
 ---
-Shop 1, 268 Old Northern Rd, 
-
-Castle Hill, 2154, 
-
-NSW
+Shop 1, 268 Old Northern Rd, Castle Hill, 2154, NSW
 
 (Only 1 min walk from Castle Towers Shopping Centre Piazza/Castle Mall Shopping Centre or 5 mins walking distance from Castle Hill Metro Station)
