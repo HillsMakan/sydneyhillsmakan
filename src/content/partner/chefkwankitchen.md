@@ -1,5 +1,5 @@
 ---
-title: Chef Kwon Kitchen Restaurant
+title: Chef Kwon Kitchen
 description: Malaysian Cuisine
 image: ../../assets/images/chefkwankitchen.jpg
 categories:
