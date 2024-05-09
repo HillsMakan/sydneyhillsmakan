@@ -11,7 +11,7 @@ cuisine:
   - Cafe
 region:
   - Villawood
-  - NSW
+  - New South Wales
   - Australia
 discount_pct: 5
 discount_text: Excluding promotions
