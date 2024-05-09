@@ -22,7 +22,7 @@ discount_pct: 10
 discount_text: Excluding promotions
 comment: ""
 ---
-Shop 1, 268 Old Northern Rd, \
+Shop 1/268 Old Northern Rd, \
 Castle Hill, 2154, \
 NSW
 
