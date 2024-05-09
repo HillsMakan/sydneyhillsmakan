@@ -1,19 +1,21 @@
 ---
 title: Jim's Malaysia Restaurant - Miranda
 description: Malaysian Cuisine
+image: ../../assets/images/jimsmiranda.jpg
+categories:
+  - Restaurant
+  - Food Court
 cuisine:
   - Malaysian
 region:
+  - Miranda
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/jimsmiranda.jpg
 discount_pct: 10
-discount_text: meals only
+discount_text: Meals only
 ---
-
-Westfield Miranda  
-Shop 1010  
-600 Kingsway  
-Miranda NSW
+Westfield Miranda\
+Shop 1010,\
+600 Kingsway,\
+Miranda,\
+NSW
