@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ANA Biscuits
+title: Ana Biscuts
 description: Handmade Middle Eastern Sweets Halal
 image: ../../assets/images/ana.jpg
 images:
