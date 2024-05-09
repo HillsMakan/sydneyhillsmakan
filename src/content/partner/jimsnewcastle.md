@@ -1,5 +1,5 @@
 ---
-title: Jim's Malaysia Restaurant - Newcastle
+title: Jim's Malaysia - Newcastle
 description: Malaysian Cuisine
 image: ../../assets/images/jimsnewcastle.jpg
 categories:
