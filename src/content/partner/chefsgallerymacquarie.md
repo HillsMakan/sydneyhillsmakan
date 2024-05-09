@@ -1,5 +1,5 @@
 ---
-title: Chefs Gallery Macquarie Restaurant
+title: Chefs Gallery Macquarie
 description: Chinese Cuisine
 image: ../../assets/images/chefsgallerymacquarie.jpg
 categories:
