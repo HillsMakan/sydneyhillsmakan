@@ -1,5 +1,5 @@
 ---
-title: "Chapayom "
+title: Chapayom Cabramatta
 description: Thai classics to exotic quirky flavours drinks, Sangkaya Milky Bun
   and many more
 image: ../../assets/images/chapayom.jpg
