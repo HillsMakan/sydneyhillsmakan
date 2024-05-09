@@ -1,5 +1,5 @@
 ---
-title: Doodee King Restaurant - Chatswood
+title: Doodee King - Chatswood
 description: Thai Cuisine
 image: ../../assets/images/doodeekingchatswood.jpg
 categories:
