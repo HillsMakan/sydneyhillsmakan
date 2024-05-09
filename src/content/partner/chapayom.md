@@ -6,13 +6,14 @@ image: ../../assets/images/chapayom.jpg
 categories:
   - Kios
 cuisine:
-  - Thai
-  - drinks
+  - Thai Drinks
+  - Bubble Tea
 region:
+  - Sydney
+  - New South Wales
   - Australia
-  - NSW
 discount_pct: 5
-discount_text: excluding promotions
+discount_text: Excluding promotions
 ---
 
 551 George St  
