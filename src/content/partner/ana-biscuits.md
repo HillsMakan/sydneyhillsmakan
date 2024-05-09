@@ -22,6 +22,8 @@ discount_pct: 10
 discount_text: Excluding promotions
 comment: ""
 ---
+Ana Biscuits specialties are no sugar, no egg and no dairy dates and walnut biscuits.
+
 Shop 1, 268 Old Northern Rd, \
 Castle Hill, 2154, \
 NSW
