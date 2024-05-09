@@ -1,5 +1,5 @@
 ---
-title: Jim's Malaysia Restaurant - Miranda
+title: Jim's Malaysia - Miranda
 description: Malaysian Cuisine
 image: ../../assets/images/jimsmiranda.jpg
 categories:
