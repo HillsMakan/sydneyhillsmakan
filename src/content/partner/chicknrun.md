@@ -4,6 +4,7 @@ description: Chicken, fresh salads and a wide range of burgers and hot food
 image: ../../assets/images/chicknrun.jpg
 categories:
   - Restaurant
+  - Shop
   - Halal
 cuisine:
   - Chicken
