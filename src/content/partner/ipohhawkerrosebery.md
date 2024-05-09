@@ -1,5 +1,5 @@
 ---
-title: Ipoh Hawker Restaurant - Rosebery
+title: Ipoh Hawker - Rosebery
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkerrosebery.jpg
 categories:
