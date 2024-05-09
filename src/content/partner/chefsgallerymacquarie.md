@@ -1,18 +1,19 @@
 ---
 title: Chefs Gallery Macquarie Restaurant
 description: Chinese Cuisine
+image: ../../assets/images/chefsgallerymacquarie.jpg
+categories:
+  - Restaurant
 cuisine:
   - Chinese
 region:
+  - Macquarie Park
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/chefsgallerymacquarie.jpg
 discount_pct: 5
 discount_text: Available for dine-in service only and not in conjunction with any other offer.
 ---
-
-Macquarie Shopping Centre  
-407 Herring Rd  
-Macquarie Park NSW
+Macquarie Shopping Centre\
+407 Herring Rd,\
+Macquarie Park, \
+NSW
