@@ -1,9 +1,8 @@
 ---
 title: CUMULO Ice Cream Shop
-description: Ice Cream
+description: Ice Cream and Ice Cream Cakes
 image: ../../assets/images/cumulo.jpg
-categories:
-  - restaurant
+categories: []
 cuisine:
   - Ice Cream
 region:
