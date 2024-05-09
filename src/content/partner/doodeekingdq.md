@@ -1,5 +1,5 @@
 ---
-title: Doodee King Restaurant - Darling Quarter
+title: Doodee King - Darling Quarter
 description: Thai Cuisine
 image: ../../assets/images/doodeekingdq.jpg
 categories:
