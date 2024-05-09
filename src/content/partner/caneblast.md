@@ -1,14 +1,15 @@
 ---
 title: CANEBLAST - Parklea Markets
 description: Sugarcane Juice Bar
-cuisine:
-  - drinks
-region:
-  - Australia
-  - NSW
-categories:
-  - Parklea
 image: ../../assets/images/caneblast.jpg
+categories:
+  - Parklea Markets
+cuisine:
+  - Drinks
+region:
+  - Parklea
+  - New South Wales
+  - Australia
 discount_pct: 5
 discount_text: on $20 and above
 ---
