@@ -1,16 +1,18 @@
 ---
 title: Brew Bar Café Epping
 description: Fusion
-cuisine:
-  - coffee
-  - Western
-  - cafe
-region:
-  - Australia
-  - NSW
-categories:
-  - restaurant
 image: ../../assets/images/brewbarcafe.jpg
+categories:
+  - Restaurant
+  - Cafe
+cuisine:
+  - Coffee
+  - Western
+  - Cafe
+region:
+  - Epping
+  - NSW
+  - Australia
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
 ---
