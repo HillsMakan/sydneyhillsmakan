@@ -1,5 +1,5 @@
 ---
-title: Killiney Kopitiam Restaurants - Rhodes
+title: Killiney Kopitiam Rhodes
 description: Singapore Street Food Cuisine and Halal Friendly
 image: ../../assets/images/killineyrhodes.jpg
 categories:
