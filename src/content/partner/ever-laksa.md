@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: Ever Laksa
 description: Malaysian Halal Cuisine
 image: ../../assets/images/ever-laksa.jpg
