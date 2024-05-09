@@ -1,17 +1,17 @@
 ---
 title: Bintang Bro Restaurant
 description: Indonesian Fusion
+image: ../../assets/images/bintangbro.png
+categories:
+  - Restaurant
 cuisine:
   - Indonesian
-  - halal
+  - Halal
 region:
   - Australia
   - NSW
-categories:
-  - restaurant
-image: ../../assets/images/bintangbro.png
 discount_pct: 10
-discount_text: excluding promotions and Liven payment
+discount_text: Excluding promotions and Liven payment
 ---
 
 Shop 4, 1 Little Pier St,  
