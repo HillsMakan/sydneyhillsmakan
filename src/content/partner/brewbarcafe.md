@@ -1,5 +1,5 @@
 ---
-title: Brew Bar Café Epping
+title: Brew Bar Café
 description: Fusion
 image: ../../assets/images/brewbarcafe.jpg
 categories:
