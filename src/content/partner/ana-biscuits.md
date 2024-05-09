@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: ANA Biscuits
 description: Handmade Middle Eastern Sweets Halal
 image: ../../assets/images/ana.jpg
