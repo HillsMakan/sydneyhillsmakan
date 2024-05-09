@@ -1,5 +1,5 @@
 ---
-title: Ipoh Hawker Restaurant - Macquarie Park
+title: Ipoh Hawker - Macquarie Park
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkermp.jpg
 categories:
