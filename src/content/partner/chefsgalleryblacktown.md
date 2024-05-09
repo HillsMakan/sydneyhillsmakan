@@ -1,5 +1,5 @@
 ---
-title: Chefs Gallery Blacktown Restaurant
+title: Chefs Gallery Blacktown
 description: Chinese Cuisine
 image: ../../assets/images/chefsgalleryblacktown.jpg
 categories:
