@@ -1,5 +1,5 @@
 ---
-title: Louis N’ Anna Restaurant
+title: Louis N’ Anna
 description: Cajun Seafood Texas BBQ Cuisine
 image: ../../assets/images/louisnanna.jpg
 categories:
