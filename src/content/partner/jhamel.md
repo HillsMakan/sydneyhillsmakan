@@ -1,5 +1,5 @@
 ---
-title: Jhamel Harris Park Restaurant
+title: Jhamel Harris Park
 description: Nepalese and Indian Cuisine
 image: ../../assets/images/jhamel.jpg
 categories:
