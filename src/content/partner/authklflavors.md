@@ -1,15 +1,16 @@
 ---
 title: Authentic KL Flavors
 description: Malaysian Halal Cuisine
+image: ../../assets/images/authklflavors.jpg
+categories:
+  - Restaurant
 cuisine:
   - Malaysian
-  - halal
+  - Halal
 region:
-  - Australia
+  - Marrickville
   - NSW
-categories:
-  - restaurant
-image: ../../assets/images/authklflavors.jpg
+  - Australia
 discount_pct: 10
 discount_text: Purchase over $30 and lunch hours 11am to 3.30pm on weekdays only
 ---
