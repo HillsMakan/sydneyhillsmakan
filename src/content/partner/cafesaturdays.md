@@ -1,15 +1,18 @@
 ---
 title: Café Saturdays
-description: Bakery café which reinventing banana bread. Also available Basque cheesecake, toastie and hot & cold drinks.
+description: Bakery café which reinventing banana bread. Also available Basque
+  cheesecake, toastie and hot & cold drinks.
+image: ../../assets/images/cafesaturdays.jpg
+categories:
+  - Restaurant
+  - Cafe
 cuisine:
-  - bakery
-  - cafe
+  - Bakery
+  - Cafe
+  - Coffee
 region:
   - Australia
   - NSW
-categories:
-  - restaurant
-image: ../../assets/images/cafesaturdays.jpg
 discount_pct: 10
 discount_text: excluding Specials
 ---
