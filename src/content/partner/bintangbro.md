@@ -1,5 +1,5 @@
 ---
-title: Bintang Bro Restaurant
+title: Bintang Bro
 description: Indonesian Fusion
 image: ../../assets/images/bintangbro.png
 categories:
