@@ -7,8 +7,9 @@ categories:
 cuisine:
   - Drinks
 region:
+  - Parklea
+  - New South Wales
   - Australia
-  - NSW
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
