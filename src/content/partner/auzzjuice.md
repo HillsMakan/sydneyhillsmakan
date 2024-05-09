@@ -1,9 +1,9 @@
 ---
 title: Auzz Juice Bar - Parklea Markets
-description: Parklea Market Stall
+description: Parklea Markets Stall
 image: ../../assets/images/auzzjuice.jpg
 categories:
-  - Parklea Market
+  - Parklea Markets
 cuisine:
   - Drinks
 region:
