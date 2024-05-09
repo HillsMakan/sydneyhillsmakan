@@ -10,7 +10,7 @@ cuisine:
   - Fusion
 region:
   - Haymarket
-  - NSW
+  - New South Wales
   - Australia
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
