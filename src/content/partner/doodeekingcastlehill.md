@@ -1,5 +1,5 @@
 ---
-title: Doodee King Restaurant - Castle Hill
+title: Doodee King Castle Hill
 description: Thai Cuisine
 image: ../../assets/images/doodeekingcastlehill.jpg
 categories:
