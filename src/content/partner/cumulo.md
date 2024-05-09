@@ -1,16 +1,17 @@
 ---
 title: CUMULO Ice Cream Shop
-description: Malaysian Halal cuisine
+description: Ice Cream
+image: ../../assets/images/cumulo.jpg
+categories:
+  - restaurant
 cuisine:
   - Ice Cream
 region:
   - Australia
   - NSW
-categories:
-  - restaurant
-image: ../../assets/images/cumulo.jpg
 discount_pct: 5
-discount_text: Durian Ice Cream in 2 litter tub for SHMG members at $50 (normally $58), Pre-order only
+discount_text: Durian Ice Cream in 2 litter tub for SHMG members at $50
+  (normally $58), Pre-order only
 ---
 
 Kings Langley Shopping Centre  
