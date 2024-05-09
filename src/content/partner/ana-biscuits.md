@@ -16,7 +16,7 @@ cuisine:
   - Halal
 region:
   - Castle Hill
-  - NSW
+  - New South Wales
   - Australia
 discount_pct: 10
 discount_text: Excluding promotions
