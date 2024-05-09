@@ -11,7 +11,7 @@ cuisine:
   - Cafe
 region:
   - Epping
-  - NSW
+  - New South Wales
   - Australia
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
