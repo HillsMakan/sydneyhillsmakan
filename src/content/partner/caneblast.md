@@ -13,10 +13,10 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
-
-Gate 2, Shop 198  
-Parklea Markets  
-601 Sunnyholt Rd  
-Parklea, NSW
+Gate 2, Shop 198\
+Parklea Markets\
+601 Sunnyholt Rd\
+Parklea, \
+NSW
 
 Sat – Sun : 9.30 am – 4 pm
