@@ -16,10 +16,11 @@ region:
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
 ---
+Coffee, Pastry, Sandwich, Meals & Etc.
 
-The Langston Apartments,  
-Ground Floor,  
-8 Chambers Court,  
+The Langston Apartments,\
+Ground Floor,\
+8 Chambers Court,\
 Epping, NSW
 
 (Between Epping Station 3 mins walk and Epping Library 1 min walk)
