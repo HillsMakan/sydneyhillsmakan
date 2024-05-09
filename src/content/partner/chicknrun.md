@@ -1,12 +1,12 @@
 ---
 title: Chick-N-Run Shop
-description: BBQ Chicken, fresh salads and a wide range of burgers and hot food
+description: Chicken, fresh salads and a wide range of burgers and hot food
 image: ../../assets/images/chicknrun.jpg
 categories:
   - Restaurant
   - Halal
 cuisine:
-  - BBQ Chicken
+  - Chicken
   - fresh salads and a wide range of burgers and hot food
 region:
   - North Kellyville
