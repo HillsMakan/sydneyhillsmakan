@@ -2,12 +2,13 @@
 draft: false
 title: Ana Biscuts
 description: Handmade Middle Eastern Sweets Halal
-image: ../../assets/images/ana.jpg
+image: ../../assets/images/anabiscuts.jpg
 images:
-  - ../../assets/images/ana-biscuts2.jpg
-  - ../../assets/images/ana-biscuts1.jpg
-  - ../../assets/images/ana-biscuts3.jpg
-  - ../../assets/images/ana-biscuts4.jpg
+  - ../../assets/images/ana.jpg
+  - ../../assets/images/ana1.jpg
+  - ../../assets/images/ana2.jpg
+  - ../../assets/images/ana3.jpg
+  - ../../assets/images/ana4.jpg
 categories:
   - Cafe
 cuisine:
