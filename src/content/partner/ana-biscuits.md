@@ -19,7 +19,8 @@ region:
   - NSW
   - Australia
 discount_pct: 10
-comment: Excluding promotions
+discount_text: Excluding promotions
+comment: ""
 ---
 Shop 1, 268 Old Northern Rd, \
 Castle Hill, 2154, \
