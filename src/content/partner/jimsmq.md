@@ -1,19 +1,21 @@
 ---
 title: Jim's Malaysia Restaurant - Macquarie Centre
 description: Malaysian Cuisine
+image: ../../assets/images/jimsmq.jpg
+categories:
+  - Restaurant
+  - Food Court
 cuisine:
   - Malaysian
 region:
+  - Macquarie Park
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/jimsmq.jpg
 discount_pct: 10
-discount_text: meals only
+discount_text: Meals only
 ---
-
-Macquarie Centre  
-Shop 2141  
-Cnr, Waterloo Rd  
-Macquarie Park NSW
+Macquarie Centre\
+Shop 2141,\
+Cnr, Waterloo Rd,\
+Macquarie Park,\
+NSW
