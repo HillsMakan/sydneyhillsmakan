@@ -1,5 +1,5 @@
 ---
-title: Fitzroy Lane Restaurant
+title: Fitzroy Lane
 description: Western & Asian Cuisine
 image: ../../assets/images/fitzroylane.jpg
 categories:
