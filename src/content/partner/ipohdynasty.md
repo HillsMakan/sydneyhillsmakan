@@ -1,5 +1,5 @@
 ---
-title: Ipoh Dynasty Restaurant
+title: Ipoh Dynasty
 description: Malaysian Cuisine
 image: ../../assets/images/ipohdynasty.jpg
 categories:
