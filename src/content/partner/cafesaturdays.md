@@ -11,10 +11,11 @@ cuisine:
   - Cafe
   - Coffee
 region:
-  - Australia
+  - Dural
   - NSW
+  - Australia
 discount_pct: 10
-discount_text: excluding Specials
+discount_text: Excluding specials
 ---
 
 10% Discount when you show your member card at the Café
