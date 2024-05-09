@@ -1,5 +1,5 @@
 ---
-title: Ipoh Hawker Restaurant - Blacktown
+title: Ipoh Hawker - Blacktown
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkerblacktown.jpg
 categories:
