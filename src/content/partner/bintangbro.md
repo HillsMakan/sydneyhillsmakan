@@ -7,9 +7,11 @@ categories:
 cuisine:
   - Indonesian
   - Halal
+  - Fusion
 region:
-  - Australia
+  - Haymarket
   - NSW
+  - Australia
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
