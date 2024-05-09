@@ -11,7 +11,7 @@ region:
   - New South Wales
   - Australia
 discount_pct: 5
-discount_text: on $20 and above
+discount_text: Minimum spend $20 and above
 ---
 
 Gate 2, Shop 198  
