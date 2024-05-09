@@ -1,20 +1,21 @@
 ---
 title: Jim's Malaysia Restaurant - Newcastle
 description: Malaysian Cuisine
+image: ../../assets/images/jimsnewcastle.jpg
+categories:
+  - Restaurant
 cuisine:
   - Malaysian
 region:
+  - Newcastle
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/jimsnewcastle.jpg
 discount_pct: 10
-discount_text: meals only
+discount_text: Meals only
 ---
-
-2096A JIM'S MALAYSIA  
-Charlestown Square  
-Newcastle NSW
+2096A JIM'S MALAYSIA\
+Charlestown Square,\
+Newcastle,\
+NSW
 
 (Corner of Ridley St and Pearson St)
