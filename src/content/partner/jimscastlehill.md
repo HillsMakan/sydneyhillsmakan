@@ -1,5 +1,5 @@
 ---
-title: Jim's Malaysia Restaurant - Castle Hill
+title: Jim's Malaysia - Castle Hill
 description: Malaysian Cuisine
 image: ../../assets/images/jimscastlehill.jpg
 categories:
