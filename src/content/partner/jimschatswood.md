@@ -1,5 +1,5 @@
 ---
-title: Jim's Malaysia Restaurant - Chatswood
+title: Jim's Malaysia - Chatswood
 description: Malaysian Cuisine
 image: ../../assets/images/jimschatswood.jpg
 categories:
