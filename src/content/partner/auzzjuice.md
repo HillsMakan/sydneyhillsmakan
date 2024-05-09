@@ -1,16 +1,16 @@
 ---
 title: Auzz Juice Bar - Parklea Markets
-description: Parklea stall
+description: Parklea Market Stall
+image: ../../assets/images/auzzjuice.jpg
+categories:
+  - Parklea Market
 cuisine:
-  - drinks
+  - Drinks
 region:
   - Australia
   - NSW
-categories:
-  - Parklea
-image: ../../assets/images/auzzjuice.jpg
 discount_pct: 5
-discount_text: on $20 and above
+discount_text: Minimum spend $20 and above
 ---
 
 Gate 2, Shop 5  
