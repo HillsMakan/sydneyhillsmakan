@@ -1,19 +1,20 @@
 ---
 title: Ipoh Dynasty Restaurant
 description: Malaysian Cuisine
+image: ../../assets/images/ipohdynasty.jpg
+categories:
+  - Restaurant
 cuisine:
   - Malaysian
 region:
+  - Campsie
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/ipohdynasty.jpg
 discount_pct: 5
-discount_text: during weekdays 11 am – 3.30 pm only
+discount_text: During weekdays 11 am – 3.30 pm only
 ---
-
-Shop 2, 43 North Parade  
-Campsie NSW
+Shop 2, 43 North Parade,\
+Campsie,\
+NSW
 
 (2 mins walk from Campsie Station)
