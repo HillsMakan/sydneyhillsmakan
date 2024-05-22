@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: Vanisha Nasi Kandar & Banana Leaf Rice
 description: Malaysian Cuisine Halal
 image: ../../assets/images/vanisha-nasi-kandar-banana-leaf-rice.jpg
