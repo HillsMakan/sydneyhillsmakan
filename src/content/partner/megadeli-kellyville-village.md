@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "MegaDeli - Kellyville Village "
+title: MegaDeli - Kellyville Village 90 Wrights Road, Kellyville
 description: Deli
 image: ../../assets/images/megadeli.jpg
 categories:
