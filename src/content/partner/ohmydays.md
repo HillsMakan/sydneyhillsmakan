@@ -1,18 +1,19 @@
 ---
 title: Oh My Days
 description: Vegan Patisserie
+image: ../../assets/images/ohmydays.jpg
+categories:
+  - Restaurant
 cuisine:
   - Vegan
   - Patisserie
 region:
+  - Glebe
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/ohmydays.jpg
 discount_pct: 10
-discount_text: excluding promotions
+discount_text: Excluding promotions
 ---
-
-99 Glebe Point Rd  
-Glebe NSW 2037
+99 Glebe Point Rd,\
+Glebe, 2037,\
+NSW
