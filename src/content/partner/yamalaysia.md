@@ -1,17 +1,19 @@
 ---
 title: Ya-Malaysia Restaurant - Chatswood
-description: Malaysian cuisine
+description: Malaysian Cuisine
+image: ../../assets/images/yamalaysia.jpg
+categories:
+  - Restaurant
 cuisine:
   - Malaysian
 region:
+  - Chatswood
+  - New South Wales
   - Australia
-  - NSW
-categories:
-  - restaurant
-image: ../../assets/images/yamalaysia.jpg
 discount_pct: 5
-discount_text: not valid with other promotions
+discount_text: Not valid with other promotions
 ---
-
-78/436 Victoria Avenue  
-Chatswood NSW
+The District Podium,\
+78/436 Victoria Avenue,\
+Chatswood,\
+NSW
