@@ -5,6 +5,8 @@ description: Malaysian Cuisine Halal
 image: ../../assets/images/briyani-claypot-curry-rice-house.jpg
 categories:
   - Catering
+  - Food Stall
+  - Market Stall
 cuisine:
   - Malaysian
   - Halal
