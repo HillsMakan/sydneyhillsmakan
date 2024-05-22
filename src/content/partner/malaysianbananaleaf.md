@@ -13,7 +13,7 @@ region:
   - New South Wales
   - Australia
 discount_pct: 5
-discount_text: Excluding Promotions
+discount_text: Excluding promotions
 ---
 Parklea Markets\
 601 Sunnyholt Road,\
