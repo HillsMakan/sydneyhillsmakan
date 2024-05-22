@@ -1,23 +1,24 @@
 ---
 title: Nathan Roti - Parklea Markets
 description: Malaysian Halal
+image: ../../assets/images/nathanroti.jpg
+categories:
+  - Parklea Markets Stall
 cuisine:
   - Malaysian
-  - halal
+  - Halal
 region:
-  - Australia
-  - NSW
-categories:
   - Parklea
-image: ../../assets/images/nathanroti.jpg
+  - New South Wales
+  - Australia
 discount_pct: 5
-discount_text: $10 and above (excluding Promotions)
+discount_text: $10 and above (excluding promotions)
 ---
-
-Parklea Markets  
-601 Sunnyholt Road  
-Parklea NSW
+Parklea Markets\
+601 Sunnyholt Road,\
+Parklea,\
+NSW
 
 (Above the Café & Toilets)
 
-Friday 9am – 1pm, Sat & Sun : 9am – 3pm
+Friday - Sunday : 10am – 3pm or sold out
