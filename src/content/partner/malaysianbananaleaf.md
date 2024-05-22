@@ -1,15 +1,15 @@
 ---
-title: Malaysian Banana Leaf - Parklea Markets
+title: Penang Mamak Corner - Parklea Markets
 description: Malaysian Halal
+image: ../../assets/images/malaysianbananaleaf.jpg
+categories:
+  - Food Stall
 cuisine:
   - Malaysian
   - halal
 region:
   - Australia
   - NSW
-categories:
-  - Parklea
-image: ../../assets/images/malaysianbananaleaf.jpg
 discount_pct: 5
 discount_text: (excluding Promotions)
 ---
