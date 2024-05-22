@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: Sangee’s Kitchen
 description: Malaysian Cuisine
 image: ../../assets/images/sangee’s-kitchen.jpg
