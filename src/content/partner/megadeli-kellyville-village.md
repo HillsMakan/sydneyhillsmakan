@@ -1,6 +1,6 @@
 ---
 draft: false
-title: MegaDeli - Kellyville Village Shopping Centre
+title: MegaDeli - Kellyville Village
 description: Deli
 image: ../../assets/images/megadeli.jpg
 categories:
