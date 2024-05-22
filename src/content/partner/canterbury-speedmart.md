@@ -10,7 +10,7 @@ region:
   - Campsie
   - New South Wales
   - Australia
-discount_pct: 8
+discount_pct: 10
 discount_text: Excluding specials/promotions and Tobacco
 ---
 Block C103, 548-568 Canterbury Road, \
