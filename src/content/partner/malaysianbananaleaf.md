@@ -3,21 +3,23 @@ title: Penang Mamak Corner - Parklea Markets
 description: Malaysian Halal
 image: ../../assets/images/malaysianbananaleaf.jpg
 categories:
-  - Food Stall
+  - Parklea Markets Stall
 cuisine:
   - Malaysian
-  - halal
+  - Halal
+  - Nasi Kandar
 region:
+  - Parklea
+  - New South Wales
   - Australia
-  - NSW
 discount_pct: 5
-discount_text: (excluding Promotions)
+discount_text: Excluding Promotions
 ---
-
-Parklea Markets  
-601 Sunnyholt Road  
-Parklea NSW
+Parklea Markets\
+601 Sunnyholt Road,\
+Parklea,\
+NSW
 
 (Above the Café & Toilets)
 
-Saturday & Sunday : 9am – 3pm
+Friday to Sunday : 10am – 3pm or sold out
