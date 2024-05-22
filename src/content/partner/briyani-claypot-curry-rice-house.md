@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: Briyani & Claypot Curry Rice House
 description: Malaysian Cuisine Halal
 image: ../../assets/images/briyani-claypot-curry-rice-house.jpg
