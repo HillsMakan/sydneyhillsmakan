@@ -3,21 +3,22 @@ title: Nasi Lemak Parklea - Parklea Markets
 description: Malaysian Halal
 image: ../../assets/images/nasilemakparklea.jpg
 categories:
-  - Parklea
+  - Parklea Markets Stall
 cuisine:
   - Malaysian
   - Halal
 region:
+  - Parklea
+  - New South Wales
   - Australia
-  - NSW
 discount_pct: 5
-discount_text: (excluding Promotions)
+discount_text: Excluding promotions
 ---
-
-Parklea Markets  
-601 Sunnyholt Road  
-Parklea NSW
+Parklea Markets\
+601 Sunnyholt Road,\
+Parklea,\
+NSW
 
 (Above the Café & Toilets)
 
-Friday - Sunday : 9am – 3pm
+Friday - Sunday : 10am – 3pm or sold out
