@@ -1,15 +1,15 @@
 ---
 title: Nasi Lemak Parklea - Parklea Markets
 description: Malaysian Halal
+image: ../../assets/images/nasilemakparklea.jpg
+categories:
+  - Parklea
 cuisine:
   - Malaysian
-  - halal
+  - Halal
 region:
   - Australia
   - NSW
-categories:
-  - Parklea
-image: ../../assets/images/nasilemakparklea.jpg
 discount_pct: 5
 discount_text: (excluding Promotions)
 ---
