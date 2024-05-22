@@ -8,6 +8,10 @@ categories:
 cuisine:
   - Malaysian
   - Halal
+region:
+  - Sydney
+  - New South Wales
+  - Australia
 discount_pct: 10
 discount_text: "Show card at stall at the markets or mention HMG members for catering\t"
 comment: ""
