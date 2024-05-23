@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Bling Mee Nail Salon "
+title: Bling Mee Nail Salon
 description: Korean Nail Salon
 image: ../../assets/images/bling-mee-nail-salon.jpg
 images:
