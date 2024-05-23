@@ -6,6 +6,10 @@ image: ../../assets/images/sportscohurstville.jpg
 categories:
   - Athletic and lifestyle footwear
   - Sports apparel and accessories
+region:
+  - Hurstville
+  - New South Wales
+  - Australia
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
