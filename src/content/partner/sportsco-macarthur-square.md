@@ -1,20 +1,20 @@
 ---
 draft: false
-title: Sportsco MacArthur Square
+title: Sportsco Westpoint
 description: Athletic and lifestyle footwear, apparel and sports accessories
-image: ../../assets/images/sportsco-macarthur-square.jpg
+image: ../../assets/images/sportsco-westpoint.jpg
 categories:
   - Athletic and lifestyle footwear
   - Sports apparel and accessories
 region:
-  - Ambarvale
+  - Blacktown
   - New South Wales
   - Australia
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
-Sportsco MacArthur Square\
-MacArthur Square Shopping Centre, \
-Shop 136, Gilchrist Drive, \
-Ambarvale, \
+Sportsco Westpoint\
+Westpoint Shopping Centre, \
+Shop M101, 17 Patrick St, \
+Blacktown, \
 NSW
