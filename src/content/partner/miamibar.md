@@ -11,7 +11,7 @@ region:
   - Pyrmont
   - New South Wales
   - Australia
-discount_pct: 0
+discount_pct: ""
 discount_text: "1 free off the menu special Mango swizzle cocktail when you
   bring 2 friends along and they order cocktails. Private event function for
   upstarts : Hire upstairs for functions is $2000 minimum spend. 10% deposit for
