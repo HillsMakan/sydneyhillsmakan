@@ -4,8 +4,7 @@ title: Sportsco Hurstville
 description: Athletic and lifestyle footwear, apparel and sports accessories
 image: ../../assets/images/sportscohurstville.jpg
 categories:
-  - Athletic and lifestyle footwear
-  - Sports apparel and accessories
+  - Retail
 region:
   - Hurstville
   - New South Wales
