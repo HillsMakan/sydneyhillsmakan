@@ -4,8 +4,7 @@ title: Sportsco Westpoint
 description: Athletic and lifestyle footwear, apparel and sports accessories
 image: ../../assets/images/sportsco-westpoint.jpg
 categories:
-  - Athletic and lifestyle footwear
-  - Sports apparel and accessories
+  - Retail
 region:
   - Blacktown
   - New South Wales
