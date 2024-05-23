@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Wrights Tender Meats - Kellyville Village 90 Wrights Rd, Kellyville
+title: Wrights Tender Meats
 description: Butcher
 image: ../../assets/images/wrights-tender-meats.jpg
 categories:
