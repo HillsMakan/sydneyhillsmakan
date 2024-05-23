@@ -1,6 +1,6 @@
 ---
 draft: false
-title: MegaDeli - Kellyville Village 90 Wrights Road, Kellyville
+title: MegaDeli - Kellyville Village Nature’s Fresh 4 Less
 description: Deli
 image: ../../assets/images/megadeli.jpg
 categories:
