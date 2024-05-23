@@ -9,7 +9,7 @@ region:
   - Kelliville
   - New South Wales
   - Australia
-discount_pct: 4
+discount_pct: 2
 discount_text: Excluding specials
 ---
 Kellyville Village\
