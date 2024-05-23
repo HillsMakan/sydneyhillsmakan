@@ -2,7 +2,7 @@
 draft: false
 title: 77 Mart
 description: Asian Grocery
-link: https://77mart.au/
+link: https://77mart.au
 image: ../../assets/images/77mart.jpg
 categories:
   - Asian Grocery
