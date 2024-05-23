@@ -8,8 +8,8 @@ categories:
 region:
   - Australia
 discount_pct: 5
-discount_text: Excluding sales
-comment: Mention HMG member
+discount_text: Excluding sales. Mention HMG member
+comment: ""
 ---
 Facebook : While They Napped 
 
