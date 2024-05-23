@@ -2,7 +2,7 @@
 draft: false
 title: "Delivery Momma "
 description: Online Delivery Food
-link: https://deliverymomma.com.au/
+link: https://deliverymomma.com.au
 image: ../../assets/images/deliverymomma.png
 categories:
   - Online
