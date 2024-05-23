@@ -7,9 +7,9 @@ export interface TagType {
 }
 
 export const SiteMetadata = {
-  title: 'Sydney Hills Makan Group',
+  title: 'Hills Makan Group (International)',
   description:
-    'Indulge in the world of flavors with SHMG – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.',
+    'Indulge in the world of flavors with Hills Makan Group (International) – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.',
   author: {
     name: 'Chris Tham',
     twitter: '@chris1tham',
@@ -18,21 +18,21 @@ export const SiteMetadata = {
     summary: 'Outrageous actualiser.'
   },
   org: {
-    name: 'Sydney Hills Makan',
-    twitter: '@sydneyhillsmakan',
-    url: 'https://sydneyhillsmakan.netlify.app',
-    email: 'info@hellotham.com',
+    name: 'Hills Makan Group (International)',
+    twitter: '@hmgi',
+    url: 'https://hillsmakangroup.netlify.app',
+    email: 'aaron_gan@hotmail.com',
     summary:
       "SHMG is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join. Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor."
   },
   location: 'Sydney, Australia',
   latlng: [-33.86785, 151.20732] as [number, number],
-  repository: 'https://github.com/ChristineTham/sydneyhillsmakan',
+  repository: 'https://github.com/HillsMakan/sydneyhillsmakan',
   buildTime: new Date()
 }
 
 export { default as Logo } from './assets/site/logo.jpg'
-export { default as DefaultImage } from './assets/site/banner.jpg'
+export { default as DefaultImage } from './assets/site/HMGmembercard01.jpg'
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },

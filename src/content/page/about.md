@@ -1,10 +1,10 @@
 ---
-title: '🍜 About Sydney Hills Makan (Foodie) Group 🌏'
-description: Indulge in the world of flavors with SHMG – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.
-image: ../../assets/site/banner.jpg
+title: '🍜 About Hills Makan Group (International) 🌏'
+description: Indulge in the world of flavors with Hills Makan Group – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.
+image: ../../assets/site/HMGmembercard01.jpg
 ---
 
-SHMG is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join.
+Hills Makan Group (International) is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join.
 Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor.
 
 ## 🎁 Members' Exclusive Benefits
@@ -23,8 +23,8 @@ More than just a group, we're a family. We encourage everyone to share your reci
 
 ## 🌍 Global Foodie Network
 
-Exciting news awaits! SHMG is part of a global network. Join us in exploring and connecting with our other foodie groups in Canberra, Melbourne, Brisbane, Adelaide, Perth, Malaysia, Singapore, and Thailand. (Just type City Name/Country + Makan (Foodie) Group).
+Exciting news awaits! Hills Makan Group (International) is part of a global network. Join us in exploring and connecting with our other foodie groups in Sydney, Canberra, Melbourne, Brisbane, Adelaide, Perth, Malaysia, Singapore, and Thailand. (Just type City Name/Country + Makan (Foodie) Group).
 
 HMG and Admins are not liable for any decisions / purchases / collaboration made between members and sellers. Please kindly do your due diligence and research before any purchases. We do not take or receive any referral fees or commissions or ask for free stuff when recommending anything. Our recommendation as a food lover own taste buds and experiences.
 
-Join Sydney Hills Makan (Foodie) Group and embark on a delicious journey with us! 🥢🍽🌎
+Join Hills Makan Group (International) and embark on a delicious journey with us! 🥢🍽🌎
