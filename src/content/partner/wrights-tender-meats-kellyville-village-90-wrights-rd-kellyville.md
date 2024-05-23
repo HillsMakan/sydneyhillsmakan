@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Wrights Tender Meats
+title: Wrights Tender Meats - Kellyville Village
 description: Butcher
 image: ../../assets/images/wrights-tender-meats.jpg
 categories:
