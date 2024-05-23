@@ -12,6 +12,7 @@ region:
   - New South Wales
   - NSW
 discount_pct: 5
+discount_text: Excluding specials
 ---
 263 Old Northern Rd, \
 Castle Hill,\
