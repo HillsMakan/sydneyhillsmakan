@@ -8,7 +8,7 @@ categories:
 region:
   - Yennora
   - New South Wales
-discount_pct: 0
+discount_pct: ""
 discount_text: ""
 comment: ""
 ---
