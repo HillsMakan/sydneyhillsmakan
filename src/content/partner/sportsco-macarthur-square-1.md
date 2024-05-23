@@ -12,7 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
-Sportsco MacArthur Square\
+Sportsco Macarthur Square\
 MacArthur Square Shopping Centre, \
 Shop 136, Gilchrist Drive, \
 Campbelltown, \
