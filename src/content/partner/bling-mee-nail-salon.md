@@ -7,8 +7,12 @@ images:
   - ../../assets/images/bling-mee-logo.jpg
 categories:
   - Nail Salon
+region:
+  - Sydney
+  - New South Wales
+  - Australia
 discount_pct: 5
-discount_text: Cash only & Excluding promotions
+discount_text: Cash only & excluding promotions
 ---
 Shop 125, 75 Bathurst St,\
 Sydney, 2000,\
