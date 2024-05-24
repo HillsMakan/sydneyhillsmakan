@@ -1,5 +1,5 @@
 ---
-title: Peanut Butter Bar
+title: Peanut Butter Bar Blacktown
 description: Dessert
 image: ../../assets/images/peanutbutterbar.jpg
 categories:
