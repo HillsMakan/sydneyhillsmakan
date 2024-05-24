@@ -20,7 +20,9 @@ images:
   - ../../assets/images/drivez-adventures13.jpg
   - ../../assets/images/drivez-adventures14.jpg
 categories:
-  - Shuttle services
+  - Hire Chauffeur Services
+  - Airport Transfers
+  - Tours
 region:
   - Sydney
   - New South Wales
