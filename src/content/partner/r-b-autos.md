@@ -12,7 +12,7 @@ region:
   - Castle Hill
   - New South Wales
   - Australia
-discount_pct: -1
+discount_pct: 0
 ---
 $20 off of the whole bill (excluding Pink Slip) when you show the HMG member card.
 
