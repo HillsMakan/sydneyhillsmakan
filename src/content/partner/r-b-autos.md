@@ -1,6 +1,6 @@
 ---
 draft: false
-title: R&B Autos - 49/7 Hoyle Ave, Castle Hill NSW 2154
+title: R&B Autos
 description: Car Mechanic
 image: ../../assets/images/r-b-autos1.jpg
 images:
