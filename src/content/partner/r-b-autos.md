@@ -1,6 +1,6 @@
 ---
 draft: false
-title: R&B Autos Castle HIll
+title: R&B Autos - Unit 49, 7 Hoyle Ave, Castle Hill
 description: Car service
 image: ../../assets/images/r-b-autos1.jpg
 images:
