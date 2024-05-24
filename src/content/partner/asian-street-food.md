@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Asian Street Food
-description: Malaysian Halal
+description: Malaysian Halal Cuisine
 image: ../../assets/images/asian-street-food.jpg
 categories:
   - Malaysian
