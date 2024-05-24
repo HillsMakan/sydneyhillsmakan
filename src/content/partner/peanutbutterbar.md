@@ -1,5 +1,5 @@
 ---
-title: Peanut Butter Bar Blacktown
+title: Peanut Butter Bar Blacktown - Dining Collective
 description: Dessert
 image: ../../assets/images/peanutbutterbar.jpg
 categories:
