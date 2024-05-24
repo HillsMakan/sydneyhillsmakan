@@ -1,5 +1,5 @@
 ---
-title: Louis N’ Anna
+title: Louis N’ Anna Blacktown - Dining Collective
 description: Cajun Seafood Texas BBQ Cuisine
 image: ../../assets/images/louisnanna.jpg
 categories:
