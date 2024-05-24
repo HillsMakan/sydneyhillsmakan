@@ -1,5 +1,5 @@
 ---
-title: DC Bar Blacktown
+title: DC Bar Blacktown - Dining Collective
 description: Beverage and Dessert
 image: ../../assets/images/dcbar.jpg
 categories:
