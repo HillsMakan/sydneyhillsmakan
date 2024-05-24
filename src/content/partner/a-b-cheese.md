@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: A B Cheese
 description: Italian Cuisine
 link: https://linktr.ee/ee.cakery

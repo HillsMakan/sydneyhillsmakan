@@ -2,7 +2,7 @@
 draft: false
 title: Drivez Adventures
 description: Sydney’s stand out mini-bus service
-link: www.drivez.com.au
+link: https://www.drivez.com.au
 image: ../../assets/images/drivez-adventures.jpg
 images:
   - ../../assets/images/drivez-adventures1.jpg
