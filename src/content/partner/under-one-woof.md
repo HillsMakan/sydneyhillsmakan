@@ -6,7 +6,8 @@ image: ../../assets/images/underonewooflogo.jpg.png
 images:
   - ../../assets/images/underonewoof.jpg
 categories:
-  - House and dog sitting services
+  - House sitting service
+  - dog sitting services
 region:
   - Sydney
   - New South Wales
