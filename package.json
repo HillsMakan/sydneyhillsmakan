@@ -26,7 +26,7 @@
     "@unocss/eslint-config": "^0.60.3",
     "@unocss/reset": "^0.60.3",
     "alpinejs": "^3.14.0",
-    "astro": "^4.8.7",
+    "astro": "^4.9.1",
     "astro-robots-txt": "^1.0.0",
     "eslint": "^9.3.0",
     "eslint-plugin-astro": "^1.2.0",

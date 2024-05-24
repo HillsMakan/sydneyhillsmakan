@@ -10,7 +10,7 @@ region:
   - Burwood
   - New South Wales
   - Australia
-discount_pct: ""
+discount_pct: 0
 discount_text: Free drinks for all you can eat dine in when you show your member card
 ---
 66A Burwood Rd,\

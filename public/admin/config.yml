@@ -22,7 +22,7 @@ collections:
       - { label: "Categories", name: "categories", widget: "list", required: false }
       - { label: "Cuisine", name: "cuisine", widget: "list", required: false }
       - { label: "Region", name: "region", widget: "list", required: false }
-      - { label: "Discount %", name: "discount_pct", widget: "number", required: false }
+      - { label: "Discount %", name: "discount_pct", widget: "number", default: 0, required: false }
       - { label: "Discount Text", name: "discount_text", widget: "string", required: false }
       - { label: "Comment", name: "comment", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }

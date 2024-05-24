@@ -9,7 +9,7 @@ region:
   - Glenquarie
   - New South Wales
   - Australia
-discount_pct: ""
+discount_pct: 0
 discount_text: Excluding specials & gift card
 ---
 ● 10% Discount for Repairs
