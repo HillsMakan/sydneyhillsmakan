@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ANA Biscuits - Shop 1/268 Old Northern Rd, Castle Hill, 2154, NSW
+title: ANA Biscuits
 description: Handmade Middle Eastern Sweets Halal
 image: ../../assets/images/anabiscuts.jpg
 images:
