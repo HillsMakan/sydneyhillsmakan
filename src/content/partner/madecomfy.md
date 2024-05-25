@@ -1,6 +1,6 @@
 ---
 title: MadeComfy
-description: Self-contained (Airbnb) style
+description: Self-contained Airbnb style
 link: ""
 image: ../../assets/images/madecomfy.jpg
 images:
