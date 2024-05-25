@@ -11,6 +11,7 @@ cuisine:
 region:
   - Canberra
   - Australian Capital Territory
+  - Australia
 discount_pct: 5
 discount_text: Cash only excluding specials
 ---
