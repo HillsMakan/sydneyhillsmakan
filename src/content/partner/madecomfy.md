@@ -1,5 +1,5 @@
 ---
-title: MadeComfy
+title: Made Comfy
 description: Self-contained Airbnb style
 link: ""
 image: ../../assets/images/madecomfy.jpg
