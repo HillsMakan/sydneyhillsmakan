@@ -14,8 +14,6 @@ cuisine:
 region:
   - Surry Hills
   - New South Wales
-  - Melbourne
-  - Victoria
   - Australia
 discount_pct: 10
 discount_text: Excluding promotions
