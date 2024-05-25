@@ -12,7 +12,7 @@ region:
   - Australian Capital Territory
   - Australia
 discount_pct: 5
-discount_text: Cash only and excluding lunch special
+discount_text: Cash only and excluding special
 ---
 7/11 Botany Street,\
 Phillip, 2606,\
