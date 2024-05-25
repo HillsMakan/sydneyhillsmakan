@@ -1,5 +1,5 @@
 ---
-title: Brookwood Estate Cafe
+title: Brookwood Estate
 description: Malaysian Halal Cruisine
 image: ../../assets/images/brookwood-estate-cafe.jpg
 categories:
