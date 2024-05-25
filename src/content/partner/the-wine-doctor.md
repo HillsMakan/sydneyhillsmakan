@@ -28,3 +28,12 @@ If you need more information please contact :\
 Name : Mr Tony Yew\
 Mobile : 0411500333\
 Email : tonyyew@bigpond.com
+
+If you need to order. Please email Mr Tony with below information. \
+-Your name\
+-Your order and quantity \
+-Your address\
+-Your phone number
+
+\*Payment is COD or transfer.\
+*Delivery Australia Wide.
