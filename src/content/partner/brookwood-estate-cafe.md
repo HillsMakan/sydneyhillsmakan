@@ -18,8 +18,6 @@ discount_text: Excluding specials
 Cowaramup, 6284, \
 WA
 
-Phone : 0461 591 787
-
-\* For reservations. 
-
-\* Enquiries for functions and catering. Please mention that you are HMG member when requesting for quote.
+Phone : 0461 591 787\
+-For reservations\
+-Enquiries for functions and catering. Please mention that you are HMG member when requesting for quote.
