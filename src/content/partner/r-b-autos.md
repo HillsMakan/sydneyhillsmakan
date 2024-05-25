@@ -1,6 +1,6 @@
 ---
 draft: false
-title: R&B Autos - 7 Hoyle Avenue, Castle Hill, New South Wales
+title: R&B Autos - Castle Hill, New South Wales
 description: Car Mechanic
 image: ../../assets/images/r-b-autos1.jpg
 images:
