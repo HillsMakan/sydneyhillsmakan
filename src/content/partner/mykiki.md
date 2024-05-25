@@ -1,5 +1,5 @@
 ---
-title: MYKIKI
+title: MYKIKI - Sydney
 description: Naughty Waffles Dessert Shop
 image: ../../assets/images/mykiki.jpg
 images:
