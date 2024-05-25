@@ -16,12 +16,9 @@ discount_text: May be times Promo code may not be accessible due to restrictions
 ---
 Here are the steps/process :
 
-1. Go to https://www.knightsbridgecanberra.com.au/
-
+1. Go to https://www.knightsbridgecanberra.com.au
 2. Click BOOK NOW 
-
 3. Input Check In, Check Out, Rooms, Adults, Children, key in Promo Code AFG, click BOOK NOW.
-
 4. Choose your room(s) and follow the process. 
 
 \* 10 % Discount Promo Code : AFG\
