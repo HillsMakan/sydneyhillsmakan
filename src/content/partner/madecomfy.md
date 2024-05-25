@@ -1,7 +1,7 @@
 ---
 title: MadeComfy
 description: Self-contained (Airbnb) style
-link: https://madecomfy.com.au/search/
+link: ""
 image: ../../assets/images/madecomfy.jpg
 images:
   - ../../assets/images/madecomfy1.jpg
