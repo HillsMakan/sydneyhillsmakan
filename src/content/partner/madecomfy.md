@@ -12,7 +12,7 @@ images:
 categories:
   - Accomodation
 discount_pct: 0
-discount_text: "Corporate References : Sydney Hills Makan Group"
+discount_text: ""
 ---
 Planning your next trip ? Then check this out. If you are interested, please follow the steps below :
 
