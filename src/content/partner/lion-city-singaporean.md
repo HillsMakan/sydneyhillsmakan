@@ -1,11 +1,12 @@
 ---
-title: Lion City Singaporean
+title: Lion City Singaporean Halal
 description: Singaporean Cuisine
 image: ../../assets/images/lion-city-singaporean-restaurant.jpg
 categories:
   - Restaurant
 cuisine:
   - Singaporean
+  - Halal
 region:
   - Franklin
   - Australian Capital Territory
