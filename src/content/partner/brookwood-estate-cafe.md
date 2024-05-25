@@ -1,5 +1,5 @@
 ---
-title: Brookwood Estate
+title: Brookwood Estate - Western Australia
 description: Malaysian Halal Cruisine
 image: ../../assets/images/brookwood-estate-cafe.jpg
 categories:
@@ -9,13 +9,13 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Treeton
+  - Cowaramup
   - Western Australia
 discount_pct: 10
 discount_text: Excluding specials
 ---
 430 Treeton Rd, \
-Treeton, 6284, \
+Cowaramup, 6284, \
 WA
 
 Phone : 0461 591 787
