@@ -7,6 +7,8 @@ categories:
   - Bar
 cuisine:
   - Traditional Nyonya Laksa
+region:
+  - Singapore
 discount_pct: 10
 discount_text: Excluding alcohol and some promotions
 ---
