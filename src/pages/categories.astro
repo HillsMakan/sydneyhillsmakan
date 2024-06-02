@@ -1,53 +1,73 @@
 ---
 import { getCollection } from 'astro:content'
-import { Image } from 'astro:assets'
 import type { CollectionEntry } from 'astro:content'
+import type { TagType } from '../config'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
-import image from '../assets/site/banner.jpg'
+import image from '../assets/backgrounds/restaurant.png'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
   title: 'Categories',
-  description: 'Categories for articles',
+  description: 'Partners by category',
   image: image
 }
 
-const categories = await getCollection('category')
+const partners = await getCollection('partner', ({ data }) => {
+  return data.draft !== true
+})
+
+const tagmap: Map<string, TagType> = new Map()
+
+partners.forEach((partner) => {
+  partner.data.categories &&
+    partner.data.categories.forEach((tag) => {
+      let utag = tagmap.get(tag)
+      if (utag) {
+        utag.count += 1
+        utag.pages.push(partner)
+      } else {
+        utag = { tag: tag, count: 1, pages: [partner] }
+      }
+      tagmap.set(tag, utag)
+    })
+})
+
+const categories = Array.from(tagmap.values()).sort((a, b) =>
+  a.tag.toLowerCase().localeCompare(b.tag.toLowerCase())
+)
 ---
 
 <Base frontmatter={frontmatter}>
   <header>
     <PageHero title={frontmatter.title!} description={frontmatter.description} {image} />
   </header>
-  <main class='mt-8 bg-gray-100 dark:bg-gray-900'>
-    <div class='mx-auto max-w-7xl px-4 lg:px-8 sm:px-6'>
-      <div class='mx-auto max-w-2xl pb-72 lg:max-w-none lg:pb-24 sm:pb-32'>
-        <div class='mt-6 lg:grid lg:grid-cols-3 lg:gap-x-6 space-y-12 lg:space-y-0'>
-          {
-            categories.map((category) => (
-              <div class='group relative'>
-                <div class='sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 relative mb-4 h-80 w-full overflow-hidden rounded-lg bg-purple-100 sm:h-64 dark:bg-purple-600 group-hover:opacity-75'>
-                  <Image
-                    src={category.data.image}
-                    alt={category.data.description}
-                    class='h-full w-full object-cover object-center'
-                    loading='lazy'
-                  />
-                </div>
-                <h3 class='inline-block rounded bg-purple-600 px-3 py-1 text-xs text-white font-medium tracking-tight uppercase hover:bg-pink-600'>
-                  <a href={`${import.meta.env.BASE_URL}category/${category.slug}/`}>
-                    <span class='absolute inset-0' />
-                    {category.data.title}
-                  </a>
+  <main class='mt-10 dark:bg-gray-900'>
+    <div
+      class='grid grid-cols-2 mx-4 mb-24 mt-6 gap-x-4 gap-y-4 lg:grid-cols-5 md:grid-cols-4 sm:grid-cols-3 xl:grid-cols-6 xl:gap-x-6 xl:gap-y-6'
+    >
+      {
+        categories.map((tag) => (
+          <a href={`${import.meta.env.BASE_URL}category/${tag.tag}/`} class='group'>
+            <section
+              class='group relative h-24 w-full overflow-hidden rounded-lg bg-cover bg-center shadow-lg transition duration-300 ease-in-out hover:shadow-2xl'
+              style={{
+                backgroundColor: '#dfdbe5',
+                // backgroundImage: `url(${OGImage})`,
+                backgroundImage: `url(${image.src})`
+              }}
+            >
+              <div class='absolute inset-0 bg-black bg-opacity-50 transition duration-300 ease-in-out group-hover:opacity-75' />
+              <div class='relative h-full w-full flex items-center justify-center px-4 lg:px-4 sm:px-6'>
+                <h3 class='text-center text-2xl text-white font-bold'>
+                  <span class='absolute inset-0' />
+                  {tag.tag}
                 </h3>
-                <p class='text-base text-gray-900 dark:text-gray-400'>
-                  {category.data.description}
-                </p>
+                <p class='text-center text-sm text-gray-200 font-medium'>&nbsp;({tag.count})</p>
               </div>
-            ))
-          }
-        </div>
-      </div>
+            </section>
+          </a>
+        ))
+      }
     </div>
   </main>
 </Base>

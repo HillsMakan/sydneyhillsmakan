@@ -1,47 +1,49 @@
 ---
 import type { PaginateFunction, Page } from 'astro'
 import type { CollectionEntry } from 'astro:content'
-import { PAGE_SIZE } from '../../../config'
+import { getEntry } from 'astro:content'
 import { getCollection } from 'astro:content'
+import { PAGE_SIZE } from '../../../config'
 import Base from '../../../layouts/base.astro'
 import PageHero from '../../../components/pagehero.astro'
-import Partners from '../../../components/partners.astro'
+import BlogRoll from '../../../components/blogroll.astro'
 import PaginateControl from '../../../components/paginatecontrol.astro'
-import image from '../../../assets/site/banner.jpg'
 
 export interface Props {
-  page: Page<CollectionEntry<'partner'>>
+  page: Page<CollectionEntry<'blog'>>
 }
 
 const { category } = Astro.params
 const { page } = Astro.props
+
+const detail = await getEntry('category', category!)
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
   title:
     'Category: ' +
     category +
     (page.size < page.total ? ' (page ' + page.currentPage + ' of ' + page.lastPage + ')' : ''),
-  description:
-    'Showing partners ' + (page.start + 1) + '-' + (page.end + 1) + ' (total ' + page.total + ')',
-  image: image
+  description: detail!.data.description,
+  image: detail!.data.image
 }
 
 const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/$/, '')
 
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
-  const partners = await getCollection('partner', ({ data }) => {
-    return data.draft !== true
-  })
-
-  const categories = Array.from(new Set(partners.flatMap((partner) => partner.data.categories)))
-
-  if (!categories[0]) return []
+  const categories = await getCollection('category')
+  const allPosts = await getCollection('blog', (post) => !post.data.draft)
+  const posts = allPosts.sort((a, b) =>
+    a.data.pubDate && b.data.pubDate ? +b.data.pubDate - +a.data.pubDate : 0
+  )
 
   return categories.flatMap((category) => {
     return paginate(
-      partners.filter((partner) => partner.data.categories && partner.data.categories?.includes(category!)),
+      posts.filter(
+        (post) =>
+          category && post.data.categories!.map((category) => category.slug).includes(category.slug)
+      ),
       {
-        params: { category },
+        params: { category: category.slug },
         pageSize: PAGE_SIZE
       }
     )
@@ -51,11 +53,15 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
 
 <Base frontmatter={frontmatter}>
   <header>
-    <PageHero title={frontmatter.title!} description={frontmatter.description} {image}>
+    <PageHero
+      title={frontmatter.title!}
+      description={frontmatter.description}
+      image={detail!.data.image}
+    >
       <PaginateControl base={currentPage} page={page} />
     </PageHero>
   </header>
   <main class='mt-10 bg-gray-100 dark:bg-gray-900'>
-    <Partners partners={page.data} />
+    <BlogRoll posts={page.data} />
   </main>
 </Base>
