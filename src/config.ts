@@ -37,6 +37,7 @@ export { default as DefaultImage } from './assets/site/HMGmembercard01.jpg'
 export const NavigationLinks = [
   { name: 'Home', href: '' },
   { name: 'Partners', href: 'partner' },
+  { name: 'Categories', href: 'categories' },
   { name: 'Cuisines', href: 'cuisines' },
   { name: 'Regions', href: 'regions' },
   { name: 'About', href: 'about' },
