@@ -10,6 +10,7 @@ region:
   - Singapore
 discount_pct: 0
 ---
+
 HMG members enjoy Off Peak 15% off rental rates and Peak 10% off rental rates. \
 Mention that you are HMG member when you contact Edwin for enquiries.
 

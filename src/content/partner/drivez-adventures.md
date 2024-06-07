@@ -31,19 +31,18 @@ discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
 ---
+
 Contact\
 Name : Myron “Zed” Zlotnick\
 Phone : +61 433 670 450\
 Email : zed@drivez.com.au
 
-
-
 Drivez Adventures, is a small family business located in Coogee, NSW. Drivez Adventures offer three main services:
 
-•	Urban shuttle services for point-to-point travel, including airport transfers, tourist hops, commuters, shoppers, and any other of your needs.
+• Urban shuttle services for point-to-point travel, including airport transfers, tourist hops, commuters, shoppers, and any other of your needs.
 
-•	Private charters for all groups, including tourists, special events (weddings etc…), sports events, sports teams, corporate events, film crews, migrant groups, fitness training groups, and any other groups.
+• Private charters for all groups, including tourists, special events (weddings etc…), sports events, sports teams, corporate events, film crews, migrant groups, fitness training groups, and any other groups.
 
-•	Bespoke guided and unguided tours, usually with specialist expert partners, to explore Sydney icons, the Blue Mountains, Southern Highlands, Illawarra, Central Coast, Hunter Valley, and any special place you want to go.
+• Bespoke guided and unguided tours, usually with specialist expert partners, to explore Sydney icons, the Blue Mountains, Southern Highlands, Illawarra, Central Coast, Hunter Valley, and any special place you want to go.
 
 You will be driven in an immaculate 2023 Toyota Hiace Commuter GL, 10-seater (including a baby capsule if needed), with individual air-con, and USB C charging points.

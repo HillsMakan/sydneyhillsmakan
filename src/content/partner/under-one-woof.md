@@ -15,4 +15,5 @@ region:
 discount_pct: 10
 discount_text: Mention HMG member to receive discount.
 ---
+
 Valarie Tay at underonewoof2402@gmail.com

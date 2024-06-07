@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Xtreme Communications Castle Hill
-description: "Mobile phone repairs and accessories "
+description: 'Mobile phone repairs and accessories '
 image: ../../assets/images/xtreme-communications-castle-hill.jpg
 categories:
   - Mobile phone repairs and accessories
@@ -12,6 +12,7 @@ region:
 discount_pct: 5
 discount_text: Excluding sales, online & minimum purchase $20
 ---
+
 Castle Mall Shopping Centre\
 Kiosk 112, 4/16 Terminus St, \
 Castle Hill, 2154, \

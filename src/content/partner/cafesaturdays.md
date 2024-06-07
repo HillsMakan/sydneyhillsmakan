@@ -17,6 +17,7 @@ region:
 discount_pct: 10
 discount_text: Excluding specials
 ---
+
 10% Discount when you show your member card at the Café
 
 OR

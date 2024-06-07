@@ -14,6 +14,7 @@ region:
 discount_pct: 5
 discount_text: $10 and above (excluding promotions)
 ---
+
 Parklea Markets\
 601 Sunnyholt Road,\
 Parklea,\

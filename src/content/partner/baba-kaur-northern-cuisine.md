@@ -12,6 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 58, Jalan Tokong, \
 Kampung Dua, 75200, \
 Melaka, \

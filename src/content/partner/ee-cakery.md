@@ -19,4 +19,5 @@ discount_pct: 5
 discount_text: Mention HMG member. Orders above $95 excluding delivery, set up
   and wedding cake orders.
 ---
+
 Contact Eugene and Edith at info.ee,cakery@gmail.com

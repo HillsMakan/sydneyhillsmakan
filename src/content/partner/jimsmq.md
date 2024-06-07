@@ -14,6 +14,7 @@ region:
 discount_pct: 10
 discount_text: Meals only
 ---
+
 Macquarie Centre\
 Shop 2141,\
 Cnr, Waterloo Rd,\

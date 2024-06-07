@@ -12,6 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
+
 Sportsco Liverpool\
 Westfield Shoppingtown Liverpool, \
 Shop 1053/4, Macquarie Street, \

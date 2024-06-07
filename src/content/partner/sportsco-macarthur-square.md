@@ -12,6 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
+
 Sportsco Westpoint\
 Westpoint Shopping Centre, \
 Shop M101, 17 Patrick St, \

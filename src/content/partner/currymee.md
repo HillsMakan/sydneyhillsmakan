@@ -14,6 +14,7 @@ region:
 discount_pct: 5
 discount_text: Minimum purchase $20 & above and excluding promotions
 ---
+
 131 Parramatta Rd,\
 Homebush, \
 NSW
@@ -22,5 +23,5 @@ NSW
 
 Trading:
 
-* Monday to Saturday : 5 pm - 1 am
-* Sunday : 5 pm - 12 midnight
+- Monday to Saturday : 5 pm - 1 am
+- Sunday : 5 pm - 12 midnight

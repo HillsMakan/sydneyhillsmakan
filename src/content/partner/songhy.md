@@ -13,6 +13,7 @@ region:
 discount_pct: 10
 discount_text: Please show the barcode below 10572
 ---
+
 230 Canley Vale Road,\
 Canley Heights,\
 NSW

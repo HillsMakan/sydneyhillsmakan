@@ -12,6 +12,7 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $25 and above
 ---
+
 Kellyville Village\
 Nature’s Fresh 4 Less Fruits & Vegetables Shop,\
 Shop 37, 90 Wrights Road,\

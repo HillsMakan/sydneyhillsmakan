@@ -12,6 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
+
 Sportsco Hurstville\
 Westfield Shoppingtown Hurstville,\
 Shop 416A, Cnr Cross Street & Park Road, \

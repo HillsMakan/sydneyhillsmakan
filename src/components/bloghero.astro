@@ -38,7 +38,7 @@ if (post.data.author) {
     <h2 class='text-4xl text-white font-bold leading-tight'>
       {post.data.title}
     </h2>
-    <h2 class='text-xl text-purple-200 font-medium italic'>
+    <h2 class='text-xl text-blue-200 font-medium italic'>
       {post.data.description}
     </h2>
     <span class='mt-3 flex'>
@@ -50,15 +50,15 @@ if (post.data.author) {
               alt={author.data.title}
               class='mr-2 h-10 w-10 rounded-full object-cover'
             />
-            <span class='text-purple-200 font-semibold'>{author.data.title}</span>
+            <span class='text-blue-200 font-semibold'>{author.data.title}</span>
           </span>
         )
       }
       {
         post.data.pubDate && (
           <span class='mr-6 flex items-center'>
-            <div class='i-heroicons-calendar-days mr-1 h-6 w-6 text-purple-200' />
-            <span class='ml-1 text-purple-200 font-semibold'>
+            <div class='i-heroicons-calendar-days mr-1 h-6 w-6 text-blue-200' />
+            <span class='ml-1 text-blue-200 font-semibold'>
               {new Date(post.data.pubDate).toString()}
             </span>
           </span>
@@ -67,8 +67,8 @@ if (post.data.author) {
       {
         post.data.minutesRead && (
           <span class='flex items-center'>
-            <div class='i-heroicons-clock mr-1 h-6 w-6 text-purple-200' />
-            <span class='ml-1 text-purple-200 font-semibold'>{post.data.minutesRead}</span>
+            <div class='i-heroicons-clock mr-1 h-6 w-6 text-blue-200' />
+            <span class='ml-1 text-blue-200 font-semibold'>{post.data.minutesRead}</span>
           </span>
         )
       }

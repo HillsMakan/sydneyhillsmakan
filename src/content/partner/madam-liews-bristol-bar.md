@@ -12,6 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding alcohol and some promotions
 ---
+
 12 Sago St, 059014, \
 Singapore
 

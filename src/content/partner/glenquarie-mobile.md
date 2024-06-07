@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Glenquarie Mobile
-description: "Mobile phone repairs and accessories "
+description: 'Mobile phone repairs and accessories '
 image: ../../assets/images/glenquarie-mobile.jpg
 categories:
   - Mobile phone repairs and accessories
@@ -12,6 +12,7 @@ region:
 discount_pct: 0
 discount_text: Excluding specials & gift card
 ---
+
 ● 10% Discount for Repairs
 
 ● 20% Discount Accessories case

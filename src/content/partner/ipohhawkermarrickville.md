@@ -14,6 +14,7 @@ region:
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 ---
+
 Marrickville Metro\
 Shop G001,\
 20 Smidmore Street,\

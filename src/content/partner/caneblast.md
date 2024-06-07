@@ -13,6 +13,7 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
+
 Gate 2, Shop 198\
 Parklea Markets\
 601 Sunnyholt Rd\

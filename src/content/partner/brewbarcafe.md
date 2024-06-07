@@ -16,6 +16,7 @@ region:
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
 ---
+
 Hot & Cold Drinks., Pastry, Toastie, Meals & Etc.
 
 The Langston Apartments,\

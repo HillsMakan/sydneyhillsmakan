@@ -39,7 +39,9 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
 
   return categories.flatMap((category) => {
     return paginate(
-      partners.filter((partner) => partner.data.categories && partner.data.categories?.includes(category!)),
+      partners.filter(
+        (partner) => partner.data.categories && partner.data.categories?.includes(category!)
+      ),
       {
         params: { category },
         pageSize: PAGE_SIZE

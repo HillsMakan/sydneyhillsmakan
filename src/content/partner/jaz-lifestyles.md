@@ -12,6 +12,7 @@ region:
   - Western Australia
   - Australia
 discount_pct: 5
-discount_text: "Discount code : PF5"
+discount_text: 'Discount code : PF5'
 ---
+
 JAZ Lifestyles is a locally Western Australian owned company that sells lifestyle products like homewares, rugs, artwork, lighting, home decor and many others online. Delivery Australia Wide

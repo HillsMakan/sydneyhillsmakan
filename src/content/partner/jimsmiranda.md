@@ -14,6 +14,7 @@ region:
 discount_pct: 10
 discount_text: Meals only
 ---
+
 Westfield Miranda\
 Shop 1010,\
 600 Kingsway,\

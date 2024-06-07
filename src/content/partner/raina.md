@@ -14,6 +14,7 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
+
 2/340 Guildford Road,\
 Guildford,\
 NSW

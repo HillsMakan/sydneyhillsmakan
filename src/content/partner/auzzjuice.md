@@ -13,6 +13,7 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
+
 Fresh Sugarcane Juice, fruit juices, ice cream, milk shakes, eggs and etc.
 
 Gate 2, Shop 5\

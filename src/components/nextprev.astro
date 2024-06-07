@@ -10,14 +10,14 @@ export interface Props {
 const { base, prev, next } = Astro.props
 ---
 
-<dl class='mt-12 flex border-t border-purple-300 pt-6 dark:border-purple-700'>
+<dl class='mt-12 flex border-t border-blue-300 pt-6 dark:border-blue-700'>
   {
     prev && (
       <div class='mr-auto text-left'>
         <dt class='font-display text-sm text-gray-800 font-medium dark:text-gray-200'>Prev</dt>
         <dd class='mt-1'>
           <a
-            class='text-base text-purple-600 font-semibold hover:bg-purple-200 dark:text-purple-300 hover:text-pink-600'
+            class='text-base text-blue-600 font-semibold hover:bg-blue-200 dark:text-blue-300 hover:text-pink-600'
             href={base + prev.slug}
           >
             <span aria-hidden='true'>←</span>
@@ -33,7 +33,7 @@ const { base, prev, next } = Astro.props
         <dt class='font-display text-sm text-gray-800 font-medium dark:text-gray-200'>Next</dt>
         <dd class='mt-1'>
           <a
-            class='text-base text-purple-600 font-semibold hover:bg-purple-200 dark:text-purple-300 hover:text-pink-600'
+            class='text-base text-blue-600 font-semibold hover:bg-blue-200 dark:text-blue-300 hover:text-pink-600'
             href={base + next.slug}
           >
             {next.data.title}

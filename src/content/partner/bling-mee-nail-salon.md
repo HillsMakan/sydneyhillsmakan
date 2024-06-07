@@ -14,6 +14,7 @@ region:
 discount_pct: 5
 discount_text: Cash only & excluding promotions
 ---
+
 Shop 125, 75 Bathurst St,\
 Sydney, 2000,\
 NSW

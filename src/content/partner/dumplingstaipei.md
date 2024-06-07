@@ -11,6 +11,7 @@ region:
   - NSW
 discount_pct: 5
 ---
+
 Garden Piazza Building\
 Unit 13, 3-9 Terminus Street,\
 Castle Hill,\

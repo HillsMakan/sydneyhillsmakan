@@ -15,6 +15,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
+
 Shop 220, 1 Bay St,\
 Glebe,\
 NSW

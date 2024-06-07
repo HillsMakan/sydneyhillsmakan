@@ -20,10 +20,10 @@ export const SiteMetadata = {
   org: {
     name: 'Hills Makan Group (International)',
     twitter: '@hmgi',
-    url: 'https://hillsmakangroup.netlify.app',
+    url: 'https://hmginternational.com',
     email: 'aaron_gan@hotmail.com',
     summary:
-      "SHMG is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join. Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor."
+      "HMG International is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join. Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor."
   },
   location: 'Sydney, Australia',
   latlng: [-33.86785, 151.20732] as [number, number],
@@ -36,7 +36,7 @@ export { default as DefaultImage } from './assets/site/HMGmembercard01.jpg'
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },
-  { name: 'Partners', href: 'partner' },
+  // { name: 'Partners', href: 'partner' },
   { name: 'Categories', href: 'categories' },
   { name: 'Cuisines', href: 'cuisines' },
   { name: 'Regions', href: 'regions' },

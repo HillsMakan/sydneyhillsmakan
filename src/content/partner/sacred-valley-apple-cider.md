@@ -1,6 +1,6 @@
 ---
 title: Sacred Valley Apple Cider
-description: ""
+description: ''
 image: ../../assets/images/sacred-valley-apple-cider.jpg
 categories:
   - Online
@@ -10,15 +10,16 @@ region:
   - Australia
 discount_pct: 0
 ---
+
 Sacred Valley Apple Cider 4.5% Alc/Vol\
 100% Natural from Australian fresh apple juice
 
 No added sugar\
 No added colouring\
-No added flavouring 
+No added flavouring
 
 \-Dan Murphys Online Price : $88/case of 24\
--HMG Members' Offer : $70 Delivered*
+-HMG Members' Offer : $70 Delivered\*
 
 \* Free delivery to metro Sydney
 
@@ -34,4 +35,4 @@ If you need to order. Please email Mr Tony with below information. \
 -Your phone number
 
 \*Payment is COD or transfer.\
-*Delivery Australia Wide.
+\*Delivery Australia Wide.

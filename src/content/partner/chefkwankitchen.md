@@ -13,6 +13,7 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
+
 92 Yarrara Road\
 Pennant Hills,\
 NSW

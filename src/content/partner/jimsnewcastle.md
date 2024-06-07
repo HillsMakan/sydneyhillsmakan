@@ -13,6 +13,7 @@ region:
 discount_pct: 10
 discount_text: Meals only
 ---
+
 2096A JIM'S MALAYSIA\
 Charlestown Square,\
 Newcastle,\

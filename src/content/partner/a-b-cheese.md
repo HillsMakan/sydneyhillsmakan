@@ -23,6 +23,7 @@ region:
   - Australia
 discount_pct: 0
 ---
+
 Giorgio Musante sells range of products and he delivers anywhere in Sydney. If outside of Sydney please do enquiry with him. If you need more information or to place an order, please contact Giorgio Musante with below details and mentioned that you are HMG member at email address : abcheese16@gmail.com
 
 Once a while Mr Giorgio Musante does post specials or seasonal products in SHMG Facebook so do keep an eye out for it.

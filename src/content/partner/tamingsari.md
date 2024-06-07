@@ -14,6 +14,7 @@ region:
 discount_pct: 5
 discount_text: Minimum purchase $20 & above and excluding promotions
 ---
+
 Cnr Queen & 30 Firth St,\
 Arncliffe,\
 NSW

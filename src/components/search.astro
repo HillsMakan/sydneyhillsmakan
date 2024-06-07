@@ -33,7 +33,7 @@
           document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML =
             document.querySelectorAll('#lunrsearchresults ul')[0]
               .innerHTML +
-            '<li class="-m-3 p-3 flex items-start rounded-lg hover:bg-purple-200 dark:hover:bg-purple-900"><a href="' +
+            '<li class="-m-3 p-3 flex items-start rounded-lg hover:bg-blue-200 dark:hover:bg-blue-900"><a href="' +
             url +
             '"><p class="text-base font-medium text-gray-900 dark:text-gray-100">' +
             doc.title +
@@ -58,7 +58,7 @@
         <input
           type='search'
           x-model='searchText'
-          class='form-control relative m-0 block max-w-xs min-w-0 w-full flex-auto border border-purple-300 rounded border-solid bg-white bg-clip-padding px-3 py-1.5 text-base text-gray-500 font-normal transition ease-in-out dark:border-purple-700 focus:border-purple-500 dark:bg-gray-900 dark:text-gray-300 focus:text-gray-700 focus:outline-none dark:focus:border-purple-600 dark:focus:text-gray-100'
+          class='form-control relative m-0 block max-w-xs min-w-0 w-full flex-auto border border-blue-300 rounded border-solid bg-white bg-clip-padding px-3 py-1.5 text-base text-gray-500 font-normal transition ease-in-out dark:border-blue-700 focus:border-blue-500 dark:bg-gray-900 dark:text-gray-300 focus:text-gray-700 focus:outline-none dark:focus:border-blue-600 dark:focus:text-gray-100'
           id='lunrsearch'
           name='q'
           maxlength='255'
@@ -68,7 +68,7 @@
           aria-describedby='lunrbutton'
         />
         <button
-          class='btn inline-block items-center rounded bg-purple-600 px-2 py-2 text-xs text-white font-medium leading-tight uppercase shadow-md transition duration-150 ease-in-out active:bg-purple-800 focus:bg-purple-700 hover:bg-purple-700 active:shadow-lg focus:shadow-lg hover:shadow-lg focus:outline-none focus:ring-0'
+          class='btn inline-block items-center rounded bg-blue-600 px-2 py-2 text-xs text-white font-medium leading-tight uppercase shadow-md transition duration-150 ease-in-out active:bg-blue-800 focus:bg-blue-700 hover:bg-blue-700 active:shadow-lg focus:shadow-lg hover:shadow-lg focus:outline-none focus:ring-0'
           type='button'
           name='search'
           id='lunrbutton'
@@ -139,7 +139,7 @@
             >
               <button
                 type='button'
-                class='rounded-md text-purple-300 hover:text-pink-300 focus:outline-none focus:ring-2 focus:ring-white'
+                class='rounded-md text-blue-300 hover:text-pink-300 focus:outline-none focus:ring-2 focus:ring-white'
                 x-on:click='searchResults = false'
               >
                 <span class='sr-only'>Close panel</span>

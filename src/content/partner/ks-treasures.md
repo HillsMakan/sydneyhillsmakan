@@ -12,6 +12,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 No. 155 & 157, Jalan Sutera, \
 Taman Sentosa, 80150, Johor Bahru, \
 Johor, \

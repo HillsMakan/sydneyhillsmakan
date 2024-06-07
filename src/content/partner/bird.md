@@ -12,15 +12,14 @@ categories:
 region:
   - Australia
 discount_pct: 15
-discount_text: ""
+discount_text: ''
 ---
+
 Special Offer when you mention HMG Member
 
-•	Free 1 hour personal and confidential discovery call (valued at AUD $50/hr)
+• Free 1 hour personal and confidential discovery call (valued at AUD $50/hr)
 
-•	15% off on any services package signed up with BIRD.
-
-
+• 15% off on any services package signed up with BIRD.
 
 Name : Shakun Narang\
 Mobile : (61) 460 291 489\

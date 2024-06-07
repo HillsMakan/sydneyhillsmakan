@@ -15,19 +15,20 @@ region:
   - Australia
 discount_pct: 10
 ---
+
 Bayu Kelulut 100% Pure Stingless Bee Honey.
 
 Highest quality, sustainably and ethically sourced superfood !!!
 
 Process to get 10 % Discount Online Store :
 
-•	Please visit : https://bayu-australia.com.au/
+• Please visit : https://bayu-australia.com.au/
 
-•	Enter code “Hills makan group” at the check out
+• Enter code “Hills makan group” at the check out
 
-•	OR
+• OR
 
-•	Discount automatically apply please visit : 
+• Discount automatically apply please visit :
 
 https://bayu-australia.com.au/discount/hills%2520makan%2520group
 

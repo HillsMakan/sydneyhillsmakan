@@ -9,12 +9,13 @@ region:
   - Australia
 discount_pct: 5
 discount_text: Excluding sales. Mention HMG member
-comment: ""
+comment: ''
 ---
-Facebook : While They Napped 
+
+Facebook : While They Napped
 
 Instagram : https://instagram.com/while.they.napped
 
-Any enquiries or orders 
+Any enquiries or orders
 
 Email : admin@whiletheynapped.com.au

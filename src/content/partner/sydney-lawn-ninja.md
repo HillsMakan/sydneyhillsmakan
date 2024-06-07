@@ -15,6 +15,7 @@ region:
 discount_pct: 5
 discount_text: Mention HMG member to receive discount
 ---
+
 Contact \
 Name : Leon\
 Mobile : 0404779920\

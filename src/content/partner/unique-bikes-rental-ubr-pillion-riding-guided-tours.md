@@ -7,9 +7,10 @@ region:
   - Singapore
 discount_pct: 10
 ---
-Like to tour around Singapore on motorbikes but do not have a license. Do not worry. 
 
-Unique Bikes Rental (UBR), Singapore is offering Pillion-riding Guided Tours. This is a cool way to see Singapore on a motorcycle with a private tour driver driving you around. 
+Like to tour around Singapore on motorbikes but do not have a license. Do not worry.
+
+Unique Bikes Rental (UBR), Singapore is offering Pillion-riding Guided Tours. This is a cool way to see Singapore on a motorcycle with a private tour driver driving you around.
 
 SMG members receive 10% off when you mention that you are HMG member.
 

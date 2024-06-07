@@ -13,40 +13,39 @@ region:
   - Singapore
 discount_pct: 15
 ---
+
 Planning your next holiday ? Why not check into Dorsett Singapore. Here are the steps/process :
 
-	Booking through PC :
+ Booking through PC :
 
-1.	Go to https://www.dorsetthotels.com/dorsett-singapore/index.html
+1. Go to https://www.dorsetthotels.com/dorsett-singapore/index.html
 
-2.	Enter the dates and numbers of people then click BOOK NOW.
+2. Enter the dates and numbers of people then click BOOK NOW.
 
-3.	Click on the Promo code.
+3. Click on the Promo code.
 
-4.	Enter the 15% Discount (off Best Available Rates) Promo Code : DSGXSFG
+4. Enter the 15% Discount (off Best Available Rates) Promo Code : DSGXSFG
 
-5.	Press Enter on your keyboard or click your mouse anywhere on the screen/page to refresh the page with new pricing.
+5. Press Enter on your keyboard or click your mouse anywhere on the screen/page to refresh the page with new pricing.
 
-6.	Continue the process to select your prefer room, enter your details and etc.
+6. Continue the process to select your prefer room, enter your details and etc.
 
-7.	You will still need to show your member card upon check-in as a form of verification, please show your HMG Member Card (see below) to the reception. Thank You.
+7. You will still need to show your member card upon check-in as a form of verification, please show your HMG Member Card (see below) to the reception. Thank You.
 
+ Booking through Mobile :
 
+1. Go to https://www.dorsetthotels.com/dorsett-singapore/index.html
 
-	Booking through Mobile :
+2. Click on RESERVATIONS.
 
-1.	Go to https://www.dorsetthotels.com/dorsett-singapore/index.html
+3. Enter the dates and numbers of people then click BOOK NOW.
 
-2.	Click on RESERVATIONS.
+4. Click on the arrow scroll down.
 
-3.	Enter the dates and numbers of people then click BOOK NOW.
+5. Enter the 15% Discount (off Best Available Rates) Promo Code : DSGXSFG
 
-4.	Click on the arrow scroll down.
+6. Click APPLY.
 
-5.	Enter the 15% Discount (off Best Available Rates) Promo Code : DSGXSFG
+7. Continue the process to select your prefer room, enter your details and etc.
 
-6.	Click APPLY.
-
-7.	Continue the process to select your prefer room, enter your details and etc.
-
-8.	You will still need to show your member card upon check-in as a form of verification, please show your HMG Member Card (see below) to the reception. Thank You.
+8. You will still need to show your member card upon check-in as a form of verification, please show your HMG Member Card (see below) to the reception. Thank You.

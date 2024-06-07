@@ -30,6 +30,7 @@ region:
   - Australia
 discount_pct: 10
 ---
+
 HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry Pastes.
 
 ● Website : https://shop.jackiem.com.au/?ref=AARONGAN
@@ -38,7 +39,7 @@ HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry P
 
 ● Shipping :
 
-\* Delivery locals, interstate & international 
+\* Delivery locals, interstate & international
 
 \* If choose to pick up, current options :
 

@@ -19,6 +19,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 27 Glebe Point Rd,\
 Glebe,\
 NSW

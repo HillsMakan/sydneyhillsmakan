@@ -8,9 +8,9 @@ import image from '../assets/site/banner.jpg'
 import logocta from '../assets/site/logocta.jpg'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
-  title: '🍜 Join Hills Makan Group (International) 🌏',
+  title: 'Join Our Facebook Groups for Exclusive Benefits!',
   description:
-    'You do not have to leave in the Hills to join. It is open to everyone, and everyone is most welcome.',
+    'We’re excited to build a thriving community where members can enjoy exclusive benefits and connect with like-minded individuals. By joining our Facebook groups, you help us grow and enhance our offerings.',
   image: image
 }
 
@@ -31,17 +31,33 @@ const social = await getCollection('social')
             </div>
           </div>
           <div class='w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12'>
+            <div class='prose-xl px-3 prose md:px-6 xl:px-12'>
+              <h3>Why Join?</h3>
+              <ul>
+                <li>
+                  <b>Collaborations:</b>Higher member numbers allow us to partner with more
+                  businesses for exclusive deals and perks.
+                </li>
+                <li><b>Community:</b>Connect with others who share your interests and passions.</li>
+                <li><b>Benefits:</b>Gain access to special offers, events, and insider tips.</li>
+              </ul>
+              <p>
+                Your participation is crucial in helping us provide the best possible experience.
+                Together, we can create a vibrant, supportive network.
+              </p>
+              <p>Thank you for being a part of our community!</p>
+            </div>
             <div class='flex flex-wrap pt-8 lg:pt-0'>
               {
                 social.map(
                   (method) =>
                     method.data.link && (
-                      <div class='mb-12 w-full shrink-0 grow-0 basis-auto px-3 lg:w-full md:w-6/12 xl:w-6/12 md:px-6 xl:px-12'>
+                      <div class='mb-12 w-full shrink-0 grow-0 basis-auto px-3 lg:w-full md:w-6/12 md:px-6 xl:px-12'>
                         <div class='flex items-start'>
                           <div class='shrink-0'>
                             <div
                               class={
-                                'h-14 w-14 flex items-center justify-center rounded-md bg-purple-600 p-4 text-white shadow-md i-bi-' +
+                                'h-14 w-14 flex items-center justify-center rounded-md bg-blue-600 p-4 text-white shadow-md i-simple-icons-' +
                                 method.data.icon
                               }
                             />
@@ -52,7 +68,7 @@ const social = await getCollection('social')
                               {' '}
                               <a
                                 href={method.data.link}
-                                class='text-purple-600 dark:text-purple-300 hover:text-pink-600 dark:hover:text-pink-300'
+                                class='text-blue-600 dark:text-blue-300 hover:text-pink-600 dark:hover:text-pink-300'
                               >
                                 {method.data.link}
                               </a>

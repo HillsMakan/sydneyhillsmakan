@@ -27,12 +27,7 @@ export default defineConfig({
     'i-heroicons-puzzle-piece',
     'i-heroicons-presentation-chart-bar',
     'i-heroicons-clock',
-    'i-bi-envelope',
-    'i-bi-facebook',
-    'i-bi-github',
-    'i-bi-instagram',
-    'i-bi-linkedin',
-    'i-bi-telephone',
-    'i-bi-twitter' 
+    'i-simple-icons-facebook',
+    'i-simple-icons-linktree',
   ]
 })

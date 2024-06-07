@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Delivery Momma "
+title: 'Delivery Momma '
 description: Online Delivery Food
 link: https://deliverymomma.com.au
 image: ../../assets/images/deliverymomma.png
@@ -14,6 +14,7 @@ region:
   - Australia
 discount_pct: 5
 discount_text: Minimum order $50 & above
-comment: ""
+comment: ''
 ---
+
 Please use Code “Hills Makan” at the checkout

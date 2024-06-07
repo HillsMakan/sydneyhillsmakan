@@ -14,6 +14,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
+
 1 Rider Blvd,\
 Rhodes,\
 NSW

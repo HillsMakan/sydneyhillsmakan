@@ -15,6 +15,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 Shop R06, 275 Kent St, \
 Sydney, 2000, \
 NSW

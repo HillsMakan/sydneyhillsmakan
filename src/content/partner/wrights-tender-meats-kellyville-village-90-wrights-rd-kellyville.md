@@ -12,6 +12,7 @@ region:
 discount_pct: 5
 discount_text: Excluding specials
 ---
+
 Kellyville Village\
 Shop 13, 90 Wrights Rd, \
 Kellyville,\

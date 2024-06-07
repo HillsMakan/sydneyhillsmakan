@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Canterbury Speedmart "
+title: 'Canterbury Speedmart '
 description: Asian Grocery
 image: ../../assets/images/canterbury-speedmart.jpg
 categories:
@@ -13,6 +13,7 @@ region:
 discount_pct: 10
 discount_text: Excluding specials/promotions and Tobacco
 ---
+
 Block C103, 548-568 Canterbury Road, \
 Campsie,\
 NSW

@@ -11,6 +11,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 333 New Bridge Rd, \
 #01-01 Dorsett Singapore, 088765, \
 Singapore
