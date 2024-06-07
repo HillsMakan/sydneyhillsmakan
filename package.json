@@ -42,7 +42,7 @@
     "typescript": "~5.4.5",
     "unist-util-visit": "^5.0.0",
     "unocss": "^0.60.4",
-    "vite": "^5.2.12"
+    "vite": "^5.2.13"
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
