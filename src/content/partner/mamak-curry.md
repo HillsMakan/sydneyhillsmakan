@@ -1,7 +1,9 @@
 ---
 title: Mamak Curry - 86 Park Rd, Homebush, 2140, NSW
 description: Malaysia Food Truck (Halal Friendly No Pork)
-image: ../../assets/images/448083895_10160627409374620_2915815333161780705_n.jpg
+image: ""
+images:
+  - ../../assets/images/mamakcurry.jpg
 categories:
   - Restaurant
 cuisine:
