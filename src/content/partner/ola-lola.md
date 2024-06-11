@@ -22,7 +22,7 @@ discount_pct: 10
 ---
 Ola Lola provides traditional Latin American and Spanish food.
 
-☆ Markets where you can find Ola Lola 😋 food stalls : 
+☆ Markets where you can find Ola Lola food stalls : 
 
 ● Castle Hill Farmers & Fine Food Market : 2nd & 4th Saturday of the Month @ Castle Hill Showground, Showground Rd After, Gilbert Rd, Castle Hill from 8am - 12noon unless sold out 
 
