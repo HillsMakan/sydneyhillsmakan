@@ -4,7 +4,6 @@ description: Latin American & Spanish Cuisine
 image: ../../assets/images/olalola.jpg
 categories:
   - Food Stall
-  - Market
   - Catering
 cuisine:
   - Latin American
