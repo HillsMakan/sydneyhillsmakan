@@ -3,7 +3,7 @@ title: " Ola Lola"
 description: Latin American & Spanish Cuisine
 image: ../../assets/images/olalola.jpg
 categories:
-  - Food Stall
+  - Market Stall
   - Catering
 cuisine:
   - Latin American
