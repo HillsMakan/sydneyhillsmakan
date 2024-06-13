@@ -33,9 +33,11 @@ export async function getStaticPaths({ paginate }: { paginate: PaginateFunction 
     return data.draft !== true
   })
 
-  const cuisines = Array.from(new Set(partners.flatMap((partner) => partner.data.cuisine)))
+  let cuisines = Array.from(new Set(partners.flatMap((partner) => partner.data.cuisine)))
 
-  if (!cuisines[0]) return []
+  if (!cuisines[0]) {
+    cuisines = cuisines.slice(1)
+  }
 
   return cuisines.flatMap((cuisine) => {
     return paginate(

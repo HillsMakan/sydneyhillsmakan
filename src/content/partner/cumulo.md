@@ -5,7 +5,7 @@ image: ../../assets/images/cumulo.jpg
 categories:
   - Ice Cream Shop
 cuisine:
-  - Ice Cream and Ice Cream Cakes
+  - Ice Cream
 region:
   - Kings Langley
   - New South Wales

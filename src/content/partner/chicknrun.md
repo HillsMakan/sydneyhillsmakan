@@ -7,8 +7,7 @@ categories:
   - Shop
   - Halal
 cuisine:
-  - Chicken
-  - fresh salads and a wide range of burgers and hot food
+  - Western
 region:
   - North Kellyville
   - New South Wales

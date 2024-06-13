@@ -18,7 +18,6 @@ const partners = await getCollection('partner', ({ data }) => {
 })
 
 const cats = Array.from(new Set(partners.flatMap((partner) => partner.data.categories)))
-console.log(cats)
 ---
 
 <Base frontmatter={frontmatter}>
