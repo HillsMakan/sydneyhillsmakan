@@ -13,11 +13,11 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
 }
 
 const categories = await getCollection('category')
-const partners = await getCollection('partner', ({ data }) => {
-  return data.draft !== true
-})
+// const partners = await getCollection('partner', ({ data }) => {
+//   return data.draft !== true
+// })
 
-const cats = Array.from(new Set(partners.flatMap((partner) => partner.data.categories)))
+// const cats = Array.from(new Set(partners.flatMap((partner) => partner.data.categories)))
 ---
 
 <Base frontmatter={frontmatter}>
