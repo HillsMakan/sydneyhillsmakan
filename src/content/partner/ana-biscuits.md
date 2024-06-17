@@ -15,12 +15,11 @@ cuisine:
   - Middle Eastern
   - Halal
 region:
-  - Castle Hill
   - New South Wales
   - Australia
 discount_pct: 10
 discount_text: Excluding promotions
-comment: ''
+comment: ""
 ---
 
 Ana Biscuits specialties are no sugar, no egg and no dairy dates and walnut biscuits.
