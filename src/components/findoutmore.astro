@@ -1,29 +1,29 @@
 ---
 import { Image } from 'astro:assets'
-import partners from '../assets/backgrounds/restaurant.png'
-import cuisine from '../assets/backgrounds/food.png'
-import region from '../assets/backgrounds/region.png'
+import categoryimg from '../assets/site/partnersbycategory.jpg'
+import cuisineimg from '../assets/site/meetourpartners.jpg'
+import countryimg from '../assets/site/partnersbycountry.jpg'
 
 const callouts = [
   {
     name: 'Categories',
     description: 'Partners by categories',
-    imageSrc: partners,
+    imageSrc: categoryimg,
     imageAlt: 'Categories',
     href: '/categories'
   },
   {
     name: 'Cuisines',
     description: 'Partners by Cuisine',
-    imageSrc: cuisine,
+    imageSrc: cuisineimg,
     imageAlt: 'Cuisines',
     href: '/cuisines'
   },
   {
     name: 'Regions',
-    description: 'Partners by Region',
-    imageSrc: region,
-    imageAlt: 'Regions',
+    description: 'Partners by Country',
+    imageSrc: countryimg,
+    imageAlt: 'Countries',
     href: '/regions'
   }
 ]
