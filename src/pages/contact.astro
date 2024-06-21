@@ -5,7 +5,7 @@ import { Image } from 'astro:assets'
 import Base from '../layouts/base.astro'
 import PageHero from '../components/pagehero.astro'
 import { DefaultImage } from '../config'
-import logocta from '../assets/site/logocta.jpg'
+import membercard from '../assets/site/HMGmembercard01(INTERNATIONAL).jpg'
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
   title: 'Join Our Facebook Groups for Exclusive Benefits!',
@@ -30,8 +30,11 @@ const social = await getCollection('social')
       <div class='block bg-white lg:my-8 dark:bg-gray-900'>
         <div class='flex flex-wrap items-start'>
           <div class='block w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-4/12 lg:flex'>
-            <div class='w-full'>
-              <Image src={logocta} alt='cover image' />
+            <div class='w-full prose'>
+              <Image src={membercard} alt='cover image' />
+              <p>Get your <b>FREE Member Card</b> today ! Enjoy exclusive discounts with our partners by simply save your member card and showing your member card. Help support our amazing partners and save money while doing it !</p>
+              <p>
+                Share these benefits with your family and friends and help us spread the word !</p>
             </div>
           </div>
           <div class='w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12'>
