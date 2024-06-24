@@ -41,7 +41,8 @@ export const NavigationLinks = [
   { name: 'Cuisines', href: 'cuisines' },
   { name: 'Country', href: 'regions' },
   { name: 'About', href: 'about' },
-  { name: 'Membership', href: 'membership' }
+  { name: 'Membership', href: 'membership' },
+  { name: 'Partnership', href: 'partnership' }
 ]
 
 export const PAGE_SIZE = 96
