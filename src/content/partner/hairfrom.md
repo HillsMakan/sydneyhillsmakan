@@ -1,5 +1,5 @@
 ---
-title: HairFrom
+title: HairForm
 description: Hair Salon
 link: https://www.hairform.sg/
 image: ../../assets/images/1000095265.jpg
