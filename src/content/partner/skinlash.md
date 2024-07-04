@@ -26,4 +26,4 @@ Location : 29 Teo Hong Road, 088335, Singapore\
 Trading Hours :\
 -Monday to Friday : 11am to 8pm\
 -Saturday : 11am to 6.30pm\
--Sunday & Public Holiday : 11am -5pm (By Appointment Only)
+-Sunday & Public Holiday : 11am to 5pm (By Appointment Only)
