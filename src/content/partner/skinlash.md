@@ -1,6 +1,6 @@
 ---
 title: Skinlash
-description: Lash & Beauty Salon
+description: Beauty Salon
 link: https://www.skinlash.sg/
 image: ../../assets/images/1000095265.jpg
 images:
@@ -26,4 +26,4 @@ Location : 29 Teo Hong Road, 088335, Singapore\
 Trading Hours :\
 -Monday to Friday : 11am to 8pm\
 -Saturday : 11am to 6.30pm\
--Sunday : Closed
+-Sunday & Public Holiday : 11am -5pm (By Appointment Only)
