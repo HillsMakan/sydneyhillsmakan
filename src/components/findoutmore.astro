@@ -3,6 +3,8 @@ import { Image } from 'astro:assets'
 import categoryimg from '../assets/site/partnersbycategory.jpg'
 import cuisineimg from '../assets/site/meetourpartners.jpg'
 import countryimg from '../assets/site/partnersbycountry.jpg'
+import memberimg from '../assets/site/HMGmembercard01(INTERNATIONAL).jpg'
+import partnerimg from '../assets/site/HMGpartners01.jpg'
 
 const callouts = [
   {
@@ -25,7 +27,21 @@ const callouts = [
     imageSrc: countryimg,
     imageAlt: 'Countries',
     href: '/regions'
-  }
+  },
+  {
+    name: 'Membership',
+    description: 'Join Us!',
+    imageSrc: memberimg,
+    imageAlt: 'Membership',
+    href: '/membership'
+  },
+  {
+    name: 'Partnership',
+    description: 'Partner with Us!',
+    imageSrc: partnerimg,
+    imageAlt: 'Partnership',
+    href: '/partnership'
+  },
 ]
 ---
 
