@@ -39,7 +39,7 @@ export const NavigationLinks = [
   // { name: 'Partners', href: 'partner' },
   { name: 'Categories', href: 'categories' },
   { name: 'Cuisines', href: 'cuisines' },
-  { name: 'Country', href: 'regions' },
+  { name: 'Countries', href: 'regions' },
   { name: 'About', href: 'about' },
   { name: 'Membership', href: 'membership' },
   { name: 'Partnership', href: 'partnership' }
