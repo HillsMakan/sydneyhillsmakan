@@ -18,6 +18,6 @@ discount_text: Cash only excluding specials
 Address : Ernst & Young Building, 4/121 Marcus Clarke Street, Canberra, 2601, ACT
 
 Trading :\
--Monday to Thursday : 11am to 2.30pm & 5pm to 9pm\
--Friday & Saturday : 11am to 2.30pm & 5pm to 12 midnight\
+-Monday to Thursday : 11 am to 2.30 pm & 5 pm to 9 pm\
+-Friday & Saturday : 11 am to 2.30 pm & 5 pm to 12 midnight\
 -Sunday : Closed
