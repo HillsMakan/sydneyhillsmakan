@@ -7,12 +7,12 @@ images:
   - ../../assets/images/bird2.jpg
   - ../../assets/images/bird3.jpg
 categories:
-  - Migration support
-  - Integration services
+  - Migration Support
+  - Integration Services
 region:
   - Australia
 discount_pct: 15
-discount_text: ''
+discount_text: ""
 ---
 
 Special Offer when you mention HMG Member
