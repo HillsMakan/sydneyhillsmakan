@@ -29,5 +29,5 @@ Address : Shop 1, 268 Old Northern Rd, Castle Hill, 2154, NSW\
 
 Trading : \
 -Monday : Closed\
--Tuesday to Saturday : 8.30am to 4pm\
--Sunday : 9.30am to 4pm
+-Tuesday to Saturday : 8.30 am to 4 pm\
+-Sunday : 9.30 am to 4 pm
