@@ -17,4 +17,7 @@ Fresh Sugarcane Juice, fruit juices, ice cream, milk shakes, eggs and etc.
 
 Address : Gate 2, Shop 5, Parklea Markets, 601 Sunnyholt Rd, Parklea, 2768, NSW
 
-Trading : Friday to Sunday : 8.30 am to 5 pm
+Trading : 
+
+* Friday - Sunday : 8.30 am - 5 pm
+* Monday - Thursday : Closed
