@@ -3,7 +3,7 @@ title: Chapayom Cabramatta
 description: Thai classics to exotic quirky flavours drinks
 image: ../../assets/images/chapayom-cabramatta.jpg
 categories:
-  - Kios
+  - Food & Beverage
 cuisine:
   - Thai Drinks
   - Bubble Tea
@@ -14,7 +14,6 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
+Address : 99 John St, Cabramatta, 2166, NSW
 
-99 John St,\
-Cabramatta,\
-NSW
+Trading : Monday - Sunday : 10 am - 6 pm
