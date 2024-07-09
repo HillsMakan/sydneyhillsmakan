@@ -16,7 +16,8 @@ comment: "Online discount code : GGVX394TYD42"
 ---
 Address : Unit 14, 7 Hoyle Ave., Castle Hill, 2154, NSW
 
-Trading :\
--Monday : Closed\
--Tuesday to Saturday : 9.30 am to 6 pm\
--Sunday : 9.30 am to 2.30 pm
+Trading :
+
+* Monday : Closed
+* Tuesday - Saturday : 9.30 am - 6 pm
+* Sunday : 9.30 am - 2.30 pm
