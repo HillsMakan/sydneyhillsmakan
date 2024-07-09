@@ -2,7 +2,7 @@
 draft: false
 title: A B Cheese
 description: Italian Cuisine
-link: https://linktr.ee/ee.cakery
+link: ""
 image: ../../assets/images/abcheese.jpg
 images:
   - ../../assets/images/abcheese1.jpg
