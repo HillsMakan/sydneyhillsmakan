@@ -18,5 +18,5 @@ Address : Unit 14, 7 Hoyle Ave., Castle Hill, 2154, NSW
 
 Trading :\
 -Monday : Closed\
--Tuesday to Saturday : 9.30am to 6pm\
--Sunday : 9.30am to 2.30pm
+-Tuesday to Saturday : 9.30 am to 6 pm\
+-Sunday : 9.30 am to 2.30 pm
