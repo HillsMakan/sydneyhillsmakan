@@ -3,7 +3,7 @@ title: 北馬咖喱面 Curry Mee
 description: Malaysian Halal Cuisine
 image: ../../assets/images/currymee.jpg
 categories:
-  - Food Truck
+  - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
@@ -14,14 +14,10 @@ region:
 discount_pct: 5
 discount_text: Minimum purchase $20 & above and excluding promotions
 ---
-
-131 Parramatta Rd,\
-Homebush, \
-NSW
-
+Address : 131 Parramatta Rd, Homebush, 2140, NSW\
 (Parking at rear on Park Road entrance)
 
 Trading:
 
-- Monday to Saturday : 5 pm - 1 am
-- Sunday : 5 pm - 12 midnight
+* Monday - Saturday : 5 pm - 1 am
+* Sunday : 11 am - 10 pm
