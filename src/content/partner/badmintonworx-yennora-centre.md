@@ -17,6 +17,7 @@ Weekdays, court hiring $25/hour (normally $30/hour)
 Address : Unit 7B, 26 Nelson Road, Yennora, 2161, NSW\
 (5 mins walk from Yennora Station)
 
-Trading :\
--Monday to Friday : 10 am to 11 pm\
--Saturday & Sunday : 8 am to 11 pm
+Trading :
+
+* Monday - Friday : 10 am - 11 pm
+* Saturday & Sunday : 8 am - 11 pm
