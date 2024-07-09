@@ -27,7 +27,8 @@ Ana Biscuits specialties are no sugar, no egg and no dairy dates and walnut bisc
 Address : Shop 1, 268 Old Northern Rd, Castle Hill, 2154, NSW\
 (Only 1 min walk from Castle Towers Shopping Centre Piazza/Castle Mall Shopping Centre or 5 mins walking distance from Castle Hill Metro Station)
 
-Trading : \
--Monday : Closed\
--Tuesday to Saturday : 8.30 am to 4 pm\
--Sunday : 9.30 am to 4 pm
+Trading : 
+
+* Monday : Closed
+* Tuesday - Saturday : 8.30 am - 4 pm
+* Sunday : 9.30 am - 4 pm
