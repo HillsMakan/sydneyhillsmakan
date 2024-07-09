@@ -3,7 +3,7 @@ title: Chef Kwon Kitchen
 description: Malaysian Cuisine
 image: ../../assets/images/chefkwankitchen.jpg
 categories:
-  - Restaurant
+  - Food & Beverage
 cuisine:
   - Malaysian
 region:
@@ -13,9 +13,10 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
-
-92 Yarrara Road\
-Pennant Hills,\
-NSW
-
+Address : 92 Yarrara Road, Pennant Hills, 2120, NSW\
 (2 mins walk from Pennant Hills Station)
+
+Trading : 
+
+* Wednesday - Monday : 11 am - 9 pm
+* Tuesday : Closed
