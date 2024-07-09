@@ -1,6 +1,6 @@
 ---
 title: Chef Kwon Kitchen
-description: Malaysian Cuisine
+description: Malaysian, Singaporean & Asian Cuisine
 image: ../../assets/images/chefkwankitchen.jpg
 categories:
   - Food & Beverage
