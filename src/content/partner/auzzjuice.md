@@ -3,7 +3,7 @@ title: Auzz Juice Bar - Parklea Markets
 description: Sugarcane Juice Bar
 image: ../../assets/images/auzzjuice.jpg
 categories:
-  - Parklea Markets Stall
+  - Markets
 cuisine:
   - Drinks
 region:
@@ -13,13 +13,9 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
-
 Fresh Sugarcane Juice, fruit juices, ice cream, milk shakes, eggs and etc.
 
-Gate 2, Shop 5\
-Parklea Markets\
-601 Sunnyholt Rd\
-Parklea, \
-NSW
+Address : Gate 2, Shop 5, Parklea Markets, 601 Sunnyholt Rd, Parklea, 2768, NSW
 
-Fri – Sun : 8.30 am – 5 pm
+Trading : \
+-Friday to Sunday : 8.30am to 5pm
