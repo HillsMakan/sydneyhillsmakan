@@ -13,8 +13,7 @@ images:
   - ../../assets/images/abcheese6.jpg
   - ../../assets/images/abcheese7.jpg
 categories:
-  - Market
-  - Stall
+  - Markets
 cuisine:
   - Italian
 region:
