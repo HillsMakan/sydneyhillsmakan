@@ -1,9 +1,9 @@
 ---
 title: CANEBLAST - Parklea Markets
-description: Sugarcane Juice Bar
+description: Sugarcane Juice Bar & Potato Tornado
 image: ../../assets/images/caneblast.jpg
 categories:
-  - Parklea Markets Stall
+  - Markets
 cuisine:
   - Drinks
 region:
@@ -13,11 +13,9 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
+Address : Gate 2, Shop 198, Parklea Markets, 601 Sunnyholt Rd, Parklea, 2768, NSW
 
-Gate 2, Shop 198\
-Parklea Markets\
-601 Sunnyholt Rd\
-Parklea, \
-NSW
+Trading : 
 
-Sat – Sun : 9.30 am – 4 pm
+* Saturday - Sunday : 9.30 am - 4 pm
+* Monday - Friday : Closed
