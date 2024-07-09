@@ -3,7 +3,7 @@ title: Bintang Bro
 description: Indonesian Fusion
 image: ../../assets/images/bintangbro.png
 categories:
-  - Restaurant
+  - Food & Beverage
 cuisine:
   - Indonesian
   - Halal
@@ -15,9 +15,8 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
-
-Shop 4, 1 Little Pier St,\
-Haymarket,\
-NSW
-
+Address : Shop 4, 1 Little Pier St, Haymarket, 2000, NSW\
 (Locate at Darling Square Food Court. Inside The Exchange Building that looks like a bird nest in Darling Square)
+
+Trading : \
+-Monday to Sunday : 11 am to 8 pm
