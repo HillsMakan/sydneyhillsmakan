@@ -14,6 +14,6 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
-Address : 99 John St, Cabramatta, 2166, NSW
+**Location :** 99 John St, Cabramatta, 2166, NSW
 
-Trading : Monday - Sunday : 10 am - 6 pm
+**Trading :** Monday - Sunday : 10 am - 6 pm
