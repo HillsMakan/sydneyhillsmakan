@@ -15,7 +15,7 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
-Address : Unit 17a, 4 Birmingham Avenue, Villawood, 2163, NSW
+Location : Unit 17a, 4 Birmingham Avenue, Villawood, 2163, NSW
 
 Trading hours:
 
