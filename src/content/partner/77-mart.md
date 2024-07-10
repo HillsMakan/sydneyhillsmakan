@@ -6,6 +6,7 @@ link: https://77mart.au
 image: ../../assets/images/77mart.jpg
 categories:
   - Supermarket
+  - Online
 region:
   - Castle Hill
   - New South Wales
