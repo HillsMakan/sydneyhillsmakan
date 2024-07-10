@@ -8,7 +8,7 @@ images:
   - ../../assets/images/dorsettsg3.jpg
   - ../../assets/images/dorsettsg4.jpg
 categories:
-  - Accommodation
+  - Hotels
 region:
   - Singapore
 discount_pct: 15
