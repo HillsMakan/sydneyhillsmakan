@@ -1,9 +1,11 @@
 ---
 title: ilove.icook.ieat
 description: Handmade cookies and cakes
+link: https://www.iloveicookieat.com.au/
 image: ../../assets/images/ilove.icook.ieat.jpg
 categories:
-  - Baking
+  - Food & Beverage
+  - Online
 region:
   - Sydney
   - New South Wales
