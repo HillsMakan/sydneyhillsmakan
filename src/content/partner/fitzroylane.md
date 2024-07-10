@@ -14,6 +14,6 @@ region:
 discount_pct: 5
 discount_text: Excluding cafe, drinks bar, specials and promotions
 ---
-Address : Seven Hills RSL Club, 108 Best Road, Seven Hills, 2147, NSW
+**Location :** Seven Hills RSL Club, 108 Best Road, Seven Hills, 2147, NSW
 
-Trading : Monday - Sunday : 9 am - 9 pm
+**Trading :** Monday - Sunday : 9 am - 9 pm
