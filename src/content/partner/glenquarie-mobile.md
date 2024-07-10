@@ -16,9 +16,9 @@ discount_text: Excluding specials & gift card
 
 ● 20% Discount Accessories case
 
-Address : Glenquarie Town Centre, Shop 21 (Opposite Target), 14 Brooks St, Macquarie Fields, 2564, NSW
+**Location :** Glenquarie Town Centre, Shop 21 (Opposite Target), 14 Brooks St, Macquarie Fields, 2564, NSW
 
-Trading :
+**Trading :**
 
 * Monday - Wednesday : 9 am - 5.30pm
 * Thursday : 9 am - 7 pm
