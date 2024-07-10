@@ -17,9 +17,9 @@ For Reservations Phone : 0461 591 787
 
 Enquiries for functions and catering. Please mention that you are HMG member when requesting for quote.
 
-Address : 430 Treeton Rd, Cowaramup, 6284, WA
+**Location :** 430 Treeton Rd, Cowaramup, 6284, WA
 
-Trading : 
+**Trading :** 
 
 * Friday : 5 pm - 9 pm
 * Saturday & Sunday : 9 am - 5 pm
