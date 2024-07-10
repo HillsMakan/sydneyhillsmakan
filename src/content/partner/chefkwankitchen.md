@@ -13,10 +13,10 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
-Address : 92 Yarrara Road, Pennant Hills, 2120, NSW\
+**Location :** 92 Yarrara Road, Pennant Hills, 2120, NSW\
 (2 mins walk from Pennant Hills Station)
 
-Trading : 
+**Trading :** 
 
 * Wednesday - Monday : 11 am - 9 pm
 * Tuesday : Closed
