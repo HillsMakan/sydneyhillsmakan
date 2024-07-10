@@ -23,9 +23,9 @@ OR
 Online at https://www.cafesaturdays.com.au/\
 Check out code : MAKAN10
 
-Address : The Village Green Dural building, Shop 3, 22-24 Kenthurst Rd, Dural, 2158, NSW
+**Location :** The Village Green Dural building, Shop 3, 22-24 Kenthurst Rd, Dural, 2158, NSW
 
-Trading : 
+**Trading :** 
 
 * Monday - Saturday : 7 am - 4.30 pm
 * Sunday : 8 am - 2.30 pm
