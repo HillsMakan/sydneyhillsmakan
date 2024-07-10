@@ -15,5 +15,5 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
-Address : Shop R06, 275 Kent St, Sydney, 2000, NSW\
+**Location :** Shop R06, 275 Kent St, Sydney, 2000, NSW\
 (Only 1 min walk from behind Wynyard Station. Located under the Westpac Building and the area is called Urban Park Food Court Precinct. Closed on weekends.)
