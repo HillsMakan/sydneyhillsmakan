@@ -4,7 +4,7 @@ title: Gold Class Transfers
 description: Hire Cars and Taxi Chauffeur Services
 image: ../../assets/images/gold-class-transfers.jpg
 categories:
-  - Hire Car
+  - Hire Chauffeur Services
   - Airport Transfers
 region:
   - Sydney
