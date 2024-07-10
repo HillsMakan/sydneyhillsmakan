@@ -8,7 +8,8 @@ images:
   - ../../assets/images/ee.cakery1.jpg
   - ../../assets/images/ee.cakery2.jpg
 categories:
-  - Cakes
+  - Food & Beverage
+  - Online
 cuisine:
   - Dessert
 region:
