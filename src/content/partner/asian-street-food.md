@@ -15,7 +15,7 @@ region:
 discount_pct: 5
 discount_text: Cash only excluding specials
 ---
-Address : Ernst & Young Building, 4/121 Marcus Clarke Street, Canberra, 2601, ACT
+Location : Ernst & Young Building, 4/121 Marcus Clarke Street, Canberra, 2601, ACT
 
 Trading :
 
