@@ -3,7 +3,7 @@ title: Fitzroy Lane
 description: Western & Asian Cuisine
 image: ../../assets/images/fitzroylane.jpg
 categories:
-  - Restaurant
+  - Food & Beverage
 cuisine:
   - Western
   - Asian
@@ -14,8 +14,6 @@ region:
 discount_pct: 5
 discount_text: Excluding cafe, drinks bar, specials and promotions
 ---
+Address : Seven Hills RSL Club, 108 Best Road, Seven Hills, 2147, NSW
 
-Seven Hills RSL Club\
-108 Best Road,\
-Seven Hills, \
-NSW
+Trading : Monday - Sunday : 9 am - 9 pm
