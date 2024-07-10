@@ -22,10 +22,10 @@ HairForm is a contemporary salon founded by Michael Chiew in December 2019. With
 
 HairForm was accoladed with the Daily Vanity Beauty Award in 2021, 2022 & 2023.
 
-Location : 29 Teo Hong Road, 088335, Singapore\
+**Location :** 29 Teo Hong Road, 088335, Singapore\
 (2 mins walk from Outram Park MRT Station Exit 4 or 1 min walk from Dorsett Singapore Hotel)
 
-Trading Hours :
+**Trading :**
 
 * Monday to Friday : 11am to 8pm
 * Saturday : 11am to 6.30pm
