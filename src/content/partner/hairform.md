@@ -4,13 +4,13 @@ description: Hair Salon
 link: https://www.hairform.sg/
 image: ../../assets/images/1000095265.jpg
 images:
-  - ../../assets/images/1000095453.png
-  - ../../assets/images/1000095445.jpg
-  - ../../assets/images/1000095447.jpg
-  - ../../assets/images/1000095448.jpg
-  - ../../assets/images/1000095444.jpg
-  - ../../assets/images/1000095266.jpg
-  - ../../assets/images/1000095264.jpg
+  - ../../assets/images/hairform1.png
+  - ../../assets/images/hairform2.jpg
+  - ../../assets/images/hairform3.jpg
+  - ../../assets/images/hairform4.jpg
+  - ../../assets/images/hairform5.jpg
+  - ../../assets/images/hs.jpg
+  - ../../assets/images/hs1.jpg
 categories:
   - Hair Salon
 region:
@@ -25,7 +25,8 @@ HairForm was accoladed with the Daily Vanity Beauty Award in 2021, 2022 & 2023.
 Location : 29 Teo Hong Road, 088335, Singapore\
 (2 mins walk from Outram Park MRT Station Exit 4 or 1 min walk from Dorsett Singapore Hotel)
 
-Trading Hours :\
--Monday to Friday : 11am to 8pm\
--Saturday : 11am to 6.30pm\
--Sunday & Public Holiday : 11am to 5pm (By Appointment Only)
+Trading Hours :
+
+* Monday to Friday : 11am to 8pm
+* Saturday : 11am to 6.30pm
+* Sunday & Public Holiday : 11am to 5pm (By Appointment Only)
