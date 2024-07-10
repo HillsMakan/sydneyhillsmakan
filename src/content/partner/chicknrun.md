@@ -15,6 +15,6 @@ discount_pct: 5
 ---
 All their chickens are Lilydale free range and Halal
 
-Address : North Kellyville Square, 46 Withers Rd, North Kellyville, 2155, NSW
+**Location :** North Kellyville Square, 46 Withers Rd, North Kellyville, 2155, NSW
 
-Trading : Monday - Sunday : 10 am - 8 pm
+**Trading :** Monday - Sunday : 10 am - 8 pm
