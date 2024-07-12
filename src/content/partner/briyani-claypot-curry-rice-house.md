@@ -4,7 +4,8 @@ title: Briyani & Claypot Curry Rice House
 description: Malaysian Cuisine Halal
 image: ../../assets/images/briyani-claypot-curry-rice-house.jpg
 categories:
-  - Food & Beverage
+  - NSW
+  - Australia - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
