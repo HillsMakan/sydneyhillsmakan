@@ -1,6 +1,7 @@
 ---
 title: Dorsett Singapore
 description: Hotel
+link: https://www.dorsetthotels.com/dorsett-singapore/index.html
 image: ../../assets/images/dorsettsg.jpg
 images:
   - ../../assets/images/dorsettsg1.jpg
@@ -8,7 +9,7 @@ images:
   - ../../assets/images/dorsettsg3.jpg
   - ../../assets/images/dorsettsg4.jpg
 categories:
-  - Hotels
+  - Singapore - Hotels
 region:
   - Singapore
 discount_pct: 15
