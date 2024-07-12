@@ -3,8 +3,7 @@ title: Bintang Bro
 description: Indonesian Fusion
 image: ../../assets/images/bintangbro.png
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Indonesian
   - Halal
