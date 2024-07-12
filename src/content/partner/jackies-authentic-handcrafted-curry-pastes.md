@@ -22,7 +22,7 @@ images:
   - ../../assets/images/jackiem16.jpg
   - ../../assets/images/jackiem17.jpg
 categories:
-  - Online
+  - International - Online
 cuisine:
   - Malaysian
   - Singaporean
