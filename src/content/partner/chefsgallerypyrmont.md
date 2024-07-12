@@ -3,7 +3,8 @@ title: Chefs Gallery Pyrmont
 description: Chinese Cuisine
 image: ../../assets/images/chefsgallerypyrmont.jpg
 categories:
-  - Food & Beverage
+  - NSW
+  - Australia - Food & Beverage
 cuisine:
   - Chinese
 region:
@@ -13,7 +14,7 @@ region:
 discount_pct: 5
 discount_text: Available for dine-in service only and not in conjunction with any other offer.
 ---
-**Location :** 9 Union St, Pyrmont, 2009, NSW
+**Location :** 9 Union St, Pyrmont, 2009, New South Wales, Australia
 
 **Trading :** 
 
