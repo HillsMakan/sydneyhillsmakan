@@ -10,7 +10,8 @@ images:
   - ../../assets/images/ana3.jpg
   - ../../assets/images/ana4.jpg
 categories:
-  - Food & Beverage - NSW
+  - NSW
+  - Australia - Food & Beverage
 cuisine:
   - Middle Eastern
   - Halal
