@@ -4,8 +4,7 @@ description: Thai classics to exotic quirky flavours drinks, Sangkaya Milky Bun
   and many more
 image: ../../assets/images/chapayom.jpg
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Thai Drinks
   - Bubble Tea
