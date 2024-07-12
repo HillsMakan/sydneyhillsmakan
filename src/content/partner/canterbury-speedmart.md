@@ -4,7 +4,8 @@ title: "Canterbury Speedmart "
 description: Asian Grocery
 image: ../../assets/images/canterbury-speedmart.jpg
 categories:
-  - Groceries
+  - NSW
+  - Australia - Groceries
 region:
   - Campsie
   - New South Wales
@@ -12,7 +13,7 @@ region:
 discount_pct: 10
 discount_text: Excluding specials/promotions and Tobacco
 ---
-**Location :** Block C103, 548-568 Canterbury Road, Campsie, 2194, NSW\
+**Location :** Block C103, 548-568 Canterbury Road, Campsie, 2194, New South Wales, Australia\
 (Only 5 mins walk from Canterbury Hospital Entrance)
 
 **Trading :** 
