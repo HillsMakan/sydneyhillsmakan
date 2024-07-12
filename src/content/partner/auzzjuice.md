@@ -4,6 +4,7 @@ description: Sugarcane Juice Bar
 image: ../../assets/images/auzzjuice.jpg
 categories:
   - NSW Australia - Markets
+  - NSW Australia - Food & Beverage
 cuisine:
   - Drinks
 region:
