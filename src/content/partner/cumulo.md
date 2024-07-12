@@ -3,8 +3,7 @@ title: CUMULO Ice Cream Shop
 description: Ice Cream and Ice Cream Cakes
 image: ../../assets/images/cumulo.jpg
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Ice Cream
 region:
