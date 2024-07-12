@@ -4,7 +4,7 @@ title: Asian Street Food 味食街 Restaurant
 description: Malaysian Halal Cuisine
 image: ../../assets/images/asian-street-food.jpg
 categories:
-  - Food & Beverage
+  - Food & Beverage - ACT
 cuisine:
   - Malaysian
   - Halal
