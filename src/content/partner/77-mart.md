@@ -5,8 +5,10 @@ description: Asian Grocery
 link: https://77mart.au
 image: ../../assets/images/77mart.jpg
 categories:
-  - Groceries - NSW
-  - Online - NSW
+  - NSW
+  - Australia - Groceries
+  - NSW
+  - Australia - Online
 region:
   - Castle Hill
   - New South Wales
