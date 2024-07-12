@@ -4,6 +4,7 @@ description: Sugarcane Juice Bar & Potato Tornado
 image: ../../assets/images/caneblast.jpg
 categories:
   - NSW Australia - Markets
+  - NSW Australia - Food & Beverage
 cuisine:
   - Drinks
 region:
