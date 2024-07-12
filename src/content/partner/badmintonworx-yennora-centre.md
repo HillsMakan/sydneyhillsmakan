@@ -3,8 +3,7 @@ draft: false
 title: BadmintonWorx Yennora Centre
 image: ../../assets/images/badmintonworxyennora.jpg
 categories:
-  - NSW
-  - Australia - Sports Activities
+  - NSW Australia - Sports Activities
 region:
   - Yennora
   - New South Wales
