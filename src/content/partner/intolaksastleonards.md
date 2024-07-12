@@ -3,7 +3,7 @@ title: Into Laksa - St Leonards
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksastleonards.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Malaysian
 region:
@@ -13,9 +13,11 @@ region:
 discount_pct: 10
 discount_text: 1 Free Soft Drink (HMG Member) + 10 % Discount (Cash Only)
 ---
-
-Mall 88, Shop LG01/88 Christie St,\
-St Leonards,\
-NSW
-
+**Location :** Mall 88, Shop LG01/88 Christie St, St Leonards, 2065, New South Wales, Australia\
+(5 minswalk from St Leonard Station)\
 (Down the escalator turn right walk towards the exit door. Just before the exit door on your left)
+
+**Trading :**
+
+* Monday & Tuesday : 11 am - 3 pm & 4 pm - 8.30 pm
+* Wednesday - Sunday : 11 am - 3 pm & 4 pm - 9 pm
