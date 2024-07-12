@@ -3,8 +3,7 @@ title: Chefs Gallery Pyrmont
 description: Chinese Cuisine
 image: ../../assets/images/chefsgallerypyrmont.jpg
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Chinese
 region:
