@@ -8,7 +8,7 @@ images:
   - ../../assets/images/bayu5.jpg
   - ../../assets/images/bayu.jpg
 categories:
-  - NSW Australia - Online
+  - Australia - Online
 cuisine:
   - Honey
 region:
