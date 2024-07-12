@@ -3,8 +3,7 @@ title: 北馬咖喱面 Curry Mee
 description: Malaysian Halal Cuisine
 image: ../../assets/images/currymee.jpg
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
