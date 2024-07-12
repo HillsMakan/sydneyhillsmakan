@@ -6,8 +6,7 @@ image: ../../assets/images/bling-mee-nail-salon.jpg
 images:
   - ../../assets/images/bling-mee-logo.jpg
 categories:
-  - NSW
-  - Australia - Beauty Salon
+  - NSW Australia - Beauty Salon
 region:
   - Sydney
   - New South Wales
