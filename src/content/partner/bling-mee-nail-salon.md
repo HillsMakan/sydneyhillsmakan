@@ -15,7 +15,7 @@ region:
 discount_pct: 5
 discount_text: Cash only & excluding promotions
 ---
-**Location :** Shop 125, 75 Bathurst St, Sydney, 2000, NSW, Australia\
+**Location :** Shop 125, 75 Bathurst St, Sydney, 2000, New South Wales, Australia\
 (Inside Jin Sun Mee Hair Salon Shop. 3 mins walk from Town Hall Station. Just at the traffic lights where Town Hall Square is intersection between Bathurst St and Kent St)
 
 **Trading :**
