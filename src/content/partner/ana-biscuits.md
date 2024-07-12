@@ -10,7 +10,7 @@ images:
   - ../../assets/images/ana3.jpg
   - ../../assets/images/ana4.jpg
 categories:
-  - Food & Beverage
+  - Food & Beverage - NSW
 cuisine:
   - Middle Eastern
   - Halal
@@ -24,7 +24,7 @@ comment: ""
 ---
 Ana Biscuits specialties are no sugar, no egg and no dairy dates and walnut biscuits.
 
-**Location :** Shop 1, 268 Old Northern Rd, Castle Hill, 2154, NSW\
+**Location :** Shop 1, 268 Old Northern Rd, Castle Hill, 2154, NSW, Australia\
 (Only 1 min walk from Castle Towers Shopping Centre Piazza/Castle Mall Shopping Centre or 5 mins walking distance from Castle Hill Metro Station)
 
 **Trading :** 
