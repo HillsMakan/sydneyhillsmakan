@@ -3,8 +3,7 @@ title: Brew Bar Café
 description: Fusion
 image: ../../assets/images/brewbarcafe.jpg
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Coffee
   - Western
