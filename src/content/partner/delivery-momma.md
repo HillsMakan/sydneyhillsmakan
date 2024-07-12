@@ -5,8 +5,8 @@ description: Online Delivery Food
 link: https://deliverymomma.com.au
 image: ../../assets/images/deliverymomma.png
 categories:
-  - Online
-  - Food & Beverage
+  - NSW Australia - Online
+  - NSW Australia - Food & Beverage
 cuisine:
   - Asian
 region:
