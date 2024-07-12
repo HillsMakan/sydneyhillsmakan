@@ -3,8 +3,7 @@ title: DC Bar Blacktown - Dining Collective
 description: Beverage and Dessert
 image: ../../assets/images/dcbar.jpg
 categories:
-  - NSW
-  - Australia - Food & Beverage
+  - NSW Australia - Food & Beverage
 cuisine:
   - Drinks
   - Dessert
