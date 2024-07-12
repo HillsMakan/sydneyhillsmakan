@@ -12,7 +12,7 @@ images:
   - ../../assets/images/hs.jpg
   - ../../assets/images/hs1.jpg
 categories:
-  - Beauty Salon
+  - Singapore - Beauty Salon
 region:
   - Singapore
 discount_pct: 15
