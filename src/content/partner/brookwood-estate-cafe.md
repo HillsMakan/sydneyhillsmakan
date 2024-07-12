@@ -3,7 +3,8 @@ title: Brookwood Estate Cafe
 description: Malaysian Halal Cruisine
 image: ../../assets/images/brookwood-estate-cafe.jpg
 categories:
-  - Food & Beverage
+  - WA
+  - Australia - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
@@ -17,7 +18,7 @@ For Reservations Phone : 0461 591 787
 
 Enquiries for functions and catering. Please mention that you are HMG member when requesting for quote.
 
-**Location :** 430 Treeton Rd, Cowaramup, 6284, WA
+**Location :** 430 Treeton Rd, Cowaramup, 6284, Western Australia, Australia
 
 **Trading :** 
 
