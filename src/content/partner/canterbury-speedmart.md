@@ -4,8 +4,7 @@ title: "Canterbury Speedmart "
 description: Asian Grocery
 image: ../../assets/images/canterbury-speedmart.jpg
 categories:
-  - NSW
-  - Australia - Groceries
+  - NSW Australia - Groceries
 region:
   - Campsie
   - New South Wales
