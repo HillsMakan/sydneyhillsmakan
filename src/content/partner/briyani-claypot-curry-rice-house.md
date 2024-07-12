@@ -5,6 +5,7 @@ description: Malaysian Cuisine Halal
 image: ../../assets/images/briyani-claypot-curry-rice-house.jpg
 categories:
   - NSW Australia - Food & Beverage
+  - NSW Australia - Markets
 cuisine:
   - Malaysian
   - Halal
