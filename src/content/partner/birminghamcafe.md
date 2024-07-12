@@ -3,7 +3,8 @@ title: Birmingham Café
 description: Coffee shop and Western Breakfast
 image: ../../assets/images/birminghamcafe.jpg
 categories:
-  - Food & Beverage
+  - NSW
+  - Australia - Food & Beverage
 cuisine:
   - Coffee
   - Western
@@ -15,7 +16,7 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
-**Location :** Unit 17a, 4 Birmingham Avenue, Villawood, 2163, NSW
+**Location :** Unit 17a, 4 Birmingham Avenue, Villawood, 2163, NSW, Australia
 
 **Trading :**
 
