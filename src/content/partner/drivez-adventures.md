@@ -20,9 +20,9 @@ images:
   - ../../assets/images/drivez-adventures13.jpg
   - ../../assets/images/drivez-adventures14.jpg
 categories:
-  - Hire Chauffeur Services
-  - Airport Transfers
-  - Tours
+  - NSW Australia - Hire Chauffeur Services
+  - NSW Australia - Airport Transfers
+  - NSW Australia - Tours
 region:
   - Sydney
   - New South Wales
@@ -31,8 +31,7 @@ discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
 ---
-
-Contact\
+**Contact :**\
 Name : Myron “Zed” Zlotnick\
 Phone : +61 433 670 450\
 Email : zed@drivez.com.au
