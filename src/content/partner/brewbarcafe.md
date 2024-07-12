@@ -18,7 +18,7 @@ discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sand
 ---
 Hot & Cold Drinks., Pastry, Toastie, Meals & Etc.
 
-**Location :** The Langston Apartments, Ground Floor, 8 Chambers Court, Epping, 2121, NSW, Australia\
+**Location :** The Langston Apartments, Ground Floor, 8 Chambers Court, Epping, 2121, New South Wales, Australia\
 (Between Epping Station 3 mins walk and Epping Library 1 min walk)
 
 **Trading :** 
