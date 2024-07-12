@@ -8,8 +8,8 @@ images:
   - ../../assets/images/ee.cakery1.jpg
   - ../../assets/images/ee.cakery2.jpg
 categories:
-  - Food & Beverage
-  - Online
+  - NSW Australia - Food & Beverage
+  - NSW Australia - Online
 cuisine:
   - Dessert
 region:
