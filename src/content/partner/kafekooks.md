@@ -14,7 +14,7 @@ images:
   - ../../assets/images/kafekooks9.jpg
   - ../../assets/images/kafekooks10.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Asian
   - Fusion
@@ -25,7 +25,7 @@ region:
 discount_pct: 10
 discount_text: Plus $5 off first order as a thank you to all new app users
 ---
+**Location :** 63 Mountain St, Ultimo, 2007, New South Wales, Australia\
+(10 mins walk from Central Station)
 
-63 Mountain St, \
-Ultimo, \
-NSW
+**Trading :** Monday - Sunday : 6 am - 9 pm
