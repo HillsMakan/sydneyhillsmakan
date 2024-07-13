@@ -16,7 +16,5 @@ discount_text: Excluding promotions
 ---
 **Location :** 86 Park Rd, Homebush, 2140, New South Wales, Australia
 
-**Trading :** 
-
-* Monday to Sunday : 11.30 am - 10 pm\
-  (Monday to Friday staff break/rest between 2.30 pm and 4.30 pm)
+**Trading :** Monday to Sunday : 11.30 am - 10 pm\
+(Monday to Friday staff break/rest between 2.30 pm and 4.30 pm)
