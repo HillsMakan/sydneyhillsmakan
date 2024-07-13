@@ -3,7 +3,7 @@ title: Jim's Malaysia - Newcastle
 description: Malaysian Cuisine
 image: ../../assets/images/jimsnewcastle.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Malaysian
 region:
@@ -13,10 +13,11 @@ region:
 discount_pct: 10
 discount_text: Meals only
 ---
+**Location :** Charlestown Square, L2 Shop 2096A, Corner at Ridley Street and 30 Pearson Street, 2290, Newcastle, New South Wales, Australia
 
-2096A JIM'S MALAYSIA\
-Charlestown Square,\
-Newcastle,\
-NSW
+**Trading :** 
 
-(Corner of Ridley St and Pearson St)
+* Monday : Closed
+* Tuesday & Wednesday : 11 am - 8.30 pm
+* Thursday - Saturday : 11 am - 9 pm
+* Sunday : 11 am - 8.30 pm
