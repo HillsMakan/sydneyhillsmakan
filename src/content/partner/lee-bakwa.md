@@ -1,6 +1,6 @@
 ---
 title: Lee Bakwa
-description: ''
+description: ""
 link: https://www.roastdfunkd.co
 image: ../../assets/images/lee-bakwa.jpg
 images:
@@ -9,7 +9,7 @@ images:
   - ../../assets/images/lee-bakwa4.jpg
   - ../../assets/images/lee-bakwa2.jpg
 categories:
-  - Online
+  - Australia - Online
 cuisine:
   - Malaysian
 region:
@@ -17,7 +17,7 @@ region:
   - New South Wales
   - Australia
 discount_pct: 5
-discount_text: 'For orders $100 and above excluding deliveries. Mention Code HMG5. '
+discount_text: "For orders $100 and above excluding deliveries. Mention Code HMG5. "
 ---
 
 Delivery Australia Wide. Order and Enquiries contact Kenny either :
