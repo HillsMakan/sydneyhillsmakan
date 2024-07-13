@@ -10,7 +10,7 @@ images:
   - ../../assets/images/madecomfy4.jpg
   - ../../assets/images/madecomfy5.jpg.jpeg
 categories:
-  - Accommodation
+  - Australia - Airbnb
 region:
   - Australia
 discount_pct: 0
