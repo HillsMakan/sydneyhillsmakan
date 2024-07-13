@@ -3,8 +3,7 @@ title: One Supermart - Shop 4/22-28 Cambridge St, Epping, 2121, NSW
 description: Asian Grocery
 image: ../../assets/images/one-supermart.jpg
 categories:
-  - Asian Grocery
-  - Asian Supermarket
+  - NSW Australia - Groceries
 region:
   - Epping
   - New South Wales
@@ -12,13 +11,7 @@ region:
 discount_pct: 5
 discount_text: Excluding Sales
 ---
-
-Shop 4/22-28 Cambridge St,\
-Epping, 2121,\
-NSW
-
+**Location :** Shop 4/22-28 Cambridge St, Epping, 2121, New South Wales, Australia\
 (Only 5 mins walk from Epping Station)
 
-Trading :
-
-\- Monday to Sunday : 9am - 8pm
+**Trading :** Monday - Sunday : 9 am - 8 pm
