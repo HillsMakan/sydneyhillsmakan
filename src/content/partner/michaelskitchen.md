@@ -4,7 +4,7 @@ description: Portuguese & BBQ chicken chargrill, burgers, Indonesian delicacy
   special menu and hot bars
 image: ../../assets/images/michaelskitchen.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Western
   - Indonesian
@@ -19,9 +19,11 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+**Location :** 27 Glebe Point Rd, Glebe, 2037, New South Wales, Australia\
+(Around 5 mins walk from Broadway Shopping Centre and The University of Sydney Library - Fisher Library)\
+(20 mins walk from Central Station)
 
-27 Glebe Point Rd,\
-Glebe,\
-NSW
+**Trading :** 
 
-(Around 5 mins walk from Broadway Shopping Centre and The University of Sydney Library - Fisher Library)
+* Sunday - Tuesday : 11 am - 5 pm
+* Wednesday - Saturday : 11 am - 8 pm
