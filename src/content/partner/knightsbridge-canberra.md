@@ -4,7 +4,7 @@ description: Hotel and Service Apartment
 link: https://www.knightsbridgecanberra.com.au
 image: ../../assets/images/knightsbridge-canberra.jpg
 categories:
-  - Accommodation
+  - ACT Australia - Hotels
 region:
   - Kingston
   - Australian Capital Territory
@@ -13,7 +13,6 @@ discount_pct: 10
 discount_text: May be times Promo code may not be accessible due to restrictions
   imposed during peak seasons
 ---
-
 Here are the steps/process :
 
 1. Go to https://www.knightsbridgecanberra.com.au
@@ -32,6 +31,6 @@ The accommodation is air conditioned and comes with smart LED TVs. Apartments ha
 
 Facilities include a seasonal infinity pool and fully equipped gym. The property is located only 5 km from Canberra CBD, 2 km from Parliament House, close to all places of interest of the nation's capital, 100 m from Kingston’s restaurants, 500 m from Kingston Foreshore and 400 m from Manuka. Canberra International Airport is only 7 km away.
 
-Location : 3 Leichhardt Street, Kingston, 2604, ACT\
+Location : 3 Leichhardt Street, Kingston, 2604, Australian Capital Territory, Australia\
 Phone : +61 2 6185 0000\
 Email : res@knightsbridgecanberra.com.au
