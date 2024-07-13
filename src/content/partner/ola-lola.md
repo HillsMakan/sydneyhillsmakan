@@ -3,8 +3,7 @@ title: " Ola Lola"
 description: Latin American and Spanish Cuisine
 image: ../../assets/images/olalola.jpg
 categories:
-  - Market Stall
-  - Catering
+  - NSW Australia - Markets
 cuisine:
   - Latin American
   - Spanish
