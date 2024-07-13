@@ -5,9 +5,8 @@ description: Online Grocery
 link: https://www.justgoshop.com.au
 image: ../../assets/images/justgoshop.jpg
 categories:
-  - Online
-  - Grocery
-  - Supermarket
+  - NSW Australia - Groceries
+  - NSW Australia - Online
 region:
   - Australia
 discount_pct: 5
