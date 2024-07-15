@@ -10,6 +10,7 @@ images:
   - ../../assets/images/lee-bakwa2.jpg
 categories:
   - Australia - Online
+  - Australia - Food & Beverage
 cuisine:
   - Malaysian
 region:
