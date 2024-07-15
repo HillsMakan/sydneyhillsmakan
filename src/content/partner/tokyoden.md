@@ -3,7 +3,7 @@ title: Tokyo Den All You Can Eat Japanese Restaurant
 description: Japanese Cuisine
 image: ../../assets/images/tokyoden.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Japanese
 region:
@@ -13,13 +13,11 @@ region:
 discount_pct: 0
 discount_text: Free drinks for all you can eat dine in when you show your member card
 ---
+**Location :** 66A Burwood Rd, Burwood, 2134, New South Wales, Australia\
+(6 mins walk from Burwood Station)
 
-66A Burwood Rd,\
-Burwood, 2134\
-NSW
+**Trading :**
 
-Trading hours:
-
-- Tue to Fri : 5.30 pm - 9.30 pm
-- Sat & Sun : 12 noon - 2.30 pm & 5.30 pm - 9.3 pm
-- Mon : Closed
+* Monday : Closed
+* Tuesday - Friday : 5.30 pm - 9.30 pm
+* Saturday & Sunday : 12 noon - 2.30 pm & 5.30 pm - 9.30 pm
