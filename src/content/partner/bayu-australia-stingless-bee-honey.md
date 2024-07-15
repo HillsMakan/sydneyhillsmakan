@@ -9,6 +9,7 @@ images:
   - ../../assets/images/bayu.jpg
 categories:
   - Australia - Online
+  - Australia - Food & Beverage
 cuisine:
   - Honey
 region:
