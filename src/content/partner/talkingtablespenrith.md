@@ -17,7 +17,7 @@ discount_text: Dine-in & Pickups (not in conjunction with any other offer)
 (Next to NAB bank, opposite the plaza)\
 (7 mins walk from Penrith Station)
 
-**Tading :** 
+**Trading :** 
 
 * Monday : Closed
 * Tuesday - Sunday : 4 pm - 9 pm
