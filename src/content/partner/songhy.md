@@ -3,7 +3,7 @@ title: Song Hy Restaurant
 description: Vietnamese Cuisine
 image: ../../assets/images/songhy.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Vietnamese
 region:
