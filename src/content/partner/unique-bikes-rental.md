@@ -5,7 +5,7 @@ image: ../../assets/images/unique-bikes-rental.jpg
 images:
   - ../../assets/images/unique-bikes-rental1.jpg
 categories:
-  - Bike Rental
+  - Singapore - Bike Rental
 region:
   - Singapore
 discount_pct: 0
