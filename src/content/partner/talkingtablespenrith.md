@@ -3,7 +3,7 @@ title: Talking Tables Indian Cuisine Restaurant Penrith
 description: Indian Cuisine
 image: ../../assets/images/talkingtablespenrith.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Indian
 region:
@@ -13,9 +13,11 @@ region:
 discount_pct: 10
 discount_text: Dine-in & Pickups (not in conjunction with any other offer)
 ---
+**Location :** 166 Henry Street, Penrith, 2750, New South Wales, Australia\
+(Next to NAB bank, opposite the plaza)\
+(7 mins walk from Penrith Station)
 
-166 Henry Street,\
-Penrith,\
-NSW
+**Tading :** 
 
-(Next to NAB bank, opposite the plaza)
+* Monday : Closed
+* Tuesday - Sunday : 4 pm - 9 pm
