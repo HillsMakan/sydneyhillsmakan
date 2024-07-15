@@ -1,7 +1,9 @@
 ---
 draft: false
 title: Gold Class Transfers
-description: Hire Cars and Taxi Chauffeur Services
+description: NSW Australia - Hire Chauffeur Services, VIC Australia - Hire
+  Chauffeur Services, QLD Australia - Hire Chauffeur Services, ACT Australia -
+  Hire Chauffeur Services, WA Australia - Hire Chauffeur Services
 image: ../../assets/images/gold-class-transfers.jpg
 categories:
   - Hire Chauffeur Services
