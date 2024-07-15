@@ -4,6 +4,7 @@ description: Wine
 image: ../../assets/images/the-wine-doctor.jpg
 categories:
   - Australia - Direct
+  - Australia - Food & Beverage
 cuisine:
   - Drinks
 region:
