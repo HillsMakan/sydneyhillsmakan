@@ -9,8 +9,6 @@ images:
   - ../../assets/images/1000095451.jpg
   - ../../assets/images/1000095450.jpg
   - ../../assets/images/1000095449.jpg
-  - ../../assets/images/1000095266.jpg
-  - ../../assets/images/1000095264.jpg
 categories:
   - Singapore - Beauty Salon
 region:
