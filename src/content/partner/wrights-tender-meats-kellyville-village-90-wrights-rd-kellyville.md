@@ -4,7 +4,7 @@ title: Wrights Tender Meats - Kellyville Village
 description: Butcher
 image: ../../assets/images/wrights-tender-meats.jpg
 categories:
-  - Butcher
+  - NSW Australia - Butcher
 region:
   - Kelliville
   - New South Wales
@@ -12,8 +12,10 @@ region:
 discount_pct: 5
 discount_text: Excluding specials
 ---
+**Location :** Kellyville Village, Shop 13, 90 Wrights Rd, Kellyville, 2155, New South Wales, Australia
 
-Kellyville Village\
-Shop 13, 90 Wrights Rd, \
-Kellyville,\
-NSW
+**Trading :** 
+
+* Monday - Friday : 6.30 am - 6 pm
+* Saturday : 7 am - 5 pm
+* Sunday : 7 am - 4 pm
