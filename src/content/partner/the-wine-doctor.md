@@ -3,7 +3,7 @@ title: The Wine Doctor
 description: Wine
 image: ../../assets/images/the-wine-doctor.jpg
 categories:
-  - Online
+  - Australia - Direct
 cuisine:
   - Drinks
 region:
