@@ -13,9 +13,11 @@ region:
 discount_pct: 10
 discount_text: Please show the barcode below 10572
 ---
+**Location :** 230 Canley Vale Road, Canley Heights, 2166, New South Wales, Australia
 
-230 Canley Vale Road,\
-Canley Heights,\
-NSW
+**Trading :**
+
+* Sunday - Thursday : 10 am - 10 pm
+* Friday & Saturday : 10 am - 11 pm
 
 ![barcode](../../assets/images/songhy1.jpg)
