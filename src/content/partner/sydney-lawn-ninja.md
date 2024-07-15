@@ -6,8 +6,7 @@ image: ../../assets/images/sydneylawnninja2.jpg
 images:
   - ../../assets/images/sydneylawnninja1.jpg
 categories:
-  - Lawn services
-  - Gardening services
+  - NSW Australia - Gardening Service
 region:
   - Sydney
   - New South Wales
