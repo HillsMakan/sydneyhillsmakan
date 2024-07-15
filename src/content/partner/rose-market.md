@@ -4,9 +4,7 @@ title: Rose Market
 description: Halal Grocery
 image: ../../assets/images/rose-market.jpg
 categories:
-  - Grocery
-  - Supermarket
-  - Halal
+  - NSW Australia - Groceries
 region:
   - Castle Hill
   - New South Wales
@@ -14,9 +12,12 @@ region:
 discount_pct: 5
 discount_text: Excluding specials
 ---
-
-263 Old Northern Rd, \
-Castle Hill,\
-NSW
-
+**Location :** 263 Old Northern Rd, Castle Hill, 2154, New South Wales, Australia\
 (Intersection at the end of Showground Rd traffic light only 1 min walks from Castle Towers and Castle Mall or Parking at the Rear)
+
+**Trading :** 
+
+* Monday - Thursday : 7 am - 10 pm
+* Friday : 7 am - 11 pm
+* Saturday : 8 am - 11 pm
+* Sunday : 8.30 am - 10 pm
