@@ -11,6 +11,7 @@ images:
   - ../../assets/images/madecomfy5.jpg.jpeg
 categories:
   - Australia - Airbnb
+  - Australia - Hotels
 region:
   - Australia
 discount_pct: 0
