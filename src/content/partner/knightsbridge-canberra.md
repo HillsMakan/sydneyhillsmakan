@@ -4,7 +4,7 @@ description: Hotel and Service Apartment
 link: https://www.knightsbridgecanberra.com.au
 image: ../../assets/images/knightsbridge-canberra.jpg
 categories:
-  - ACT Australia - Hotels
+  - Australia - Hotels
 region:
   - Kingston
   - Australian Capital Territory
