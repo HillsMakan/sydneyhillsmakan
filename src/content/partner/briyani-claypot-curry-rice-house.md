@@ -6,6 +6,7 @@ image: ../../assets/images/briyani-claypot-curry-rice-house.jpg
 categories:
   - NSW Australia - Food & Beverage
   - NSW Australia - Markets
+  - NSW Australia - Catering
 cuisine:
   - Malaysian
   - Halal
