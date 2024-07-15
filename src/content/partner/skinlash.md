@@ -4,11 +4,13 @@ description: Beauty Salon
 link: https://www.skinlash.sg/
 image: ../../assets/images/1000095265.jpg
 images:
-  - ../../assets/images/1000095454.jpg
-  - ../../assets/images/1000095452.jpg
-  - ../../assets/images/1000095451.jpg
-  - ../../assets/images/1000095450.jpg
-  - ../../assets/images/1000095449.jpg
+  - ../../assets/images/skinlash.jpg
+  - ../../assets/images/skinlash1.jpg
+  - ../../assets/images/skinlash2.jpg
+  - ../../assets/images/skinlash3.jpg
+  - ../../assets/images/skinlash4.jpg
+  - ../../assets/images/hs.jpg
+  - ../../assets/images/hs1.jpg
 categories:
   - Singapore - Beauty Salon
 region:
