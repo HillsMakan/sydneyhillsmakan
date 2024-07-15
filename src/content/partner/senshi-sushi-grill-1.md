@@ -3,7 +3,7 @@ title: Senshi Sushi & Grill
 description: Japanese Cuisine
 image: ../../assets/images/senshi-sushi-grill.jpg
 categories:
-  - Restaurant
+  - NSW Australia - Food & Beverage
 cuisine:
   - Japanese
 region:
@@ -11,9 +11,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
-
-333 New Bridge Rd, \
-#01-01 Dorsett Singapore, 088765, \
-Singapore
-
+**Location :** 333 New Bridge Rd, #01-01 Dorsett Singapore, 088765, Singapore\
 (Inside Dorsett Hotel Singapore)
+
+**Trading :** Monday - Sunday : 11.30 am - 3 pm & 6 pm - 10.30 pm
