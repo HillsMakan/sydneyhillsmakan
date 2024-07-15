@@ -5,6 +5,7 @@ description: Malaysian Cuisine
 image: ../../assets/images/sangee’s-kitchen.jpg
 categories:
   - NSW Australia - Markets
+  - NSW Australia - Catering
 cuisine:
   - Malaysian
 region:
