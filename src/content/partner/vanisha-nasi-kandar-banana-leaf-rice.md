@@ -4,7 +4,7 @@ title: Vanisha Nasi Kandar & Banana Leaf Rice
 description: Malaysian Cuisine Halal
 image: ../../assets/images/vanisha-nasi-kandar-banana-leaf-rice.jpg
 categories:
-  - Catering
+  - NSW Australia - Catering
 cuisine:
   - Malaysian
   - Halal
