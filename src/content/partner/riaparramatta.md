@@ -8,9 +8,7 @@ cuisine:
   - Indonesian
   - Halal
 region:
-  - Parramatta
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Cash Only, Free side soup and Free Teh Pucuk every meal purchased
   minimum order $15 and above
