@@ -8,9 +8,7 @@ cuisine:
   - Western
   - Halal
 region:
-  - North Kellyville
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 ---
 All their chickens are Lilydale free range and Halal
