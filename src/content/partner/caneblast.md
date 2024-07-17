@@ -3,12 +3,12 @@ title: CANEBLAST - Parklea Markets
 description: Sugarcane Juice Bar & Potato Tornado
 image: ../../assets/images/caneblast.jpg
 categories:
-  - NSW Australia - Markets
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Markets
+  - Australia NSW - Food & Beverage
 cuisine:
   - Drinks
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---
