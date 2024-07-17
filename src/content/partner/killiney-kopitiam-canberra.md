@@ -3,12 +3,12 @@ title: Killiney Kopitiam Canberra
 description: Singapore Street Food Cuisine and Halal Friendly
 image: ../../assets/images/killiney-kopitiam-canberra.jpg
 categories:
-  - ACT Australia - Food & Beverage
+  - Australia ACT - Food & Beverage
 cuisine:
   - Singaporean
   - Halal
 region:
-  - Australian Capital Territory - Australia
+  - Australia - Australian Capital Territory
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
