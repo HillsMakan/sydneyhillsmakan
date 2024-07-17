@@ -3,13 +3,13 @@ title: Nathan Roti - Parklea Markets
 description: Malaysian Halal
 image: ../../assets/images/nathanroti.jpg
 categories:
-  - NSW Australia - Markets
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Markets
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: $10 and above (excluding promotions)
 ---
