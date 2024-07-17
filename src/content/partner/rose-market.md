@@ -6,9 +6,7 @@ image: ../../assets/images/rose-market.jpg
 categories:
   - NSW Australia - Groceries
 region:
-  - Castle Hill
-  - New South Wales
-  - NSW
+  - New South Wales - NSW
 discount_pct: 5
 discount_text: Excluding specials
 ---
