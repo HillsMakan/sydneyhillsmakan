@@ -10,7 +10,7 @@ categories:
   - Migration Support
   - Integration Services
 region:
-  - Australia
+  - Global
 discount_pct: 15
 discount_text: ""
 ---
