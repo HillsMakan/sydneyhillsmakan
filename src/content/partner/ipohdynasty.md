@@ -3,11 +3,11 @@ title: Ipoh Dynasty
 description: Malaysian Cuisine
 image: ../../assets/images/ipohdynasty.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: During weekdays 11 am – 3.30 pm only
 ---
