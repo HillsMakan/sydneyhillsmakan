@@ -8,9 +8,7 @@ cuisine:
   - Nepalese
   - Indian
 region:
-  - Harris Park
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Minimum order above $20. Party & Function Rooms Available
 ---
