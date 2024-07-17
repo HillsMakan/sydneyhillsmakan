@@ -16,9 +16,7 @@ categories:
 cuisine:
   - Italian
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 0
 ---
 
