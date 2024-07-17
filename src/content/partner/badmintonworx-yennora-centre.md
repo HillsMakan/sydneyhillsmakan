@@ -5,7 +5,7 @@ image: ../../assets/images/badmintonworxyennora.jpg
 categories:
   - NSW Australia - Sports Activities
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 0
 discount_text: ""
 comment: ""
