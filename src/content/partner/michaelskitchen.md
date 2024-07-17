@@ -1,7 +1,7 @@
 ---
 title: Michael's Kitchen - Glebe
-description: Portuguese & BBQ chicken chargrill, burgers, Indonesian delicacy
-  special menu and hot bars
+description: Portuguese & BBQ chicken chargrill, burgers, Indonesian Cuisine
+  delicacy special menu and hot bars
 image: ../../assets/images/michaelskitchen.jpg
 categories:
   - Australia NSW - Food & Beverage
