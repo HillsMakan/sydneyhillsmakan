@@ -3,7 +3,7 @@ title: Louis N’ Anna Blacktown - Dining Collective
 description: Cajun Seafood Texas BBQ Cuisine
 image: ../../assets/images/louisnanna.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Cajun
   - Seafood
@@ -11,7 +11,7 @@ cuisine:
   - BBQ
   - Western
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Please show your member card to the waiter to redeem and must
   order with waiter only when placing your order. Available for dine-in service
