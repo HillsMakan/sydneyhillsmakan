@@ -6,9 +6,7 @@ image: ../../assets/images/sportsco-liverpool.jpg
 categories:
   - NSW Australia - Retail
 region:
-  - Liverpool
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
