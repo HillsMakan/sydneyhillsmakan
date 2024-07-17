@@ -7,8 +7,7 @@ categories:
 cuisine:
   - Kelantanese Peranakan
 region:
-  - Kuala Lumpur
-  - Malaysia
+  - Kuala Lumpur - Malaysia
 discount_pct: 20
 discount_text: Excluding promotions
 ---
