@@ -3,11 +3,11 @@ title: Peanut Butter Bar Blacktown - Dining Collective
 description: Dessert
 image: ../../assets/images/peanutbutterbar.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Dessert
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Please show your member card to the waiter to redeem and must
   order with waiter only when placing your order. Available for dine-in service
