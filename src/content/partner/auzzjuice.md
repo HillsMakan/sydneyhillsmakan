@@ -3,8 +3,8 @@ title: Auzz Juice Bar - Parklea Markets
 description: Sugarcane Juice Bar
 image: ../../assets/images/auzzjuice.jpg
 categories:
-  - NSW Australia - Markets
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Markets
+  - Australia NSW - Food & Beverage
 cuisine:
   - Drinks
 region:
