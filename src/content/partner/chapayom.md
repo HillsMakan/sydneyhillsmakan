@@ -4,12 +4,12 @@ description: Thai classics to exotic quirky flavours drinks, Sangkaya Milky Bun
   and many more
 image: ../../assets/images/chapayom.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Thai Drinks
   - Bubble Tea
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding promotions
 ---
