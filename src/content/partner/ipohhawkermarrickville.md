@@ -3,12 +3,12 @@ title: Ipoh Hawker - Marrickville
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkermarrickville.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 ---
