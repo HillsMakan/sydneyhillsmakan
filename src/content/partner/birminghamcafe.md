@@ -9,7 +9,7 @@ cuisine:
   - Western
   - Cafe
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding promotions
 ---
