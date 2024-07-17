@@ -5,8 +5,7 @@ image: ../../assets/images/optika-optometrist.jpg
 categories:
   - NSW Australia - Optometrist
 region:
-  - Cabramatta
-  - New South Wales
+  - New South Wales - Australia
 discount_pct: 20
 discount_text: Frames only (Excluding Sales/Promotions)
 ---
