@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Norwest
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: 1 Free Soft Drink (HMG Member) + 10 % Discount (Cash Only)
 ---
