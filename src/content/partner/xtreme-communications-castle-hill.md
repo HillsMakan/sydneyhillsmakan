@@ -4,9 +4,9 @@ title: Xtreme Communications Castle Hill
 description: "Mobile phone repairs and accessories "
 image: ../../assets/images/xtreme-communications-castle-hill.jpg
 categories:
-  - NSW Australia - Mobile Phone Repairs
+  - Australia NSW - Mobile Phone Repairs
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding sales, online & minimum purchase $20
 ---
