@@ -3,12 +3,12 @@ title: RIA Ayam Penyet Restaurant - Parramatta
 description: Indonesian Cuisine & Halal
 image: ../../assets/images/riaparramatta.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Indonesian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Cash Only, Free side soup and Free Teh Pucuk every meal purchased
   minimum order $15 and above
