@@ -6,9 +6,7 @@ image: ../../assets/images/jin-sun-mee-hair-salon.jpg
 categories:
   - NSW Australia - Beauty Salon
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Cash only, discounts apply to products & excluding promotions
 ---
