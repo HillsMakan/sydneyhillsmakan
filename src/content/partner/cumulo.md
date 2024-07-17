@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Ice Cream
 region:
-  - Kings Langley
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Durian Ice Cream in 2 litter tub for HMG members at $50 (normally
   $58), Pre-order only
