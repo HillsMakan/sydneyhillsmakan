@@ -7,9 +7,9 @@ images:
   - ../../assets/images/r-b-autos3.jpg
   - ../../assets/images/r-b-autos2.jpg
 categories:
-  - NSW Australia - Automotive Service
+  - Australia NSW - Automotive Service
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 0
 ---
 $20 off of the whole bill (excluding Pink Slip) when you show the HMG member card.
