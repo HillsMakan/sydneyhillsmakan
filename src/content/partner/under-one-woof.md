@@ -6,10 +6,10 @@ image: ../../assets/images/underonewooflogo.jpg.png
 images:
   - ../../assets/images/underonewoof.jpg
 categories:
-  - NSW Australia - House Sitting Service
-  - NSW Australia - Dog Sitting Services
+  - Australia NSW - House Sitting Service
+  - Australia NSW - Dog Sitting Services
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Mention HMG member to receive discount.
 ---
