@@ -3,7 +3,7 @@ title: Senshi Sushi & Grill
 description: Japanese Cuisine
 image: ../../assets/images/senshi-sushi-grill.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Singapore - Food & Beverage
 cuisine:
   - Japanese
 region:
