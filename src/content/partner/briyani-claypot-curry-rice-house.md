@@ -4,14 +4,14 @@ title: Briyani & Claypot Curry Rice House
 description: Malaysian Cuisine Halal
 image: ../../assets/images/briyani-claypot-curry-rice-house.jpg
 categories:
-  - NSW Australia - Food & Beverage
-  - NSW Australia - Markets
-  - NSW Australia - Catering
+  - Australia NSW - Food & Beverage
+  - Australia NSW - Markets
+  - Australia NSW - Catering
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: "Show card at stall at the markets or mention HMG members for catering\t"
 comment: ""
