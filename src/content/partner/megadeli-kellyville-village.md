@@ -4,9 +4,9 @@ title: MegaDeli - Kellyville Village Nature’s Fresh 4 Less
 description: Deli
 image: ../../assets/images/megadeli.jpg
 categories:
-  - NSW Australia - Deli
+  - Australia NSW - Deli
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Minimum spend $25 and above
 ---
