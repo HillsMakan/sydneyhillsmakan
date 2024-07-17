@@ -2,11 +2,11 @@
 title: Sam Po Malaysia Kitchen
 image: ../../assets/images/sam-po-malaysia-kitchen.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding promotions
 ---
