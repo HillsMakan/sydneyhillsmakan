@@ -20,11 +20,11 @@ images:
   - ../../assets/images/drivez-adventures13.jpg
   - ../../assets/images/drivez-adventures14.jpg
 categories:
-  - NSW Australia - Hire Chauffeur Services
-  - NSW Australia - Airport Transfers
-  - NSW Australia - Tours
+  - Australia NSW - Hire Chauffeur Services
+  - Australia NSW - Airport Transfers
+  - Australia NSW - Tours
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
