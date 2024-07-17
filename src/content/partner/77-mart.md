@@ -5,8 +5,8 @@ description: Asian Grocery
 link: https://77mart.au
 image: ../../assets/images/77mart.jpg
 categories:
-  - NSW Australia - Groceries
-  - NSW Australia - Online
+  - Australia NSW - Groceries
+  - Australia NSW - Online
 region:
   - Australia - New South Wales
 discount_pct: 5
