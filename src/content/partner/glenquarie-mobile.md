@@ -4,9 +4,9 @@ title: Glenquarie Mobile
 description: "Mobile phone repairs and accessories "
 image: ../../assets/images/glenquarie-mobile.jpg
 categories:
-  - NSW Australia - Mobile Phone Repairs
+  - Australia NSW - Mobile Phone Repairs
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 0
 discount_text: Excluding specials & gift card
 ---
