@@ -3,11 +3,11 @@ title: Vege4Love Restaurant - Marrickville
 description: Vegetarian Cuisine
 image: ../../assets/images/vege4love.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Vegetarian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Cash payment for purchase over $30, Exclude public holidays and
   promotional items, Excluding Food Truck and Events
