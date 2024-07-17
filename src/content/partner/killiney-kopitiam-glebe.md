@@ -4,12 +4,12 @@ title: Killiney Kopitiam Glebe
 description: Singapore Street Food Cuisine and Halal Friendly
 image: ../../assets/images/killineybroadway.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Singapore
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
