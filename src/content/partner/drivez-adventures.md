@@ -24,9 +24,7 @@ categories:
   - NSW Australia - Airport Transfers
   - NSW Australia - Tours
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
