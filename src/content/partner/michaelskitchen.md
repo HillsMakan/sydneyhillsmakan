@@ -25,3 +25,4 @@ discount_text: Excluding promotions
 
 * Sunday - Tuesday : 11 am - 5 pm
 * Wednesday - Saturday : 11 am - 8 pm
+* Monday : Closed
