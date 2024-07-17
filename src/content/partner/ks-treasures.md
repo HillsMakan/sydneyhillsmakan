@@ -3,11 +3,11 @@ title: KS Treasures
 description: Chinese Cuisine
 image: ../../assets/images/ks-treasures.jpg
 categories:
-  - Johor Malaysia - Food & Beverage
+  - Malaysia Johor - Food & Beverage
 cuisine:
   - Chinese
 region:
-  - Johor Bahru - Malaysia
+  - Malaysia - Johor Bahru
 discount_pct: 10
 discount_text: Excluding promotions
 ---
