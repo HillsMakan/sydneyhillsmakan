@@ -4,9 +4,9 @@ title: "Canterbury Speedmart "
 description: Asian Grocery
 image: ../../assets/images/canterbury-speedmart.jpg
 categories:
-  - NSW Australia - Groceries
+  - Australia NSW - Groceries
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding specials/promotions and Tobacco
 ---
