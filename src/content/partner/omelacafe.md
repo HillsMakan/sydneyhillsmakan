@@ -3,12 +3,12 @@ title: Selera Warisan
 description: Malaysian Halal
 image: ../../assets/images/omelacafe.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding promotions
 ---
