@@ -8,9 +8,7 @@ cuisine:
   - Singaporean
   - Halal
 region:
-  - Canberra
-  - Australian Capital Territory
-  - Australia
+  - Australian Capital Territory - Australia
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
