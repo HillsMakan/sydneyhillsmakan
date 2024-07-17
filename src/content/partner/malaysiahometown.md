@@ -3,11 +3,11 @@ title: Malaysia Hometown Hawker Restaurant
 description: Malaysian Cuisine
 image: ../../assets/images/malaysiahometown.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding promotions
 ---
