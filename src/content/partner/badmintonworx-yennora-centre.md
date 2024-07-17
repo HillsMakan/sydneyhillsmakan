@@ -5,8 +5,7 @@ image: ../../assets/images/badmintonworxyennora.jpg
 categories:
   - NSW Australia - Sports Activities
 region:
-  - Yennora
-  - New South Wales
+  - New South Wales - Australia
 discount_pct: 0
 discount_text: ""
 comment: ""
