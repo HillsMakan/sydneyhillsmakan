@@ -3,11 +3,11 @@ title: Fugetsu
 description: Japanese Cuisine
 image: ../../assets/images/fugetsu.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Japanese
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions
 ---
