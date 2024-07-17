@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Vietnamese
 region:
-  - Canley Heights
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Please show the barcode below 10572
 ---
