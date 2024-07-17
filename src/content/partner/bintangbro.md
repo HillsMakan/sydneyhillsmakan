@@ -9,9 +9,7 @@ cuisine:
   - Halal
   - Fusion
 region:
-  - Haymarket
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
