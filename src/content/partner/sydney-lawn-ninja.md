@@ -6,9 +6,9 @@ image: ../../assets/images/sydneylawnninja2.jpg
 images:
   - ../../assets/images/sydneylawnninja1.jpg
 categories:
-  - NSW Australia - Gardening Service
+  - Australia NSW - Gardening Service
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Mention HMG member to receive discount
 ---
