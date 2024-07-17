@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Eastwood
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Excluding Specials & Promotions
 ---
