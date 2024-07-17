@@ -3,11 +3,11 @@ title: MyBella Asian Restaurant
 description: Asian Fusion
 image: ../../assets/images/mybella.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Asian Fusion
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Only Wednesdays, Thursdays & Sundays excluding Lunch Specials
 ---
