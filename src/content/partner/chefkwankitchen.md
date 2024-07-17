@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Pennant Hills
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
