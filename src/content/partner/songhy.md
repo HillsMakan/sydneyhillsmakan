@@ -3,11 +3,11 @@ title: Song Hy Restaurant
 description: Vietnamese Cuisine
 image: ../../assets/images/songhy.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Vietnamese
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Please show the barcode below 10572
 ---
