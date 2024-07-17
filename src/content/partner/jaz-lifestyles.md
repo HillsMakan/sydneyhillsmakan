@@ -9,7 +9,6 @@ images:
 categories:
   - Australia - Online
 region:
-  - Western Australia
   - Australia
 discount_pct: 5
 discount_text: "Discount code : PF5"
