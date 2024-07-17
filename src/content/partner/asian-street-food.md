@@ -9,7 +9,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Australian Capital Territory - Australia
+  - Australia - Australian Capital Territory
 discount_pct: 5
 discount_text: Cash only excluding specials
 ---
