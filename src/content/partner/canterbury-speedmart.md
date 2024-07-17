@@ -6,9 +6,7 @@ image: ../../assets/images/canterbury-speedmart.jpg
 categories:
   - NSW Australia - Groceries
 region:
-  - Campsie
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Excluding specials/promotions and Tobacco
 ---
