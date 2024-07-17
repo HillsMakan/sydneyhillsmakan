@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Asian Fusion
 region:
-  - Bella Vista
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Only Wednesdays, Thursdays & Sundays excluding Lunch Specials
 ---
