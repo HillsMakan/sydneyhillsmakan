@@ -9,9 +9,7 @@ cuisine:
   - Western
   - Cafe
 region:
-  - Epping
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
 ---
