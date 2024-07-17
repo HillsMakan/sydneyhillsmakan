@@ -3,12 +3,12 @@ title: PappaRich Castle Hill Restaurant
 description: Malaysian Cuisine & Halal
 image: ../../assets/images/papparichcastlehill.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Cash Only. Excluding Specials/Promotions & Public Holidays
 ---
