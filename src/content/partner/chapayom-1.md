@@ -3,12 +3,12 @@ title: Chapayom Cabramatta
 description: Thai classics to exotic quirky flavours drinks
 image: ../../assets/images/chapayom-cabramatta.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Thai Drinks
   - Bubble Tea
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding promotions
 ---
