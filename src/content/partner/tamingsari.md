@@ -3,12 +3,12 @@ title: Warung Taming Sari Restaurant
 description: Malaysian Halal Cuisine
 image: ../../assets/images/tamingsari.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Minimum purchase $20 & above and excluding promotions
 ---
