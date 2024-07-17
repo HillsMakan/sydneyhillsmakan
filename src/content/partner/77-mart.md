@@ -6,7 +6,7 @@ link: https://77mart.au
 image: ../../assets/images/77mart.jpg
 categories:
   - Australia NSW - Groceries
-  - Australia NSW - Online
+  - Australia - Online
 region:
   - Australia - New South Wales
 discount_pct: 5
