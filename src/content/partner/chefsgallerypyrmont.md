@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Chinese
 region:
-  - Pyrmont
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Available for dine-in service only and not in conjunction with any other offer.
 ---
