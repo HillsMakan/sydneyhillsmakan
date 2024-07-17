@@ -3,12 +3,12 @@ title: Jhamel Harris Park
 description: Nepalese and Indian Cuisine
 image: ../../assets/images/jhamel-harris-park.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Nepalese
   - Indian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Minimum order above $20. Party & Function Rooms Available
 ---
