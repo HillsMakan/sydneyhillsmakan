@@ -9,7 +9,7 @@ cuisine:
   - Halal
   - Fusion
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
