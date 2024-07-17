@@ -14,8 +14,6 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Sydney
-  - New South Wales
   - Australia
 discount_pct: 5
 discount_text: "For orders $100 and above excluding deliveries. Mention Code HMG5. "
