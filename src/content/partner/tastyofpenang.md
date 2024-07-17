@@ -3,11 +3,11 @@ title: Tasty Of Penang Restaurant
 description: Malaysian Cuisine
 image: ../../assets/images/tastyofpenang.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Monday to Friday only, Minimum Order $20 and above
 ---
