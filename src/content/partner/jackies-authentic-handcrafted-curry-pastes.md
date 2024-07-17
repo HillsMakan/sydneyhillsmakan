@@ -27,7 +27,7 @@ cuisine:
   - Malaysian
   - Singaporean
 region:
-  - Australia
+  - Global
 discount_pct: 10
 ---
 
