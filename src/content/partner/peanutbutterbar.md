@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Dessert
 region:
-  - Blacktown
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Please show your member card to the waiter to redeem and must
   order with waiter only when placing your order. Available for dine-in service
