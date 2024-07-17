@@ -6,9 +6,7 @@ image: ../../assets/images/glenquarie-mobile.jpg
 categories:
   - NSW Australia - Mobile Phone Repairs
 region:
-  - Glenquarie
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 0
 discount_text: Excluding specials & gift card
 ---
