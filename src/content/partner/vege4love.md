@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Vegetarian
 region:
-  - Marrickville
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Cash payment for purchase over $30, Exclude public holidays and
   promotional items, Excluding Food Truck and Events
