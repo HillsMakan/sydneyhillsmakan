@@ -12,7 +12,7 @@ images:
   - ../../assets/images/abcheese6.jpg
   - ../../assets/images/abcheese7.jpg
 categories:
-  - NSW Australia - Markets
+  - Australia NSW - Markets
 cuisine:
   - Italian
 region:
