@@ -4,7 +4,7 @@ description: Portuguese & BBQ chicken chargrill, burgers, Indonesian delicacy
   special menu and hot bars
 image: ../../assets/images/michaelskitchen.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Western
   - Indonesian
@@ -13,7 +13,7 @@ cuisine:
   - Chicken
   - Burger
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions
 ---
