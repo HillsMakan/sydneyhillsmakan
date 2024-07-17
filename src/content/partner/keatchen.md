@@ -6,8 +6,7 @@ categories:
   - Selangor Malaysia - Online
   - Selangor Malaysia - Food & Beverage
 region:
-  - Selangor
-  - Malaysia
+  - Selangor - Malaysia
 discount_pct: 20
 ---
 
