@@ -8,8 +8,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Cowaramup
-  - Western Australia
+  - Western Australia - Australia
 discount_pct: 10
 discount_text: Excluding specials
 ---
