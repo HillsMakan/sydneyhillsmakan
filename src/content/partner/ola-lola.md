@@ -8,14 +8,7 @@ cuisine:
   - Latin American
   - Spanish
 region:
-  - Castle HIll
-  - Parramatta
-  - Zetland
-  - Paddington
-  - Peakhurst
-  - Macquarie Park
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 ---
 Ola Lola provides traditional Latin American and Spanish food.
