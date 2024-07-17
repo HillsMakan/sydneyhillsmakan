@@ -7,8 +7,7 @@ categories:
 cuisine:
   - Chinese
 region:
-  - Johor Bahru
-  - Malaysia
+  - Johor Bahru - Malaysia
 discount_pct: 10
 discount_text: Excluding promotions
 ---
