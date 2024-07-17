@@ -4,10 +4,10 @@ description: Handmade cookies and cakes
 link: https://www.iloveicookieat.com.au/
 image: ../../assets/images/ilove.icook.ieat.jpg
 categories:
-  - NSW Australia - Food & Beverage
-  - NSW Australia - Online
+  - Australia NSW - Food & Beverage
+  - Australia NSW - Online
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Cookies selection only
 ---
