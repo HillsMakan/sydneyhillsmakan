@@ -9,9 +9,7 @@ categories:
   - NSW Australia - House Sitting Service
   - NSW Australia - Dog Sitting Services
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Mention HMG member to receive discount.
 ---
