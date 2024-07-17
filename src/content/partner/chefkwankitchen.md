@@ -3,11 +3,11 @@ title: Chef Kwon Kitchen
 description: Malaysian, Singaporean & Asian Cuisine
 image: ../../assets/images/chefkwankitchen.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
