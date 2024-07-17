@@ -3,11 +3,11 @@ title: Jim's Malaysia - Macquarie Centre
 description: Malaysian Cuisine
 image: ../../assets/images/jimsmq.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Meals only
 ---
