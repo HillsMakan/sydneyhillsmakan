@@ -4,18 +4,18 @@ title: Gold Class Transfers
 description: Hire Chauffeur Services, Airport Transfers
 image: ../../assets/images/gold-class-transfers.jpg
 categories:
-  - NSW Australia - Hire Chauffeur Services
-  - VIC Australia - Hire Chauffeur Services
-  - QLD Australia - Hire Chauffeur Services
-  - ACT Australia - Hire Chauffeur Services
-  - WA Australia - Hire Chauffeur Services
+  - Australia NSW - Hire Chauffeur Services
+  - Australia VIC - Hire Chauffeur Services
+  - Australia QLD - Hire Chauffeur Services
+  - Australia ACT - Hire Chauffeur Services
+  - Australia WA - Hire Chauffeur Services
 cuisine: []
 region:
-  - New South Wales - Australia
-  - Victoria - Australia
-  - Queensland - Australia
-  - Australian Capital Territory - Australia
-  - Western Australia - Australia
+  - Australia - New South Wales
+  - Australia - Victoria
+  - Australia - Queensland
+  - Australia - Australian Capital Territory
+  - Australia - Western Australia
 discount_pct: 5
 ---
 
