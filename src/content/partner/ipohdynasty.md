@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Campsie
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: During weekdays 11 am – 3.30 pm only
 ---
