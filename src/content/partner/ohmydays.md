@@ -3,12 +3,12 @@ title: Oh My Days
 description: Vegan Patisserie
 image: ../../assets/images/ohmydays.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Vegan
   - Patisserie
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions
 ---
