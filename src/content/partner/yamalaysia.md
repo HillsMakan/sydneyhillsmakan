@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Chatswood
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Not valid with other promotions
 ---
