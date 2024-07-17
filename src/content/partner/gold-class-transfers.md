@@ -11,17 +11,11 @@ categories:
   - WA Australia - Hire Chauffeur Services
 cuisine: []
 region:
-  - Sydney
-  - Melbourne
-  - Brisbane
-  - Canberra
-  - Perth
-  - New South Wales
-  - Victoria
-  - Queensland
-  - Australian Capital Territory
-  - Western Australia
-  - Australia
+  - New South Wales - Australia
+  - Victoria - Australia
+  - Queensland - Australia
+  - Australian Capital Territory - Australia
+  - Western Australia - Australia
 discount_pct: 5
 ---
 
