@@ -8,9 +8,7 @@ categories:
   - NSW Australia - Hire Chauffeur Services
   - NSW Australia - Airport Transfers
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 ---
 
