@@ -6,9 +6,7 @@ image: ../../assets/images/megadeli.jpg
 categories:
   - NSW Australia - Deli
 region:
-  - Kellyville
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Minimum spend $25 and above
 ---
