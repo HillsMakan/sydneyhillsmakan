@@ -7,9 +7,7 @@ categories:
   - NSW Australia - Food & Beverage
   - NSW Australia - Online
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Cookies selection only
 ---
