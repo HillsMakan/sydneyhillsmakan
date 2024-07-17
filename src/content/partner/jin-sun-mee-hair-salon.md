@@ -4,9 +4,9 @@ title: Jin Sun Mee Hair Salon
 description: Korean Hair Salon
 image: ../../assets/images/jin-sun-mee-hair-salon.jpg
 categories:
-  - NSW Australia - Beauty Salon
+  - Australia NSW - Beauty Salon
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Cash only, discounts apply to products & excluding promotions
 ---
