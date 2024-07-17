@@ -3,12 +3,12 @@ title: Fitzroy Lane
 description: Western & Asian Cuisine
 image: ../../assets/images/fitzroylane.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Western
   - Asian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding cafe, drinks bar, specials and promotions
 ---
