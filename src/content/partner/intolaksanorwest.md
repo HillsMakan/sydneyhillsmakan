@@ -3,11 +3,11 @@ title: Into Laksa - Norwest
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksanorwest.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: 1 Free Soft Drink (HMG Member) + 10 % Discount (Cash Only)
 ---
