@@ -4,12 +4,12 @@ title: Sangee’s Kitchen
 description: Malaysian Cuisine
 image: ../../assets/images/sangee’s-kitchen.jpg
 categories:
-  - NSW Australia - Markets
-  - NSW Australia - Catering
+  - Australia NSW - Markets
+  - Australia NSW - Catering
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 ---
 
