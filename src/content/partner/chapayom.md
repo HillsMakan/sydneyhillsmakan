@@ -9,9 +9,7 @@ cuisine:
   - Thai Drinks
   - Bubble Tea
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Excluding promotions
 ---
