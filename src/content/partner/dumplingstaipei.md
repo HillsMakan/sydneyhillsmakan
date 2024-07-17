@@ -7,8 +7,7 @@ categories:
 cuisine:
   - Taiwanese
 region:
-  - Australia
-  - NSW
+  - New South Wales - Australia
 discount_pct: 5
 ---
 **Location :** Garden Piazza Building, Unit 13, 3-9 Terminus Street, Castle Hill, 2154, New South Wales, Australia\
