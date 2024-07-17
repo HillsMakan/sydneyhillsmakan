@@ -3,11 +3,11 @@ title: Ya-Malaysia Restaurant - Chatswood
 description: Malaysian Cuisine
 image: ../../assets/images/yamalaysia.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Not valid with other promotions
 ---
