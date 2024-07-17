@@ -4,9 +4,9 @@ title: Sportsco Westpoint
 description: Athletic and lifestyle footwear, apparel and sports accessories
 image: ../../assets/images/sportsco-westpoint.jpg
 categories:
-  - NSW Australia - Retail
+  - Australia NSW - Retail
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---
