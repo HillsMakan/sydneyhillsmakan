@@ -10,9 +10,7 @@ categories:
 cuisine:
   - Asian
 region:
-  - Sydney
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Minimum order $50 & above
 comment: ""
