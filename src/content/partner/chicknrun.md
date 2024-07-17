@@ -3,12 +3,12 @@ title: Chick-N-Run Shop
 description: Chicken, fresh salads and a wide range of burgers and hot food
 image: ../../assets/images/chicknrun.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Western
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 ---
 All their chickens are Lilydale free range and Halal
