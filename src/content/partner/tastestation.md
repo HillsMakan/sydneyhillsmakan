@@ -8,7 +8,7 @@ cuisine:
   - Malaysian
   - Thai
 region:
-  - Ashfield
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Cash Only
 ---
