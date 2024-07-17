@@ -9,9 +9,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Canberra
-  - Australian Capital Territory
-  - Australia
+  - Australian Capital Territory - Australia
 discount_pct: 5
 discount_text: Cash only excluding specials
 ---
