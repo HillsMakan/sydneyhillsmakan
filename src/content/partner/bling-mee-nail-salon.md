@@ -8,7 +8,7 @@ images:
 categories:
   - NSW Australia - Beauty Salon
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales - Australia
 discount_pct: 5
 discount_text: Cash only & excluding promotions
 ---
