@@ -11,9 +11,7 @@ cuisine:
   - Cafe
   - Coffee
 region:
-  - Dural
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Excluding specials
 ---
