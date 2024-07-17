@@ -8,9 +8,7 @@ cuisine:
   - Singaporean
   - Halal
 region:
-  - Franklin
-  - Australian Capital Territory
-  - Australia
+  - Australian Capital Territory - Australia
 discount_pct: 5
 discount_text: Cash only and excluding special
 ---
