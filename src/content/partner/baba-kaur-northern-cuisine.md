@@ -7,7 +7,7 @@ categories:
 cuisine:
   - Punjabi
 region:
-  - Melaka - Malaysia
+  - Malaysia - Melaka
 discount_pct: 10
 discount_text: Excluding promotions
 ---
