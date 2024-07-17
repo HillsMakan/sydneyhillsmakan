@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Indian
 region:
-  - Penrith
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Dine-in & Pickups (not in conjunction with any other offer)
 ---
