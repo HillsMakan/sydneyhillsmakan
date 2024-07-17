@@ -8,9 +8,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Castle Hill
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Cash Only. Excluding Specials/Promotions & Public Holidays
 ---
