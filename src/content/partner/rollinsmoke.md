@@ -3,13 +3,13 @@ title: Rollin Smoke BBQ Thornleigh
 description: Malaysian and Pinoy/Filipino Food
 image: ../../assets/images/rollinsmoke.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Filipino
   - Pinoy
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Excluding specials/promotions
 ---
