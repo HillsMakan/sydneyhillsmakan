@@ -8,9 +8,7 @@ cuisine:
   - Indian
   - Halal
 region:
-  - Belconnen
-  - Australian Capital Territory
-  - Australia
+  - Australian Capital Territory - Australia
 discount_pct: 15
 discount_text: Excluding promotions
 ---
