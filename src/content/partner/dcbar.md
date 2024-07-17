@@ -3,12 +3,12 @@ title: DC Bar Blacktown - Dining Collective
 description: Beverage and Dessert
 image: ../../assets/images/dcbar.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Drinks
   - Dessert
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Please show your member card to the waiter to redeem and must
   order with waiter only when placing your order. Available for dine-in service
