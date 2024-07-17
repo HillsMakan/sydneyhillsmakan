@@ -4,12 +4,12 @@ title: Ever Laksa
 description: Malaysian Halal Cuisine
 image: ../../assets/images/ever-laksa.jpg
 categories:
-  - NSW Australia - Food & Beverage
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions
 ---
