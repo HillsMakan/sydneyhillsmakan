@@ -6,9 +6,7 @@ image: ../../assets/images/wrights-tender-meats.jpg
 categories:
   - NSW Australia - Butcher
 region:
-  - Kelliville
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Excluding specials
 ---
