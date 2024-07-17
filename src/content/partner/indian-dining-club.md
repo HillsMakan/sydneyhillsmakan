@@ -3,12 +3,12 @@ title: Indian Dining Club
 description: Indian Cuisine (Use only Halal Meat)
 image: ../../assets/images/indian-dining-club.jpg
 categories:
-  - ACT Australia - Food & Beverage
+  - Australia ACT - Food & Beverage
 cuisine:
   - Indian
   - Halal
 region:
-  - Australian Capital Territory - Australia
+  - Australia - Australian Capital Territory
 discount_pct: 15
 discount_text: Excluding promotions
 ---
