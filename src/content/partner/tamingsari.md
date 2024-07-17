@@ -8,9 +8,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Arncliffe
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Minimum purchase $20 & above and excluding promotions
 ---
