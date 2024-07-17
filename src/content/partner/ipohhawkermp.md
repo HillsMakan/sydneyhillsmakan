@@ -8,9 +8,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Macquarie Park
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 ---
