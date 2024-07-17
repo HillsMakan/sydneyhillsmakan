@@ -8,8 +8,7 @@ cuisine:
   - Indonesian
   - Halal
 region:
-  - Australia
-  - NSW
+  - New South Wales - Australia
 discount_pct: 0
 discount_text: Free Side Soup and Free Teh Pucuk every meal purchased min order $15 and above
 ---
