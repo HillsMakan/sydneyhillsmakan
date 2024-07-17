@@ -6,7 +6,7 @@ link: https://www.justgoshop.com.au
 image: ../../assets/images/justgoshop.jpg
 categories:
   - Australia - Online
-  - Australia - Food & Beverage
+  - Australia - Groceries
 region:
   - Australia
 discount_pct: 5
