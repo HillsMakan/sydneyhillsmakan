@@ -15,7 +15,7 @@ cuisine:
   - Middle Eastern
   - Halal
 region:
-  - New South Wales - Australia
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions
 comment: ""
