@@ -7,9 +7,7 @@ categories:
 cuisine:
   - Malaysian
 region:
-  - Burwood
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 10
 discount_text: Monday to Friday only, Minimum Order $20 and above
 ---
