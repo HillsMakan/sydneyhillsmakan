@@ -9,9 +9,7 @@ cuisine:
   - Malaysian
   - Halal
 region:
-  - Parklea
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: $10 and above (excluding promotions)
 ---
