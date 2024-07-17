@@ -8,9 +8,7 @@ categories:
   - NSW Australia - Groceries
   - NSW Australia - Online
 region:
-  - Castle Hill
-  - New South Wales
-  - Australia
+  - New South Wales - Australia
 discount_pct: 5
 discount_text: In-store and Online. Not applicable to certain products and specials
 comment: "Online discount code : GGVX394TYD42"
