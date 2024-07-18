@@ -11,7 +11,7 @@ cuisine:
   - Halal
 region:
   - Australia - New South Wales
-discount_pct: 3
+discount_pct: 5
 discount_text: ""
 ---
 Malaysian Chef will be at the restaurant after 2 pm.
