@@ -13,7 +13,7 @@ discount_text: Cash payment for purchase over $30, Exclude public holidays and
   promotional items, Excluding Food Truck and Events
 ---
 **Location :** 28/49 Carrington Rd, Marrickville, 2204, New South Wales, Australia\
-(Around 12 mins walk from Marrickville Station)
+(Around 7 mins walk from Tempe Station)
 
 **Trading :** 
 
