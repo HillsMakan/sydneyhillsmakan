@@ -17,6 +17,6 @@ discount_text: Excluding promotions
 
 **Trading :** 
 
-* Sunday - Tuesday : 11 am - 5 pm
-* Wednesday - Saturday : 11 am - 8 pm
-* Monday : Closed
+* Monday & Tuesday : 11.30 am - 7 pm
+* Wednesday - Saturday : 11.30 am - 8 pm
+* Sunday : 11.30 am - 5 pm
