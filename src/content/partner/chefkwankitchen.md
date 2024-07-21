@@ -1,7 +1,7 @@
 ---
 title: Chef Kwon Kitchen
 description: Malaysian, Singaporean & Asian Cuisine
-image: ../../assets/images/chefkwankitchen.jpg
+image: ../../assets/images/20240721_120911.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
