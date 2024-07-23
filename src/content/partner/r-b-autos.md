@@ -6,6 +6,9 @@ image: ../../assets/images/r-b-autos1.jpg
 images:
   - ../../assets/images/r-b-autos3.jpg
   - ../../assets/images/r-b-autos2.jpg
+  - ../../assets/images/r-b-autos4.jpg
+  - ../../assets/images/r-b-autos5.jpg
+  - ../../assets/images/r-b-autos6.jpg
 categories:
   - Australia NSW - Automotive Service
 region:
