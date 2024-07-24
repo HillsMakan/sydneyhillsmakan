@@ -6,7 +6,7 @@ image: ../../assets/images/killineybroadway.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
-  - Singapore
+  - Singaporean
   - Halal
 region:
   - Australia - New South Wales
