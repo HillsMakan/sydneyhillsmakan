@@ -1,5 +1,5 @@
 ---
-title: LOL Asia
+title: LOLAsia
 description: Live Event
 link: https://www.wearelol.asia
 image: ../../assets/images/lolasia.jpg
