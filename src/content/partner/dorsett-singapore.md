@@ -8,6 +8,17 @@ images:
   - ../../assets/images/dorsettsg2.jpg
   - ../../assets/images/dorsettsg3.jpg
   - ../../assets/images/dorsettsg4.jpg
+  - ../../assets/images/dorsettsg..jpg
+  - ../../assets/images/dorsettsg1..jpg
+  - ../../assets/images/dorsettsg2..jpg
+  - ../../assets/images/dorsettsg3..jpg
+  - ../../assets/images/dorsettsg4..jpg
+  - ../../assets/images/dorsettsg5.jpg
+  - ../../assets/images/dorsettsg6.jpg
+  - ../../assets/images/dorsettsg7.jpg
+  - ../../assets/images/dorsettsg8.jpg
+  - ../../assets/images/dorsettsg9.jpg
+  - ../../assets/images/dorsettsg10.jpg
 categories:
   - Singapore - Hotels
 region:
