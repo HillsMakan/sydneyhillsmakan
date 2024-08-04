@@ -19,6 +19,9 @@ images:
   - ../../assets/images/dorsettsg8.jpg
   - ../../assets/images/dorsettsg9.jpg
   - ../../assets/images/dorsettsg10.jpg
+  - ../../assets/images/dorsettsg10..jpg
+  - ../../assets/images/dorsettsg11.jpg
+  - ../../assets/images/dorsettsg12.jpg
 categories:
   - Singapore - Hotels
 region:
