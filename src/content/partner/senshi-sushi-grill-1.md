@@ -1,5 +1,5 @@
 ---
-title: Senshi Sushi & Grill
+title: Senshi Sushi and Grill
 description: Japanese Cuisine
 image: ../../assets/images/senshi.jpg
 images:
