@@ -9,6 +9,7 @@ images:
   - ../../assets/images/mount-faber-nasi-lemak4.jpg
   - ../../assets/images/mount-faber-nasi-lemak5.jpg
   - ../../assets/images/mount-faber-nasi-lemak5..jpg
+  - ../../assets/images/mount-faber-nasi-lemak6.jpg
 categories:
   - Singapore - Food & Beverage
 cuisine:
