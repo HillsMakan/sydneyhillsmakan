@@ -1,5 +1,6 @@
 ---
 title: Mount Faber Nasi Lemak
+description: "Singaporean Cuisine "
 image: ../../assets/images/mount-faber-nasi-lemak.jpg
 categories:
   - Singapore - Food & Beverage
