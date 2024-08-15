@@ -10,7 +10,7 @@ region:
 discount_pct: 10
 discount_text: Excluding Set Meals
 ---
-**Location :** No. 35 Keong Saik Road, 089142, Singapore
+**Location :** 20 Sago St, 059018, Singapore 
 
 (Around 5 mins walk either from Chinatown or Dorsett Hotel Singapore or from Outram Park MRT Station Exit 4)
 
