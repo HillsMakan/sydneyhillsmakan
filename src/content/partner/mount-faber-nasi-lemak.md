@@ -4,6 +4,7 @@ description: "Singaporean Cuisine "
 image: ../../assets/images/mount-faber-nasi-lemak.jpg
 images:
   - ../../assets/images/mount-faber-nasi-lemak1.jpg
+  - ../../assets/images/mount-faber-nasi-lemak2.jpg
 categories:
   - Singapore - Food & Beverage
 cuisine:
