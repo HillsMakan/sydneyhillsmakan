@@ -14,6 +14,17 @@ images:
   - ../../assets/images/knightsbridge8.jpg
   - ../../assets/images/knightsbridge9.jpg
   - ../../assets/images/knightsbridge10.jpg
+  - ../../assets/images/knightsbridge11.jpg
+  - ../../assets/images/knightsbridge12.jpg
+  - ../../assets/images/knightsbridge13.jpg
+  - ../../assets/images/knightsbridge14.jpg
+  - ../../assets/images/knightsbridge15.jpg
+  - ../../assets/images/knightsbridge16.jpg
+  - ../../assets/images/knightsbridge17.jpg
+  - ../../assets/images/knightsbridge18.jpg
+  - ../../assets/images/knightsbridge19.jpg
+  - ../../assets/images/knightsbridge20.jpg
+  - ../../assets/images/knightsbridge21.jpg
 categories:
   - Australia - Hotels
 region:
