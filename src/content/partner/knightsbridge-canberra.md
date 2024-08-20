@@ -3,6 +3,17 @@ title: Knightsbridge Canberra
 description: Hotel and Service Apartment
 link: https://www.knightsbridgecanberra.com.au
 image: ../../assets/images/knightsbridge-canberra.jpg
+images:
+  - ../../assets/images/knightsbridge1.jpg
+  - ../../assets/images/knightsbridge2.jpg
+  - ../../assets/images/knightsbridge3.jpg
+  - ../../assets/images/knightsbridge4.jpg
+  - ../../assets/images/knightsbridge5.jpg
+  - ../../assets/images/knightsbridge6.jpg
+  - ../../assets/images/knightsbridge7.jpg
+  - ../../assets/images/knightsbridge8.jpg
+  - ../../assets/images/knightsbridge9.jpg
+  - ../../assets/images/knightsbridge10.jpg
 categories:
   - Australia - Hotels
 region:
