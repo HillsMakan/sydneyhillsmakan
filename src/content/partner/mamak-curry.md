@@ -8,6 +8,10 @@ images:
   - ../../assets/images/mamakcurry2.jpg
   - ../../assets/images/mamakcurry3.jpg
   - ../../assets/images/mamakcurry4.jpg
+  - ../../assets/images/mamakcurry5.jpg
+  - ../../assets/images/mamakcurry6.jpg
+  - ../../assets/images/mamakcurry7.jpg
+  - ../../assets/images/mamakcurry8.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
