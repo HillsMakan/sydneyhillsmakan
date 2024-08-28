@@ -10,6 +10,8 @@ images:
   - ../../assets/images/birdzoparcel4.jpg
   - ../../assets/images/birdzoparcel5.jpg
   - ../../assets/images/birdzoparcel6.jpg
+  - ../../assets/images/birdzoparcel..jpg
+  - ../../assets/images/birdzoparcel...jpg
 categories:
   - Courier
 region:
