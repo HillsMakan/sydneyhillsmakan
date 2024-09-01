@@ -1,5 +1,5 @@
 ---
-title: Ammakase
+title: Ammakase Singapore
 description: Neo-Indian Omakase Fine Dining
 link: https://www.ammakase.com/
 image: ../../assets/images/ammakase.jpg
