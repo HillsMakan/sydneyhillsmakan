@@ -38,6 +38,7 @@ cuisine:
 region:
   - Singapore
 discount_pct: 10
+discount_text: Reservations required · Has private dining room · Serves vegetarian dishes
 comment: ""
 ---
 **World’s 1st Neo-Indian Omakase Fine Dining Experience**
