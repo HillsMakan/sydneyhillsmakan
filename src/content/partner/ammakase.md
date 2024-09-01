@@ -2,6 +2,7 @@
 title: Ammakase
 description: Fine Dining Restaurant
 link: https://www.ammakase.com/
+image: ../../assets/images/ammakase.jpg
 categories:
   - Singapore - Food & Beverage
 cuisine:
