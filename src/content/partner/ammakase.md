@@ -14,6 +14,16 @@ images:
   - ../../assets/images/ammakase7.jpg
   - ../../assets/images/ammakase8.jpg
   - ../../assets/images/ammakase9.jpg
+  - ../../assets/images/ammakase10.jpg
+  - ../../assets/images/ammakase11.jpg
+  - ../../assets/images/ammakase12.jpg
+  - ../../assets/images/ammakase13.jpg
+  - ../../assets/images/ammakase14.jpg
+  - ../../assets/images/ammakase14..jpg
+  - ../../assets/images/ammakase15.jpg
+  - ../../assets/images/ammakase16.jpg
+  - ../../assets/images/ammakase17.jpg
+  - ../../assets/images/ammakase18.jpg
 categories:
   - Singapore - Food & Beverage
 cuisine:
