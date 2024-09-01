@@ -3,6 +3,17 @@ title: Ammakase
 description: Neo-Indian Omakase Fine Dining
 link: https://www.ammakase.com/
 image: ../../assets/images/ammakase.jpg
+images:
+  - ../../assets/images/ammakase1.jpg
+  - ../../assets/images/ammakase1..jpg
+  - ../../assets/images/ammakase2.jpg
+  - ../../assets/images/ammakase3.jpg
+  - ../../assets/images/ammakase4.jpg
+  - ../../assets/images/ammakase5.jpg
+  - ../../assets/images/ammakase6.jpg
+  - ../../assets/images/ammakase7.jpg
+  - ../../assets/images/ammakase8.jpg
+  - ../../assets/images/ammakase9.jpg
 categories:
   - Singapore - Food & Beverage
 cuisine:
