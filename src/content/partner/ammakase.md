@@ -13,10 +13,10 @@ discount_pct: 10
 ---
 **World’s 1st Neo-Indian Omakase Fine Dining Experience**
 
-**Location :** 20 Sago St, 059018, Singapore
+**Location :** One Raffles Pl, #04-48, 048616, Singapore
 
-(Located in Chinatown. Around 2 mins walk from Maxwell MRT Station or around 10 mins walk from Dorsett Hotel Singapore or from Outram Park MRT Station Exit 4)
+(2 mins walk from Raffles Place MRT Station (NS26/EW14))
 
 **Trading :**
 
-* Monday to Sunday : 9.30 am - 1.30 am
+* Monday to Sunday : 12 noon - 11 pm
