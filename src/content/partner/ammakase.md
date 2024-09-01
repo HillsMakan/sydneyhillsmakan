@@ -41,6 +41,28 @@ discount_pct: 10
 ---
 **World’s 1st Neo-Indian Omakase Fine Dining Experience**
 
+Welcome to ammākase, a sub-continental dining oasis in the heart of Singapore where culinary artistry meets the rich tapestry of Indian flavours in a truly bespoke dining experience with the warmth of a mother's love. Allow your tastebuds to be tantalised by our unique regional Indian cuisine and meticulous pairings.
+
+
+
+**Neo-Indian Omakase**
+
+ammākase is the Indian interpretation of Japanese Omakase. Omakase is a Japanese dining experience that involves placing one's trust in the chef's culinary skills to create a personalized meal. The term omakase translates to ‘I leave it up to you’, which reflects the diner's willingness to relinquish control over their meal to the chef. Without a menu, the dining is a surprise experience!
+
+
+
+**Mothers’ Recipes & Avant-Garde Culinary Techniques**
+
+Our unique Neo-Indian cuisine curates traditional recipes from Mothers across the states along the Coast of India and Sri Lanka. The cuisine is prepared in Avant-Garde Culinary Techniques such as Japanese, French, Italian, Korean, Asian, etc.
+
+
+
+**Farm to Fork**
+
+Our Farm to Fork program exemplifies a sustainable dining model, collaborating closely with local farms to ensure a seasonal and locally sourced menu. This initiative enhances the restaurant's commitment to quality and authenticity, reducing environmental impact through minimised transportation. By supporting local agriculture, we not only provide fresh, traceable ingredients but also contribute to the resilience of regional farming communities.
+
+
+
 **Location :** One Raffles Pl, #04-48, 048616, Singapore
 
 (2 mins walk from Raffles Place MRT Station (NS26/EW14))
