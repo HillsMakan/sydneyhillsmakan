@@ -38,8 +38,8 @@ cuisine:
 region:
   - Singapore
 discount_pct: 10
-discount_text: Reservations required · Has private dining room · Serves vegetarian dishes
-comment: ""
+discount_text: Reservations required · Has private dining room · Vegetarian dishes available
+comment: Reservations required · Has private dining room · Vegetarian dishes available
 ---
 **World’s 1st Neo-Indian Omakase Fine Dining Experience**\
 Welcome to ammākase, a sub-continental dining oasis in the heart of Singapore where culinary artistry meets the rich tapestry of Indian flavours in a truly bespoke dining experience with the warmth of a mother's love. Allow your tastebuds to be tantalised by our unique regional Indian cuisine and meticulous pairings.
