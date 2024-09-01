@@ -1,17 +1,17 @@
 ---
 title: Ammakase
-description: Fine Dining Restaurant
+description: Neo-Indian Omakase Fine Dining
 link: https://www.ammakase.com/
 image: ../../assets/images/ammakase.jpg
 categories:
   - Singapore - Food & Beverage
 cuisine:
-  - Neo-Indian
+  - Neo-Indian Omakase
 region:
   - Singapore
 discount_pct: 10
 ---
-**Mount Faber Nasi Lemak since 1975**
+**World’s 1st Neo-Indian Omakase Fine Dining Experience**
 
 **Location :** 20 Sago St, 059018, Singapore
 
