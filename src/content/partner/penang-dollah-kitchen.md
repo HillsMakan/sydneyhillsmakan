@@ -7,6 +7,8 @@ categories:
 cuisine:
   - Malaysian
   - Halal
+region:
+  - Australia - Western Australia
 discount_pct: 0
 discount_text: "Excluding specials "
 ---
