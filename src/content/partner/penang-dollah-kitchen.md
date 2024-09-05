@@ -26,9 +26,9 @@ region:
 discount_pct: 0
 discount_text: "Excluding specials "
 ---
+Authentic Malaysian Food, Penang Dollah Kitchen’s is a treasure trove of Malaysian delights, inviting you to experience the vibrant street food culture and exquisite dishes that Penang is celebrated for.
+
 **Location :** 641 Beach Rd, Warwick, 6024, Western Australia, Australia 
-
-
 
 **Trading :**
 
