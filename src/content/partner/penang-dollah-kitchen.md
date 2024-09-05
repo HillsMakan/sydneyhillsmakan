@@ -2,6 +2,20 @@
 title: Penang Dollah Kitchen
 description: Malaysian Cruisine Halal
 image: ../../assets/images/penangdollahkitchen-.jpg
+images:
+  - ../../assets/images/penangdollahkitchen1.jpg
+  - ../../assets/images/penangdollahkitchen2.jpg
+  - ../../assets/images/penangdollahkitchen3.jpeg
+  - ../../assets/images/penangdollahkitchen4.jpg
+  - ../../assets/images/penangdollahkitchen5.jpg
+  - ../../assets/images/penangdollahkitchen6.jpg
+  - ../../assets/images/penangdollahkitchen7.jpg
+  - ../../assets/images/penangdollahkitchen8.jpg
+  - ../../assets/images/penangdollahkitchen9.jpg
+  - ../../assets/images/penangdollahkitchen10.jpg
+  - ../../assets/images/penangdollahkitchen11.jpg
+  - ../../assets/images/penangdollahkitchen12.jpg
+  - ../../assets/images/penangdollahkitchen13.jpg
 categories:
   - Australia WA - Food & Beverage
 cuisine:
