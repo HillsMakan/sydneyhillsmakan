@@ -3,6 +3,8 @@ draft: false
 title: While They Napped
 description: Custom Aussie Handmade Tiedyes
 image: ../../assets/images/while-they-napped.jpg
+images:
+  - ../../assets/images/whiletheynapped1.jpg
 categories:
   - Australia NSW - Markets
   - Australia NSW - Direct
