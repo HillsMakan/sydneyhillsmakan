@@ -18,7 +18,7 @@ categories:
 discount_pct: 15
 discount_text: Mention HMG member to receive discount
 ---
-Clean Fix Pro, your reliable and professional handyman service provider. We specialize in a wide range of home repair and maintenance services.
+Welcome to Clean Fix Pro, your reliable and professional handyperson service provider. We specialize in a wide range of home repair, maintenance, and clean services.
 
 We specialize in general repairs, electrical and plumbing services, carpentry, painting and decorating, home renovation, and appliance installation. Our skilled technicians handle everything from fixing leaky faucets to installing electrical systems and custom woodworking projects.
 
