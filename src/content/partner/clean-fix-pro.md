@@ -23,3 +23,5 @@ Welcome to Clean Fix Pro, your reliable and professional handyperson service pro
 We specialize in general repairs, electrical and plumbing services, carpentry, painting and decorating, home renovation, and appliance installation. Our skilled technicians handle everything from fixing leaky faucets to installing electrical systems and custom woodworking projects.
 
 At Clean Fix Pro, we prioritize the safety and security of our clients and their homes. Our company is fully insured, providing you with peace of mind and protection while we work on your projects. This means that in the unlikely event of any accidents or damage, you are covered, and our insurance will handle any claims. Trust in Clean Fix Pro to deliver high-quality, reliable services with the assurance that your property is in safe hands.
+
+ABN NO: 78413456618
