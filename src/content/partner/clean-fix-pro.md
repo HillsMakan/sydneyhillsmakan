@@ -16,7 +16,7 @@ images:
 categories:
   - Australia NSW - Handyperson Service
 discount_pct: 15
-discount_text: Mention HMG member to receive discount
+discount_text: Mention HMG International member to receive discount
 ---
 Welcome to Clean Fix Pro, your reliable and professional handyperson service provider. We specialize in a wide range of home repair, maintenance, and clean services.
 
@@ -32,3 +32,5 @@ Working hours on depending what is the issues  :
 * Sunday : Closed
 
 Location : Sydney Metro Area
+
+Call for a quote and mention HMG International member for discount.
