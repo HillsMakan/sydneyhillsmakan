@@ -28,11 +28,11 @@ At Clean Fix Pro, we prioritize the safety and security of our clients and their
 
 ABN NO: 78413456618
 
-Working hours  depending what is the issues  :
-
-* Monday - Saturday : 24 hours
-* Sunday : Closed
+For any inquiries or a quote, call Andrew on 0405 838 465 and mention HMG International member for discount.
 
 Location : Sydney Metro Area
 
-Call for a quote and mention HMG International member for discount.
+Working hours depending on what the issues is :
+
+* Monday - Saturday : 24 hours
+* Sunday : Closed
