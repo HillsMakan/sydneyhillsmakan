@@ -1,6 +1,6 @@
 ---
 title: Clean Fix Pro
-description: "Handyperson Services "
+description: Handyperson Service
 link: https://cleanfixpro.com.au/
 image: ../../assets/images/cleanfixpro.jpeg
 images:
@@ -13,6 +13,8 @@ images:
   - ../../assets/images/cleanfixpro7.jpg
   - ../../assets/images/cleanfixpro8.jpg
   - ../../assets/images/cleanfixpro9.png
+categories:
+  - Australia NSW - Handyperson Service
 discount_pct: 15
 ---
 Clean Fix Pro, your reliable and professional handyman service provider. We specialize in a wide range of home repair and maintenance services.
