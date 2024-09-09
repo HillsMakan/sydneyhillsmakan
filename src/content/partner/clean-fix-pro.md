@@ -15,6 +15,8 @@ images:
   - ../../assets/images/cleanfixpro9.png
 categories:
   - Australia NSW - Handyperson Service
+region:
+  - Australia - New South Wales
 discount_pct: 15
 discount_text: Mention HMG International member to receive discount
 ---
