@@ -1,6 +1,7 @@
 ---
 title: Clean Fix Pro
 description: "Handyperson Services "
+link: https://cleanfixpro.com.au/
 image: ../../assets/images/cleanfixpro.jpeg
 images:
   - ../../assets/images/cleanfixpro1.jpeg
