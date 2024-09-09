@@ -28,7 +28,7 @@ At Clean Fix Pro, we prioritize the safety and security of our clients and their
 
 ABN NO: 78413456618
 
-Working hours on depending what is the issues  :
+Working hours  depending what is the issues  :
 
 * Monday - Saturday : 24 hours
 * Sunday : Closed
