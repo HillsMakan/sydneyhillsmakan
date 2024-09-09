@@ -15,4 +15,4 @@ images:
   - ../../assets/images/cleanfixpro9.png
 discount_pct: 15
 ---
-G
+Clean Fix Pro, your reliable and professional handyman service provider. We specialize in a wide range of home repair and maintenance services.
