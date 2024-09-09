@@ -16,5 +16,6 @@ images:
 categories:
   - Australia NSW - Handyperson Service
 discount_pct: 15
+discount_text: Mention HMG member to receive discount
 ---
 Clean Fix Pro, your reliable and professional handyman service provider. We specialize in a wide range of home repair and maintenance services.
