@@ -6,6 +6,14 @@ link: https://www.instagram.com/bling_mee_nail/
 image: ../../assets/images/bling-mee-nail-salon.jpg
 images:
   - ../../assets/images/bling-mee-logo.jpg
+  - ../../assets/images/blingmee1.jpg
+  - ../../assets/images/blingmee2.jpg
+  - ../../assets/images/blingmee3.jpg
+  - ../../assets/images/blingmee4.jpg
+  - ../../assets/images/blingmee5.jpg
+  - ../../assets/images/blingmee6.jpg
+  - ../../assets/images/blingmee7.jpg
+  - ../../assets/images/blingmee8.jpg
 categories:
   - Australia NSW - Beauty Salon
 region:
