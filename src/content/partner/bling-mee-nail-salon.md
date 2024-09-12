@@ -2,6 +2,7 @@
 draft: false
 title: Bling Mee Nail Salon
 description: Korean Nail Salon
+link: https://www.instagram.com/bling_mee_nail/
 image: ../../assets/images/bling-mee-nail-salon.jpg
 images:
   - ../../assets/images/bling-mee-logo.jpg
