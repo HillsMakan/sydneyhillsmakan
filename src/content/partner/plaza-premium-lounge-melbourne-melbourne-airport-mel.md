@@ -2,6 +2,8 @@
 title: Plaza Premium Lounge Melbourne, Melbourne Airport (MEL)
 description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-melbourne.jpg
+categories:
+  - Australia VIC - Airport Premium Lounge
 discount_pct: 15
 discount_text: Please show your HMG International member card
 ---
