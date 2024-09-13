@@ -11,7 +11,7 @@ images:
   - ../../assets/images/ppl_adl5.jpg
   - ../../assets/images/ppl_adl6.jpg
 categories:
-  - Airport Premium Lounge
+  - Australia SA - Airport Premium Lounge
 region:
   - Western Australia
 discount_pct: 15
