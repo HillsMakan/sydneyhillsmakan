@@ -23,6 +23,7 @@ discount_text: Please show your HMG International member card
 Our bright and welcoming Plaza Premium Lounge is nestled within the International Terminal at Brisbane Airport. The perfect place to relax away from the crowds, embrace panoramic views of the airfield through floor-to-ceiling windows, filling the space with natural light. Indulge in our culinary delights with a diverse array of international cuisine, complemented by hand-crafted Barista Coffee, as well as alcoholic and non-alcoholic beverages. Unwind in comfort with a range of plush seating throughout or escape to our exclusive VIP/Business area for added luxury. For those with children, our children's room equipped with activities will ensure your little ones are kept occupied before your flight. Refresh with invigorating showers before your flight. Whether you're a business traveller or leisure seeker, our lounge promises a warm welcoming pre-flight destination.
 
 **Location :**\
+Brisbane Airport\
 32 Airport Drive, Brisbane, 4008, Queensland, Australia\
 (Site 3N03, International Terminal, Departures, Level 3 near Gate 77)
 
