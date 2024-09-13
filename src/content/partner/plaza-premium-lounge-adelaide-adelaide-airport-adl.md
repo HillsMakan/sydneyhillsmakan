@@ -42,8 +42,6 @@ Adelaide Airport Terminal, Sir Richard Williams Ave, 5950, South Australia, Aust
 * Tuesday : 5.30 am - 11 am
 * Wednesday : 7 am - 11.30 am
 * Thursday : 7 am - 12 noon
-* Friday : 0700 AM - 1130 AM
-
-Saturday: 0530 AM - 1100 AM
-
-Sunday: 0700 AM - 1130 AM
+* Friday : 7 am - 11.30 am
+* Saturday : 5.30 am - 11 am
+* Sunday : 7 am - 11.30 am
