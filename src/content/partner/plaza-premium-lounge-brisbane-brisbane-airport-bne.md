@@ -1,7 +1,7 @@
 ---
 title: Plaza Premium Lounge Brisbane, Brisbane Airport (BNE)
 description: Airport Premium Lounge
-image: ../../assets/images/plaza-premium-lounge-brisbane.jpg
+image: ../../assets/images/ppl_bne.jpg
 images:
   - ../../assets/images/ppl_logo.png
   - ../../assets/images/ppl_bne1.jpg
