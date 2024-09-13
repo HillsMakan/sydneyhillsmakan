@@ -15,7 +15,7 @@ categories:
 region:
   - Australia - South Australia
 discount_pct: 15
-discount_text: Please show your HMG International member card
+discount_text: Please show your HMG International membership card
 ---
 **THE LOUNGE**\
 Inspired by the Australian way of life, Plaza Premium Lounge is the only airport lounge conveniently located in International Departures at Adelaide Airport and the perfect setting for both business and leisure travellers. We invite travellers to savour our selection of freshly prepared food and a range of beverages while relaxing by the bar, in the dining area or in our comfortable lounge chairs.
