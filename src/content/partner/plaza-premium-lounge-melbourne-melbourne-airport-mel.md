@@ -4,6 +4,8 @@ description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-melbourne.jpg
 categories:
   - Australia VIC - Airport Premium Lounge
+region:
+  - Australia - Victoria
 discount_pct: 15
 discount_text: Please show your HMG International member card
 ---
