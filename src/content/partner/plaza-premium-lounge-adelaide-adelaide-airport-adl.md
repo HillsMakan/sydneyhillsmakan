@@ -13,7 +13,7 @@ images:
 categories:
   - Australia SA - Airport Premium Lounge
 region:
-  - Western Australia
+  - Australia - South Australia
 discount_pct: 15
 ---
 **THE LOUNGE**\
