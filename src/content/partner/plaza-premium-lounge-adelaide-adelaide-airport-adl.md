@@ -34,6 +34,7 @@ Experience curated events celebrating our vibrant community, from wine tastings 
 Embark on a journey through the heart of Adelaide before takeoff, only at Plaza Premium Lounge, Adelaide.
 
 **Location :**\
+Adelaide Airport\
 Adelaide Airport Terminal, Sir Richard Williams Ave, 5950, South Australia, Australia\
 (Level 1, International Departures Terminal 1, Adelaide Airport)
 
