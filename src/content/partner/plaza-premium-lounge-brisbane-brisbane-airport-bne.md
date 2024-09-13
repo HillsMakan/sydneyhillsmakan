@@ -10,6 +10,7 @@ images:
   - ../../assets/images/ppl_bne5.jpg
   - ../../assets/images/ppl_bne6.jpg
   - ../../assets/images/ppl_bne7.jfif
+  - ../../assets/images/ppl_bne8.jpg
 categories:
   - Australia QLD - Airport Premium Lounge
 region:
