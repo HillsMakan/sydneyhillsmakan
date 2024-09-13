@@ -12,6 +12,8 @@ images:
   - ../../assets/images/ppl_bne7.jfif
 categories:
   - Australia QLD - Airport Premium Lounge
+region:
+  - Australia - Queensland
 discount_pct: 15
 discount_text: Please show your HMG International member card
 ---
