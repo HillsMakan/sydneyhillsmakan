@@ -23,8 +23,6 @@ You'll also find everything a traveller needs to relax pre-flight, including sho
 
 **Please note:** As Plaza Premium Lounge Adelaide is located in the restricted area of International Departures, guests are required to clear immigration before accessing the lounge. Immigration opens 90 minutes prior to the flight departure time.
 
-
-
 **Proudly Local**\
 Immerse yourself in local charm and cultural richness at Plaza Premium Lounge.
 
@@ -33,3 +31,19 @@ Our Cultural Lounge Ambassadors welcome you to indulge in authentic South Austra
 Experience curated events celebrating our vibrant community, from wine tastings to traditional music.
 
 Embark on a journey through the heart of Adelaide before takeoff, only at Plaza Premium Lounge, Adelaide.
+
+**Location :**\
+Adelaide Airport Terminal, Sir Richard Williams Ave, 5950, South Australia, Australia\
+(Level 1, International Departures Terminal 1, Adelaide Airport)
+
+**Operating Hours :**
+
+* Monday : 7 am - 12 noon
+* Tuesday : 5.30 am - 11 am
+* Wednesday : 7 am - 11.30 am
+* Thursday : 7 am - 12 noon
+* Friday : 0700 AM - 1130 AM
+
+Saturday: 0530 AM - 1100 AM
+
+Sunday: 0700 AM - 1130 AM
