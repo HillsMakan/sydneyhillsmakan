@@ -19,3 +19,12 @@ Situated just one floor below check-in and departures, outside the airport’s r
 Your Lounge Use entry includes access to a selection of alcoholic and non-alcoholic drinks, a full buffet breakfast in the morning, and delectable lunch and dinner options throughout the afternoon and evening. For those looking to freshen up, add a shower package to your visit for the ultimate comfort. For added convenience, our luggage storage options allow you to explore with peace of mind, knowing your luggage is in safe hands.
 
 Bundle your lounge use with our shower or luggage packages to save and enjoy all that Plaza Premium Lounge Arrivals has to offer.
+
+**Location :**\
+Sydney International Airport\
+10 Arrivals Court, Sydney International, 2020, NSW, Australia\
+(Ground Floor, Arrivals B, Terminal 1, Sydney Airport (outside restricted area))
+
+**Operating Hours :**
+
+* Monday - Sunday : 6 am - 10 pm
