@@ -5,6 +5,13 @@ description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-sydney-arrivals.jpg
 images:
   - ../../assets/images/ppl_logo.png
+  - ../../assets/images/ppl_syd1.jpg
+  - ../../assets/images/ppl_syd2.jpeg
+  - ../../assets/images/ppl_syd3.jpg
+  - ../../assets/images/ppl_syd4.jpg
+  - ../../assets/images/ppl_syd5.jpg
+  - ../../assets/images/ppl-syd6.jpg
+  - ../../assets/images/ppl_syd7.jpg
 categories:
   - Australia NSW - Airport Premium Lounge
 region:
