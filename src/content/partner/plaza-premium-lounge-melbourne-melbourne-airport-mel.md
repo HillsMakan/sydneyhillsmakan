@@ -4,6 +4,13 @@ description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-melbourne.jpg
 images:
   - ../../assets/images/ppl_logo.png
+  - ../../assets/images/ppl_mel1.jfif
+  - ../../assets/images/ppl_mel2.jpeg
+  - ../../assets/images/ppl_mel3.jpg
+  - ../../assets/images/ppl_mel4.jpg
+  - ../../assets/images/ppl_mel5.jfif
+  - ../../assets/images/ppl_mel6.jpg
+  - ../../assets/images/ppl_mel7.jpg
 categories:
   - Australia VIC - Airport Premium Lounge
 region:
