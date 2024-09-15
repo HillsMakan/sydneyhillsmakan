@@ -1,5 +1,6 @@
 ---
-title: Plaza Premium Lounge (International Arrivals), Sydney Airport (SYD)
+title: Plaza Premium Lounge (International Arrivals), Sydney International
+  Airport (SYD)
 description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-sydney-arrivals.jpg
 categories:
