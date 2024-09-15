@@ -8,6 +8,8 @@ images:
   - ../../assets/images/ppl_syd_departure1.jpg
   - ../../assets/images/ppl_syd_departure2.jpg
   - ../../assets/images/ppl_syd_departure3.jpeg
+categories:
+  - Australia NSW - Airport Premium Lounge
 region:
   - Australia - New South Wales
 discount_pct: 15
