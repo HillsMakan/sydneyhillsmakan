@@ -7,7 +7,8 @@ categories:
 region:
   - Australia - Victoria
 discount_pct: 15
-discount_text: Please show your HMG International member card
+discount_text: Please show your HMG International member card. Each visit is
+  entitled for lounge use package of 2 hours at the lounge.
 ---
 **THE LOUNGE**
 
