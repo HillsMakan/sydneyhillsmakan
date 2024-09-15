@@ -4,6 +4,8 @@ description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-sydney-arrivals.jpg
 categories:
   - Australia NSW - Airport Premium Lounge
+region:
+  - Australia - New South Wales
 discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge.
