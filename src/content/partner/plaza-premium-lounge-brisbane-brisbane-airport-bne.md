@@ -12,7 +12,7 @@ images:
   - ../../assets/images/ppl_bne7.jfif
   - ../../assets/images/ppl_bne8.jpg
 categories:
-  - Australia QLD - Airport Premium Lounge
+  - QLD - Airport Premium Lounge
 region:
   - Australia - Queensland
 discount_pct: 15
