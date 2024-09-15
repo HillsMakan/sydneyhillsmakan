@@ -37,4 +37,4 @@ Sydney International Airport\
 
 **Operating Hours :**
 
-* Monday - Sunday : 6 am - 10 pm
+* Monday - Sunday : 6 am - 8 pm
