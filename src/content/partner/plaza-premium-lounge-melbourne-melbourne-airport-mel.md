@@ -2,6 +2,8 @@
 title: Plaza Premium Lounge Melbourne, Melbourne Airport (MEL)
 description: Airport Premium Lounge
 image: ../../assets/images/plaza-premium-lounge-melbourne.jpg
+images:
+  - ../../assets/images/ppl_logo.png
 categories:
   - Australia VIC - Airport Premium Lounge
 region:
