@@ -8,6 +8,11 @@ images:
   - ../../assets/images/soshiok3.jpg
   - ../../assets/images/soshiok4.jpg
   - ../../assets/images/soshiok5.jpg
+  - ../../assets/images/soshiok6.jpg
+  - ../../assets/images/soshiok7.jpg
+  - ../../assets/images/soshiok8.jpg
+  - ../../assets/images/soshiok9.jpg
+  - ../../assets/images/soshiok10.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
