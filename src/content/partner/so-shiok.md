@@ -2,6 +2,12 @@
 title: So Shiok
 description: "Singaporean Street Food Cuisine "
 image: ../../assets/images/soshiok.jpg
+images:
+  - ../../assets/images/soshiok1.jpg
+  - ../../assets/images/soshiok2.jpg
+  - ../../assets/images/soshiok3.jpg
+  - ../../assets/images/soshiok4.jpg
+  - ../../assets/images/soshiok5.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
