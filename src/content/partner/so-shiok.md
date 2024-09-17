@@ -36,5 +36,5 @@ discount_text: "Excluding promotions "
 
 **Trading :**
 
-* Monday - Friday : 9am - 2.30pm 
+* Monday - Friday : 9 am - 2.30 pm 
 * Saturday & Sunday : Closed
