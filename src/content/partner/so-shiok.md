@@ -8,3 +8,8 @@ discount_pct: 10
 discount_text: "Excluding promotions "
 ---
 **Locations :** Piccadilly Centre, Level 1, Food Court, 2/210 Pitt St, Sydney, 2000, NSW, Australia (Behind Hilton Hotel and next to Wesley Mission Church. Up 2 escalators and it's on your right)
+
+**Trading :**
+
+* Monday - Friday : 9am - 2.30pm 
+* Saturday & Sunday : Closed
