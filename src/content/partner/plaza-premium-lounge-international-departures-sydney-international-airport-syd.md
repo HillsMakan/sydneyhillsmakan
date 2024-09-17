@@ -2,6 +2,7 @@
 title: Plaza Premium Lounge (International Departures), Sydney International
   Airport (SYD)
 description: Airport Premium Lounge
+link: https://www.plazapremiumlounge.com/en-uk/find/asia/australia/sydney/sydney-airport/international-departures-terminal-one
 image: ../../assets/images/ppl_syd_departure.jpg
 images:
   - ../../assets/images/ppl_logo.png
