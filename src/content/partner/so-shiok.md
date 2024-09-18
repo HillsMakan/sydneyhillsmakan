@@ -22,6 +22,7 @@ images:
   - ../../assets/images/soshiok17.jpg
   - ../../assets/images/soshiok18.jpg
   - ../../assets/images/soshiok19.jpg
+  - ../../assets/images/so-shiok-19..jpg
   - ../../assets/images/soshiok20.jpg
 categories:
   - Australia NSW - Food & Beverage
