@@ -12,7 +12,7 @@ region:
 discount_pct: 5
 discount_text: "Cash Only. Excluding lunch and promotions "
 ---
-**Location :**
+**Location :** 357 King St, Newtown, NSW (2 mins walk from Newtown Train Station)
 
 **Trading :**
 
