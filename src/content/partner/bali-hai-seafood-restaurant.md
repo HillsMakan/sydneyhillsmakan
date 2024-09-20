@@ -23,6 +23,15 @@ images:
   - ../../assets/images/balihai18.jpg
   - ../../assets/images/balihai19.jpg
   - ../../assets/images/balihai20.jpg
+  - ../../assets/images/balihai21.jpg
+  - ../../assets/images/balihai22.jpg
+  - ../../assets/images/balihai23.jpg
+  - ../../assets/images/balihai24.png
+  - ../../assets/images/balihai25.jpg
+  - ../../assets/images/balihai26.jpg
+  - ../../assets/images/balihai27.png
+  - ../../assets/images/balihai28.jpg
+  - ../../assets/images/balihai29.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
