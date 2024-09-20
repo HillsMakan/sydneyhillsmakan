@@ -1,6 +1,6 @@
 ---
 title: Bali Hai Seafood Restaurant
-description: Malaysian and Singaporean Cuisine
+description: Malaysian Cuisine
 image: ../../assets/images/balihaiseafoodrestaurant.jpg
 categories:
   - Australia NSW - Food & Beverage
@@ -12,6 +12,8 @@ region:
 discount_pct: 5
 discount_text: "Cash Only. Excluding lunch and promotions "
 ---
+Experience authentic Malaysian seafood feast right here in Sydney, exactly like the seafood restaurants in Malaysia.
+
 **Location :** 357 King St, Newtown, NSW (2 mins walk from Newtown Train Station)
 
 **Trading :**
