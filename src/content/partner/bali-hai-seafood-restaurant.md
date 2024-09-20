@@ -2,6 +2,17 @@
 title: Bali Hai Seafood Restaurant
 description: Malaysian Cuisine
 image: ../../assets/images/balihaiseafoodrestaurant.jpg
+images:
+  - ../../assets/images/balihai1.jpg
+  - ../../assets/images/balihai2.jpg
+  - ../../assets/images/balihai3.jpg
+  - ../../assets/images/balihai4.jpg
+  - ../../assets/images/balihai5.jpg
+  - ../../assets/images/balihai6.jpg
+  - ../../assets/images/balihai7.jpg
+  - ../../assets/images/balihai8.jpg
+  - ../../assets/images/balihai9.jpg
+  - ../../assets/images/balihai10.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
