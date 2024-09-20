@@ -27,7 +27,6 @@ categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
-  - Singaporean
 region:
   - Australia - New South Wales
 discount_pct: 5
