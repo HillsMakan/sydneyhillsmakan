@@ -2,6 +2,9 @@
 title: Ipoh Hawker - Marrickville
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkermarrickville.jpg
+images:
+  - ../../assets/images/ihm.jpg
+  - ../../assets/images/ihm1.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
