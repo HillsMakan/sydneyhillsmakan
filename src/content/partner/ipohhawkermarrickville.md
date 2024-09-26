@@ -5,6 +5,9 @@ image: ../../assets/images/ipohhawkermarrickville.jpg
 images:
   - ../../assets/images/ihm.jpg
   - ../../assets/images/ihm1.jpg
+  - ../../assets/images/ihm2.jpg
+  - ../../assets/images/ihm3.jpg
+  - ../../assets/images/ihm4.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
