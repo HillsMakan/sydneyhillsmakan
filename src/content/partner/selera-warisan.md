@@ -1,5 +1,5 @@
 ---
-title: Selera Warisan
+title: Selera Warisan (Omela)
 description: Malaysian Halal
 image: ../../assets/images/omelacafe.jpg
 images:
