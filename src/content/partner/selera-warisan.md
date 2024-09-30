@@ -1,5 +1,5 @@
 ---
-title: selera warisan (Omela)
+title: 322 Victoria Rd, Marrickville NSW 2204
 description: Malaysian Halal
 image: ../../assets/images/omelacafe.jpg
 images:
