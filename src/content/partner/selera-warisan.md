@@ -1,5 +1,5 @@
 ---
-title: Selera Warisan (322 Victoria Rd, Marrickville NSW 2204)
+title: Selera Warisan 322 Victoria Rd, Marrickville NSW 2204
 description: Malaysian Halal
 image: ../../assets/images/omelacafe.jpg
 images:
