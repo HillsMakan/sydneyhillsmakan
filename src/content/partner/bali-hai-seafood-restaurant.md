@@ -1,5 +1,5 @@
 ---
-title: Bali Hai Seafood Restaurant
+title: Bali Hai Seafood Pty Ltd
 description: Malaysian Cuisine
 image: ../../assets/images/balihaiseafoodrestaurant.jpg
 images:
