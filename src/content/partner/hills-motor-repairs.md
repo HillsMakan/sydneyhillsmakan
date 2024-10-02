@@ -22,16 +22,26 @@ discount_text: 15% discount off labor cost for any car service  OR  15% discount
 ---
 Any cars models and any car services including tire's services. Pink slip is also available. 
 
-ABOUT HILLS MOTOR REPAIRS
+**ABOUT HILLS MOTOR REPAIRS**
 
 Hills Motor Repairs is a leading mechanic, specialising in European & prestige car repairs and maintenance. Hills Motor Repairs consistently sets the benchmark for luxury car repairs and customer service in Sydney's Hills District areas including Castle Hill, West Pennant Hills, Bella Vista, Baulkham Hills and Seven Hills. Specialising in car models such as Porcshe, Mercedes-Benz, BMW, Audi, Volkswagon, Lexus and Range Rover and with over 20 years of specialist experience in automotive repairs, you can be sure your car is in safe hands.
 
 Hills Motor Repairs offers a convenient pickup & delivery service, taking the stress and hassle out of your car repairs & maintenance. Whether your vehicle is in need of a little love, or you simply wish to discuss a service schedule that suits you, call us today and ask for an obligation-free consultation and quote. We'd love to hear from you.
 
-
-
-Our Mission Statement
+**Our Mission Statement**
 
 Hills Motor Repairs is a specialist prestige car mechanic committed to providing the highest quality car repairs combined with a highly transparent and convenient customer service experience.
 
 From the time of enquiry through to delivery of the vehicle, we will treat your car will the skill, integrity and care as though it were our own.
+
+**Location :** Unit 49, 7 Hoyle Ave, Castle Hill, 2154, New South Wales, Australia
+
+(When you enter drive straight on road level till the end and down the ramp. It’s on the right)
+
+**Trading :**
+
+
+
+Monday - Saturday : 9.30 am - 5.30 pm
+
+Sunday : Closed
