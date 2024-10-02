@@ -4,6 +4,10 @@ description: Car Mechanic
 image: ../../assets/images/hmr.jpg
 images:
   - ../../assets/images/hmr1.png
+  - ../../assets/images/hmr2.jpg
+  - ../../assets/images/hmr3.jpg
+  - ../../assets/images/hmr4.jpg
+  - ../../assets/images/hmr5.jpg
 categories:
   - Australia NSW - Automotive Service
 region:
