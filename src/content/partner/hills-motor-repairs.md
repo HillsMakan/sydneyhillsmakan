@@ -38,6 +38,8 @@ From the time of enquiry through to delivery of the vehicle, we will treat your 
 
 (Only 4 mins walk from Hills Showground Metro Station)
 
+**Phone :** 1300 467 111
+
 **Trading :**
 
 * Monday - Saturday : 8 am - 4 pm
