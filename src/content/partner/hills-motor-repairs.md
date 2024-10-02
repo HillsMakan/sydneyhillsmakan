@@ -2,6 +2,8 @@
 title: Hills Motor Repairs
 description: Car Mechanic
 image: ../../assets/images/hmr.jpg
+images:
+  - ../../assets/images/hmr1.png
 categories:
   - Australia NSW - Automotive Service
 region:
