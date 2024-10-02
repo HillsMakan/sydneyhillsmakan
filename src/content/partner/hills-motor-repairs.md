@@ -8,4 +8,7 @@ region:
   - Australia - New South Wales
 discount_pct: 15
 ---
-G
+* 15% discount off labor cost for car service 
+
+  OR
+* 15% discount off labor cost and free pink slip if doing car service in the same time
