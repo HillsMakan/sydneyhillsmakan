@@ -34,14 +34,11 @@ Hills Motor Repairs is a specialist prestige car mechanic committed to providing
 
 From the time of enquiry through to delivery of the vehicle, we will treat your car will the skill, integrity and care as though it were our own.
 
-**Location :** Unit 49, 7 Hoyle Ave, Castle Hill, 2154, New South Wales, Australia
+**Location :** Unit 24, 7 Carrington Rd, 2154, Castle Hill, NSW, Australia 
 
-(When you enter drive straight on road level till the end and down the ramp. It’s on the right)
+(Only 4 mins walk from Hills Showground Metro Station)
 
 **Trading :**
 
-
-
-Monday - Saturday : 9.30 am - 5.30 pm
-
-Sunday : Closed
+* Monday - Saturday : 8 am - 4 pm
+* Saturday & Sunday : Closed
