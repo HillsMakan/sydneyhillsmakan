@@ -18,7 +18,7 @@ region:
   - Australia - New South Wales
 discount_pct: 15
 discount_text: 15% discount off labor cost for any car service  OR  15% discount
-  off labor cost and free pink slip if doing any car service in the same time
+  off labor cost and FREE Pink Slip if doing any car service in the same time
 ---
 Any cars models and any car services including tire's services. Pink slip is also available. 
 
