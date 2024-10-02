@@ -8,6 +8,10 @@ images:
   - ../../assets/images/hmr3.jpg
   - ../../assets/images/hmr4.jpg
   - ../../assets/images/hmr5.jpg
+  - ../../assets/images/hmr6.jpg
+  - ../../assets/images/hmr7.jpg
+  - ../../assets/images/hmr8.jpg
+  - ../../assets/images/hmr9.jpg
 categories:
   - Australia NSW - Automotive Service
 region:
