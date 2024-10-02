@@ -20,7 +20,7 @@ discount_pct: 15
 discount_text: 15% discount off labor cost for any car service  OR  15% discount
   off labor cost and FREE Pink Slip if doing any car service in the same time
 ---
-Any cars models and any car services including tire's services. Pink slip is also available. 
+Any cars models and any car services including tyres services. Pink slip is also available. 
 
 **ABOUT HILLS MOTOR REPAIRS**
 
