@@ -14,7 +14,9 @@ discount_text: Minimum spend $20 and above
 ---
 Fresh Sugarcane Juice, fruit juices, milk shakes, eggs, hot foods and etc.
 
-**Location :** Gate 2, Shop 5, Parklea Markets, 601 Sunnyholt Rd, Parklea, 2768, New South Wales, Australia
+**Location :** Gate 2, Shop 342, Parklea Markets, 601 Sunnyholt Rd, Parklea, 2768, New South Wales, Australia
+
+(Next to Sweetalicious Nuts Shop)
 
 **Trading :**
 
