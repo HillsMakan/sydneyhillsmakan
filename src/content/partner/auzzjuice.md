@@ -1,6 +1,6 @@
 ---
 title: Auzz Juice Bar - Parklea Markets
-description: "Sugarcane Juice, Ice Cream and Drinks Kiosk "
+description: Sugarcane Juice, Ice Cream and Drinks
 image: ../../assets/images/auzzjuice.jpg
 images:
   - ../../assets/images/auzzjuicebar1.jpg
