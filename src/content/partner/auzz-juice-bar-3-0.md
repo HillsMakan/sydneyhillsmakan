@@ -7,6 +7,7 @@ categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Kiosks
-discount_pct: 0
+discount_pct: 5
+discount_text: Minimum spend $20 and above
 ---
 H
