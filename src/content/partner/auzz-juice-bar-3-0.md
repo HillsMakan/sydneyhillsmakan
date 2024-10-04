@@ -5,6 +5,8 @@ image: ../../assets/images/ajb.jpg
 categories:
   - Australia NSW - Markets
   - Australia NSW - Food & Beverage
+cuisine:
+  - Kiosks
 discount_pct: 0
 ---
 H
