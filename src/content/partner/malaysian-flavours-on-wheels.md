@@ -6,6 +6,8 @@ categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
+region:
+  - Australia - New South Wales
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
