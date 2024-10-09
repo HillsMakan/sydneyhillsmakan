@@ -2,10 +2,12 @@
 title: Malaysian Flavours On Wheels
 description: Malaysian Cuisine Halal
 image: ../../assets/images/malaysian-flavours-on-wheels.jpg
+categories:
+  - Australia NSW - Food & Beverage
 cuisine:
   - Malaysian
 discount_pct: 5
-discount_text: Minimum $30
+discount_text: Minimum spend $30
 ---
 **Location :** 5 Octavia St., Toongabbie, 2146, New South Wales, Australia 
 
