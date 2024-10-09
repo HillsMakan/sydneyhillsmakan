@@ -8,6 +8,12 @@ images:
   - ../../assets/images/chefkwon3.jpg
   - ../../assets/images/chefkwon4.jpg
   - ../../assets/images/chefkwon5.jpg
+  - ../../assets/images/chefkwon6.jpg
+  - ../../assets/images/chefkwon7.jpg
+  - ../../assets/images/chefkwon8.jpg
+  - ../../assets/images/chefkwon9.jpg
+  - ../../assets/images/chefkwon10.jpg
+  - ../../assets/images/chefkwon11.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
