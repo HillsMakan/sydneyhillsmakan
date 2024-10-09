@@ -1,5 +1,5 @@
 ---
-title: Malaysian Flavours On Wheels
+title: Malaysian Flavours On Wheels - 5 Octavia St., Toongabbie, NSW
 description: Malaysian Cuisine Halal
 image: ../../assets/images/malaysian-flavours-on-wheels.jpg
 images:
