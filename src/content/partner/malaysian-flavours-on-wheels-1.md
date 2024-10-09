@@ -7,4 +7,8 @@ discount_text: Minimum $30
 ---
 **Location :** 5 Octavia St., Toongabbie, 2146, New South Wales, Australia 
 
-. Saturday & Sunday : 11.30 am to 2.30 pm & 5 pm to 9.30 pm. Friday 5 pm to 9.30 pm only.
+**Trading :**
+
+* Friday : 5 pm - 9.30 pm
+
+Saturday & Sunday : 11.30 am - 2.30 pm & 5 pm - 9.30 pm
