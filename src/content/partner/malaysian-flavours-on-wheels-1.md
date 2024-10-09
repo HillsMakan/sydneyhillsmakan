@@ -15,5 +15,4 @@ discount_text: Minimum $30
 **Trading :**
 
 * Friday : 5 pm - 9.30 pm
-
-Saturday & Sunday : 11.30 am - 2.30 pm & 5 pm - 9.30 pm
+* Saturday & Sunday : 11.30 am - 2.30 pm & 5 pm - 9.30 pm
