@@ -2,6 +2,21 @@
 title: Malaysian Flavours On Wheels
 description: Malaysian Cuisine Halal
 image: ../../assets/images/malaysian-flavours-on-wheels.jpg
+images:
+  - ../../assets/images/mfow.jpg
+  - ../../assets/images/mfow1.jpg
+  - ../../assets/images/mfow2.jpg
+  - ../../assets/images/mfow3.jpg
+  - ../../assets/images/mfow4.jpg
+  - ../../assets/images/mfow5.jpg
+  - ../../assets/images/mfow6.jpg
+  - ../../assets/images/mfow7.jpg
+  - ../../assets/images/mfow8.jpg
+  - ../../assets/images/mfow9.jpg
+  - ../../assets/images/mfow10.jpg
+  - ../../assets/images/mfow11.jpg
+  - ../../assets/images/mfow12.jpg
+  - ../../assets/images/mfow13.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
