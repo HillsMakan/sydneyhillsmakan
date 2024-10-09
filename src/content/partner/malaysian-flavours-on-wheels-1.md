@@ -2,6 +2,11 @@
 title: Malaysian Flavours On Wheels
 description: Malaysian Cuisine Halal
 image: ../../assets/images/malaysian-flavours-on-wheels.jpg
+categories:
+  - Australia NSW - Food & Beverage
+cuisine:
+  - Malaysian
+region: []
 discount_pct: 5
 discount_text: Minimum $30
 ---
