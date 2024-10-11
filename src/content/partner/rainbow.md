@@ -2,6 +2,17 @@
 title: Rainbow Food Truck
 description: Malaysian Cuisine
 image: ../../assets/images/rainbow.jpg
+images:
+  - ../../assets/images/rainbow-food-truck-.jpg
+  - ../../assets/images/rainbow-food-truck-1.jpg
+  - ../../assets/images/rainbow-food-truck-2.jpg
+  - ../../assets/images/rainbow-food-truck-3.jpg
+  - ../../assets/images/rainbow-food-truck-4.jpg
+  - ../../assets/images/rainbow-food-truck-5.jpg
+  - ../../assets/images/rainbow-food-truck-6.jpg
+  - ../../assets/images/rainbow-food-truck-7.jpg
+  - ../../assets/images/rainbow-food-truck-8.jpg
+  - ../../assets/images/rainbow-food-truck-9.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
