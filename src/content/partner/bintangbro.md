@@ -14,6 +14,8 @@ images:
   - ../../assets/images/bintang-bro-8.jpg
   - ../../assets/images/bintang-bro-9.jpg
   - ../../assets/images/bintang-bro-10.jpg
+  - ../../assets/images/bintang-bro-11.jpg
+  - ../../assets/images/bintang-bro-12.jpeg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
