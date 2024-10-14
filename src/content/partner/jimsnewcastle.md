@@ -2,6 +2,18 @@
 title: Jim's Malaysia - Newcastle
 description: Malaysian Cuisine
 image: ../../assets/images/jimsnewcastle.jpg
+images:
+  - ../../assets/images/jim-s-malaysia.jpg
+  - ../../assets/images/jmc.jpg
+  - ../../assets/images/jmc1.jpg
+  - ../../assets/images/jmc2.jpg
+  - ../../assets/images/jim-s-malaysia1.jpg
+  - ../../assets/images/jim-s-malaysia2.jpg
+  - ../../assets/images/jim-s-malaysia3.jpg
+  - ../../assets/images/jim-s-malaysia4.jpg
+  - ../../assets/images/jim-s-malaysia5.jpg
+  - ../../assets/images/jim-s-malaysia6.jpg
+  - ../../assets/images/jim-s-malaysia7.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
