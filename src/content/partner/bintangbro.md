@@ -1,6 +1,6 @@
 ---
 title: Bintang Bro
-description: Indonesian Halal
+description: Comfort Indonesian Grill Cuisine - Halal
 image: ../../assets/images/little-indo-town.jpeg
 images:
   - ../../assets/images/bintang-bro.jpg
