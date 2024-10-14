@@ -2,6 +2,14 @@
 title: Jiāxiāng měishí (Hometown food)
 description: Malaysian Cuisine
 image: ../../assets/images/hometown.jpg
+images:
+  - ../../assets/images/hometown1.jpg
+  - ../../assets/images/hometown2.jpg
+  - ../../assets/images/hometown3.jpg
+  - ../../assets/images/hometown4.jpg
+  - ../../assets/images/hometown5.jpg
+  - ../../assets/images/hometown6.jpg
+  - ../../assets/images/hometown7.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
