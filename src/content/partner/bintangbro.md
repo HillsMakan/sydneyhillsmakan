@@ -1,7 +1,7 @@
 ---
 title: Bintang Bro
 description: Indonesian Fusion
-image: ../../assets/images/bintangbro.png
+image: ../../assets/images/little-indo-town.jpeg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
