@@ -10,6 +10,7 @@ images:
   - ../../assets/images/hometown5.jpg
   - ../../assets/images/hometown6.jpg
   - ../../assets/images/hometown7.jpg
+  - ../../assets/images/hometown8.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
