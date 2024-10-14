@@ -2,6 +2,15 @@
 title: Jim's Malaysia - Castle Hill
 description: Malaysian Cuisine
 image: ../../assets/images/jimscastlehill.jpg
+images:
+  - ../../assets/images/jim-s-malaysia.jpg
+  - ../../assets/images/jim-s-malaysia1.jpg
+  - ../../assets/images/jim-s-malaysia2.jpg
+  - ../../assets/images/jim-s-malaysia3.jpg
+  - ../../assets/images/jim-s-malaysia4.jpg
+  - ../../assets/images/jim-s-malaysia5.jpg
+  - ../../assets/images/jim-s-malaysia6.jpg
+  - ../../assets/images/jim-s-malaysia..jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
