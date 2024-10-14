@@ -10,6 +10,7 @@ images:
   - ../../assets/images/jim-s-malaysia4.jpg
   - ../../assets/images/jim-s-malaysia5.jpg
   - ../../assets/images/jim-s-malaysia6.jpg
+  - ../../assets/images/jim-s-malaysia7.jpg
   - ../../assets/images/jim-s-malaysia..jpg
 categories:
   - Australia NSW - Food & Beverage
