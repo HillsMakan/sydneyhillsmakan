@@ -1,5 +1,5 @@
 ---
-title: Bintang Bro
+title: Bintang Bro - Little Indo Town
 description: Comfort Indonesian Grill Cuisine - Halal
 image: ../../assets/images/little-indo-town.jpeg
 images:
