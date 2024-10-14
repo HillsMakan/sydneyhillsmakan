@@ -1,13 +1,14 @@
 ---
 title: Bintang Bro
-description: Indonesian Fusion
+description: Indonesian Halal
 image: ../../assets/images/little-indo-town.jpeg
+images:
+  - ../../assets/images/bintang-bro.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Indonesian
   - Halal
-  - Fusion
 region:
   - Australia - New South Wales
 discount_pct: 10
