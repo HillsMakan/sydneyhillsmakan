@@ -9,5 +9,6 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 5
+discount_text: Minimum spend $30
 ---
 M
