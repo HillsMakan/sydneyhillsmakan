@@ -1,8 +1,11 @@
 ---
 title: Urban Durian
+description: Dessert Restaurant
 image: ../../assets/images/urban-durian.jpg
 categories:
   - Australia NSW - Food & Beverage
+cuisine:
+  - Dessert
 region:
   - Australia - New South Wales
 discount_pct: 10
