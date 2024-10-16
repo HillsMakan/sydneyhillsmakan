@@ -1,5 +1,5 @@
 ---
-title: Skinlash
+title: Skinlash Singapore
 description: Beauty Salon
 link: https://www.skinlash.sg/
 image: ../../assets/images/1000095265.jpg
