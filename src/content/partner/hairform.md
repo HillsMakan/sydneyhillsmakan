@@ -1,5 +1,5 @@
 ---
-title: HairForm Singapore
+title: HairForm Salon
 description: Hair Salon
 link: https://www.hairform.sg/
 image: ../../assets/images/1000095265.jpg
