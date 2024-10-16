@@ -2,8 +2,10 @@
 title: Urban Durian
 categories:
   - Australia NSW - Food & Beverage
-region: []
+region:
+  - Australia - New South Wales
 discount_pct: 10
+discount_text: Excluding promotions and Liven payment
 ---
 **Location :** Little Indo Town, Central Park Mall, RB011, Lower Ground Floor, 28 Broadway, Chippendale, 2008, New South Wales, Australia
 
