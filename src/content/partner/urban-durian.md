@@ -2,6 +2,19 @@
 title: Urban Durian
 description: Dessert Restaurant
 image: ../../assets/images/little-indo-town.jpeg
+images:
+  - ../../assets/images/urban-durian.jpg
+  - ../../assets/images/urban-durian1.jpg
+  - ../../assets/images/urban-durian2.jpg
+  - ../../assets/images/urban-durian3.jpg
+  - ../../assets/images/urban-durian4.jpg
+  - ../../assets/images/urban-durian5.jpg
+  - ../../assets/images/urban-durian6.jpg
+  - ../../assets/images/urban-durian7.jpg
+  - ../../assets/images/urban-durian8.jpg
+  - ../../assets/images/urban-durian9.jpg
+  - ../../assets/images/urban-durian10.jpg
+  - ../../assets/images/urban-durian11.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
