@@ -18,6 +18,8 @@ images:
   - ../../assets/images/into-laksa12.jpg
   - ../../assets/images/into-laksa13.jpg
   - ../../assets/images/into-laksa14.jpg
+  - ../../assets/images/into-laksa15.jpg
+  - ../../assets/images/into-laksa16.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
