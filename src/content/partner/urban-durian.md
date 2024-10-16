@@ -1,5 +1,6 @@
 ---
 title: Urban Durian
+image: ../../assets/images/urban-durian.jpg
 categories:
   - Australia NSW - Food & Beverage
 region:
