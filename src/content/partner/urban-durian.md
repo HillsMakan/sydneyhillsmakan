@@ -15,6 +15,7 @@ images:
   - ../../assets/images/urban-durian9.jpg
   - ../../assets/images/urban-durian10.jpg
   - ../../assets/images/urban-durian11.jpg
+  - ../../assets/images/indo-town.jpeg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
