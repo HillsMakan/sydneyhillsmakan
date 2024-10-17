@@ -6,7 +6,8 @@ categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Drinks
-region: []
+region:
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
