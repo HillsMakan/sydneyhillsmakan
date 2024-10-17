@@ -48,6 +48,7 @@ images:
   - ../../assets/images/teguk42.jpg
   - ../../assets/images/teguk43.jpg
   - ../../assets/images/teguk44.jpg
+  - ../../assets/images/indo-town.jpeg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
