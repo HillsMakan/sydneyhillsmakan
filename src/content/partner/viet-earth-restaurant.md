@@ -8,7 +8,7 @@ cuisine:
   - Vietnamese
 region:
   - Australia - New South Wales
-discount_pct: ""
+discount_pct: 10
 discount_text: "5% discount for credit card and 10% discount for cash. Excluding promotions "
 ---
 G
