@@ -2,6 +2,18 @@
 title: Viet Earth Restaurant
 description: Vietnamese Cuisine
 image: ../../assets/images/viet-earth.jpg
+images:
+  - ../../assets/images/viet-earth1.jpg
+  - ../../assets/images/viet-earth2.jpg
+  - ../../assets/images/viet-earth3.jpg
+  - ../../assets/images/viet-earth4.jpg
+  - ../../assets/images/viet-earth5.jpg
+  - ../../assets/images/viet-earth6.jpg
+  - ../../assets/images/viet-earth7.jpg
+  - ../../assets/images/viet-earth8.jpg
+  - ../../assets/images/viet-earth9.jpg
+  - ../../assets/images/viet-earth10.jpg
+  - ../../assets/images/viet-earth11.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
