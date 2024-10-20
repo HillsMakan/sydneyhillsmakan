@@ -21,7 +21,8 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: "5% discount for credit card and 10% discount for cash. Excluding promotions "
+discount_text: "5% discount for credit card and 10% discount for cash (10% is
+  till 30th Nov 2024). Excluding promotions "
 ---
 Authentic Vietnamese cuisine made with love !
 
