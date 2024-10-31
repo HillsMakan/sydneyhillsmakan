@@ -18,6 +18,7 @@ images:
   - ../../assets/images/mamakcurry12.jpg
   - ../../assets/images/mamakcurry13.jpg
   - ../../assets/images/mamakcurry14.jpg
+  - ../../assets/images/sechawan-kitchen.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
@@ -28,6 +29,8 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+Food and drinks from Mamak Curry Homebush, Cik Senah/Hasnah Hamid and Sechawan Kitchen 
+
 **Location :** 86 Park Rd, Homebush, 2140, New South Wales, Australia
 
 **Trading :** Monday to Sunday : 11.30 am - 10 pm
