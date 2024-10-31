@@ -29,7 +29,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
-Food and drinks from Mamak Curry Homebush, Cik Senah/Hasnah Hamid and Sechawan Kitchen 
+Discounts only applies to food and drinks from Mamak Curry Homebush, Cik Senah/Hasnah Hamid and Sechawan Kitchen 
 
 **Location :** 86 Park Rd, Homebush, 2140, New South Wales, Australia
 
