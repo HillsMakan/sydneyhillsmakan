@@ -30,7 +30,6 @@ region:
   - Global
 discount_pct: 10
 ---
-
 HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry Pastes.
 
 ● Website : https://shop.jackiem.com.au/?ref=AARONGAN
@@ -50,4 +49,4 @@ HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry P
 \=》Concord Hospital Market at The Green on Hospital Road, Concord (orders ready by next market day, ie. last Thursday of each month, between 9am-2pm)
 
 About Jackie M\
-Jackie M is an acclaimed Malaysian & Singaporean street food specialist, former restaurateur, TV presenter, pioneer of live cooking videos, co-author and publisher of the award-winning The DurianCookbook, and the founder of Masters of Malaysian Cuisine. To read more about Jackie M please click https://jackiem.com.au/about/
+Jackie M is an acclaimed Malaysian & Singaporean street food specialist, former restaurateur, TV presenter, pioneer of live cooking videos, co-author and publisher of the award-winning The DurianCookbook, and the founder of Masters of Malaysian Cuisine.
