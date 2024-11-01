@@ -21,7 +21,7 @@ export const SiteMetadata = {
     name: 'Hills Makan Group (International)',
     twitter: '@hmgi',
     url: 'https://hmginternational.com',
-    email: 'aaron_gan@hotmail.com',
+    email: 'aaron@hmginternational.com',
     summary:
       "HMG International is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join. Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor."
   },
