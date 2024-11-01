@@ -1,7 +1,9 @@
 ---
 title: Daddy’s Home Kitchen
 description: "Malaysian Cuisine "
-image: ../../assets/images/20241011_120530.jpg
+image: ../../assets/images/daddy-s-home-kitchen.jpg
+images:
+  - ../../assets/images/daddy-s-home-kitchen1.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
