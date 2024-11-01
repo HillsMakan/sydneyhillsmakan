@@ -53,6 +53,7 @@ categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Drinks
+  - Halal
 region:
   - Australia - New South Wales
 discount_pct: 10
