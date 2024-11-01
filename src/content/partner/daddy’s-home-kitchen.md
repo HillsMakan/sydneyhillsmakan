@@ -11,4 +11,11 @@ region:
 discount_pct: 5
 discount_text: Minimum $20 and above
 ---
-T
+**Location :** Eastwood Markets, Kios 2, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia
+
+(5 mins walk from Eastwood Station)
+
+**Trading :**
+
+* Monday - Thursday : 5 pm - 11 pm
+* Friday - Sunday : 11 am - 11 pm
