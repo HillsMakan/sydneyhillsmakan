@@ -1,6 +1,6 @@
 ---
 title: Urban Durian
-description: Dessert Restaurant
+description: "Dessert Restaurant - Halal "
 image: ../../assets/images/little-indo-town.jpeg
 images:
   - ../../assets/images/urban-durian.jpg
@@ -20,6 +20,7 @@ categories:
   - Australia NSW - Food & Beverage
 cuisine:
   - Dessert
+  - Halal
 region:
   - Australia - New South Wales
 discount_pct: 10
