@@ -4,6 +4,25 @@ description: "Malaysian Cuisine "
 image: ../../assets/images/daddy-s-home-kitchen.jpg
 images:
   - ../../assets/images/daddy-s-home-kitchen1.jpg
+  - ../../assets/images/daddy-s-home-kitchen2.jpg
+  - ../../assets/images/daddy-s-home-kitchen3.jpg
+  - ../../assets/images/daddy-s-home-kitchen4.jpg
+  - ../../assets/images/daddy-s-home-kitchen5.jpg
+  - ../../assets/images/daddy-s-home-kitchen6.jpg
+  - ../../assets/images/daddy-s-home-kitchen7.jpg
+  - ../../assets/images/daddy-s-home-kitchen8.jpg
+  - ../../assets/images/daddy-s-home-kitchen9.jpg
+  - ../../assets/images/daddy-s-home-kitchen10.jpg
+  - ../../assets/images/daddy-s-home-kitchen11.jpg
+  - ../../assets/images/daddy-s-home-kitchen12.jpg
+  - ../../assets/images/daddy-s-home-kitchen13.jpg
+  - ../../assets/images/daddy-s-home-kitchen14.jpg
+  - ../../assets/images/daddy-s-home-kitchen15.jpg
+  - ../../assets/images/daddy-s-home-kitchen16.jpg
+  - ../../assets/images/daddy-s-home-kitchen17.jpg
+  - ../../assets/images/daddy-s-home-kitchen18.jpg
+  - ../../assets/images/daddy-s-home-kitchen19.jpg
+  - ../../assets/images/daddy-s-home-kitchen20.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
