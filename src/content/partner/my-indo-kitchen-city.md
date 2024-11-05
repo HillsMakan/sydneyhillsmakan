@@ -2,10 +2,13 @@
 title: My Indo Kitchen City
 description: Indonesian Cuisine - Halal
 image: ../../assets/images/my-indo-kitchen-sydney.jpg
-categories: []
+categories:
+  - Australia NSW - Food & Beverage
 cuisine:
   - Indonesian
   - Halal
+region:
+  - Australia - New South Wales
 discount_pct: 10
 discount_text: Cash only and Exclude promotion
 ---
