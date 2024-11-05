@@ -3,7 +3,9 @@ title: My Indo Kitchen Campsie
 description: Indonesian Cuisine - Halal
 image: ../../assets/images/my-indo-kitchen-campsie.jpg
 categories: []
-cuisine: []
+cuisine:
+  - Indonesian
+  - Halal
 discount_pct: 10
 discount_text: Cash only and Exclude promotion
 ---
