@@ -44,3 +44,5 @@ Choose Physical Sim or ESim
 Enter Account Details 
 
 Enter Payment Details and Promo Code
+
+Choose Random Number or Premium Number
