@@ -31,8 +31,8 @@ No matter short or long term. No lock-in contract. Why not choose E.Tel Mobile f
 
 Here are the steps/process :\
 1) Go to https://www.etel.com.au/\
-2) Choose which plan.\
+2) Choose which plan\
 3) Choose Physical Sim or ESim\
 4) Enter Account Details \
-5) Enter Payment Details and Promo Code\
+5) Enter Payment Details and Promo Code HMG\
 6) Choose Random Number or Premium Number
