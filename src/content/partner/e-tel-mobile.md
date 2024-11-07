@@ -12,7 +12,8 @@ images:
   - ../../assets/images/e.tel-5.jpg
 categories:
   - Australia NSW - Telecom
-region: []
+region:
+  - Australia - New South Wales
 discount_pct: 20
 discount_text: Promo code HMG
 ---
