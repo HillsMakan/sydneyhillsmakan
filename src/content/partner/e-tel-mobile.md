@@ -11,7 +11,7 @@ images:
   - ../../assets/images/e.tel-4.jpg
   - ../../assets/images/e.tel-5.jpg
 categories:
-  - Australia NSW - Telecom
+  - Australia - Telecom
 region:
   - Australia - New South Wales
 discount_pct: 20
