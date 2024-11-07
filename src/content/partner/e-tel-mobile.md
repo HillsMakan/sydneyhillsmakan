@@ -17,6 +17,8 @@ region:
 discount_pct: 20
 discount_text: Promo code HMG
 ---
+E.Tel's story began in 1999 as a business landline service provider. Over two decades, we've grown into one of Australia's fastest-growing mobile service providers, always guided by our commitment to local values and personal service.
+
 Australia...
 
 Planning your next holiday ?
