@@ -24,11 +24,20 @@ Need a simpler and cheaper plan ?
 
 No matter short or long term. No lock-in contract. Why not choose E.Tel Mobile for your communication. You can either choose your own number or keep your existing number. 
 
-Here are the steps/process :
+Special SIM-only deal
 
-1. Go to https://www.etel.com.au/
-2. Choose which plan
-3. Choose Physical Sim or ESim
-4. Enter Account Details 
-5. Enter Payment Details and Promo Code HMG
-6. Choose Random Number or Premium Number
+Keep your number or get a new one
+
+Get 20% Off for the First Month - Exclusive Deal
+
+All SIM plans include:
+
+Uncapped data speeds on the Optus network
+
+Unlimited standard national talk & text
+
+100 minutes of FREE international calls to 75 destinations
+
+No lock-in contract – cancel anytime
+
+eSIM also available
