@@ -4,6 +4,11 @@ description: Thai classics to exotic quirky flavours drinks
 image: ../../assets/images/chapayom-cabramatta.jpg
 images:
   - ../../assets/images/chapayomlogo.jpg
+  - ../../assets/images/chapayomc1.jpg
+  - ../../assets/images/chapayomc2.jpg
+  - ../../assets/images/chapayomc3.jpg
+  - ../../assets/images/chapayomc4.jpg
+  - ../../assets/images/chapayomc5.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
