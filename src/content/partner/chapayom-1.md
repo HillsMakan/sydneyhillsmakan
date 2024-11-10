@@ -19,6 +19,8 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
+Home of delicious and fresh Thai.Tea.Bites crafted with only the finest Thai and local ingredients and abundance of passion.
+
 **Location :** 99 John St, Cabramatta, 2166, New South Wales, Australia
 
 **Trading :** Monday - Sunday : 10 am - 6 pm
