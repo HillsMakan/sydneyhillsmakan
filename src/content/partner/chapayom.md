@@ -23,6 +23,8 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
+Home of delicious and fresh Thai.Tea.Bites crafted with only the finest Thai and local ingredients and abundance of passion.
+
 **Location :** 551 George St, Sydney, 2000, New South Wales, Australia\
 (In Meriton Tower building. On the right after you enter the entrance)
 
