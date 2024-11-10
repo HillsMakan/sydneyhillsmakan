@@ -3,6 +3,16 @@ title: Chapayom Australia
 description: Thai classics to exotic quirky flavours drinks, Sangkaya Milky Bun
   and many more
 image: ../../assets/images/chapayom.jpg
+images:
+  - ../../assets/images/chapayomlogo.jpg
+  - ../../assets/images/chapayom1.jpg
+  - ../../assets/images/chapayom2.jpg
+  - ../../assets/images/chapayom3.jpg
+  - ../../assets/images/chapayom4.jpg
+  - ../../assets/images/chapayom5.jpg
+  - ../../assets/images/chapayom6.jpg
+  - ../../assets/images/chapayom7.jpg
+  - ../../assets/images/chapayom8.jpg
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
