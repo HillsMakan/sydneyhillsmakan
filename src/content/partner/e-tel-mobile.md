@@ -3,7 +3,8 @@ title: E.Tel Mobile
 description: Telecommunications service provider
 link: https://www.etel.com.au
 image: ../../assets/images/e.tel-mobile.jpg
-images: []
+images:
+  - ../../assets/images/e.telmobile.jpg
 categories:
   - Australia - Telecom
 region:
