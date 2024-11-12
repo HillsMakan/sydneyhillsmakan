@@ -18,11 +18,11 @@ At E.Tel, we believe in the power of connection. That's why we've partnered with
 * **Special SIM-only deal**
 
   * Keep your number or get a new one
-  * Get 20% Off for the First Month - Exclusive Deal
+  * Get 20% Off for the First Month - Exclusive Deal for HMG International
 * **All SIM plans include :**
 
   * Uncapped data speeds on the Optus network
   * Unlimited standard national talk & text
-  * FREE international calls to 75 destinations (depending on plan)
+  * FREE international calls to 75 destinations (minutes depending on plan)
   * No lock-in contract – cancel anytime
   * eSIM also available
