@@ -27,5 +27,5 @@ At E.Tel, we believe in the power of connection. That's why we've partnered with
   * FREE international calls to 75 destinations (minutes depending on plan)
   * No lock-in contract – cancel anytime (Tourist to Australia is welcome)
   * eSIM also available
-* **Website :** https://www.etel.com.au
-* **20% Off Promo code :** HMG20
+* **Website :** **https://www.etel.com.au**
+* **20% Off Promo code :** **HMG20**
