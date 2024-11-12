@@ -1,7 +1,7 @@
 ---
 title: E.Tel Mobile
 description: Telecommunications service provider
-link: https://www.etel.com.au/
+link: https://www.etel.com.au
 image: ../../assets/images/e.tel-mobile.jpg
 images: []
 categories:
@@ -26,3 +26,5 @@ At E.Tel, we believe in the power of connection. That's why we've partnered with
   * FREE international calls to 75 destinations (minutes depending on plan)
   * No lock-in contract – cancel anytime
   * eSIM also available
+* **Website :** https://www.etel.com.au
+* **20% Off Promo code :** HMG20
