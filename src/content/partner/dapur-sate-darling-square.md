@@ -34,4 +34,7 @@ Dapur Sate was born from the concept of a “Dapur” or "kitchen," a place wher
 
 (It's located in the Maker's Dozen Food Hall & Bar/Darling Square Food Court. Inside The Exchange Building (looks like a bird nest) in Darling Square).
 
-**Trading :**
+**Trading :** 
+
+* Sunday - Wednesday :  11 am - 8 pm
+* Thursday - Saturday : 11 am - 9 pm
