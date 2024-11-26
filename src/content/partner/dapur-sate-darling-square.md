@@ -17,7 +17,6 @@ images:
   - ../../assets/images/ds8.png
   - ../../assets/images/ds9.png
   - ../../assets/images/ds10.png
-  - ../../assets/images/banner5.png
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
