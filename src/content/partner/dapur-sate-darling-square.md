@@ -11,6 +11,13 @@ images:
   - ../../assets/images/ds5.jpg
   - ../../assets/images/ds6.jpg
   - ../../assets/images/ds7.jpg
+  - ../../assets/images/madura.png
+  - ../../assets/images/maranggi.png
+  - ../../assets/images/balinese.png
+  - ../../assets/images/ds8.png
+  - ../../assets/images/ds9.png
+  - ../../assets/images/ds10.png
+  - ../../assets/images/banner5.png
 categories:
   - Australia NSW - Food & Beverage
 cuisine:
