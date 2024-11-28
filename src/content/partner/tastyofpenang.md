@@ -9,7 +9,8 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: Monday to Friday only, Minimum Order $20 and above
+discount_text: "Monday to Friday only, Minimum Order $20 and above. Excluding
+  specials/promotions "
 ---
 **Location :** Burwood Chinatown Building, Shop 106, 1/127 Burwood Road, Burwood, 2134, New South Wales, Australia\
 (In Burwood Chinatown Building upstairs on the right up the stairs at the back)\
