@@ -3,6 +3,10 @@ draft: false
 title: Wrights Tender Meats - Kellyville Village
 description: Butcher
 image: ../../assets/images/wrights-tender-meats.jpg
+images:
+  - ../../assets/images/wtm.jpg
+  - ../../assets/images/wtm1.jpg
+  - ../../assets/images/wtm2.jpg
 categories:
   - Australia NSW - Butcher
 region:
