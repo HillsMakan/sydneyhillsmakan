@@ -27,7 +27,8 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: 1 Free Soft Drink (HMG Member) + 10 % Discount (Cash Only)
+discount_text: "● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
+  Payment : 10 % Discount Only"
 ---
 **Location :** Shop 5, 5 Archibald Avenue, Waterloo, 2017, New South Wales, Australia
 
