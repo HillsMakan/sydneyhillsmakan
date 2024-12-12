@@ -29,6 +29,7 @@ discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
 ---
+
 **Contact :**\
 Name : Myron “Zed” Zlotnick\
 Phone : +61 433 670 450\

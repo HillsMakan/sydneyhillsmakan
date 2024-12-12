@@ -1,6 +1,6 @@
 ---
 title: Malaysian Style Grilled Fish
-description: "Malaysia Ikan Bakar "
+description: 'Malaysia Ikan Bakar '
 image: ../../assets/images/malaysian-style-grilled-fish.jpg
 images:
   - ../../assets/images/malaysian-style-grilled-fish1.jpg
@@ -25,11 +25,12 @@ region:
 discount_pct: 5
 discount_text: Minimum spend $30
 ---
-**Location :** Eastwood Markets, Kios 8, 178-180 Rowe St,  Eastwood, 2122, New South Wales, Australia
+
+**Location :** Eastwood Markets, Kios 8, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia
 
 (5 mins walk from Eastwood Station)
 
 **Trading :**
 
-* Friday - Wednesday : 11 am - 9.30 pm
-* Thursday : Closed
+- Friday - Wednesday : 11 am - 9.30 pm
+- Thursday : Closed

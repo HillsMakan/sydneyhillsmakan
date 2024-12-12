@@ -19,8 +19,9 @@ discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st
   August 2025
-comment: ""
+comment: ''
 ---
+
 **THE LOUNGE**\
 Inspired by the Australian way of life, Plaza Premium Lounge is the only airport lounge conveniently located in International Departures at Adelaide Airport and the perfect setting for both business and leisure travellers. We invite travellers to savour our selection of freshly prepared food and a range of beverages while relaxing by the bar, in the dining area or in our comfortable lounge chairs.
 
@@ -44,10 +45,10 @@ Adelaide Airport Terminal, Sir Richard Williams Ave, 5950, South Australia, Aust
 
 **Operating Hours :**
 
-* Monday : 7 am - 12 noon
-* Tuesday : 5.30 am - 11 am
-* Wednesday : 7 am - 11.30 am
-* Thursday : 7 am - 12 noon
-* Friday : 7 am - 11.30 am
-* Saturday : 5.30 am - 11 am
-* Sunday : 7 am - 11.30 am
+- Monday : 7 am - 12 noon
+- Tuesday : 5.30 am - 11 am
+- Wednesday : 7 am - 11.30 am
+- Thursday : 7 am - 12 noon
+- Friday : 7 am - 11.30 am
+- Saturday : 5.30 am - 11 am
+- Sunday : 7 am - 11.30 am

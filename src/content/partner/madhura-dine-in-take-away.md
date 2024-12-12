@@ -12,8 +12,9 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 5
-discount_text: ""
+discount_text: ''
 ---
+
 Malaysian Chef will be at the restaurant after 2 pm.
 
 **Location :** 10 Aurelia Street, Toongabbie, 2146, New South Wales, Australia\
@@ -21,5 +22,5 @@ Malaysian Chef will be at the restaurant after 2 pm.
 
 **Trading :**
 
-* Thursday - Tuesday : 6 am - 10 pm
-* Wednesday : Closed
+- Thursday - Tuesday : 6 am - 10 pm
+- Wednesday : Closed

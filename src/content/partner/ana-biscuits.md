@@ -18,15 +18,16 @@ region:
   - Australia - New South Wales
 discount_pct: 10
 discount_text: Excluding promotions
-comment: ""
+comment: ''
 ---
+
 Ana Biscuits specialties are no sugar, no egg and no dairy dates and walnut biscuits.
 
 **Location :** Shop 1, 268 Old Northern Rd, Castle Hill, 2154, New South Wales, Australia\
 (Only 1 min walk from Castle Towers Shopping Centre Piazza/Castle Mall Shopping Centre or 5 mins walking distance from Castle Hill Metro Station)
 
-**Trading :** 
+**Trading :**
 
-* Monday : Closed
-* Tuesday - Saturday : 8.30 am - 4 pm
-* Sunday : 9.30 am - 4 pm
+- Monday : Closed
+- Tuesday - Saturday : 8.30 am - 4 pm
+- Sunday : 9.30 am - 4 pm

@@ -20,10 +20,11 @@ region:
 discount_pct: 5
 discount_text: Excluding promotions
 ---
+
 **Location :** 322 Victoria Rd, Marrickville, 2204, New South Wales, Australia\
 (8 mins walk from Sydenham Station)
 
-**Trading :** 
+**Trading :**
 
-* Monday : Closed
-* Tuesday - Sunday : 9 am - 9 pm
+- Monday : Closed
+- Tuesday - Sunday : 9 am - 9 pm

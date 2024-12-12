@@ -12,6 +12,7 @@ region:
 discount_pct: 5
 discount_text: Minimum order above $20. Party & Function Rooms Available
 ---
+
 **Location :** 48 Station Street E, Harris Park, 2150, New South Wales, Australia\
 (4 mins walk from Harris Park Station)
 

@@ -1,6 +1,6 @@
 ---
 title: Sacred Valley Kombucha
-description: ""
+description: ''
 image: ../../assets/images/sacred-valley-kombucha.jpg
 categories:
   - Australia - Food & Beverage

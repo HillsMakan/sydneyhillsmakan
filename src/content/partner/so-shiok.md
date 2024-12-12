@@ -1,6 +1,6 @@
 ---
 title: So Shiok
-description: "Singaporean Street Food Cuisine "
+description: 'Singaporean Street Food Cuisine '
 image: ../../assets/images/soshiok.jpg
 images:
   - ../../assets/images/soshiok1.jpg
@@ -31,11 +31,12 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: "Excluding promotions "
+discount_text: 'Excluding promotions '
 ---
+
 **Locations :** Piccadilly Centre, Level 1, Food Court, 2/210 Pitt St, Sydney, 2000, NSW, Australia (Behind Hilton Hotel and next to Wesley Mission Church. Up 2 escalators and it's on your right)
 
 **Trading :**
 
-* Monday - Friday : 9 am - 2.30 pm 
-* Saturday & Sunday : Closed
+- Monday - Friday : 9 am - 2.30 pm
+- Saturday & Sunday : Closed

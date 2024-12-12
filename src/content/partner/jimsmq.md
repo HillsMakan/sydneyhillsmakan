@@ -21,6 +21,7 @@ region:
 discount_pct: 10
 discount_text: Meals only
 ---
+
 **Location :** Macquarie Centre, Shop 2141, Cnr, Waterloo Rd, 2113, Macquarie Park, New South Wales, Australia\
 (4 mins walk from Macquarie University Metro Station)
 

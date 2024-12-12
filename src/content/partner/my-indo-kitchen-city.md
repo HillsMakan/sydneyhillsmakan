@@ -28,11 +28,12 @@ region:
 discount_pct: 10
 discount_text: Cash only and Exclude promotion
 ---
+
 **Location :** 348 Sussex St, Sydney, 2000, NSW, Australia
 
 (6 mins walk from Town Hall Station)
 
 **Trading :**
 
-* Thursday - Wednesday : 11 am - 9 pm
-* Wednesday : Closed
+- Thursday - Wednesday : 11 am - 9 pm
+- Wednesday : Closed

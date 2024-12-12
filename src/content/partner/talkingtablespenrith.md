@@ -11,11 +11,12 @@ region:
 discount_pct: 10
 discount_text: Dine-in & Pickups (not in conjunction with any other offer)
 ---
+
 **Location :** 166 Henry Street, Penrith, 2750, New South Wales, Australia\
 (Next to NAB bank, opposite the plaza)\
 (7 mins walk from Penrith Station)
 
-**Trading :** 
+**Trading :**
 
-* Monday : Closed
-* Tuesday - Sunday : 4 pm - 9 pm
+- Monday : Closed
+- Tuesday - Sunday : 4 pm - 9 pm

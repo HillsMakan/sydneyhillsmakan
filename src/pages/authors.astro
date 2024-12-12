@@ -34,7 +34,7 @@ const authors = await getCollection('author')
                   />
                 </div>
                 <h3 class='inline-block rounded bg-blue-600 px-3 py-1 text-xs text-white font-medium tracking-tight uppercase hover:bg-pink-600'>
-                  <a href={`${import.meta.env.BASE_URL}author/${author.slug}/`}>
+                  <a href={`${import.meta.env.BASE_URL}author/${author.id}/`}>
                     <span class='absolute inset-0' />
                     {author.data.title}
                   </a>

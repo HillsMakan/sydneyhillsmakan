@@ -3,7 +3,7 @@ title: MIT Licence
 description: The MIT License, explained.
 pubDate: 2022-08-09T00:00:00.000Z
 image: ../../assets/site/banner.jpg
-categories: [restaurant]
+categories: [general]
 ---
 
 ## Introduction

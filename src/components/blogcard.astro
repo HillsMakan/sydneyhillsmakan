@@ -26,7 +26,7 @@ if (post.data.author) {
   <div
     class='h-full overflow-hidden border-1 border-gray-200 rounded-lg bg-white p-2 shadow-xl dark:border-gray-700 dark:bg-gray-800'
   >
-    <a href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
+    <a href={import.meta.env.BASE_URL + 'blog/' + post.id}>
       <Image
         src={image}
         alt={post.data.title + ' featured image'}
@@ -36,7 +36,7 @@ if (post.data.author) {
     </a>
     <div class='p-6'>
       {post.data.categories && <Categories categories={post.data.categories} />}
-      <a href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
+      <a href={import.meta.env.BASE_URL + 'blog/' + post.id}>
         <h1
           class='title-font mt-2 text-xl text-blue-600 font-bold dark:text-blue-300 hover:text-pink-600 dark:hover:text-pink-300'
         >

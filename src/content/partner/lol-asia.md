@@ -11,6 +11,7 @@ region:
   - Asia
 discount_pct: 0
 ---
+
 LOL Asia is a live event company privileged to have worked with hundreds of amazing artists with the likes Kumar, Kevin Hart, Russell Peters, David Blaine, Fluffy, Jimmy Carr, Margaret and many more. Check out their website for live events in your neighborhood.
 
 HMG International is fortunate to have the collaboration with LOL Asia and Kumar for Kumar ANZ 2024 Tour. Keep an eye out in our Facebook groups for future special collaborations with LOL Asia events for HMG International members.

@@ -20,6 +20,7 @@ discount_pct: 10
 discount_text: Mention that you are HMG International member when you contact
   them for an enquiries or quote.
 ---
+
 Birdzo Parcel is a leading courier service provider in Malaysia for both individuals and businesses. We ship anything, anywhere, for businesses and individuals (B2B & B2C).
 
 International courier door-to-door service, e-commerce integration, budget-friendly options, and multi-piece shipment handling.

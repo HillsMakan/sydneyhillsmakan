@@ -27,12 +27,13 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: "● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
-  Payment : 10 % Discount Only"
+discount_text: '● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
+  Payment : 10 % Discount Only'
 ---
+
 **Location :** Shop 5, 5 Archibald Avenue, Waterloo, 2017, New South Wales, Australia
 
 **Trading :**
 
-* Sunday - Friday : 11.30 am - 3 pm & 4 pm - 8.30 pm
-* Saturday : Closed
+- Sunday - Friday : 11.30 am - 3 pm & 4 pm - 8.30 pm
+- Saturday : Closed

@@ -27,13 +27,14 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
+
 Dapur Sate was born from the concept of a “Dapur” or "kitchen," a place where Indonesia’s diverse satay dishes come to life. Inspired by the rich tradition of Indonesian satay, we envisioned a restaurant that offers a variety of satay dishes from across the archipelago, and thus, Dapur Sate was created.
 
 **Location :** The Exchange, Shop 4, 1 Little Pier St, Haymarket, 2000, NSW, Australia
 
 (It's located in the Maker's Dozen Food Hall & Bar/Darling Square Food Court. Inside The Exchange Building (looks like a bird nest) in Darling Square).
 
-**Trading :** 
+**Trading :**
 
-* Sunday - Wednesday :  11 am - 8 pm
-* Thursday - Saturday : 11 am - 9 pm
+- Sunday - Wednesday : 11 am - 8 pm
+- Thursday - Saturday : 11 am - 9 pm

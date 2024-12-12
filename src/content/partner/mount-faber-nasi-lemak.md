@@ -1,6 +1,6 @@
 ---
 title: Mount Faber Nasi Lemak
-description: "Singaporean Cuisine "
+description: 'Singaporean Cuisine '
 image: ../../assets/images/mount-faber-nasi-lemak.jpg
 images:
   - ../../assets/images/mount-faber-nasi-lemak1.jpg
@@ -20,6 +20,7 @@ region:
 discount_pct: 10
 discount_text: Excluding Set Meals
 ---
+
 **Mount Faber Nasi Lemak since 1975**
 
 **Location :** 20 Sago St, 059018, Singapore
@@ -28,4 +29,4 @@ discount_text: Excluding Set Meals
 
 **Trading :**
 
-* Monday to Sunday : 9.30 am - 1.30 am
+- Monday to Sunday : 9.30 am - 1.30 am

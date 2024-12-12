@@ -27,14 +27,15 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: "● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
-  Payment : 10 % Discount Only"
+discount_text: '● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
+  Payment : 10 % Discount Only'
 ---
+
 **Location :** Mall 88, Shop LG01/88 Christie St, St Leonards, 2065, New South Wales, Australia\
 (5 minswalk from St Leonard Station)\
 (Down the escalator turn right walk towards the exit door. Just before the exit door on your left)
 
 **Trading :**
 
-* Monday & Tuesday : 11 am - 3 pm & 4 pm - 8.30 pm
-* Wednesday - Sunday : 11 am - 3 pm & 4 pm - 9 pm
+- Monday & Tuesday : 11 am - 3 pm & 4 pm - 8.30 pm
+- Wednesday - Sunday : 11 am - 3 pm & 4 pm - 9 pm

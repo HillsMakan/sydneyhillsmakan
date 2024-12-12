@@ -1,5 +1,5 @@
 ---
-title: 'Restaurant'
+title: 'General'
 image: ../../assets/backgrounds/restaurant.png
-description: Restaurant
+description: General
 ---

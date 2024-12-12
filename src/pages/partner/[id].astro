@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { getCollection } from 'astro:content'
+import { getCollection, render } from 'astro:content'
 import Layout from '../../layouts/partner.astro'
 
 // 1. Generate a new path for every collection entry
@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   })
   // partners = partners.sort((a, b) => +b.data.publishDate - +a.data.publishDate)
   return partners.map((partner, i) => ({
-    params: { slug: partner.slug },
+    params: { id: partner.id },
     props: {
       partner,
       prev: i > 0 && partners[i - 1],
@@ -29,7 +29,7 @@ export interface Props {
 const { partner, prev, next } = Astro.props
 
 // @ts-ignore
-const { Content } = await partner.render()
+const { Content } = await render(partner)
 ---
 
 <Layout partner={partner} {prev} {next}>

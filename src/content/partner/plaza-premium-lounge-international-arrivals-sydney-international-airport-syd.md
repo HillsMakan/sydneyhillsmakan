@@ -22,6 +22,7 @@ discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st
   August 2025
 ---
+
 **THE LOUNGE**
 
 Conveniently located at Arrivals B on the Ground Floor, our lounge is the perfect spot for travellers arriving or transferring domestically at Sydney Airport. Whether you need a quiet space to relax while waiting for friends, a comfortable place to connect with business partners, or a calm spot to refresh before heading into the city, our lounge offers a welcoming retreat.
@@ -39,4 +40,4 @@ Sydney International Airport\
 
 **Operating Hours :**
 
-* Monday - Sunday : 6 am - 8 pm
+- Monday - Sunday : 6 am - 8 pm

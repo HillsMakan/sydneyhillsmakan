@@ -31,7 +31,7 @@ const image = await getImage({
 })
 const logo = Logo
 const publishDate = frontmatter.pubDate || SiteMetadata.buildTime
-const author = frontmatter.author ? frontmatter.author.slug : 'Astro Blog'
+const author = frontmatter.author ? frontmatter.author.id : 'Astro Blog'
 const openGraph = {
   basic: {
     title: frontmatter.title!,

@@ -1,6 +1,6 @@
 ---
 title: Sacred Valley Apple Cider
-description: ""
+description: ''
 image: ../../assets/images/sacred-valley-apple-cider.jpg
 categories:
   - Australia - Food & Beverage

@@ -12,7 +12,7 @@ categories:
 region:
   - Global
 discount_pct: 15
-discount_text: ""
+discount_text: ''
 ---
 
 Special Offer when you mention HMG Member

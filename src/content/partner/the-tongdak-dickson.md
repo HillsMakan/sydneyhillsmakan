@@ -11,11 +11,12 @@ region:
 discount_pct: 5
 discount_text: Cash Only. Minimum spend $40 & above
 ---
+
 **Location :** G SHOP 2, 6 Cape St, Dickson, 2602, Australian Capital Territory, Australia\
 (At Chinatown)
 
-**Trading :** 
+**Trading :**
 
-* Monday - Thursday : 12 noon - 10 pm
-* Friday & Saturday : 12 noon - 11 pm
-* Sunday : Closed
+- Monday - Thursday : 12 noon - 10 pm
+- Friday & Saturday : 12 noon - 11 pm
+- Sunday : Closed

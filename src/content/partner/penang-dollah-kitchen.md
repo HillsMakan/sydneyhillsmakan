@@ -24,13 +24,14 @@ cuisine:
 region:
   - Australia - Western Australia
 discount_pct: 10
-discount_text: "Excluding promotions "
+discount_text: 'Excluding promotions '
 ---
+
 Authentic Malaysian food in Perth, Penang Dollah Kitchen’s is a treasure trove of Malaysian delights, inviting you to experience the vibrant street food culture and exquisite dishes that Penang is celebrated for.
 
-**Location :** 641 Beach Rd, Warwick, 6024, Western Australia, Australia 
+**Location :** 641 Beach Rd, Warwick, 6024, Western Australia, Australia
 
 **Trading :**
 
-* Monday : Closed
-* Tuesday - Sunday : 10 am – 2.30 pm & 5 pm - 9 pm
+- Monday : Closed
+- Tuesday - Sunday : 10 am – 2.30 pm & 5 pm - 9 pm

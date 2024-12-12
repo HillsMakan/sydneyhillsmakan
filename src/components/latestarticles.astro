@@ -42,7 +42,7 @@ const otherPosts = posts.slice(1, 5)
       </div>
       <div class='mt-6 lg:grid lg:grid-cols-2 xl:grid-cols-3 lg:gap-x-6 space-y-12 lg:space-y-0'>
         <div class='relative mb-4 block rounded p-4 xl:col-span-2 lg:mb-0 lg:p-0'>
-          <a href={import.meta.env.BASE_URL + 'blog/' + newestPost.slug}>
+          <a href={import.meta.env.BASE_URL + 'blog/' + newestPost.id}>
             <span class='sr-only'>{newestPost.data.title}</span>
             <Image
               src={newestPost.data.image || DefaultImage}
@@ -54,7 +54,7 @@ const otherPosts = posts.slice(1, 5)
           <div class='mt-4'>
             {newestPost.data.categories && <Categories categories={newestPost.data.categories} />}
           </div>
-          <a href={import.meta.env.BASE_URL + 'blog/' + newestPost.slug}>
+          <a href={import.meta.env.BASE_URL + 'blog/' + newestPost.id}>
             <h1
               class='mt-2 text-4xl text-blue-600 font-bold leading-tight dark:text-blue-300 hover:text-pink-600 dark:hover:text-pink-300'
             >
@@ -72,7 +72,7 @@ const otherPosts = posts.slice(1, 5)
             {newestPost.data.description}
           </p>
           <a
-            href={import.meta.env.BASE_URL + 'blog/' + newestPost.slug}
+            href={import.meta.env.BASE_URL + 'blog/' + newestPost.id}
             class='mt-2 inline-block rounded-md bg-blue-600 px-6 py-3 text-white dark:bg-blue-300 hover:bg-pink-600 dark:text-black dark:hover:bg-pink-300'
           >
             Read more
@@ -83,7 +83,7 @@ const otherPosts = posts.slice(1, 5)
           {
             otherPosts.map((post) => (
               <div class='mb-10 w-full rounded md:grid md:grid-cols-3'>
-                <a href={new URL(import.meta.env.BASE_URL + 'blog/' + post.slug, Astro.url)}>
+                <a href={new URL(import.meta.env.BASE_URL + 'blog/' + post.id, Astro.url)}>
                   <Image
                     src={post.data.image || DefaultImage}
                     alt={post.data.title + ' featured image'}
@@ -93,7 +93,7 @@ const otherPosts = posts.slice(1, 5)
                 </a>
                 <div class='rounded bg-white px-4 md:col-span-2 dark:bg-gray-800'>
                   {post.data.categories && <Categories categories={post.data.categories} />}
-                  <a href={import.meta.env.BASE_URL + 'blog/' + post.slug}>
+                  <a href={import.meta.env.BASE_URL + 'blog/' + post.id}>
                     <div class='text-xl text-gray-800 font-semibold md:mt-1 dark:text-gray-100'>
                       {post.data.title}
                     </div>

@@ -34,6 +34,7 @@ region:
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 **Location :** 333 New Bridge Rd, #01-01 Dorsett Singapore, 088765, Singapore\
 (Inside Dorsett Hotel Singapore)\
 (2 mins walk from Outram Park MRT Station Exit 4)

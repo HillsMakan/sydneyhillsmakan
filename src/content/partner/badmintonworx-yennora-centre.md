@@ -7,9 +7,10 @@ categories:
 region:
   - Australia - New South Wales
 discount_pct: 0
-discount_text: ""
-comment: ""
+discount_text: ''
+comment: ''
 ---
+
 Anyone who don’t have a racquet, get free racquet hire (normal price is $5/each)\
 Weekdays, court hiring $25/hour (normally $30/hour)
 
@@ -18,5 +19,5 @@ Weekdays, court hiring $25/hour (normally $30/hour)
 
 **Trading :**
 
-* Monday - Friday : 10 am - 11 pm
-* Saturday & Sunday : 8 am - 11 pm
+- Monday - Friday : 10 am - 11 pm
+- Saturday & Sunday : 8 am - 11 pm

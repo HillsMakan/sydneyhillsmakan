@@ -1,6 +1,6 @@
 ---
 title: Ming's Chinese And Malaysian Cuisine
-description: ""
+description: ''
 image: ../../assets/images/ming’s-chinese.jpg
 categories:
   - Australia ACT - Food & Beverage
@@ -12,9 +12,10 @@ region:
 discount_pct: 5
 discount_text: Cash only and excluding special
 ---
+
 **Location :** 7/11 Botany Street, Phillip, 2606, Australian Capital Territory, Australia
 
-**Trading :** 
+**Trading :**
 
-* Monday : Closed
-* Tuesday - Sunday : 11.30 am - 2.30 pm & 5 pm - 9 pm
+- Monday : Closed
+- Tuesday - Sunday : 11.30 am - 2.30 pm & 5 pm - 9 pm

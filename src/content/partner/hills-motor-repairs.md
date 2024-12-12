@@ -20,7 +20,8 @@ discount_pct: 15
 discount_text: 15% discount off labor cost for any car service  OR  15% discount
   off labor cost and FREE Pink Slip if doing any car service in the same time
 ---
-Any cars models and any car services including tyres services. Pink slip is also available. 
+
+Any cars models and any car services including tyres services. Pink slip is also available.
 
 **ABOUT HILLS MOTOR REPAIRS**
 
@@ -34,7 +35,7 @@ Hills Motor Repairs is a specialist prestige car mechanic committed to providing
 
 From the time of enquiry through to delivery of the vehicle, we will treat your car will the skill, integrity and care as though it were our own.
 
-**Location :** Unit 24, 7 Carrington Rd, 2154, Castle Hill, NSW, Australia 
+**Location :** Unit 24, 7 Carrington Rd, 2154, Castle Hill, NSW, Australia
 
 (Only 4 mins walk from Hills Showground Metro Station)
 
@@ -42,5 +43,5 @@ From the time of enquiry through to delivery of the vehicle, we will treat your 
 
 **Trading :**
 
-* Monday - Saturday : 8 am - 4 pm
-* Saturday & Sunday : Closed
+- Monday - Saturday : 8 am - 4 pm
+- Saturday & Sunday : Closed

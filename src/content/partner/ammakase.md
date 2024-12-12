@@ -39,8 +39,9 @@ region:
   - Singapore
 discount_pct: 10
 discount_text: Reservations required · Has private dining room
-comment: ""
+comment: ''
 ---
+
 **World’s 1st Neo-Indian Omakase Fine Dining Experience**\
 Welcome to ammākase, a sub-continental dining oasis in the heart of Singapore where culinary artistry meets the rich tapestry of Indian flavours in a truly bespoke dining experience with the warmth of a mother's love. Allow your tastebuds to be tantalised by our unique regional Indian cuisine and meticulous pairings.
 
@@ -58,9 +59,9 @@ Our Farm to Fork program exemplifies a sustainable dining model, collaborating c
 
 **Trading :**
 
-* Lunch\
+- Lunch\
   Monday to Sunday : 12 noon to 3 pm
-* Tapas\
+- Tapas\
   Monday to Sunday : 4.30 pm to 6.30 pm
-* Dinner\
+- Dinner\
   Monday to Sunday : 6.30 pm to 11 pm

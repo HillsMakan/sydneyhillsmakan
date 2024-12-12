@@ -44,6 +44,7 @@ discount_pct: 10
 discount_text: May be times Promo code may not be accessible due to restrictions
   imposed during peak seasons
 ---
+
 Here are the steps/process :
 
 1. Go to https://www.knightsbridgecanberra.com.au

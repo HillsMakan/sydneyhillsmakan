@@ -27,9 +27,10 @@ cuisine:
 region:
   - Australia - New South Wales
 discount_pct: 10
-discount_text: "● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
-  Payment : 10 % Discount Only"
+discount_text: '● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
+  Payment : 10 % Discount Only'
 ---
+
 **Location :** Norwest Marketown, Shop T23A, 4 Century Cct, 2153, Norwest, New South Wales, Australia\
 (3 mins walk from Norwest Metro)
 

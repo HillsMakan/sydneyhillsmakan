@@ -22,13 +22,14 @@ region:
 discount_pct: 10
 discount_text: Excluding Specials & Promotions
 ---
-**Location :** Eastwood Markets, Kios 3, 178-180 Rowe St,  Eastwood, 2122, New South Wales, Australia\
+
+**Location :** Eastwood Markets, Kios 3, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia\
 (5 mins walk from Eastwood Station)
 
 **Trading :**
 
-* Monday : 1 pm - 9 pm
-* Tuesday : Closed
-* Wednesday : 4 pm - 9 pm
-* Thursday : 1 pm - 9 pm
-* Friday - Sunday : 11 am - 9 pm
+- Monday : 1 pm - 9 pm
+- Tuesday : Closed
+- Wednesday : 4 pm - 9 pm
+- Thursday : 1 pm - 9 pm
+- Friday - Sunday : 11 am - 9 pm

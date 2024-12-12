@@ -18,13 +18,14 @@ discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st
   August 2025
 ---
+
 **THE LOUNGE**
 
 Inspired by the Australian landscape and way of life our Plaza Premium Lounge is located at Sydney International Airport, Terminal 1 Departures, opposite Gates 25-26, featuring comfortable lounge area with views out to the runway and casual dining areas.
 
 Our all-inclusive entry offers a range of services including our fully tended Aero Bar serving both alcoholic and non-alcoholic drinks, barista made coffee, a generous selection of made to order bar snacks or guests can choose from the freshly prepared food highlighting both local and international cuisine.
 
-While we are open to serve you, your health and wellbeing is of paramount importance. Guided by our “We Care of Your Wellbeing” campaign, all areas and dining tables are thoroughly cleaned and disinfected immediately after each use. 
+While we are open to serve you, your health and wellbeing is of paramount importance. Guided by our “We Care of Your Wellbeing” campaign, all areas and dining tables are thoroughly cleaned and disinfected immediately after each use.
 
 **Location :**\
 Sydney International Airport\
@@ -33,4 +34,4 @@ Sydney International Airport\
 
 **Operating Hours :**
 
-* Monday - Sunday : 7 am - 10 pm
+- Monday - Sunday : 7 am - 10 pm
