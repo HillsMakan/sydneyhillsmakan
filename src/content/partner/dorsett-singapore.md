@@ -23,9 +23,8 @@ images:
   - ../../assets/images/dorsettsg11.jpg
   - ../../assets/images/dorsettsg12.jpg
 categories:
-  - Singapore - Hotels
-region:
-  - Singapore
+  - hotels
+region: singapore
 discount_pct: 15
 ---
 

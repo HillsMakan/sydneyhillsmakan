@@ -7,10 +7,8 @@ images:
   - ../../assets/images/bird2.jpg
   - ../../assets/images/bird3.jpg
 categories:
-  - Migration Support
-  - Integration Services
-region:
-  - Global
+  - professionals
+region: international
 discount_pct: 15
 discount_text: ''
 ---

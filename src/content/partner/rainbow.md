@@ -14,11 +14,10 @@ images:
   - ../../assets/images/rainbow-food-truck-8.jpg
   - ../../assets/images/rainbow-food-truck-9.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding Specials & Promotions
 ---

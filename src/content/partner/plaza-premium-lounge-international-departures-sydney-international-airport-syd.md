@@ -10,9 +10,8 @@ images:
   - ../../assets/images/ppl_syd_departure2.jpg
   - ../../assets/images/ppl_syd_departure3.jpeg
 categories:
-  - Australia NSW - Airport Premium Lounge
-region:
-  - Australia - New South Wales
+  - lounges
+region: nsw
 discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st

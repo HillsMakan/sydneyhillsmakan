@@ -3,11 +3,10 @@ title: Baba & Kaur Northern Cuisine (Pure Punjabi Food)
 description: Pure Punjabi Cuisine
 image: ../../assets/images/baba-kaur-northern-cuisine.jpg
 categories:
-  - Malaysia Melaka - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Punjabi
-region:
-  - Malaysia - Melaka
+region: melaka
 discount_pct: 10
 discount_text: Excluding promotions
 ---

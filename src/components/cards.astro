@@ -1,0 +1,98 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { getEntry, getEntries } from 'astro:content'
+import { Image } from 'astro:assets'
+import { Icon } from 'astro-iconify'
+import RegBadge from './regbadge.astro'
+import CatBadge from './catbadge.astro'
+
+export interface Props {
+  partners: CollectionEntry<'partner'>[]
+}
+
+interface Partner extends CollectionEntry<'partner'> {
+  region: CollectionEntry<'region'>
+  categories: CollectionEntry<'categories'>[]
+}
+const { partners } = Astro.props
+let pext: Partner[] = []
+for (const p of partners) {
+  const region = await getEntry(p.data.region)
+  const categories = await getEntries(p.data.categories)
+  pext.push({
+    ...p,
+    region,
+    categories
+  })
+}
+---
+
+<section class="bg-gray-50 py-8 antialiased dark:bg-gray-900 md:py-8">
+  <div class="mx-auto px-2 2xl:px-0">
+    <div class="mb-4 grid gap-4 md:mb-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      {
+        pext.length > 0 ? (
+          pext.map((partner) => (
+            <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
+              <a href={'/partner/' + partner.id}>
+                <div>
+                  <h4 class="text-xl font-bold dark:text-white">{partner.data.title}</h4>
+                  <Image
+                    class="h-64 w-full rounded-lg object-cover md:h-48"
+                    src={partner.data.image!}
+                    alt={partner.data.title}
+                  />
+                </div>
+              </a>
+              <div class="pt-2">
+                <div class="mb-2 flex items-center justify-between gap-4">
+                  <span>
+                    <RegBadge region={partner.region} />
+                  </span>
+                  {partner.data.discount_pct && partner.data.discount_pct > 0 ? (
+                    <span class="me-2 rounded bg-red-100 px-2.5 py-0.5 text-base font-medium text-red-800 dark:bg-red-900 dark:text-red-300">
+                      {partner.data.discount_pct}% Discount
+                    </span>
+                  ) : (
+                    <span />
+                  )}
+                </div>
+
+                <CatBadge categories={partner.categories} />
+
+                <ul class="mt-2 flex items-center gap-4">
+                  {partner.data.cuisine &&
+                    partner.data.cuisine.map((cuisine) => (
+                      <li class="flex items-center gap-2">
+                        <Icon
+                          class="size-4 text-gray-500 dark:text-gray-400"
+                          name="mdi:restaurant-menu"
+                        />
+                        <p class="text-sm font-medium text-gray-500 dark:text-gray-400">
+                          {cuisine}
+                        </p>
+                      </li>
+                    ))}
+                </ul>
+
+                <div class="mt-4 flex items-center justify-between gap-4">
+                  <a
+                    href={'/partner/' + partner.id}
+                    class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                  >
+                    <Icon class="-ms-2 me-2 size-5" name="mdi:eye" />
+                    View partner
+                  </a>
+                </div>
+              </div>
+            </div>
+          ))
+        ) : (
+          <div class="flex h-32 items-center justify-center rounded-lg border-2 border-dashed border-gray-300 text-gray-500 dark:border-gray-600 md:h-64">
+            No partners yet, please check again in the future
+          </div>
+        )
+      }
+    </div>
+  </div>
+</section>

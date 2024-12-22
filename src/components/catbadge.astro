@@ -1,0 +1,22 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import Badge from './badge.astro'
+
+export interface Props {
+  categories: CollectionEntry<'categories'>[]
+  prefix?: string
+  affix?: string
+}
+
+const { categories, prefix = '/categories/', affix = '' } = Astro.props
+---
+
+{
+  categories.map((category) => (
+    <Badge
+      text={category.data.title}
+      link={prefix + category.id + affix}
+      icon={category.data.icon}
+    />
+  ))
+}

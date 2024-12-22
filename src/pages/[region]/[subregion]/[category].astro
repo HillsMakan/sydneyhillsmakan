@@ -1,0 +1,79 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { getCollection, getEntry, getEntries, render } from 'astro:content'
+import Layout from '../../../layouts/base.astro'
+import Breadcrumb from '../../../components/breadcrumb.astro'
+import RegCatHero from '../../../components/regcathero.astro'
+import Cards from '../../../components/cards.astro'
+
+export interface Props {
+  region: CollectionEntry<'region'>
+  category: CollectionEntry<'categories'>
+}
+
+const { region, category } = Astro.props
+
+const { Content } = await render(category)
+
+export async function getStaticPaths() {
+  function uniqBy<T>(arr: T[], key: (item: T) => string): T[] {
+    const seen = new Set()
+    return arr.filter((item) => {
+      const k = key(item)
+      return !seen.has(k) ? seen.add(k) : false
+    })
+  }
+
+  let regcats: Props[] = []
+  const regions = await getCollection(
+    'region',
+    (region) => !region.data.draft && region.data.country
+  )
+
+  for (const region of regions) {
+    const partners = await getCollection(
+      'partner',
+      (partner) => !partner.data.draft && partner.data.region.id == region.id
+    )
+    const uniquecats = uniqBy(
+      partners.flatMap((partner) => partner.data.categories),
+      JSON.stringify
+    )
+    const categories = await getEntries(uniquecats)
+    regcats = regcats.concat(categories.map((category) => ({ region, category })))
+  }
+  return regcats.map((regcat) => ({
+    params: {
+      region: regcat.region.data.country?.id,
+      subregion: regcat.region.id,
+      category: regcat.category.id
+    },
+    props: regcat
+  }))
+}
+
+const country = await getEntry(region.data.country!)
+
+const partners = await getCollection(
+  'partner',
+  (partner) =>
+    !partner.data.draft &&
+    partner.data.region.id == region.id &&
+    partner.data.categories.map((p) => p.id).includes(category.id)
+)
+---
+
+<Layout frontmatter={category.data}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb
+      links={[
+        { title: country.data.title, link: '/' + country.id },
+        { title: region.data.title, link: '/' + country.id + '/' + region.id },
+        { title: category.data.title, link: '/' + country.id + '/' + region.id + '/' + category.id }
+      ]}
+    />
+    <RegCatHero region={region} category={category} />
+    <Content />
+    <Cards partners={partners} />
+  </main>
+</Layout>

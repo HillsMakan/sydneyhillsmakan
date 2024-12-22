@@ -13,9 +13,8 @@ images:
   - ../../assets/images/ppl_mel6.jpg
   - ../../assets/images/ppl_mel7.jpg
 categories:
-  - Australia VIC - Airport Premium Lounge
-region:
-  - Australia - Victoria
+  - lounges
+region: victoria
 discount_pct: 15
 discount_text: Please show your HMG International member card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st

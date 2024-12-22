@@ -3,11 +3,10 @@ title: Talking Tables Indian Cuisine Restaurant Penrith
 description: Indian Cuisine
 image: ../../assets/images/talkingtablespenrith.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Indian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Dine-in & Pickups (not in conjunction with any other offer)
 ---

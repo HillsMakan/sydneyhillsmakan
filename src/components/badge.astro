@@ -1,0 +1,19 @@
+---
+import { Icon } from 'astro-iconify'
+
+export interface Props {
+  text: string
+  link: string
+  icon?: string
+}
+
+const { text, link, icon } = Astro.props
+---
+
+<a
+  href={link}
+  class={`me-2 inline-flex items-center rounded border border-purple-400 bg-purple-100 px-2 py-1 text-sm font-medium text-purple-800 hover:bg-purple-200 dark:bg-gray-700 dark:text-purple-400`}
+>
+  {icon && <Icon class="me-2 size-4" name={icon} />}
+  {text}</a
+>

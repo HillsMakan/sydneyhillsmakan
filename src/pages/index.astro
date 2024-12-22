@@ -1,43 +1,28 @@
 ---
-import type { CollectionEntry } from 'astro:content'
-// import { getCollection } from 'astro:content'
-import { SiteMetadata } from '../config'
-import Base from '../layouts/base.astro'
-import { DefaultImage } from '../config'
-import { Image } from 'astro:assets'
-import MyHero from '../components/myhero.astro'
-// import Hero from '../components/hero.astro'
-// import Features from '../components/features.astro'
-import FindOutMore from '../components/findoutmore.astro'
-// import LatestArticles from '../components/latestarticles.astro'
-// import Partners from '../components/partners.astro'
-// import Explore from '../components/explore.astro'
+import Layout from '../layouts/base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
+import Hero from '../components/hero.astro'
+import Regions from '../components/regions.astro'
+import Feature from '../components/feature.astro'
 import CTA from '../components/cta.astro'
+import Site from '../site.ts'
 
-const frontmatter: CollectionEntry<'page'>['data'] = {
-  title: SiteMetadata.title,
-  description: SiteMetadata.description,
-  image: DefaultImage
+const frontmatter = {
+  title: Site.title,
+  description: Site.description
 }
-
-// const partners = await getCollection('partner', ({ data }) => {
-//   return data.draft !== true
-// })
 ---
 
-<script slot='in-head' is:inline src='https://identity.netlify.com/v1/netlify-identity-widget.js'
+<script slot="in-head" is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
-<Base frontmatter={frontmatter}>
-  <Image class='w-full' src={DefaultImage} alt='banner' />
-  <MyHero />
-  <!-- <Explore /> -->
-  <!-- <Partners {partners} />
-  <Hero />
-  <Features /> -->
-  <FindOutMore />
-  <!-- <LatestArticles posts={latestPosts} /> -->
-  <CTA />
-  <div class='bg-white p-24 dark:bg-black md:p-12'></div>
+<Layout frontmatter={frontmatter}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb />
+    <Hero />
+    <Regions />
+    <Feature />
+    <CTA />
+  </main>
   <script is:inline>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on('init', (user) => {
@@ -49,4 +34,4 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
       })
     }
   </script>
-</Base>
+</Layout>

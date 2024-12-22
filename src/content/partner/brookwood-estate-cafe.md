@@ -3,12 +3,11 @@ title: Brookwood Estate Cafe
 description: Malaysian Halal Cruisine
 image: ../../assets/images/brookwood-estate-cafe.jpg
 categories:
-  - Australia WA - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Halal
-region:
-  - Australia - Western Australia
+region: wa
 discount_pct: 10
 discount_text: Excluding specials
 ---

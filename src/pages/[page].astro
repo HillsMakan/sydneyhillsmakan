@@ -4,7 +4,7 @@ import { getCollection, render } from 'astro:content'
 import Layout from '../layouts/page.astro'
 
 export interface Props {
-  page: CollectionEntry<'page'>
+  page: CollectionEntry<'pages'>
 }
 
 const { page } = Astro.props
@@ -12,7 +12,7 @@ const { page } = Astro.props
 const { Content } = await render(page)
 
 export async function getStaticPaths() {
-  const pages = await getCollection('page')
+  const pages = await getCollection('pages', (page) => !page.data.draft)
 
   return pages.map((page) => ({
     params: { page: page.id },

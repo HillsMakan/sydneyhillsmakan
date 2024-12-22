@@ -15,9 +15,8 @@ images:
   - ../../assets/images/blingmee7.jpg
   - ../../assets/images/blingmee8.jpg
 categories:
-  - Australia NSW - Beauty Salon
-region:
-  - Australia - New South Wales
+  - salons
+region: nsw
 discount_pct: 5
 discount_text: Cash only & excluding promotions
 ---

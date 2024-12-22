@@ -10,9 +10,8 @@ images:
   - ../../assets/images/r-b-autos5.jpg
   - ../../assets/images/r-b-autos6.jpg
 categories:
-  - Australia NSW - Automotive Service
-region:
-  - Australia - New South Wales
+  - mechanic
+region: nsw
 discount_pct: 0
 ---
 

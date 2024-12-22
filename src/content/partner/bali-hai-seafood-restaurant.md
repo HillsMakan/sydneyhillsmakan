@@ -33,11 +33,10 @@ images:
   - ../../assets/images/balihai28.jpg
   - ../../assets/images/balihai29.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: 'Cash Only. Excluding lunch and promotions '
 ---

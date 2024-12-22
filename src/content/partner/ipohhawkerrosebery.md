@@ -3,12 +3,11 @@ title: Ipoh Hawker - Rosebery
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkerrosebery.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 ---

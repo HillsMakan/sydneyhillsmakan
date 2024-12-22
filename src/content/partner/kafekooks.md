@@ -14,12 +14,11 @@ images:
   - ../../assets/images/kafekooks9.jpg
   - ../../assets/images/kafekooks10.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Asian
   - Fusion
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Plus $5 off first order as a thank you to all new app users
 ---

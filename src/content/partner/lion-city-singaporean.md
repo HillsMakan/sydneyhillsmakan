@@ -3,12 +3,11 @@ title: Lion City Singaporean Halal
 description: Singaporean Cuisine
 image: ../../assets/images/lion-city-singaporean-restaurant.jpg
 categories:
-  - Australia ACT - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Singaporean
   - Halal
-region:
-  - Australia - Australian Capital Territory
+region: act
 discount_pct: 5
 discount_text: Cash only and excluding special
 ---

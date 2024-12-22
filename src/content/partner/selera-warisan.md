@@ -11,12 +11,11 @@ images:
   - ../../assets/images/selera-warisan6.jpg
   - ../../assets/images/selera-warisan7.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
 ---

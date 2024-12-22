@@ -6,9 +6,8 @@ image: ../../assets/images/e.tel-mobile.jpg
 images:
   - ../../assets/images/e.telmobile.jpg
 categories:
-  - Australia - Telecom
-region:
-  - Australia
+  - mobile
+region: australia
 discount_pct: 20
 discount_text: Promo code HMG20 on every new sign up
 ---

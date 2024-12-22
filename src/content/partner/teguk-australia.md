@@ -50,12 +50,11 @@ images:
   - ../../assets/images/teguk44.jpg
   - ../../assets/images/indo-town.jpeg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Drinks
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---

@@ -14,12 +14,10 @@ images:
   - ../../assets/images/ajb9.jpg
   - ../../assets/images/ajb10.jpg
 categories:
-  - Australia NSW - Markets
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Kiosks
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---

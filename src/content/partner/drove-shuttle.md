@@ -5,10 +5,8 @@ description: Hire Chauffeur Services and Luxury Airport Transfers
 link: https://droveshuttle.com.au
 image: ../../assets/images/drove-shuttle.jpg
 categories:
-  - Australia NSW - Hire Chauffeur Services
-  - Australia NSW - Airport Transfers
-region:
-  - Australia - New South Wales
+  - travel
+region: nsw
 discount_pct: 5
 ---
 

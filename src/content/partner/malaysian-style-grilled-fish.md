@@ -17,11 +17,10 @@ images:
   - ../../assets/images/malaysian-style-grilled-fish12.jpg
   - ../../assets/images/malaysian-style-grilled-fish13.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
 ---

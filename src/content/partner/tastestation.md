@@ -3,12 +3,11 @@ title: Taste Station Restaurant
 description: Malay and Thai Cuisine
 image: ../../assets/images/tastestation.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Thai
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Cash Only
 ---

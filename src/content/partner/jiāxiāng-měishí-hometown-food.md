@@ -12,12 +12,11 @@ images:
   - ../../assets/images/hometown7.jpg
   - ../../assets/images/hometown8.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Asian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
 ---

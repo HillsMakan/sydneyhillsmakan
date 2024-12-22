@@ -15,11 +15,10 @@ images:
   - ../../assets/images/jim-s-malaysia6.jpg
   - ../../assets/images/jim-s-malaysia7.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Meals only
 ---

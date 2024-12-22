@@ -1,21 +1,42 @@
-// 1. Import your utilities and schemas
 import { z, defineCollection, reference } from 'astro:content'
-import { glob, file } from 'astro/loaders'
-import { rssSchema } from '@astrojs/rss'
+import { glob } from 'astro/loaders'
 
-// 2. Define your collections
-const blog = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
+const categories = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/categories' }),
   schema: ({ image }) =>
-    rssSchema.extend({
+    z.object({
       draft: z.boolean().optional(),
-      author: reference('author').optional(),
+      title: z.string(),
+      description: z.string(),
+      icon: z.string(),
+      image: image()
+    })
+})
+
+const collaborations = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/collaborations' }),
+  schema: ({ image }) =>
+    z.object({
+      draft: z.boolean().optional(),
+      title: z.string(),
+      description: z.string().optional(),
+      pubDate: z.date().optional(),
+      image: image().optional()
+    })
+})
+
+const pages = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
+  schema: ({ image }) =>
+    z.object({
+      draft: z.boolean().optional(),
+      menutitle: z.string().optional(),
+      title: z.string(),
+      description: z.string().optional(),
+      pubDate: z.date().optional(),
       image: image().optional(),
-      images: z.array(image()).optional(),
-      gallery: z.string().optional(),
-      categories: z.array(reference('category')).optional(),
-      tags: z.array(z.string()).optional(),
-      minutesRead: z.string().optional()
+      icon: z.string().optional(),
+      order: z.number().optional()
     })
 })
 
@@ -25,67 +46,31 @@ const partner = defineCollection({
     z.object({
       draft: z.boolean().optional(),
       title: z.string(),
-      description: z.string().optional(),
+      description: z.string(),
       link: z.string().url().optional(),
-      image: image().optional(),
+      image: image(),
       images: z.array(image()).optional(),
-      gallery: z.string().optional(),
-      categories: z.array(z.string()).optional(),
+      categories: z.array(reference('categories')),
       cuisine: z.array(z.string()).optional(),
-      region: z.array(z.string()).optional(),
+      region: reference('region'),
       discount_pct: z.number().optional(),
       discount_text: z.string().optional(),
       comment: z.string().optional()
     })
 })
 
-const page = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/page' }),
+const region = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/region' }),
   schema: ({ image }) =>
     z.object({
       draft: z.boolean().optional(),
       title: z.string(),
       description: z.string().optional(),
-      pubDate: z.date().optional(),
-      author: reference('author').optional(),
-      image: image().optional(),
-      images: z.array(image()).optional(),
-      gallery: z.string().optional(),
-      tags: z.array(z.string()).optional()
-    })
-})
-
-const category = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/category' }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
+      country: reference('region').optional(),
+      geo: z.string().optional(),
+      icon: z.string(),
       image: image()
     })
 })
 
-const author = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/author' }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string(),
-      description: z.string(),
-      image: image(),
-      contact: z.string()
-    })
-})
-
-const social = defineCollection({
-  loader: file('src/social.json', { parser: (text) => JSON.parse(text) })
-})
-
-// 3. Export multiple collections to register them
-export const collections = {
-  blog,
-  page,
-  partner,
-  category,
-  author,
-  social
-}
+export const collections = { categories, collaborations, pages, partner, region }

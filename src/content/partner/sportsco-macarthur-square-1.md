@@ -4,9 +4,8 @@ title: Sportsco Macarthur Square
 description: Athletic and lifestyle footwear, apparel and sports accessories
 image: ../../assets/images/sportsco-macarthur-square.jpg
 categories:
-  - Australia NSW - Retail
-region:
-  - Australia - New South Wales
+  - retailers
+region: nsw
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---

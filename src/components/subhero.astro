@@ -1,0 +1,33 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { Image } from 'astro:assets'
+import { Icon } from 'astro-iconify'
+
+export interface Props {
+  frontmatter: CollectionEntry<'region'>['data']
+}
+
+const { frontmatter } = Astro.props
+---
+
+<header class="mx-auto max-w-screen-xl items-center px-4 py-8 sm:py-16 lg:px-6">
+  <div class="gap-8 xl:grid xl:grid-cols-2 xl:gap-16">
+    <Image class="w-full rounded-lg" src={frontmatter.image!} alt={frontmatter.title} />
+    <div class="mt-4 flex items-center md:mt-0">
+      <div class="format format-sm format-blue mb-4 dark:format-invert">
+        <div class="flex">
+          <Icon
+            class="me-2 size-10 shrink-0 text-gray-900 dark:text-white"
+            name={frontmatter.icon}
+          />
+          <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
+            {frontmatter.title}
+          </h2>
+        </div>
+        <p>
+          {frontmatter.description}
+        </p>
+      </div>
+    </div>
+  </div>
+</header>

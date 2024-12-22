@@ -1,11 +1,11 @@
 ---
 draft: false
 title: BadmintonWorx Yennora Centre
+description: Racquet Hire
 image: ../../assets/images/badmintonworxyennora.jpg
 categories:
-  - Australia NSW - Sports Activities
-region:
-  - Australia - New South Wales
+  - companies
+region: nsw
 discount_pct: 0
 discount_text: ''
 comment: ''

@@ -5,12 +5,10 @@ image: ../../assets/images/caneblast.jpg
 images:
   - ../../assets/images/caneblast1.jpg
 categories:
-  - Australia NSW - Markets
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Drinks
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum spend $20 and above
 ---

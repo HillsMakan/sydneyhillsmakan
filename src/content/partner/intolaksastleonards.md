@@ -21,11 +21,10 @@ images:
   - ../../assets/images/into-laksa15.jpg
   - ../../assets/images/into-laksa16.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: '● Cash Payment : 1 Free Soft Drink + 10 % Discount ● Credit Card
   Payment : 10 % Discount Only'

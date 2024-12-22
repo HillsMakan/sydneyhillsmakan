@@ -3,12 +3,11 @@ title: Tong Ah Restaurant
 description: Singporean Chinese Cuisine
 image: ../../assets/images/tong-ah.jpg
 categories:
-  - Singapore - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Singaporean
   - Chinese
-region:
-  - Singapore
+region: singapore
 discount_pct: 10
 discount_text: Excluding breakfast menu and promotions
 ---

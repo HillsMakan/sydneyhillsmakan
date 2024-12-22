@@ -3,10 +3,9 @@ title: kEATchen
 description: Food Deliveries - Muslim Friendly
 image: ../../assets/images/keatchen.jpg
 categories:
-  - Malaysia Selangor - Online
-  - Malaysia Selangor - Food & Beverage
-region:
-  - Malaysia - Selangor
+  - online
+  - foodanddrinks
+region: selangor
 discount_pct: 20
 ---
 

@@ -18,12 +18,11 @@ images:
   - ../../assets/images/ds9.png
   - ../../assets/images/ds10.png
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Indonesian
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---

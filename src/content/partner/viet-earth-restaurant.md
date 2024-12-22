@@ -15,11 +15,10 @@ images:
   - ../../assets/images/viet-earth10.jpg
   - ../../assets/images/viet-earth11.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Vietnamese
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: '5% discount for credit card and 10% discount for cash (10% is
   till 30th Nov 2024). Excluding promotions '

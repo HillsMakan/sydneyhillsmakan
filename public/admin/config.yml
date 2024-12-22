@@ -6,23 +6,222 @@ backend:
 media_folder: "src/assets/images" # Media files will be stored in the repo under images/uploads
 public_folder: "../../assets/images" # The src attribute for uploaded media will begin with /images/uploads
 
+site_url: https://hmg-new.netlify.app
+logo_url: https://hmg-new.netlify.app/favicon.png
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
 collections:
+  - name: "categories"
+    label: "Categories"
+    label_singular: "Category"
+    folder: "src/content/categories"
+    create: true
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        required: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: "Icon"
+        name: "icon"
+        widget: "string"
+        hint: "Enter Iconify Icon Name eg. 'mdi:user'"
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        required: false
+  - name: "collaborations"
+    label: "Collaborations"
+    label_singular: "Collaboration"
+    folder: "src/content/collaborations"
+    create: true
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        required: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: "Publish Date"
+        name: "pubDate"
+        widget: "datetime"
+        required: false
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    folder: "src/content/pages"
+    create: true
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        required: false
+      - label: "Menu Title"
+        name: "menutitle"
+        widget: "string"
+        hint: "Short title for side menu"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: "Publish Date"
+        name: "pubDate"
+        widget: "datetime"
+        required: false
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+      - label: "Icon"
+        name: "icon"
+        widget: "string"
+        hint: "Enter Iconify Icon Name eg. 'mdi:user'"
+      - label: "Sort Order"
+        name: "order"
+        widget: "number"
+        hint: "Enter sequence that pages should be displayed in a menu"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: "partner" # Used in routes, e.g., /admin/collections/blog
     label: "Partners" # Used in the UI
+    label_singular: "Partner"
     folder: "src/content/partner" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     # slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Draft", name: "draft", widget: "boolean", required: false }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string", required: false }
-      - { label: "Link", name: "link", widget: "string", required: false }
-      - { label: "Main Image", name: "image", widget: "image", required: false }
-      - { label: "Additional Images", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "image" }, required: false }
-      - { label: "Categories", name: "categories", widget: "list", required: true }
-      - { label: "Cuisine", name: "cuisine", widget: "list", required: false }
-      - { label: "Region", name: "region", widget: "list", required: true }
-      - { label: "Discount %", name: "discount_pct", widget: "number", default: 0, required: false }
-      - { label: "Discount Text", name: "discount_text", widget: "string", required: false }
-      - { label: "Comment", name: "comment", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        required: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: "Link"
+        name: "link"
+        widget: "string"
+        required: false
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+      - label: "Additional Images"
+        name: "images"
+        widget: "list"
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
+        required: false
+      - label: Categories
+        name: categories
+        widget: relation
+        collection: categories
+        value_field: "{{slug}}"
+        search_fields: [title]
+        display_fields: [title]
+        multiple: true
+        min: 1
+        filters:
+          - field: draft
+            values: [false]
+      - label: "Cuisine"
+        name: "cuisine"
+        widget: "list"
+        required: false
+      - label: Country/State
+        name: region
+        widget: relation
+        collection: region
+        value_field: "{{slug}}"
+        search_fields: [title]
+        display_fields: [title]
+        multiple: false
+        filters:
+          - field: draft
+            values: [false]
+        hint: "Select country of state partner is in."
+      - label: "Discount %"
+        name: "discount_pct"
+        widget: "number"
+        default: 0
+        required: false
+      - label: "Discount Text"
+        name: "discount_text"
+        widget: "string"
+        required: false
+      - label: "Comment"
+        name: "comment"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "region"
+    label: "Countries/States"
+    label_singular: "Country/State"
+    folder: "src/content/region"
+    create: true
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        required: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: Country
+        name: country
+        widget: relation
+        collection: region
+        value_field: "{{slug}}"
+        search_fields: [title]
+        display_fields: [title]
+        multiple: false
+        filters:
+          - field: draft
+            values: [false]
+        hint: "Do not define if this is a country. If this is a region or state within a country, then select the country this belongs in."
+      - label: "Geographical Coordinates"
+        name: "geo"
+        widget: "map"
+        reguired: false
+      - label: "Icon"
+        name: "icon"
+        widget: "string"
+        hint: "Enter Iconify Icon Name eg. 'mdi:user'"
+      - label: "Main Image"
+        name: "image"
+        widget: "image"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        required: false

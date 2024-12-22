@@ -3,13 +3,12 @@ title: Birmingham Café
 description: Coffee shop and Western Breakfast
 image: ../../assets/images/birminghamcafe.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Coffee
   - Western
   - Cafe
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
 ---

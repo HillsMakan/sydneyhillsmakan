@@ -1,30 +1,26 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { Image } from 'astro:assets'
-
+import { getEntry, getEntries } from 'astro:content'
+import RegBadge from './regbadge.astro'
+import CatBadge from './catbadge.astro'
 export interface Props {
   frontmatter: CollectionEntry<'partner'>['data']
 }
 
 const { frontmatter } = Astro.props
+const categories = await getEntries(frontmatter.categories)
+const region = await getEntry(frontmatter.region)
 ---
 
-<div class='relative mx-auto my-4 h-64 w-full max-w-screen-xl md:mb-0'>
-  <div
-    class='absolute bottom-0 left-0 z-10 h-full w-full from-gray-700 bg-gradient-to-t xl:rounded-lg'
-  >
+<header class="not-format mx-auto my-2 ml-8">
+  <h1 class="text-3xl font-extrabold leading-tight text-gray-900 dark:text-white lg:text-4xl">
+    {frontmatter.title}
+  </h1>
+  <div>
+    <RegBadge region={region} />
+    <CatBadge categories={categories} />
   </div>
-  <Image
-    src={frontmatter.image!}
-    alt='featured image'
-    class='absolute left-0 top-0 z-0 h-full w-full object-cover xl:rounded-lg'
-  />
-  <div class='absolute bottom-0 left-0 z-20 p-4'>
-    <h2 class='text-4xl text-white font-bold leading-tight'>
-      {frontmatter.title}
-    </h2>
-    <h2 class='text-xl text-blue-200 font-medium italic'>
-      {frontmatter.description}
-    </h2>
-  </div>
-</div>
+  <p class="text-base font-medium italic text-gray-700 dark:text-gray-200">
+    {frontmatter.description}
+  </p>
+</header>

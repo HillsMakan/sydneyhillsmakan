@@ -24,11 +24,10 @@ images:
   - ../../assets/images/daddy-s-home-kitchen19.jpg
   - ../../assets/images/daddy-s-home-kitchen20.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum $20 and above
 ---

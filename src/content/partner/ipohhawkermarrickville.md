@@ -9,12 +9,11 @@ images:
   - ../../assets/images/ihm3.jpg
   - ../../assets/images/ihm4.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 ---

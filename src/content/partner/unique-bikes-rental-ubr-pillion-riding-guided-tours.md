@@ -1,10 +1,10 @@
 ---
-title: Unique Bikes Rental (UBR) Pillion-riding Guided Tours
+title: Unique Bikes Rental (UBR)
+description: Pillion-riding Guided Tours
 image: ../../assets/images/ubrpillion-ridingguidedtour.jpg
 categories:
-  - Singapore - Guided Tour
-region:
-  - Singapore
+  - travel
+region: singapore
 discount_pct: 10
 ---
 

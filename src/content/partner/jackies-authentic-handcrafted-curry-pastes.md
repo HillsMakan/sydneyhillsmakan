@@ -22,12 +22,11 @@ images:
   - ../../assets/images/jackiem16.jpg
   - ../../assets/images/jackiem17.jpg
 categories:
-  - International - Online
+  - online
 cuisine:
   - Malaysian
   - Singaporean
-region:
-  - Global
+region: international
 discount_pct: 10
 ---
 

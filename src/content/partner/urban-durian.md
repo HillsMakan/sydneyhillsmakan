@@ -17,12 +17,11 @@ images:
   - ../../assets/images/urban-durian11.jpg
   - ../../assets/images/indo-town.jpeg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Dessert
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---

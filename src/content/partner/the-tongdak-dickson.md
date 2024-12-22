@@ -3,11 +3,10 @@ title: The Tongdak Dickson
 description: Korean Cuisine
 image: ../../assets/images/the-tongdak-dickson.jpg
 categories:
-  - Australia ACT - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Korean
-region:
-  - Australia - Australian Capital Territory
+region: act
 discount_pct: 5
 discount_text: Cash Only. Minimum spend $40 & above
 ---

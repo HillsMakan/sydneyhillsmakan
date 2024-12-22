@@ -14,12 +14,11 @@ images:
   - ../../assets/images/chapayom7.jpg
   - ../../assets/images/chapayom8.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Thai Drinks
   - Bubble Tea
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
 ---

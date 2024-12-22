@@ -5,12 +5,11 @@ description: Online Delivery Food
 link: https://deliverymomma.com.au
 image: ../../assets/images/deliverymomma.png
 categories:
-  - Australia NSW - Online
-  - Australia NSW - Food & Beverage
+  - online
+  - foodanddrinks
 cuisine:
   - Asian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum order $50 & above
 comment: ''

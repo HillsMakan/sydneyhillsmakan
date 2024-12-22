@@ -3,14 +3,13 @@ title: Madhura Dine In & Take Away
 description: Malaysian, Indian & Sri Lankan Cuisine. Halal
 image: ../../assets/images/madhura.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Indian
   - Sri Lankan
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: ''
 ---

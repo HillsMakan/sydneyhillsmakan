@@ -15,9 +15,8 @@ images:
   - ../../assets/images/jinsunmee8.jpg
   - ../../assets/images/jinsunmee9.jpg
 categories:
-  - Australia NSW - Beauty Salon
-region:
-  - Australia - New South Wales
+  - salons
+region: nsw
 discount_pct: 5
 discount_text: Cash only, discounts apply to products & excluding promotions
 ---

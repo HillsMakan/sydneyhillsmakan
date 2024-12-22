@@ -21,11 +21,10 @@ images:
   - ../../assets/images/uliveto16.jpg
   - ../../assets/images/uliveto17.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Italian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 ---
 

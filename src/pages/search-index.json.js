@@ -1,28 +1,16 @@
-import { getCollection, getEntry } from 'astro:content'
+import { getCollection } from 'astro:content'
 import lunr from 'lunr'
 
-const defaultAuthor = {
-  slug: 'default',
-  collection: 'author'
-}
-const posts = await getCollection('blog', (p) => {
-  return !p.data.draft
-})
-const partners = await getCollection('partner', (p) => {
-  return !p.data.draft
-})
+const pages = await getCollection('pages', (page) => !page.data.draft)
+const partners = await getCollection('partner', (partner) => !partner.data.draft)
+
 let documents = await Promise.all(
-  posts.map(async (post) => {
-    const author = await getEntry(post.data.author || defaultAuthor)
+  pages.map(async (page) => {
     return {
-      url: import.meta.env.BASE_URL + 'blog/' + post.id,
-      title: post.data.title,
-      description: post.data.description,
-      author: `${author.data.title} (${author.data.contact})`,
-      categories:
-        post.data.categories && post.data.categories.map((category) => category.id).join(' '),
-      tags: post.data.tags && post.data.tags.join(' '),
-      content: post.body
+      url: import.meta.env.BASE_URL + '/' + page.id,
+      title: page.data.title,
+      description: page.data.description,
+      content: page.body
     }
   })
 )
@@ -31,10 +19,9 @@ documents = documents.concat(
     url: import.meta.env.BASE_URL + 'partner/' + partner.id,
     title: partner.data.title,
     description: partner.data.description,
-    title: partner.data.title,
     categories: partner.data.categories.map((category) => category.id),
     cuisine: partner.data.cuisine,
-    region: partner.data.region,
+    region: partner.data.region.id,
     discount_text: partner.data.discount_text,
     comment: partner.data.comment,
     content: partner.body
@@ -45,9 +32,6 @@ const idx = lunr(function () {
   this.ref('url')
   this.field('title')
   this.field('description')
-  this.field('author')
-  this.field('categories')
-  this.field('tags')
   this.field('content')
 
   documents.forEach(function (doc) {

@@ -4,14 +4,13 @@ description: Bakery café which reinventing banana bread. Also available Basque
   cheesecake, toastie and hot & cold drinks.
 image: ../../assets/images/cafesaturdays.jpg
 categories:
-  - Australia NSW - Food & Beverage
-  - Australia NSW - Online
+  - foodanddrinks
+  - online
 cuisine:
   - Bakery
   - Cafe
   - Coffee
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding specials
 ---

@@ -1,29 +1,25 @@
 ---
+import type { CollectionEntry } from 'astro:content'
 import { Image } from 'astro:assets'
-import { DefaultImage } from '../config'
 
 export interface Props {
-  title: string
-  description?: string
-  image?: ImageMetadata
+  frontmatter: CollectionEntry<'pages'>['data']
 }
 
-const { title, description, image } = Astro.props
+const { frontmatter } = Astro.props
 ---
 
-<div class='relative mx-auto h-96 w-full max-w-screen-xl md:my-4'>
-  <div
-    class='absolute bottom-0 left-0 z-10 h-full w-full from-gray-700 bg-gradient-to-t xl:rounded-lg'
+<header class="not-format my-4 lg:my-6">
+  <h1
+    class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 dark:text-white lg:mb-6 lg:text-4xl"
   >
-  </div>
-  <Image
-    src={image || DefaultImage}
-    alt={title}
-    class='absolute left-0 top-0 z-0 h-full w-full object-contain'
-  />
-  <div class='absolute bottom-0 left-0 z-20 p-4'>
-    <h2 class='text-4xl text-white font-bold leading-tight'>{title}</h2>
-    <h2 class='text-xl text-blue-300 font-medium italic'>{description}</h2>
-    <slot />
-  </div>
-</div>
+    {frontmatter.title}
+  </h1>
+</header>
+<p class="lead">
+  {frontmatter.description}
+</p>
+<figure>
+  <Image src={frontmatter.image!} alt={frontmatter.title} />
+  <!-- <figcaption>{frontmatter.title}</figcaption> -->
+</figure>

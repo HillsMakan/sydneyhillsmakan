@@ -17,12 +17,11 @@ images:
   - ../../assets/images/penangdollahkitchen12.jpg
   - ../../assets/images/penangdollahkitchen13.jpg
 categories:
-  - Australia WA - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Halal
-region:
-  - Australia - Western Australia
+region: wa
 discount_pct: 10
 discount_text: 'Excluding promotions '
 ---

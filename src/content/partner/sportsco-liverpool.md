@@ -4,9 +4,8 @@ title: Sportsco Liverpool
 description: Athletic and lifestyle footwear, apparel and sports accessories
 image: ../../assets/images/sportsco-liverpool.jpg
 categories:
-  - Australia NSW - Retail
-region:
-  - Australia - New South Wales
+  - retailers
+region: nsw
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 ---

@@ -3,12 +3,11 @@ title: Chick-N-Run Shop
 description: Chicken, fresh salads and a wide range of burgers and hot food
 image: ../../assets/images/chicknrun.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Western
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 ---
 

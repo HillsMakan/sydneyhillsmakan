@@ -15,11 +15,10 @@ images:
   - ../../assets/images/chefkwon10.jpg
   - ../../assets/images/chefkwon11.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
 ---

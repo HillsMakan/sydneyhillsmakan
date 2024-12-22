@@ -3,12 +3,11 @@ title: Killiney Kopitiam Rhodes
 description: Singapore Street Food Cuisine and Halal Friendly
 image: ../../assets/images/killineyrhodes.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Singaporean
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---

@@ -37,9 +37,8 @@ images:
   - ../../assets/images/knightsbridge31.jpg
   - ../../assets/images/knightsbridge32.jpg
 categories:
-  - Australia - Hotels
-region:
-  - Australia - Australian Capital Territory
+  - hotels
+region: act
 discount_pct: 10
 discount_text: May be times Promo code may not be accessible due to restrictions
   imposed during peak seasons

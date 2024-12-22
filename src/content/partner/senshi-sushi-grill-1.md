@@ -26,11 +26,10 @@ images:
   - ../../assets/images/senshi21.jpg
   - ../../assets/images/senshi22.jpg
 categories:
-  - Singapore - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Japanese
-region:
-  - Singapore
+region: singapore
 discount_pct: 10
 discount_text: Excluding promotions
 ---

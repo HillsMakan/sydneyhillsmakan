@@ -1,11 +1,11 @@
 ---
 draft: false
 title: Optika Optometrist
+description: Optometrist
 image: ../../assets/images/optika-optometrist.jpg
 categories:
-  - Australia NSW - Optometrist
-region:
-  - Australia - New South Wales
+  - professionals
+region: nsw
 discount_pct: 20
 discount_text: Frames only (Excluding Sales/Promotions)
 ---

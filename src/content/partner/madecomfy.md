@@ -10,10 +10,8 @@ images:
   - ../../assets/images/madecomfy4.jpg
   - ../../assets/images/madecomfy5.jpg.jpeg
 categories:
-  - Australia - Airbnb
-  - Australia - Hotels
-region:
-  - Australia
+  - hotels
+region: australia
 discount_pct: 0
 discount_text: ''
 ---

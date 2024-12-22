@@ -9,12 +9,11 @@ images:
   - ../../assets/images/lee-bakwa4.jpg
   - ../../assets/images/lee-bakwa2.jpg
 categories:
-  - Australia - Online
-  - Australia - Food & Beverage
+  - online
+  - foodanddrinks
 cuisine:
   - Malaysian
-region:
-  - Australia
+region: australia
 discount_pct: 5
 discount_text: 'For orders $100 and above excluding deliveries. Mention Code HMG5. '
 ---

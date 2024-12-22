@@ -1,0 +1,26 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { getCollection, render } from 'astro:content'
+import Layout from '../../layouts/page.astro'
+
+export interface Props {
+  page: CollectionEntry<'collaborations'>
+}
+
+const { page } = Astro.props
+
+const { Content } = await render(page)
+
+export async function getStaticPaths() {
+  const pages = await getCollection('collaborations', (page) => !page.data.draft)
+
+  return pages.map((page) => ({
+    params: { page: page.id },
+    props: { page }
+  }))
+}
+---
+
+<Layout frontmatter={page.data}>
+  <Content />
+</Layout>

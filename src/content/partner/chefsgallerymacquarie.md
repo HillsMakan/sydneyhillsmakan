@@ -3,11 +3,10 @@ title: Chefs Gallery Macquarie
 description: Chinese Cuisine
 image: ../../assets/images/chefsgallerymacquarie.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Chinese
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Available for dine-in service only and not in conjunction with any other offer.
 ---

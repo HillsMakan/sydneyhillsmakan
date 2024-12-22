@@ -32,11 +32,10 @@ images:
   - ../../assets/images/ammakase24.jpg
   - ../../assets/images/ammakase25.jpg
 categories:
-  - Singapore - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Neo-Indian Omakase
-region:
-  - Singapore
+region: singapore
 discount_pct: 10
 discount_text: Reservations required · Has private dining room
 comment: ''

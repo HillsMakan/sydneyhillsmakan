@@ -6,9 +6,8 @@ image: ../../assets/images/lolasia.jpg
 images:
   - ../../assets/images/anz-kumar2024tour.jpg
 categories:
-  - Events
-region:
-  - Asia
+  - companies
+region: international
 discount_pct: 0
 ---
 

@@ -3,11 +3,10 @@ title: Dumplings Taipei Restaurant
 description: Taiwanese Cuisine
 image: ../../assets/images/dumplingstaipei.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Taiwanese
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 ---
 

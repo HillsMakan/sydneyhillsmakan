@@ -12,11 +12,10 @@ images:
   - ../../assets/images/mount-faber-nasi-lemak6.jpg
   - ../../assets/images/mount-faber-nasi-lemak7.jpg
 categories:
-  - Singapore - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Singaporean
-region:
-  - Singapore
+region: singapore
 discount_pct: 10
 discount_text: Excluding Set Meals
 ---

@@ -10,9 +10,8 @@ images:
   - ../../assets/images/180cadencesydneyultramarathon.jpg
   - ../../assets/images/180cadencesydney’sbackyardultra.jpg
 categories:
-  - Australia - Running Events
-region:
-  - Australia - New South Wales
+  - companies
+region: nsw
 discount_pct: 0
 ---
 

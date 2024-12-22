@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content'
+import { Image } from 'astro:assets'
+
+import Layout from '../layouts/base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
+import Cards from '../components/cards.astro'
+
+import PageImage from '../assets/images/meetourpartners.jpg'
+
+const frontmatter = {
+  title: 'Partners',
+  description: 'All Our Partners.',
+  image: PageImage
+}
+
+const partners = await getCollection('partner', (partner) => !partner.data.draft)
+---
+
+<Layout frontmatter={frontmatter}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb links={[{ title: 'Partners', link: '/partners' }]} />
+    <Image class="px-2" src={PageImage} height={400} alt={frontmatter.title} />
+    <Cards partners={partners} />
+  </main>
+</Layout>

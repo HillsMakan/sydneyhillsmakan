@@ -13,9 +13,8 @@ images:
   - ../../assets/images/hmr8.jpg
   - ../../assets/images/hmr9.jpg
 categories:
-  - Australia NSW - Automotive Service
-region:
-  - Australia - New South Wales
+  - mechanic
+region: nsw
 discount_pct: 15
 discount_text: 15% discount off labor cost for any car service  OR  15% discount
   off labor cost and FREE Pink Slip if doing any car service in the same time

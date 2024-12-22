@@ -1,13 +1,13 @@
 ---
 title: Unique Bikes Rental
+description: Bikes rental
 link: https://www.uniquebikesrental.com
 image: ../../assets/images/unique-bikes-rental.jpg
 images:
   - ../../assets/images/unique-bikes-rental1.jpg
 categories:
-  - Singapore - Bike Rental
-region:
-  - Singapore
+  - travel
+region: singapore
 discount_pct: 0
 ---
 

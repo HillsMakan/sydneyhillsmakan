@@ -1,5 +1,6 @@
 ---
 title: Bayu Australia Stingless Bee Honey
+description: Honey
 image: ../../assets/images/bayu1.jpg
 images:
   - ../../assets/images/bayu3.jpg
@@ -8,12 +9,11 @@ images:
   - ../../assets/images/bayu5.jpg
   - ../../assets/images/bayu.jpg
 categories:
-  - Australia - Online
-  - Australia - Food & Beverage
+  - online
+  - foodanddrinks
 cuisine:
   - Honey
-region:
-  - Australia
+region: australia
 discount_pct: 10
 ---
 

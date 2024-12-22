@@ -13,9 +13,8 @@ images:
   - ../../assets/images/ppl_bne7.jpg
   - ../../assets/images/ppl_bne8.jpg
 categories:
-  - Australia QLD - Airport Premium Lounge
-region:
-  - Australia - Queensland
+  - lounges
+region: queensland
 discount_pct: 15
 discount_text: Please show your HMG International member card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st

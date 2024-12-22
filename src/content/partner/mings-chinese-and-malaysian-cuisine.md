@@ -3,12 +3,11 @@ title: Ming's Chinese And Malaysian Cuisine
 description: ''
 image: ../../assets/images/ming’s-chinese.jpg
 categories:
-  - Australia ACT - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Chinese
-region:
-  - Australia - Australian Capital Territory
+region: act
 discount_pct: 5
 discount_text: Cash only and excluding special
 ---

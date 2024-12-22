@@ -6,10 +6,9 @@ image: ../../assets/images/while-they-napped.jpg
 images:
   - ../../assets/images/whiletheynapped1.jpg
 categories:
-  - Australia NSW - Markets
-  - Australia NSW - Direct
-region:
-  - Australia
+  - retailers
+  - online
+region: australia
 discount_pct: 5
 discount_text: Excluding sales. Mention HMG member
 comment: ''

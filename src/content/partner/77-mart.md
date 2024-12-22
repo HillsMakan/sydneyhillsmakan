@@ -5,10 +5,9 @@ description: Asian Grocery
 link: https://77mart.au
 image: ../../assets/images/77mart.jpg
 categories:
-  - Australia NSW - Groceries
-  - Australia - Online
-region:
-  - Australia - New South Wales
+  - supermarket
+  - online
+region: nsw
 discount_pct: 5
 discount_text: In-store and Online. Not applicable to certain products and specials
 comment: 'Online discount code : GGVX394TYD42'

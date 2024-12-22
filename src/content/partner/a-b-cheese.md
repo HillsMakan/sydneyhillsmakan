@@ -12,11 +12,10 @@ images:
   - ../../assets/images/abcheese6.jpg
   - ../../assets/images/abcheese7.jpg
 categories:
-  - Australia NSW - Markets
+  - foodanddrinks
 cuisine:
   - Italian
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 0
 ---
 

@@ -1,0 +1,419 @@
+---
+import { getCollection } from 'astro:content'
+import { Image } from 'astro:assets'
+import { Icon } from 'astro-iconify'
+
+import type { CollectionEntry } from 'astro:content'
+
+import Search from './search.astro'
+
+import Site from '../site.ts'
+
+const pages = (await getCollection('pages', (page) => !page.data.draft)).sort(
+  (a, b) => a.data.order! - b.data.order!
+)
+
+const collaborations = await getCollection('collaborations', (partner) => !partner.data.draft)
+
+interface Country extends CollectionEntry<'region'> {
+  subregions?: CollectionEntry<'region'>[]
+}
+
+let regions = (await getCollection(
+  'region',
+  (region) => !region.data.draft && !region.data.country
+)) as Country[]
+const countries = await Promise.all(
+  regions.map(async (region) => ({
+    ...region,
+    subregions: await getCollection(
+      'region',
+      (subregion) =>
+        !region.data.draft && subregion.data.country && subregion.data.country.id == region.id
+    )
+  }))
+)
+---
+
+<nav
+  class="fixed inset-x-0 top-0 z-50 border-b border-gray-200 bg-white px-4 py-2.5 dark:border-gray-700 dark:bg-gray-800"
+>
+  <div class="flex flex-wrap items-center justify-between">
+    <div class="flex items-center justify-start">
+      <button
+        data-drawer-target="drawer-navigation"
+        data-drawer-toggle="drawer-navigation"
+        aria-controls="drawer-navigation"
+        class="mr-2 cursor-pointer rounded-lg p-2 text-gray-600 hover:bg-gray-100 hover:text-gray-900 focus:bg-gray-100 focus:ring-2 focus:ring-gray-100 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:bg-gray-700 dark:focus:ring-gray-700 md:hidden"
+      >
+        <svg
+          aria-hidden="true"
+          class="size-6"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            fill-rule="evenodd"
+            d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h6a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
+            clip-rule="evenodd"></path>
+        </svg>
+        <svg
+          aria-hidden="true"
+          class="hidden size-6"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            fill-rule="evenodd"
+            d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+            clip-rule="evenodd"></path>
+        </svg>
+        <span class="sr-only">Toggle sidebar</span>
+      </button>
+      <a href="/" class="mr-4 flex items-center justify-between">
+        <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white"
+          >HMG International</span
+        >
+      </a>
+      <Search />
+      <!-- <form action="#" method="GET" class="hidden md:block md:pl-2">
+        <label for="topbar-search" class="sr-only">Search</label>
+        <div class="relative md:w-64 lg:w-96">
+          <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+            <svg
+              class="h-5 w-5 text-gray-500 dark:text-gray-400"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+              ></path>
+            </svg>
+          </div>
+          <input
+            type="text"
+            name="search"
+            id="topbar-search"
+            class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 pl-10 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder-gray-400 dark:focus:border-primary-500 dark:focus:ring-primary-500"
+            placeholder="Search"
+          />
+        </div>
+      </form> -->
+    </div>
+    <div class="flex items-center lg:order-2">
+      <!-- <button
+        type="button"
+        data-drawer-toggle="drawer-navigation"
+        aria-controls="drawer-navigation"
+        class="mr-1 rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:ring-4 focus:ring-gray-300 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-600 md:hidden"
+      >
+        <span class="sr-only">Toggle search</span>
+        <svg
+          aria-hidden="true"
+          class="h-6 w-6"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+          aria-hidden="true"
+        >
+          <path
+            clip-rule="evenodd"
+            fill-rule="evenodd"
+            d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+          ></path>
+        </svg>
+      </button> -->
+      <button
+        id="theme-toggle"
+        type="button"
+        class="rounded-lg text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:ring-4 focus:ring-gray-300 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-600"
+      >
+        <svg
+          id="theme-toggle-dark-icon"
+          class="hidden size-5"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+          ><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg
+        >
+        <svg
+          id="theme-toggle-light-icon"
+          class="hidden size-5"
+          fill="currentColor"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+          ><path
+            d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"
+            fill-rule="evenodd"
+            clip-rule="evenodd"></path></svg
+        >
+      </button>
+      <button
+        type="button"
+        class="mx-4 flex rounded-full bg-gray-800 text-sm focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600 md:mr-0"
+        id="user-menu-button"
+        aria-expanded="false"
+        data-dropdown-toggle="dropdown"
+      >
+        <span class="sr-only">Open user menu</span>
+        <Image class="size-8 rounded-full" width={32} height={32} src={Site.logo} alt="logo" />
+      </button>
+      <!-- Dropdown menu -->
+      <div
+        class="z-50 my-4 hidden w-56 list-none divide-y divide-gray-100 rounded-xl bg-white text-base shadow dark:divide-gray-600 dark:bg-gray-700"
+        id="dropdown"
+      >
+        <ul class="py-1 text-gray-700 dark:text-gray-300" aria-labelledby="dropdown">
+          {
+            pages.map((page) => (
+              <li>
+                <a
+                  href={'/' + page.id}
+                  class="flex items-center px-4 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                >
+                  <Icon class="mr-2 size-5 text-gray-400" name={page.data.icon || 'mdi:document'} />
+                  {page.data.menutitle}
+                </a>
+              </li>
+            ))
+          }
+          <li>
+            <a
+              href="/contact"
+              class="flex items-center px-4 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+            >
+              <Icon class="mr-2 size-5 text-gray-400" name="mdi:contact" />
+              Contact Us
+            </a>
+          </li>
+          <li>
+            <a
+              href={Site.link}
+              class="flex items-center px-4 py-2 text-sm hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+            >
+              <Icon class="mr-2 size-5 text-gray-400" name="ph:linktree-logo-bold" />
+              Join
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- Sidebar -->
+
+<aside
+  class="fixed left-0 top-0 z-40 h-screen w-64 -translate-x-full border-r border-gray-200 bg-white pt-14 transition-transform dark:border-gray-700 dark:bg-gray-800 md:translate-x-0"
+  aria-label="Sidenav"
+  id="drawer-navigation"
+>
+  <div class="h-full overflow-y-auto bg-white px-3 py-5 dark:bg-gray-800">
+    <form action="#" method="GET" class="mb-2 md:hidden">
+      <label for="sidebar-search" class="sr-only">Search</label>
+      <div class="relative">
+        <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+          <svg
+            class="size-5 text-gray-500 dark:text-gray-400"
+            fill="currentColor"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+            ></path>
+          </svg>
+        </div>
+        <input
+          type="text"
+          name="search"
+          id="sidebar-search"
+          class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2 pl-10 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder:text-gray-400 dark:focus:border-primary-500 dark:focus:ring-primary-500"
+          placeholder="Search"
+        />
+      </div>
+    </form>
+    <ul class="space-y-2">
+      <li>
+        <a
+          href="/"
+          class="group flex items-center rounded-lg p-2 text-base font-medium text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+        >
+          <Icon
+            aria-hidden="true"
+            class="size-6 text-gray-500 transition duration-75 group-hover:text-gray-900 dark:text-gray-400 dark:group-hover:text-white"
+            name="mdi:home"
+          />
+          <span class="ml-3">Home</span>
+        </a>
+      </li>
+      {
+        countries.map((region) => (
+          <li>
+            {region.subregions.length ? (
+              <>
+                <button
+                  type="button"
+                  class="group flex w-full items-center rounded-lg p-2 text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+                  aria-controls={'dropdown-' + region.id}
+                  data-collapse-toggle={'dropdown-' + region.id}
+                >
+                  <Icon class="h-8 w-6" name={region.data.icon} />
+                  <span class="ml-3 flex-1 whitespace-nowrap text-left">{region.data.title}</span>
+                  <svg
+                    aria-hidden="true"
+                    class="size-6"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                      clip-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <ul id={'dropdown-' + region.id} class="hidden space-y-2 py-2">
+                  <li>
+                    <a
+                      href={'/' + region.id}
+                      class="group flex w-full items-center rounded-lg p-2 pl-11 text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+                    >
+                      National
+                    </a>
+                  </li>
+                  {region.subregions.map((subregion) => (
+                    <li>
+                      <a
+                        href={'/' + region.id + '/' + subregion.id}
+                        class="group flex w-full items-center rounded-lg p-2 pl-11 text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+                      >
+                        {subregion.data.title}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : (
+              <a
+                href={'/' + region.id}
+                class="group flex items-center rounded-lg p-2 text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+              >
+                <Icon class="h-8 w-6" name={region.data.icon} />
+                <span class="ml-3">{region.data.title}</span>
+              </a>
+            )}
+          </li>
+        ))
+      }
+    </ul>
+    <ul class="mt-5 space-y-2 border-t border-gray-200 pt-5 dark:border-gray-700">
+      <li>
+        <button
+          type="button"
+          class="group flex items-center rounded-lg text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+          aria-controls={'dropdown-collaborations'}
+          data-collapse-toggle={'dropdown-collaborations'}
+        >
+          <Icon
+            class="size-6 shrink-0 text-gray-500 transition duration-75 group-hover:text-gray-900 dark:text-gray-400 dark:group-hover:text-white"
+            name="mdi:document"
+          />
+          <span class="ml-3 flex-1 whitespace-nowrap text-left">Collaborations</span>
+          <svg
+            aria-hidden="true"
+            class="size-6"
+            fill="currentColor"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              clip-rule="evenodd"></path>
+          </svg>
+        </button>
+        <ul id={'dropdown-collaborations'} class="hidden space-y-2">
+          {
+            collaborations.map((collab) => (
+              <li>
+                <a
+                  href={'/collaborations/' + collab.id}
+                  class="group flex items-center rounded-lg pl-11 text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+                >
+                  {collab.data.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </li>
+      {
+        pages.map((page) => (
+          <li>
+            <a
+              href={'/' + page.id}
+              class="group flex items-center rounded-lg text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+            >
+              <Icon
+                aria-hidden="true"
+                class="size-6 shrink-0 text-gray-500 transition duration-75 group-hover:text-gray-900 dark:text-gray-400 dark:group-hover:text-white"
+                name={page.data.icon || 'mdi:document'}
+              />
+              <span class="ml-3">{page.data.menutitle || page.data.title}</span>
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <a
+          href="/contact"
+          class="group flex items-center rounded-lg text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+        >
+          <Icon
+            aria-hidden="true"
+            class="size-6 shrink-0 text-gray-500 transition duration-75 group-hover:text-gray-900 dark:text-gray-400 dark:group-hover:text-white"
+            name="mdi:contact"
+          />
+          <span class="ml-3">Contact Us</span>
+        </a>
+      </li>
+      <li>
+        <a
+          href={Site.link}
+          class="group flex items-center rounded-lg text-base font-medium text-gray-900 transition duration-75 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+        >
+          <Icon
+            aria-hidden="true"
+            class="size-6 shrink-0 text-gray-500 transition duration-75 group-hover:text-gray-900 dark:text-gray-400 dark:group-hover:text-white"
+            name="ph:linktree-logo-bold"
+          />
+          <span class="ml-3">Join</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div
+    class="absolute bottom-0 left-0 z-20 hidden w-full justify-center space-x-4 bg-white p-4 dark:bg-gray-800 lg:flex"
+  >
+    <span class="ml-2 align-middle text-sm dark:text-white">
+      &copy; {Site.buildTime.getFullYear()}
+      <a
+        href="/"
+        class="ml-1 text-blue-600 hover:text-pink-600 dark:text-blue-300 dark:hover:text-pink-300"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        {Site.org.name}
+      </a>
+    </span>
+  </div>
+</aside>

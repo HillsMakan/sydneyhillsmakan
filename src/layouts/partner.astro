@@ -1,65 +1,77 @@
 ---
 import type { CollectionEntry } from 'astro:content'
 import { Image } from 'astro:assets'
+import { Icon } from 'astro-iconify'
 import Base from './base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
 import PartnerHero from '../components/partnerhero.astro'
-import NextPrev from '../components/nextprev.astro'
 import GMap from '../components/gmap.astro'
+import Images from '../components/images.astro'
 
 export interface Props {
   partner: CollectionEntry<'partner'>
-  prev?: CollectionEntry<'partner'>
-  next?: CollectionEntry<'partner'>
 }
 
-const { partner, prev, next } = Astro.props
+const { partner } = Astro.props
 ---
 
 <Base frontmatter={partner.data}>
-  <main class='dark:bg-black'>
-    <article class='post'>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb
+      links={[
+        { title: 'Partner', link: '/partners' },
+        { title: partner.data.title, link: '/partner/' + partner.id }
+      ]}
+    />
+    <article class="post">
       <header>
         <PartnerHero frontmatter={partner.data} />
       </header>
-      <section class='bg-white'>
+      <section class="bg-white dark:bg-gray-900">
         <div
-          class='grid grid-cols-1 mx-auto max-w-2xl gap-x-8 gap-y-16 px-4 py-8 lg:grid-cols-2 lg:max-w-7xl lg:px-8 sm:px-6'
+          class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 px-4 py-8 sm:px-6 lg:max-w-7xl lg:grid-cols-2 lg:px-8"
         >
           <div>
-            <Image src={partner.data.image!} alt={partner.data.title} class='w-full rounded-lg' />
-            <!-- <h2 class='text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl'>
-              {partner.data.title}
-            </h2>
-            <p class='text-gray-500'>{partner.data.description}</p> -->
-
-            <dl class='grid grid-cols-1 mt-4 gap-x-6 gap-y-2 sm:grid-cols-2 lg:gap-x-4 sm:gap-y-4'>
-              <div class='border-t border-gray-200 pt-2'>
-                <dt class='text-gray-900 font-medium'>Cuisine</dt>
-                <dd class='mt-2 text-sm text-gray-500'>
-                  {partner.data.cuisine && partner.data.cuisine.join(', ')}
-                </dd>
-              </div>
-              <div class='border-t border-gray-200 pt-2'>
-                <dt class='text-gray-900 font-medium'>Categories</dt>
-                <dd class='mt-2 text-sm text-gray-500'>
-                  {partner.data.categories && partner.data.categories.join(', ')}
-                </dd>
-              </div>
-              <div class='border-t border-gray-200 pt-2'>
-                <dt class='text-gray-900 font-medium'>{partner.data.discount_pct}% Discount</dt>
-                <dd class='mt-2 text-sm text-gray-500'>
+            <GMap search={partner.data.title} />
+          </div>
+          <div>
+            <Image src={partner.data.image!} alt={partner.data.title} class="w-full rounded-lg" />
+            <dl class="mt-4 grid grid-cols-1 gap-x-6 gap-y-2">
+              {
+                partner.data.cuisine && (
+                  <div class="border-t border-gray-200 pt-2 dark:border-gray-800">
+                    <dt class="font-medium text-gray-900 dark:text-gray-100">Cuisine</dt>
+                    <dd class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+                      <ul class="flex items-center gap-4">
+                        {partner.data.cuisine.map((cuisine) => (
+                          <li class="flex items-center gap-2">
+                            <Icon
+                              class="size-4 text-gray-500 dark:text-gray-400"
+                              name="mdi:restaurant-menu"
+                            />
+                            <p class="text-sm font-medium text-gray-500 dark:text-gray-400">
+                              {cuisine}
+                            </p>
+                          </li>
+                        ))}
+                      </ul>
+                    </dd>
+                  </div>
+                )
+              }
+              <div class="border-t border-gray-200 pt-2 dark:border-gray-800">
+                <dt class="font-medium text-gray-900 dark:text-gray-100">
+                  {partner.data.discount_pct}% Discount
+                </dt>
+                <dd class="mt-2 text-sm text-gray-600 dark:text-gray-400">
                   {partner.data.discount_text}
                 </dd>
               </div>
-              <div class='border-t border-gray-200 pt-2'>
-                <dt class='text-gray-900 font-medium'>Description</dt>
-                <dd class='mt-2 text-sm text-gray-500'>{partner.data.description}</dd>
-              </div>
               {
                 partner.data.link && (
-                  <div class='border-t border-gray-200 pt-2'>
-                    <dt class='text-gray-900 font-medium'>Link</dt>
-                    <dd class='mt-2 text-sm text-gray-500'>
+                  <div class="border-t border-gray-200 pt-2 dark:border-gray-800">
+                    <dt class="font-medium text-gray-900 dark:text-gray-100">Link</dt>
+                    <dd class="mt-2 text-sm text-gray-500 dark:text-gray-400">
                       <a href={partner.data.link}>{partner.data.link}</a>
                     </dd>
                   </div>
@@ -67,24 +79,14 @@ const { partner, prev, next } = Astro.props
               }
             </dl>
           </div>
-          <div>
-            <GMap search={partner.data.title} />
-            <div
-              class='mx-auto mt-4 max-w-screen-lg text-gray-500 prose prose-orange dark:prose-invert'
-            >
-            </div>
-          </div>
         </div>
-        <div class='mx-auto max-w-2xl px-4 prose lg:max-w-7xl lg:px-8 sm:px-6'>
+        <div
+          class="format format-sm format-blue mx-auto w-full max-w-2xl dark:format-invert sm:format-base lg:format-lg"
+        >
           <slot />
         </div>
       </section>
+      {partner.data.images && <Images images={partner.data.images} />}
     </article>
   </main>
-  <NextPrev
-    slot='before-footer'
-    base={import.meta.env.BASE_URL + 'news/'}
-    prev={prev}
-    next={next}
-  />
 </Base>

@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { Image } from 'astro:assets'
+import { Icon } from 'astro-iconify'
+
+export interface Props {
+  region: CollectionEntry<'region'>
+  category: CollectionEntry<'categories'>
+}
+
+const { region, category } = Astro.props
+---
+
+<section class="rounded-lg bg-white dark:bg-gray-800">
+  <div
+    class="mx-auto mt-2 max-w-screen-xl items-center gap-16 p-4 lg:grid lg:grid-cols-2 lg:px-6 lg:py-8"
+  >
+    <div class="font-light text-gray-500 dark:text-gray-400 sm:text-lg">
+      <h2 class="flex text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
+        <Icon class="me-2 size-10" name={region.data.icon} />
+        {region.data.title}
+      </h2>
+      <h3 class="flex text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
+        <Icon class="me-2 size-10" name={category.data.icon} />{category.data.title}
+      </h3>
+      <p>Partners by location and category</p>
+    </div>
+    <div class="mt-8 grid grid-cols-2 gap-4">
+      <Image class="w-full rounded-lg" src={region.data.image} alt={region.data.title} />
+      <Image
+        class="mt-4 w-full rounded-lg lg:mt-10"
+        src={category.data.image}
+        alt={category.data.title}
+      />
+    </div>
+  </div>
+</section>

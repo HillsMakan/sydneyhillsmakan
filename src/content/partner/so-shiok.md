@@ -25,11 +25,10 @@ images:
   - ../../assets/images/so-shiok-19..jpg
   - ../../assets/images/soshiok20.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Singaporean
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: 'Excluding promotions '
 ---

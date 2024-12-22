@@ -8,12 +8,11 @@ images:
   - ../../assets/images/ee.cakery1.jpg
   - ../../assets/images/ee.cakery2.jpg
 categories:
-  - Australia NSW - Food & Beverage
-  - Australia NSW - Online
+  - foodanddrinks
+  - online
 cuisine:
   - Dessert
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Mention HMG member. Orders above $95 excluding delivery, set up
   and wedding cake orders.

@@ -8,9 +8,8 @@ images:
   - ../../assets/images/wtm1.jpg
   - ../../assets/images/wtm2.jpg
 categories:
-  - Australia NSW - Butcher
-region:
-  - Australia - New South Wales
+  - foodanddrinks
+region: nsw
 discount_pct: 5
 discount_text: Excluding specials
 ---

@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content'
+import Layout from '../../layouts/base.astro'
+import Breadcrumb from '../../components/breadcrumb.astro'
+import SubHero from '../../components/subhero.astro'
+import Cards from '../../components/cards.astro'
+import Background from '../../assets/images/cuisines.jpg'
+
+export interface Props {
+  cuisine: string
+}
+
+const { cuisine } = Astro.props
+
+export async function getStaticPaths() {
+  const partners = await getCollection('partner', (partner) => !partner.data.draft)
+
+  let cuisines = Array.from(new Set(partners.flatMap((partner) => partner.data.cuisine)))
+
+  if (!cuisines[0]) {
+    cuisines = cuisines.slice(1)
+  }
+
+  return cuisines.map((cuisine) => ({
+    params: { cuisine: cuisine },
+    props: { cuisine }
+  }))
+}
+const partners = await getCollection(
+  'partner',
+  (partner) => !partner.data.draft && partner.data.cuisine?.includes(cuisine)
+)
+
+const frontmatter = {
+  title: cuisine,
+  description: 'Partners featuring ' + cuisine + ' cuisine.',
+  image: Background,
+  icon: 'mdi:restaurant-menu'
+}
+
+const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/$/, '')
+---
+
+<Layout frontmatter={frontmatter}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb
+      links={[
+        { title: 'Cuisines', link: '/cuisines' },
+        { title: cuisine, link: currentPage }
+      ]}
+    />
+    <SubHero frontmatter={frontmatter} />
+    <Cards partners={partners} />
+  </main>
+</Layout>

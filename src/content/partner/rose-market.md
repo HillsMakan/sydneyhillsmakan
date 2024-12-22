@@ -4,9 +4,8 @@ title: Rose Market
 description: Halal Grocery
 image: ../../assets/images/rose-market.jpg
 categories:
-  - Australia NSW - Groceries
-region:
-  - Australia - New South Wales
+  - supermarket
+region: nsw
 discount_pct: 5
 discount_text: Excluding specials
 ---

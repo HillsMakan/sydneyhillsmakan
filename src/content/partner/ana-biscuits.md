@@ -10,12 +10,11 @@ images:
   - ../../assets/images/ana3.jpg
   - ../../assets/images/ana4.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Middle Eastern
   - Halal
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
 comment: ''

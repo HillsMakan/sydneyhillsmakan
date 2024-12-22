@@ -7,9 +7,8 @@ images:
   - ../../assets/images/jaz-lifestyles1.jpg
   - ../../assets/images/jaz-lifestyles2.jpg
 categories:
-  - Australia - Online
-region:
-  - Australia
+  - online
+region: australia
 discount_pct: 5
 discount_text: 'Discount code : PF5'
 ---

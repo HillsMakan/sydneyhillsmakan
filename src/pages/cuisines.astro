@@ -1,21 +1,25 @@
 ---
 import { getCollection } from 'astro:content'
 import type { CollectionEntry } from 'astro:content'
-import type { TagType } from '../config'
-import Base from '../layouts/base.astro'
-import PageHero from '../components/pagehero.astro'
-import image from '../assets/site/meetourpartners.jpg'
+import Layout from '../layouts/base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
+import SubHero from '../components/subhero.astro'
+import Background from '../assets/images/cuisines.jpg'
 
-const frontmatter: CollectionEntry<'page'>['data'] = {
-  title: 'Partners by Cuisine',
-  description: 'Explore our partners by cuisine',
-  image: image
+const frontmatter = {
+  title: 'Cuisines',
+  description: 'Partners by Cuisine.',
+  image: Background,
+  icon: 'mdi:restaurant-menu'
 }
 
-const partners = await getCollection('partner', ({ data }) => {
-  return data.draft !== true
-})
+const partners = await getCollection('partner', (partner) => !partner.data.draft)
 
+interface TagType {
+  tag: string
+  count: number
+  pages: CollectionEntry<'partner'>[]
+}
 const tagmap: Map<string, TagType> = new Map()
 
 partners.forEach((partner) => {
@@ -37,32 +41,31 @@ const cuisines = Array.from(tagmap.values()).sort((a, b) =>
 )
 ---
 
-<Base frontmatter={frontmatter}>
-  <header>
-    <PageHero title={frontmatter.title!} description={frontmatter.description} {image} />
-  </header>
-  <main class='mt-10 dark:bg-gray-900'>
+<Layout frontmatter={frontmatter}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb links={[{ title: 'Cuisines', link: '/cuisines' }]} />
+    <SubHero frontmatter={frontmatter} />
     <div
-      class='grid grid-cols-2 mx-4 mb-24 mt-6 gap-x-4 gap-y-4 lg:grid-cols-5 md:grid-cols-4 sm:grid-cols-3 xl:grid-cols-6 xl:gap-x-6 xl:gap-y-6'
+      class="mx-4 mb-24 mt-6 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 xl:gap-6"
     >
       {
         cuisines.map((tag) => (
-          <a href={`${import.meta.env.BASE_URL}cuisine/${tag.tag}/`} class='group'>
+          <a href={`${import.meta.env.BASE_URL}cuisine/${tag.tag}/`} class="group">
             <section
-              class='group relative h-24 w-full overflow-hidden rounded-lg bg-cover bg-center shadow-lg transition duration-300 ease-in-out hover:shadow-2xl'
+              class="group relative h-24 w-full overflow-hidden rounded-lg bg-cover bg-center shadow-lg transition duration-300 ease-in-out hover:shadow-2xl"
               style={{
                 backgroundColor: '#dfdbe5',
                 // backgroundImage: `url(${OGImage})`,
-                backgroundImage: `url(${image.src})`
+                backgroundImage: `url(${Background.src})`
               }}
             >
-              <div class='absolute inset-0 bg-black bg-opacity-50 transition duration-300 ease-in-out group-hover:opacity-75' />
-              <div class='relative h-full w-full flex items-center justify-center px-4 lg:px-4 sm:px-6'>
-                <h3 class='text-center text-2xl text-white font-bold'>
-                  <span class='absolute inset-0' />
+              <div class="absolute inset-0 bg-black/50 transition duration-300 ease-in-out group-hover:bg-black/75" />
+              <div class="relative flex size-full items-center justify-center px-4 sm:px-6 lg:px-4">
+                <h3 class="text-center text-2xl font-bold text-white">
+                  <span class="absolute inset-0" />
                   {tag.tag}
                 </h3>
-                <p class='text-center text-sm text-gray-200 font-medium'>&nbsp;({tag.count})</p>
+                <p class="text-center text-sm font-medium text-gray-200">&nbsp;({tag.count})</p>
               </div>
             </section>
           </a>
@@ -70,4 +73,4 @@ const cuisines = Array.from(tagmap.values()).sort((a, b) =>
       }
     </div>
   </main>
-</Base>
+</Layout>

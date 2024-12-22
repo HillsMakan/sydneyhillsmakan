@@ -1,10 +1,10 @@
 ---
-title: Unique Bikes Rental (UBR) Guided 3 Hours Tours Self-Riding
+title: Unique Bikes Rental (UBR)
+description: Guided 3 Hours Tours Self-Riding
 image: ../../assets/images/ubr3hrtourself-riding.jpg
 categories:
-  - Singapore - Guided Tour
-region:
-  - Singapore
+  - travel
+region: singapore
 discount_pct: 10
 ---
 

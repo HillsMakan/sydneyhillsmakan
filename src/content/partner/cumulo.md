@@ -3,11 +3,10 @@ title: CUMULO Ice Cream Shop
 description: Ice Cream and Ice Cream Cakes
 image: ../../assets/images/cumulo.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Ice Cream
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: Durian Ice Cream in 2 litter tub for HMG members at $50 (normally
   $58), Pre-order only

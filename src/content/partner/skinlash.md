@@ -12,9 +12,8 @@ images:
   - ../../assets/images/hs.jpg
   - ../../assets/images/hs1.jpg
 categories:
-  - Singapore - Beauty Salon
-region:
-  - Singapore
+  - salons
+region: singapore
 discount_pct: 15
 discount_text: Show your HMG member card when you arrive
 ---

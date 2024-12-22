@@ -1,20 +1,17 @@
 {
-  "eslint.validate": [
-    "css",
-    "javascript",
-    "javascriptreact",
-    "astro",
-    "typescript",
-    "typescriptreact",
-    "markdown",
-    "mdx"
-  ],
-  "prettier.documentSelectors": ["**/*.astro"],
-  "[astro]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "files.associations": {
-    "*.mdoc": "markdown"
-  },
-  "editor.tabSize": 2
-}
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "astro",
+      "typescript",
+      "typescriptreact"
+    ],
+    "prettier.documentSelectors": ["**/*.astro"],
+    "[astro]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // The number of spaces a tab is equal to
+    "editor.tabSize": 2,
+    // insert spaces when pressing Tab
+    "editor.insertSpaces": true,
+  }

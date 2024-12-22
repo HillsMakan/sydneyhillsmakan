@@ -3,13 +3,11 @@ title: ' Ola Lola'
 description: Latin American and Spanish Cuisine
 image: ../../assets/images/olalola.jpg
 categories:
-  - Australia NSW - Markets
-  - Australia NSW - Catering
+  - foodanddrinks
 cuisine:
   - Latin American
   - Spanish
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 10
 ---
 

@@ -3,13 +3,12 @@ title: Brew Bar Café
 description: Fusion
 image: ../../assets/images/brewbarcafe.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Coffee
   - Western
   - Cafe
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
 ---

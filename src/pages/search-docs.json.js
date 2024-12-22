@@ -1,26 +1,14 @@
-import { getCollection, getEntry } from 'astro:content'
+import { getCollection } from 'astro:content'
 
-const defaultAuthor = {
-  slug: 'default',
-  collection: 'author'
-}
-const posts = await getCollection('blog', (p) => {
-  return !p.data.draft
-})
-const partners = await getCollection('partner', (p) => {
-  return !p.data.draft
-})
+const pages = await getCollection('pages', (page) => !page.data.draft)
+const partners = await getCollection('partner', (partner) => !partner.data.draft)
+
 let documents = await Promise.all(
-  posts.map(async (post) => {
-    const author = await getEntry(post.data.author || defaultAuthor)
+  pages.map(async (page) => {
     return {
-      url: import.meta.env.BASE_URL + 'blog/' + post.id,
-      title: post.data.title,
-      description: post.data.description,
-      author: `${author.data.title} (${author.data.contact})`,
-      pubDate: post.data.pubDate,
-      categories: post.data.categories.map((category) => category.id),
-      tags: post.data.tags
+      url: import.meta.env.BASE_URL + '/' + page.id,
+      title: page.data.title,
+      description: page.data.description
     }
   })
 )
@@ -32,7 +20,7 @@ documents = documents.concat(
     title: partner.data.title,
     categories: partner.data.categories.map((category) => category.id),
     cuisine: partner.data.cuisine,
-    region: partner.data.region,
+    region: partner.data.region.id,
     discount_text: partner.data.discount_text,
     comment: partner.data.comment
   }))

@@ -1,0 +1,73 @@
+---
+import { getCollection } from 'astro:content'
+import type { CollectionEntry } from 'astro:content'
+import { Image } from 'astro:assets'
+import { Icon } from 'astro-iconify'
+
+interface Country extends CollectionEntry<'region'> {
+  subregions?: CollectionEntry<'region'>[]
+}
+
+let regions = (await getCollection(
+  'region',
+  (region) => !region.data.draft && !region.data.country
+)) as Country[]
+
+const countries = await Promise.all(
+  regions.map(async (region) => ({
+    ...region,
+    subregions: await getCollection(
+      'region',
+      (subregion) => subregion.data.country && subregion.data.country.id == region.id
+    )
+  }))
+)
+---
+
+{
+  countries.map((country) => (
+    <section class="bg-gray-50 py-4 antialiased dark:bg-gray-900 md:py-8">
+      <div class="px-4 2xl:px-0">
+        <div class="mb-4 flex md:mb-8">
+          <Icon
+            class="me-2 size-8 shrink-0 text-gray-900 dark:text-white"
+            name={country.data.icon}
+          />
+          <h2 class="text-xl font-semibold text-gray-900 dark:text-white sm:text-2xl">
+            {country.data.title}
+          </h2>
+        </div>
+        <div class="grid grid-cols-2 gap-4 lg:grid-cols-3 xl:grid-cols-4">
+          <a
+            href={'/' + country.id}
+            class="items-center rounded-lg border border-gray-200 bg-white p-4 hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+          >
+            <Image src={country.data.image} class="mb-5 rounded-lg" alt={country.data.title} />
+            <div class="flex">
+              <span class="text-lg font-bold text-gray-900 dark:text-white">
+                {country.subregions.length > 0 ? 'National' : country.data.title}
+              </span>
+            </div>
+          </a>
+          {country.subregions.map((subregion) => (
+            <a
+              href={'/' + country.id + '/' + subregion.id}
+              class="items-center rounded-lg border border-gray-200 bg-white p-4 hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+            >
+              <Image
+                src={subregion.data.image}
+                class="mb-5 rounded-lg"
+                alt={subregion.data.title}
+              />
+              <div class="flex">
+                <span class="text-lg font-bold text-gray-900 dark:text-white">
+                  {subregion.data.title}
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  ))
+}

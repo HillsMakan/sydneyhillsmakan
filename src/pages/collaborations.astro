@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content'
+
+import Layout from '../layouts/base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
+import SubHero from '../components/subhero.astro'
+import CollaborationList from '../components/collaborationlist.astro'
+
+import PageImage from '../assets/images/meetourpartners.jpg'
+
+const frontmatter = {
+  title: 'Collaborations',
+  description: 'Collaborations with other organisations.',
+  image: PageImage,
+  icon: 'mdi:partnership'
+}
+
+const collaborations = await getCollection('collaborations', (partner) => !partner.data.draft)
+---
+
+<Layout frontmatter={frontmatter}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb links={[{ title: 'Collaborations', link: '/collaborations' }]} />
+    <SubHero frontmatter={frontmatter} />
+    <CollaborationList collaborations={collaborations} />
+  </main>
+</Layout>

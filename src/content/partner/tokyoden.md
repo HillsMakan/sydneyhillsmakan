@@ -3,11 +3,10 @@ title: Tokyo Den All You Can Eat Japanese Restaurant
 description: Japanese Cuisine
 image: ../../assets/images/tokyoden.jpg
 categories:
-  - Australia NSW - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Japanese
-region:
-  - Australia - New South Wales
+region: nsw
 discount_pct: 0
 discount_text: Free drinks for all you can eat dine in when you show your member card
 ---

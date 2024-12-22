@@ -12,9 +12,8 @@ images:
   - ../../assets/images/ppl_adl5.jpg
   - ../../assets/images/ppl_adl6.jpg
 categories:
-  - Australia SA - Airport Premium Lounge
-region:
-  - Australia - South Australia
+  - lounges
+region: sa
 discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st

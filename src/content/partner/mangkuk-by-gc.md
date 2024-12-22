@@ -3,11 +3,10 @@ title: Mangkuk by GC
 description: Kelantanese Peranakan Cuisine (Non-Halal)
 image: ../../assets/images/mangkuk-by-gc.jpg
 categories:
-  - Malaysia KL - Food & Beverage
+  - foodanddrinks
 cuisine:
   - Kelantanese Peranakan
-region:
-  - Malaysia - Kuala Lumpur
+region: kl
 discount_pct: 20
 discount_text: Excluding promotions
 ---

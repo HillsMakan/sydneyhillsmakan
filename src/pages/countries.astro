@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
+import SubHero from '../components/subhero.astro'
+import Regions from '../components/regions.astro'
+
+import PageImage from '../assets/images/partnersbycountry.jpg'
+
+const frontmatter = {
+  title: 'Countries',
+  description: 'Partners by Country.',
+  image: PageImage,
+  icon: 'mdi:globe'
+}
+---
+
+<Layout frontmatter={frontmatter}>
+  <main class="h-auto p-4 pt-20 md:ml-64">
+    <Breadcrumb links={[{ title: 'Countries', link: '/countries' }]} />
+    <SubHero frontmatter={frontmatter} />
+    <Regions />
+  </main>
+</Layout>

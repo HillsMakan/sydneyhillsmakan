@@ -1,0 +1,14 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import Badge from './badge.astro'
+
+export interface Props {
+  region: CollectionEntry<'region'>
+}
+
+const { region } = Astro.props
+
+const link = '/' + (region.data.country ? region.data.country.id + '/' : '') + region.id
+---
+
+<Badge text={region.data.title} link={link} icon={region.data.icon} />
