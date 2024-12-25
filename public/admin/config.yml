@@ -162,6 +162,7 @@ collections:
         search_fields: [title]
         display_fields: [title]
         multiple: false
+        required: false
         filters:
           - field: draft
             values: [false]
