@@ -162,7 +162,6 @@ collections:
         search_fields: [title]
         display_fields: [title]
         multiple: false
-        required: false
         filters:
           - field: draft
             values: [false]
@@ -207,6 +206,7 @@ collections:
         search_fields: [title]
         display_fields: [title]
         multiple: false
+        required: false
         filters:
           - field: draft
             values: [false]
@@ -214,7 +214,7 @@ collections:
       - label: "Geographical Coordinates"
         name: "geo"
         widget: "map"
-        reguired: false
+        required: false
       - label: "Icon"
         name: "icon"
         widget: "string"
