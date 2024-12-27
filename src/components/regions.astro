@@ -10,7 +10,7 @@ interface Country extends CollectionEntry<'region'> {
 
 let regions = (await getCollection(
   'region',
-  (region) => !region.data.draft && !region.data.country
+  (region) => !region.data.draft && region.data.country!.id == 'international'
 )) as Country[]
 
 const countries = await Promise.all(
@@ -18,7 +18,11 @@ const countries = await Promise.all(
     ...region,
     subregions: await getCollection(
       'region',
-      (subregion) => subregion.data.country && subregion.data.country.id == region.id
+      (subregion) =>
+        !region.data.draft &&
+        subregion.data.country &&
+        subregion.data.country.id == region.id &&
+        subregion.data.country.id != 'international'
     )
   }))
 )

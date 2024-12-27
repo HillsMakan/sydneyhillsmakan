@@ -27,7 +27,7 @@ export async function getStaticPaths() {
   let regcats: Props[] = []
   const regions = await getCollection(
     'region',
-    (region) => !region.data.draft && region.data.country
+    (region) => !region.data.draft && region.data.country!.id != 'international'
   )
 
   for (const region of regions) {

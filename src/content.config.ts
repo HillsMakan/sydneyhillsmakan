@@ -73,4 +73,10 @@ const region = defineCollection({
     })
 })
 
-export const collections = { categories, collaborations, pages, partner, region }
+export const collections = {
+  categories,
+  collaborations,
+  pages,
+  partner,
+  region
+}

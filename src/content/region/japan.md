@@ -10,4 +10,5 @@ description: Japan, an island nation in East Asia, is known for its rich
   showcase a mix of futuristic architecture and historical sites.
 icon: flag:jp-4x3
 image: ../../assets/images/file-2a3obyzbgokz7jnynld6jy.webp
+country: international
 ---

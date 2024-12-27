@@ -17,7 +17,7 @@ const { Content } = await render(region)
 export async function getStaticPaths() {
   const regions = await getCollection(
     'region',
-    (region) => !region.data.draft && region.data.country
+    (region) => !region.data.draft && region.data.country!.id != 'international'
   )
 
   return regions.map((region) => ({
