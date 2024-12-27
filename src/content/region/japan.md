@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Japan
 description: Japan, an island nation in East Asia, is known for its rich
   cultural heritage, technological innovation, and stunning natural landscapes.
