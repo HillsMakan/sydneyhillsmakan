@@ -6,8 +6,8 @@ backend:
 media_folder: "src/assets/images" # Media files will be stored in the repo under images/uploads
 public_folder: "../../assets/images" # The src attribute for uploaded media will begin with /images/uploads
 
-site_url: https://hmg-new.netlify.app
-logo_url: https://hmg-new.netlify.app/favicon.png
+site_url: https://hmginternational.com
+logo_url: https://hmginternational.com/icon-512.png
 
 slug:
   encoding: "ascii"
