@@ -3,6 +3,26 @@ draft: false
 title: Halal Ramen Ayam Ya Karasuma Kyoto
 description: Japanese Ramen - Halal
 image: ../../assets/images/20241220_114128.jpg
+images:
+  - ../../assets/images/fb_img_1735299327804.jpg
+  - ../../assets/images/fb_img_1735299330608.jpg
+  - ../../assets/images/fb_img_1735299333445.jpg
+  - ../../assets/images/fb_img_1735299335507.jpg
+  - ../../assets/images/fb_img_1735299340341.jpg
+  - ../../assets/images/fb_img_1735299342540.jpg
+  - ../../assets/images/fb_img_1735299346640.jpg
+  - ../../assets/images/fb_img_1735299348807.jpg
+  - ../../assets/images/fb_img_1735299350707.jpg
+  - ../../assets/images/fb_img_1735299352656.jpg
+  - ../../assets/images/fb_img_1735299354639.jpg
+  - ../../assets/images/fb_img_1735299356641.jpg
+  - ../../assets/images/fb_img_1735299358655.jpg
+  - ../../assets/images/fb_img_1735299360574.jpg
+  - ../../assets/images/fb_img_1735299362523.jpg
+  - ../../assets/images/fb_img_1735299364555.jpg
+  - ../../assets/images/fb_img_1735299366740.jpg
+  - ../../assets/images/fb_img_1735299368771.jpg
+  - ../../assets/images/fb_img_1735299370756.jpg
 categories:
   - foodanddrinks
 cuisine:
