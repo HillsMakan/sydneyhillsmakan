@@ -19,7 +19,7 @@ const countries = await Promise.all(
     subregions: await getCollection(
       'region',
       (subregion) =>
-        !region.data.draft &&
+        !subregion.data.draft &&
         subregion.data.country &&
         subregion.data.country.id == region.id &&
         subregion.data.country.id != 'international'
