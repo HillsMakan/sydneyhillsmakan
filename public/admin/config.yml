@@ -210,8 +210,6 @@ collections:
         filters:
           - field: draft
             values: [false]
-          - field: country
-            values: []
         hint: "Do not define if this is a country. If this is a region or state within a country, then select the country this belongs in."
       - label: "Geographical Coordinates"
         name: "geo"
