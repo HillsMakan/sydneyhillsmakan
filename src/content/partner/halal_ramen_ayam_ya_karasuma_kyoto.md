@@ -29,7 +29,7 @@ cuisine:
   - Japanese
   - Ramen
   - Halal
-region: japan
+region: kyoto
 discount_pct: 0
 discount_text: Free topping, boiled egg / crispy skin for each ramen order
 ---
