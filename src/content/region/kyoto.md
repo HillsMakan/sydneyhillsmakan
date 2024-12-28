@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Kyoto
 description: Kyoto is a timeless city in Japan, renowned for its classical
   temples, serene gardens, and rich cultural heritage. 🌸🏯
