@@ -11,7 +11,6 @@ images:
   - ../../assets/images/fb_img_1735299340341.jpg
   - ../../assets/images/fb_img_1735299342540.jpg
   - ../../assets/images/fb_img_1735299346640.jpg
-  - ../../assets/images/fb_img_1735299348807.jpg
   - ../../assets/images/fb_img_1735299350707.jpg
   - ../../assets/images/fb_img_1735299352656.jpg
   - ../../assets/images/fb_img_1735299354639.jpg
@@ -20,7 +19,6 @@ images:
   - ../../assets/images/fb_img_1735299360574.jpg
   - ../../assets/images/fb_img_1735299362523.jpg
   - ../../assets/images/fb_img_1735299364555.jpg
-  - ../../assets/images/fb_img_1735299366740.jpg
   - ../../assets/images/fb_img_1735299368771.jpg
   - ../../assets/images/fb_img_1735299370756.jpg
 categories:
