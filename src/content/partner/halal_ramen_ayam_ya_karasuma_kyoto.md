@@ -65,6 +65,6 @@ Halal Ramen Ayam Ya Karasuma Kyoto (Ramen restaurant)
 
 **Trading :**
 
-● Monday : 12.30 pm - 2.30 pm & 6pm - 8pm
+● Monday : 11.30 am - 2.30 pm & 6pm - 8pm
 
 ● Tuesday - Sunday : 11.30 am - 2 pm & 6 pm - 8.30 pm
