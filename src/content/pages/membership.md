@@ -1,8 +1,11 @@
 ---
 draft: false
 menutitle: Membership
-title: 'Join Our Facebook Groups for Exclusive Benefits!'
-description: 'We’re excited to build a thriving community where members can enjoy exclusive benefits and connect with like-minded individuals. By joining our Facebook groups, you help us grow and enhance our offerings.'
+title: Join Our Facebook Groups for Exclusive Benefits!
+description: We’re excited to build a thriving community where members can enjoy
+  exclusive benefits, receive updates on new partners and connect with
+  like-minded individuals. By joining our Facebook groups, you help us grow and
+  enhance our offerings.
 image: ../../assets/images/HMGmembercard01(INTERNATIONAL).jpg
 icon: mdi:wallet-membership
 order: 2
