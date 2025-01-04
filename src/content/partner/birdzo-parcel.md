@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Birdzo Parcel
 description: Courier Service
 link: https://birdzoparcel.com/
