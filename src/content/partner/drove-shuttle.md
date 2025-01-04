@@ -6,6 +6,7 @@ link: https://droveshuttle.com.au
 image: ../../assets/images/drove-shuttle.jpg
 categories:
   - travel
+  - professionals
 region: nsw
 discount_pct: 5
 ---
