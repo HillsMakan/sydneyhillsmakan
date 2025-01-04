@@ -8,7 +8,7 @@ description: Japan, an island nation in East Asia, is known for its rich
   sushi and ramen, Japan also offers unique seasonal beauty with cherry blossoms
   in spring and vibrant autumn foliage. Major cities like Tokyo and Kyoto
   showcase a mix of futuristic architecture and historical sites.
-icon: flag:jp-4x3
-image: ../../assets/images/file-2a3obyzbgokz7jnynld6jy.webp
 country: international
+icon: flag:jp-4x3
+image: ../../assets/images/tokyo.jpg
 ---
