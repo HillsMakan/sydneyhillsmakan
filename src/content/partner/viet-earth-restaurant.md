@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Viet Earth Restaurant
 description: Vietnamese Cuisine
 image: ../../assets/images/viet-earth.jpg
