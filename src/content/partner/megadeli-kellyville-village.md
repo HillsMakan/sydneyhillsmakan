@@ -5,6 +5,7 @@ description: Deli
 image: ../../assets/images/megadeli.jpg
 categories:
   - foodanddrinks
+  - supermarket
 region: nsw
 discount_pct: 5
 discount_text: Minimum spend $25 and above
