@@ -5,6 +5,7 @@ description: Pillion-riding Guided Tours
 image: ../../assets/images/ubrpillion-ridingguidedtour.jpg
 categories:
   - travel
+  - professionals
 region: singapore
 discount_pct: 10
 ---
