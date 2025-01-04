@@ -28,7 +28,7 @@ More than just a group, we're a family. We encourage everyone to share your reci
 
 ## 🌍 Global Foodie Network
 
-Exciting news awaits! Hills Makan Group (International) is part of a global network. Join us in exploring, update on new partners and connecting with our other foodie groups in Sydney, Canberra, Melbourne, Brisbane, Adelaide, Perth, Darwin, Malaysia, Singapore, Thailand, Indonesia and Japan. (Just type City Name/Country + Makan (Foodie) Group).
+Exciting news awaits! Hills Makan Group (International) is part of a global network. Join us in exploring, receive update on new partners and connecting with our other foodie groups in Sydney, Canberra, Melbourne, Brisbane, Adelaide, Perth, Darwin, Malaysia, Singapore, Thailand, Indonesia and Japan. (Just type City Name/Country + Makan (Foodie) Group).
 
 HMG and Admins are not liable for any decisions / purchases / collaboration made between members and sellers. Please kindly do your due diligence and research before any purchases. Our recommendation as a food lover own taste buds and experiences.
 
