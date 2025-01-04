@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: BIRD
 description: Migration support and integration services
 image: ../../assets/images/bird.jpg
