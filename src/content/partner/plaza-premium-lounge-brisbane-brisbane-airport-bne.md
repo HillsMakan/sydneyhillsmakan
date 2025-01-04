@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Plaza Premium Lounge Brisbane, Brisbane Airport (BNE)
 description: Airport Premium Lounge
 link: https://www.plazapremiumlounge.com/en-uk/find/asia/australia/brisbane/brisbane-airport/international-departures-near-gate-seventy-seven
@@ -14,6 +15,7 @@ images:
   - ../../assets/images/ppl_bne8.jpg
 categories:
   - lounges
+  - travel
 region: queensland
 discount_pct: 15
 discount_text: Please show your HMG International member card. Each visit is
