@@ -21,6 +21,7 @@ images:
   - ../../assets/images/drivez-adventures14.jpg
 categories:
   - travel
+  - professionals
 region: nsw
 discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
