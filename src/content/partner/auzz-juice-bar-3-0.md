@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Auzz Juice Bar 3.0 - Parklea Markets
+title: 3.0 Auzz Juice Bar - Parklea Markets
 description: Sugarcane Juice, Drinks and Hot Food
 image: ../../assets/images/ajb.jpg
 images:
