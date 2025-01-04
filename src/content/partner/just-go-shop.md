@@ -7,6 +7,7 @@ image: ../../assets/images/justgoshop.jpg
 categories:
   - online
   - foodanddrinks
+  - supermarket
 region: australia
 discount_pct: 5
 ---
