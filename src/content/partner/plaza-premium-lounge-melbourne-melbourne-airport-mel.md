@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Plaza Premium Lounge Melbourne, Melbourne Airport (MEL)
 description: Airport Premium Lounge
 link: https://www.plazapremiumlounge.com/en-uk/find/asia/australia/melbourne/melbourne-airport/international-departures-terminal-two
