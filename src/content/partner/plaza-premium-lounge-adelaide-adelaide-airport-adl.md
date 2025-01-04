@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Plaza Premium Lounge Adelaide, Adelaide Airport (ADL)
 description: Airport Premium Lounge
 link: https://www.plazapremiumlounge.com/en-uk/find/asia/australia/adelaide/adelaide-airport/international-departures-terminal-one
@@ -13,12 +14,13 @@ images:
   - ../../assets/images/ppl_adl6.jpg
 categories:
   - lounges
+  - travel
 region: sa
 discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st
   August 2025
-comment: ''
+comment: ""
 ---
 
 **THE LOUNGE**\
