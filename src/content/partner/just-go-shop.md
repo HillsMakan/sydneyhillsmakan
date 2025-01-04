@@ -6,6 +6,7 @@ link: https://www.justgoshop.com.au
 image: ../../assets/images/justgoshop.jpg
 categories:
   - online
+  - foodanddrinks
 region: australia
 discount_pct: 5
 ---
