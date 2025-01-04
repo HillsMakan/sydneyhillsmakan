@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Birdzo Parcel
 description: Courier Service
 link: https://birdzoparcel.com/
@@ -13,7 +14,7 @@ images:
   - ../../assets/images/birdzoparcel..jpg
   - ../../assets/images/birdzoparcel...jpg
 categories:
-  - travel
+  - companies
 region: international
 discount_pct: 10
 discount_text: Mention that you are HMG International member when you contact
