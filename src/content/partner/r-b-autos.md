@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: R and B Autos - Castle Hill
 description: Car Mechanic
 image: ../../assets/images/r-b-autos1.jpg
@@ -11,6 +11,7 @@ images:
   - ../../assets/images/r-b-autos6.jpg
 categories:
   - mechanic
+  - professionals
 region: nsw
 discount_pct: 0
 ---
