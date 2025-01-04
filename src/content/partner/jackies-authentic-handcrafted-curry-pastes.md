@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Jackie's Authentic Handcrafted Curry Pastes
 description: Malaysian Cuisine
 link: https://shop.jackiem.com.au/?ref=AARONGAN
@@ -23,6 +24,7 @@ images:
   - ../../assets/images/jackiem17.jpg
 categories:
   - online
+  - foodanddrinks
 cuisine:
   - Malaysian
   - Singaporean
