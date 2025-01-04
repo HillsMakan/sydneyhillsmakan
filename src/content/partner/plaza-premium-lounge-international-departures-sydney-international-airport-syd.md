@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Plaza Premium Lounge (International Departures), Sydney International
   Airport (SYD)
 description: Airport Premium Lounge
@@ -11,6 +12,7 @@ images:
   - ../../assets/images/ppl_syd_departure3.jpeg
 categories:
   - lounges
+  - travel
 region: nsw
 discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
