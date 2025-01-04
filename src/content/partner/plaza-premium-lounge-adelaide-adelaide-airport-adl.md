@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Plaza Premium Lounge Adelaide, Adelaide Airport (ADL)
 description: Airport Premium Lounge
 link: https://www.plazapremiumlounge.com/en-uk/find/asia/australia/adelaide/adelaide-airport/international-departures-terminal-one
