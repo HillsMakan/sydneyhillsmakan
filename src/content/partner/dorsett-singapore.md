@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Dorsett Singapore
 description: Hotel
 link: https://www.dorsetthotels.com/dorsett-singapore/index.html
