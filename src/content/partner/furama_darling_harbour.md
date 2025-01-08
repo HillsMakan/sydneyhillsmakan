@@ -2,7 +2,7 @@
 draft: false
 title: Furama Darling Harbour
 description: Hotel
-link: https://www.furama.com/darlingharbour/
+link: https://www.furama.com/darlingharbour
 image: ../../assets/images/images-24.jpeg
 images:
   - ../../assets/images/images-23.jpeg
