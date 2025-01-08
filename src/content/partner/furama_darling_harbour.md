@@ -12,8 +12,8 @@ images:
   - ../../assets/images/screenshot_20250109_015039_drive.jpg
   - ../../assets/images/screenshot_20250109_015050_drive.jpg
   - ../../assets/images/screenshot_20250109_015058_drive.jpg
-  - ../../assets/images/screenshot_20250109_015106_drive.jpg
   - ../../assets/images/screenshot_20250109_015110_drive.jpg
+  - ../../assets/images/screenshot_20250109_015106_drive.jpg
   - ../../assets/images/fdh-deluxe_2_th.jpg
   - ../../assets/images/fdh_rm_deluxe-family_thumbnail.jpg
   - ../../assets/images/fdh_rm_deluxe-suite_thumbnail.jpg
@@ -30,7 +30,9 @@ categories:
   - travel
 region: nsw
 discount_pct: 15
-discount_text: "Scan the QR Code (photo below) and follow the procedures "
+discount_text: Scan the QR Code (photo below) and follow the instructions.
+comment: QR Code for 5% discount e-voucher. Stacked together with the 10% off
+  for Furama First Members
 ---
 Discover the perfect blend of convenience and comfort at Furama Darling Harbour Hotel, positioned amidst the vibrant energy of Sydney's CBD.
 
