@@ -14,6 +14,17 @@ images:
   - ../../assets/images/screenshot_20250109_015058_drive.jpg
   - ../../assets/images/screenshot_20250109_015106_drive.jpg
   - ../../assets/images/screenshot_20250109_015110_drive.jpg
+  - ../../assets/images/fdh-deluxe_2_th.jpg
+  - ../../assets/images/fdh_rm_deluxe-family_thumbnail.jpg
+  - ../../assets/images/fdh_rm_deluxe-suite_thumbnail.jpg
+  - ../../assets/images/fdh_rm_premier-suite_thumbnail.jpg
+  - ../../assets/images/fdh_rm_executive-suite_thumbnail.jpg
+  - ../../assets/images/fdh_rm_family-suite_thumbnail.jpg
+  - ../../assets/images/fdh_dlk_7.jpg
+  - ../../assets/images/fdh_ppk_5a.jpg
+  - ../../assets/images/fdh_pfr_1.jpg
+  - ../../assets/images/89ecf9800b3d601cf74879332dcdcaa1050ffdc5.jpeg
+  - ../../assets/images/furama_darling_harbour_logo_black.png
 categories:
   - hotels
   - travel
