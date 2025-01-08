@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Furama Darling Harbour
 description: Hotel
 link: https://www.furama.com/darlingharbour/
