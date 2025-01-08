@@ -3,6 +3,16 @@ draft: true
 title: Furama Darling Harbour
 description: Hotel
 image: ../../assets/images/images-24.jpeg
+images:
+  - ../../assets/images/images-23.jpeg
+  - ../../assets/images/fdh-partner-collaboration-5-off-your-next-stay.png
+  - ../../assets/images/screenshot_20250109_015028_drive.jpg
+  - ../../assets/images/screenshot_20250109_015032_drive.jpg
+  - ../../assets/images/screenshot_20250109_015039_drive.jpg
+  - ../../assets/images/screenshot_20250109_015050_drive.jpg
+  - ../../assets/images/screenshot_20250109_015058_drive.jpg
+  - ../../assets/images/screenshot_20250109_015106_drive.jpg
+  - ../../assets/images/screenshot_20250109_015110_drive.jpg
 categories:
   - hotels
   - travel
