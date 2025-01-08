@@ -9,4 +9,4 @@ categories:
 region: nsw
 discount_pct: 15
 ---
-H
+Furama Darling Harbour is a heritage-listed hotel situated right between the bustling Chinatown and nDarling Square precinct.
