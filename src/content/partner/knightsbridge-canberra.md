@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Knightsbridge Canberra
 description: Hotel and Service Apartment
 link: https://www.knightsbridgecanberra.com.au
@@ -38,6 +39,7 @@ images:
   - ../../assets/images/knightsbridge32.jpg
 categories:
   - hotels
+  - travel
 region: act
 discount_pct: 10
 discount_text: May be times Promo code may not be accessible due to restrictions
