@@ -8,6 +8,7 @@ categories:
   - travel
 region: nsw
 discount_pct: 15
+discount_text: "Scan the QR Code and follow the procedures "
 ---
 Discover the perfect blend of convenience and comfort at Furama Darling Harbour Hotel, positioned amidst the vibrant energy of Sydney's CBD.
 
