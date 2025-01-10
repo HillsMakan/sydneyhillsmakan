@@ -2,9 +2,9 @@
 draft: false
 menutitle: About Us
 title: 🍜 About HMG International 🌏
-description: Indulge in the world of flavors with Hills Makan Group – where
-  culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian
-  & Singaporean Malay and Indonesian language.
+description: Indulge in the world of flavors with Hills Makan Group
+  International – where culinary delights meet community spirit! 🍲 "Makan"
+  meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.
 image: ../../assets/images/HMGmembercard01.jpg
 icon: mdi:about
 order: 1
