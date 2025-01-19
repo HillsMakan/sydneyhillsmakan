@@ -13,7 +13,7 @@ discount_text: Cash only and excluding promotions
 ---
 Penang Cuisine, situated in the Epping neighbourhood of Sydney, offers a rich variety of Malaysian dishes.
 
-**Location :** 357 King St, Newtown, NSW (2 mins walk from Newtown Train Station)
+**Location :** Shop 32, 74-76 Rawson St., Epping, 2121, NSW[](<>) (2 mins walk from Newtown Train Station)
 
 **Trading :**
 
