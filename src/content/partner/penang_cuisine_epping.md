@@ -28,7 +28,7 @@ region: nsw
 discount_pct: 5
 discount_text: Cash only and excluding promotions
 ---
-Penang Cuisine, situated in the Epping neighbourhood of Sydney, offers a rich variety of Malaysian dishes.
+Penang Cuisine, situated in the Epping neighbourhood , offers a rich variety of Malaysian dishes.
 
 **Location :** Shop 32, 74-76 Rawson St., Epping, 2121, NSW[](<>) (2 mins walk from Epping Train Station)
 
