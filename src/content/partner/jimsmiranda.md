@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Jim's Malaysia - Miranda
 description: Malaysian Cuisine
 image: ../../assets/images/jimsmiranda.jpg
@@ -18,7 +19,7 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
-discount_text: Meals only
+discount_text: Cash and meals only
 ---
 
 **Location :** Westfield Miranda, Shop 1010, 600 Kingsway, 2228, Miranda, New South Wales, Australia\
