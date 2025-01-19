@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Penang Cuisine Epping
-description: Malaysian
+description: "Malaysian "
 image: ../../assets/images/img-20250119-wa0008.jpg
 categories:
   - foodanddrinks
