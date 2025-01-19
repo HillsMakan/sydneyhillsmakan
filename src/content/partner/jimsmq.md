@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Jim's Malaysia - Macquarie Centre
 description: Malaysian Cuisine
 image: ../../assets/images/jimsmq.jpg
