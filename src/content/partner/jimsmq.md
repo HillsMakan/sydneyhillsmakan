@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Jim's Malaysia - Macquarie Centre
 description: Malaysian Cuisine
 image: ../../assets/images/jimsmq.jpg
@@ -18,7 +19,7 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
-discount_text: Meals only
+discount_text: Cash and meals only
 ---
 
 **Location :** Macquarie Centre, Shop 2141, Cnr, Waterloo Rd, 2113, Macquarie Park, New South Wales, Australia\
