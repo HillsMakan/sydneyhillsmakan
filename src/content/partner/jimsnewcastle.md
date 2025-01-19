@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Jim's Malaysia - Newcastle
 description: Malaysian Cuisine
 image: ../../assets/images/jimsnewcastle.jpg
