@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Jim's Malaysia - Chatswood
 description: Malaysian Cuisine
 image: ../../assets/images/jimschatswood.jpg
