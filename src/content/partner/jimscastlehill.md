@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Jim's Malaysia - Castle Hill
 description: Malaysian Cuisine
 image: ../../assets/images/jimscastlehill.jpg
