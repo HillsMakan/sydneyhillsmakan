@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Jim's Malaysia - Chatswood
 description: Malaysian Cuisine
 image: ../../assets/images/jimschatswood.jpg
@@ -18,7 +19,7 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
-discount_text: Meals only
+discount_text: Cash and meals only
 ---
 
 **Location :** Westfield Chatswood, Shop FM2, Level 2, 1 Anderson St., 2067, Chatswood, New South Wales, Australia\
