@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Jim's Malaysia - Miranda
 description: Malaysian Cuisine
 image: ../../assets/images/jimsmiranda.jpg
