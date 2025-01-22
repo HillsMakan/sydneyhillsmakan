@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Vege4Love Restaurant - Marrickville
 description: Vegetarian Cuisine
 image: ../../assets/images/vege4love.jpg
