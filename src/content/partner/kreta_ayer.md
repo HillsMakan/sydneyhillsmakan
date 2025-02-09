@@ -8,6 +8,16 @@ images:
   - ../../assets/images/20250131_123106.jpg
   - ../../assets/images/2023-10-06.jpg
   - ../../assets/images/20250131_124419.jpg
+  - ../../assets/images/2019-05-28.jpg
+  - ../../assets/images/2025-01-27.jpg
+  - ../../assets/images/2024-07-19.jpg
+  - ../../assets/images/2025-01-29.jpg
+  - ../../assets/images/1m5a2525.jpg
+  - ../../assets/images/2024-09-29.jpg
+  - ../../assets/images/2023-10-07.jpg
+  - ../../assets/images/20250131_123147.jpg
+  - ../../assets/images/20250131_123201.jpg
+  - ../../assets/images/20250131_123222.jpg
 categories:
   - foodanddrinks
 cuisine:
