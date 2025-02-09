@@ -33,5 +33,5 @@ comment: ""
 
 **Trading :**
 
+* Wednesday - Monday : 11 am – 3 pm & 5 pm – 10 pm
 * Tuesday : Closed
-* Wednesday - Sunday : 11 am – 3 pm & 5 pm – 10 pm
