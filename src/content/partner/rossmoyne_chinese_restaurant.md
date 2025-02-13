@@ -6,7 +6,7 @@ image: ../../assets/images/messenger_creation_b67d48c6-fe9a-4d43-9511-21ac0b5609
 images:
   - ../../assets/images/fb_img_1739423403796.jpg
   - ../../assets/images/messenger_creation_375bc3b7-cccc-4968-8d56-71141c96b3fd.jpeg
-  - ../../assets/images/messenger_creation_88c3edac-fcb8-413a-a08e-292b2bdd987a.jpeg
+  - ../../assets/images/messenger_creation_91d852bb-9c3c-49b1-81ef-18452d9c232d.jpeg
   - ../../assets/images/messenger_creation_50c7a885-6671-4d9b-bf47-bd14be3685f1.jpeg
   - ../../assets/images/messenger_creation_4aeb939e-e3bc-467a-9628-d5bb05e2311a.jpeg
   - ../../assets/images/messenger_creation_657da38d-5485-4c2c-82dc-84002922c166.jpeg
