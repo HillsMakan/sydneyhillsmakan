@@ -16,4 +16,4 @@ region: wa
 discount_pct: 10
 discount_text: Excluding promotions
 ---
-G
+Rossmoyne Chinese Restaurant 客人来 is a hidden gem of authentic Hakka cuisine in Perth. The establishment offers a cozy and welcoming ambiance.
