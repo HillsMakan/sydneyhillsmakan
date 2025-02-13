@@ -13,7 +13,7 @@ images:
 categories:
   - foodanddrinks
 cuisine:
-  - Malaysia
+  - Malaysian
   - Hakka
 region: wa
 discount_pct: 10
