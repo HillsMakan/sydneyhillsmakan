@@ -12,6 +12,9 @@ images:
   - ../../assets/images/messenger_creation_657da38d-5485-4c2c-82dc-84002922c166.jpeg
 categories:
   - foodanddrinks
+cuisine:
+  - Malaysia
+  - Hakka
 region: wa
 discount_pct: 10
 discount_text: Excluding promotions
