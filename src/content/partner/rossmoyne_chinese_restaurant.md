@@ -18,8 +18,7 @@ discount_text: Excluding promotions
 ---
 Rossmoyne Chinese Restaurant 客人来 is a hidden gem of authentic Hakka cuisine in Perth. The establishment offers a cozy and welcoming ambiance.
 
-**Location :** Shop 1, 268 Old Northern Rd, Castle Hill, 2154, New South Wales, Australia
-(Only 1 min walk from Castle Towers Shopping Centre Piazza/Castle Mall Shopping Centre or 5 mins walking distance from Castle Hill Metro Station)
+**Location :** 2/55 Central Road, Rossmoyne, 6148, Western Australia[](<>)[](<>)
 
 **Trading :**
 
