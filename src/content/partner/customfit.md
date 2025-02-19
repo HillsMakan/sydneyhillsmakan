@@ -22,7 +22,7 @@ Special offers for HMG International members when you mention that you are HMG I
 1. 10% discount for CustomFit Personal Trainer/Muay Thai/Boxing packages
 2. 5% discount on Xtraprotein supplement 
 
-* Website : xtraprotein.com
+* Website : https://xtraprotein.com
 * Discount code : customfit
 
 About US\
