@@ -1,6 +1,6 @@
 ---
 draft: false
-title: CustomFit
+title: CustomFit Singapore
 description: Personal Trainer
 link: https://customfitsg.com/
 image: ../../assets/images/free_simple_modern_circle_design_studio_logo.png
