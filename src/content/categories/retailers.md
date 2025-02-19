@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Retailers
-description: Sports, Lifestyle, etc.
+description: Sports, Lifestyle and etc.
 icon: mdi:shop
 image: ../../assets/images/Retailers.jpg
 ---
