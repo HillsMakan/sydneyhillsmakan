@@ -17,7 +17,7 @@ discount_pct: 10
 discount_text: 10% discount for CustomFit PT/Muay Thai/Boxing packages and 5%
   discount on Xtraprotein supplement
 ---
-Special offers for HMG International members. Mention that you are HMG International members.
+Special offers for HMG International members when you mention that you are HMG International members.
 
 1. 10% discount for CustomFit Personal Trainer/Muay Thai/Boxing packages
 2. 5% discount on Xtraprotein supplement 
@@ -39,4 +39,4 @@ Email : Ehsaan@customfitsg.com
 
 Website : https://customfitsg.com/
 
-Instagram : https://www.instagram.com/customfit_sg?
+Instagram : https://www.instagram.com/customfit_sg
