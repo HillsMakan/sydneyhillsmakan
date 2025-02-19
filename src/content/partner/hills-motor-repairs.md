@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Hills Motor Repairs
 description: Car Mechanic
 image: ../../assets/images/hmr.jpg
@@ -14,6 +15,7 @@ images:
   - ../../assets/images/hmr9.jpg
 categories:
   - mechanic
+  - professionals
 region: nsw
 discount_pct: 15
 discount_text: 15% discount off labor cost for any car service  OR  15% discount
