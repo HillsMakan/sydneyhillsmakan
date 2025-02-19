@@ -4,6 +4,7 @@ title: CustomFit
 description: Personal Trainer
 image: ../../assets/images/free_simple_modern_circle_design_studio_logo.png
 images:
+  - ../../assets/images/rs_w_1209_h_1209_cg_true.png
   - ../../assets/images/screenshot_20250219_234300_drive.jpg
   - ../../assets/images/screenshot_20250219_234306_drive.jpg
   - ../../assets/images/screenshot_20250219_234311_drive.jpg
