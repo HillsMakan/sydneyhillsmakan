@@ -12,9 +12,15 @@ categories:
   - wellness
 region: singapore
 discount_pct: 10
-discount_text: "10% discount for CustomFit PT/Muay Thai/Boxing packages and 5%
-  discount on Xtraprotein supplements "
+discount_text: 10% discount for CustomFit PT/Muay Thai/Boxing packages and 5%
+  discount on Xtraprotein supplement
 ---
-10% discount for CustomFit PT/Muay Thai/Boxing packages
+Special offers for HMG International members. Quote or mention that you are HMG International members.
 
-5% discount on Xtraprotein, xtraprotein.com supplement purchase, Discount code: customfit
+1. 10% discount for CustomFit Personal Trainer/Muay Thai/Boxing packages
+2. 5% discount on Xtraprotein supplement 
+
+*  Website : xtraprotein.com
+* Discount code : customfit
+
+About US
