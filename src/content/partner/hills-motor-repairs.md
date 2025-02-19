@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Hills Motor Repairs
 description: Car Mechanic
 image: ../../assets/images/hmr.jpg
