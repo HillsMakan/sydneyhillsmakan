@@ -5,6 +5,7 @@ description: Optometrist
 image: ../../assets/images/optika-optometrist.jpg
 categories:
   - professionals
+  - retailers
 region: nsw
 discount_pct: 20
 discount_text: Frames only (Excluding Sales/Promotions)
