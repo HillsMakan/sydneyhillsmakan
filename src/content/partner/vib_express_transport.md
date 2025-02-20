@@ -8,6 +8,8 @@ images:
   - ../../assets/images/messenger_creation_9d9e03ab-7c32-454d-ac14-2800e340be4a.jpeg
   - ../../assets/images/messenger_creation_ba7fc8c0-1052-450a-89ca-a79bb14b808d.jpeg
   - ../../assets/images/messenger_creation_89fed831-667d-4b11-b991-732d117c6e87.jpeg
+  - ../../assets/images/messenger_creation_980223cc-c1b8-4a3e-839f-9dfb581d48a3.jpeg
+  - ../../assets/images/hmgmembercard01_international_.jpg
 categories:
   - travel
   - professionals
