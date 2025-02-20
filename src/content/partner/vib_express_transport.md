@@ -30,8 +30,8 @@ discount_text: Refer a friend ONE TIME $10 OFF to redeem + 5% off
 Process :
 
 1. Call/text to get quote
-2. Mention HMG International member and text both member card (
-3. If happy with quote then book you
+2. Mention HMG International member and text both member card (5th & 6th photos below)
+3. If you are satisfied with the quote then book 
 
 Transportation Services :
 
