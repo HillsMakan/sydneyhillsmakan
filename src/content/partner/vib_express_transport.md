@@ -36,7 +36,7 @@ Special :
 Transportation Services :
 
 * Airport Shuttle 
-* Uber Services 
+* Pick Up & Drop Off Services 
 * Grocery Delivery 
 * Food Delivery 
 * Moving Or Pick Up Services 
