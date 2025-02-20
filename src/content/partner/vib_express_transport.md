@@ -31,7 +31,7 @@ discount_text: 5% off + Refer a friend ONE TIME $10 OFF to redeem
 Special :
 
 * 5% off
-* Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem
+* Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem (see 17th photos below)
 
 Transportation Services :
 
@@ -51,7 +51,7 @@ Vehicle :
 Process :
 
 1. Call/text to get quote
-2. Mention HMG International member and text both member card (5th & 6th photos below)
+2. Mention HMG International member and text both member card (see 5th & 6th photos below)
 3. If you are satisfied with the quote then book
 
 Contact :
