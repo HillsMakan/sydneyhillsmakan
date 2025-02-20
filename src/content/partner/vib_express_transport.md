@@ -47,3 +47,8 @@ Vehicle :
 * Model : Toyota Kluger Hybrid 2021
 * Number Of Passengers : Maximum 4
 * Number Of Bags : 4 Check in bags (25 kg each) + 4 Hand carry bags (7 kg each)
+
+Contact :
+
+* Mobile : 0406 162 265
+* Website : https://vibexpresstransport.com.au/
