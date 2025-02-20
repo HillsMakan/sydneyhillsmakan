@@ -33,12 +33,15 @@ Special :
 * 5% off
 * Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem (see 17th photos below)
 
-Transportation Services :
+Transportation Services (Pick Up and or Drop Off. Passenger and or Items) :
 
-* Airport Shuttle 
-* Pick Up & Drop Off Services 
-* Grocery Delivery 
-* Food Delivery 
+* Airport
+* Grocery
+* Restaurant 
+* Online Shopping 
+* Commercial 
+* Catering 
+* Residential 
 * Moving Or Pick Up Services 
 * IKEA Pick Up Services 
 
