@@ -20,6 +20,7 @@ images:
   - ../../assets/images/messenger_creation_4a429df6-c823-4dfd-a820-8b4488ad729e.jpeg
   - ../../assets/images/messenger_creation_e7702338-c35a-41c7-bc66-9b0316f0ce84.jpeg
   - ../../assets/images/messenger_creation_5708cb4a-f2eb-46f7-8724-2bc9967e768c.jpeg
+  - ../../assets/images/messenger_creation_092af1b9-c2c5-4ff7-bbd2-64c1ecf42f70.jpeg
 categories:
   - travel
   - professionals
@@ -30,7 +31,7 @@ discount_text: Refer a friend ONE TIME $10 OFF to redeem + 5% off
 Special :
 
 * 5% off
-* Refer a friend and successfull booking. You receive a ONE TIME $10 OFF to redeem
+* Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem
 
 Transportation Services :
 
