@@ -34,4 +34,10 @@ Transportation Services :
 * Grocery Delivery 
 * Food Delivery 
 * Moving Or Pick Up Services 
-* IKEA Pick Up Services
+* IKEA Pick Up Services 
+
+Vehicle : And The model of the car is Toyota Kluger Hybrid 2021.
+
+
+
+This car can fit maximum 4 people + 4 Check in   bag (25kg each) + 4 Hand carry bag (7kg each)
