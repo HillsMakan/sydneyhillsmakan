@@ -13,5 +13,6 @@ categories:
   - professionals
 region: nsw
 discount_pct: 5
+discount_text: Refer a friend ONE TIME $10 OFF to redeem + 5% off
 ---
 F
