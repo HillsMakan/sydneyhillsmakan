@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: VIB Express Transport
 description: Transportation Services
 image: ../../assets/images/messenger_creation_07e2b49b-61bb-4587-9f45-a572fe4d5932.jpeg
@@ -27,6 +27,12 @@ region: nsw
 discount_pct: 5
 discount_text: Refer a friend ONE TIME $10 OFF to redeem + 5% off
 ---
+Process :
+
+1. Call/text to get quote
+2. Mention HMG International member and text both member card (
+3. If happy with quote then book you
+
 Transportation Services :
 
 * Airport Shuttle 
