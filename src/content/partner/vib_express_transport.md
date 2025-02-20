@@ -27,11 +27,10 @@ region: nsw
 discount_pct: 5
 discount_text: Refer a friend ONE TIME $10 OFF to redeem + 5% off
 ---
-Process :
+Special :
 
-1. Call/text to get quote
-2. Mention HMG International member and text both member card (5th & 6th photos below)
-3. If you are satisfied with the quote then book 
+* 5% off
+* Refer a friend and successfull booking. You receive a ONE TIME $10 OFF to redeem
 
 Transportation Services :
 
@@ -47,6 +46,12 @@ Vehicle :
 * Model : Toyota Kluger Hybrid 2021
 * Number Of Passengers : Maximum 4
 * Number Of Bags : 4 Check in bags (25 kg each) + 4 Hand carry bags (7 kg each)
+
+Process :
+
+1. Call/text to get quote
+2. Mention HMG International member and text both member card (5th & 6th photos below)
+3. If you are satisfied with the quote then book
 
 Contact :
 
