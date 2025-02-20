@@ -10,6 +10,16 @@ images:
   - ../../assets/images/messenger_creation_89fed831-667d-4b11-b991-732d117c6e87.jpeg
   - ../../assets/images/messenger_creation_980223cc-c1b8-4a3e-839f-9dfb581d48a3.jpeg
   - ../../assets/images/hmgmembercard01_international_.jpg
+  - ../../assets/images/messenger_creation_8815e4a4-5c42-4ad6-a9f7-a0c88e9d9549.jpeg
+  - ../../assets/images/messenger_creation_cdf753fc-e06d-4f1b-ad77-bd0fda19fc64.jpeg
+  - ../../assets/images/messenger_creation_a9f16dc1-d365-4068-a8d9-e536864f3954.jpeg
+  - ../../assets/images/messenger_creation_68ecfe04-9c84-4c55-a2cc-32278b7ca7e0.jpeg
+  - ../../assets/images/messenger_creation_87abaea2-c04b-4eb0-bac6-00200fe3e72e.jpeg
+  - ../../assets/images/messenger_creation_d9428bc9-6522-4e3c-a0f9-a135af3c9018.jpeg
+  - ../../assets/images/messenger_creation_e740b034-fa8b-4eec-9c5a-485abdc10b8c.jpeg
+  - ../../assets/images/messenger_creation_4a429df6-c823-4dfd-a820-8b4488ad729e.jpeg
+  - ../../assets/images/messenger_creation_e7702338-c35a-41c7-bc66-9b0316f0ce84.jpeg
+  - ../../assets/images/messenger_creation_5708cb4a-f2eb-46f7-8724-2bc9967e768c.jpeg
 categories:
   - travel
   - professionals
