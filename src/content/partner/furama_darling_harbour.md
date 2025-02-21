@@ -3,7 +3,7 @@ draft: false
 title: Furama Darling Harbour
 description: Hotel
 link: https://www.furama.com/darlingharbour
-image: ../../assets/images/images-24.jpeg
+image: ../../assets/images/hidh-002_1_1_.jpg
 images:
   - ../../assets/images/images-23.jpeg
   - ../../assets/images/fdh-partner-collaboration-5-off-your-next-stay.png
@@ -23,7 +23,7 @@ images:
   - ../../assets/images/fdh_dlk_7.jpg
   - ../../assets/images/fdh_ppk_5a.jpg
   - ../../assets/images/fdh_pfr_1.jpg
-  - ../../assets/images/89ecf9800b3d601cf74879332dcdcaa1050ffdc5.jpeg
+  - ../../assets/images/dji_0546.jpg
   - ../../assets/images/furama_darling_harbour_logo_black.png
 categories:
   - hotels
