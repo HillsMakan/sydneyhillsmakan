@@ -4,7 +4,7 @@ import DefaultImage from './assets/images/HMGmembercard01.jpg'
 const Site = {
   title: 'Hills Makan Group International',
   description:
-    'Indulge in the world of flavors with Hills Makan Group (International) – where culinary delights meet community spirit! 🍲 "Makan" meaning "Eat" in Malaysian & Singaporean Malay and Indonesian language.',
+    'Step into a world of flavors with HMG (Hills Makan Group) International – a dynamic platform where food, business, and community come together. More than just a culinary experience, we foster connections across industries, uniting businesses and food lovers to support, collaborate, and grow. Join us in building a global network of flavors, friendships, and endless opportunities!',
   link: 'https://linktr.ee/hillsmakangroup',
   author: {
     name: 'Chris Tham',

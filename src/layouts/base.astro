@@ -45,8 +45,11 @@ const { frontmatter } = Astro.props
         display: none !important;
       }
     </style>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2042064965368789"
-     crossorigin="anonymous"></script>
+    <script
+      is:inline
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2042064965368789"
+      crossorigin="anonymous"></script>
     <slot name="in-head" />
   </head>
   <body>
