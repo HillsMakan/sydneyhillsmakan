@@ -25,6 +25,7 @@ images:
   - ../../assets/images/fdh_pfr_1.jpg
   - ../../assets/images/dji_0546.jpg
   - ../../assets/images/furama_darling_harbour_logo_black.png
+  - ../../assets/images/furama_-82.jpg
 categories:
   - hotels
   - travel
