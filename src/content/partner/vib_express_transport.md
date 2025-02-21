@@ -31,6 +31,8 @@ discount_text: 5% off + Refer a friend ONE TIME $10 OFF to redeem
 Special :
 
 * 5% off
+
+  +
 * Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem (see 17th photos below)
 
 Transportation Services (Pick Up and or Drop Off. Passenger and or Items) :
@@ -38,6 +40,7 @@ Transportation Services (Pick Up and or Drop Off. Passenger and or Items) :
 * Airport
 * Grocery
 * Restaurant 
+* Food & Drinks
 * Online Shopping 
 * Commercial 
 * Catering 
