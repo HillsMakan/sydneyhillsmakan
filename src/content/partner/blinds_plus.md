@@ -12,6 +12,19 @@ images:
   - ../../assets/images/screenshot_20250224_202109_samsung_internet.jpg
   - ../../assets/images/screenshot_20250224_202113_samsung_internet.jpg
   - ../../assets/images/screenshot_20250224_202118_samsung_internet.jpg
+  - ../../assets/images/img-20250224-wa0006.jpg
+  - ../../assets/images/2024-05-01.jpg
+  - ../../assets/images/2024-05-01-1.jpg
+  - ../../assets/images/img-20250224-wa0007.jpg
+  - ../../assets/images/img-20250224-wa0008.jpg
+  - ../../assets/images/img-20250224-wa0009.jpg
+  - ../../assets/images/img-20250224-wa0010.jpg
+  - ../../assets/images/img-20250224-wa0011.jpg
+  - ../../assets/images/img-20250224-wa0012.jpg
+  - ../../assets/images/img-20250224-wa0013.jpg
+  - ../../assets/images/img-20250224-wa0014.jpg
+  - ../../assets/images/img-20250224-wa0015.jpg
+  - ../../assets/images/img-20250224-wa0016.jpg
 categories:
   - companies
   - professionals
