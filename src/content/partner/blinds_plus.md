@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Blinds Plus
 description: Blinds Shop
 link: https://blindsplus.com.au/
