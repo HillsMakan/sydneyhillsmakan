@@ -2,9 +2,16 @@
 draft: true
 title: Blinds Plus
 description: Blinds Shop
+link: https://blindsplus.com.au/
 image: ../../assets/images/screenshot_20250224_201339_facebook.jpg
 images:
   - ../../assets/images/fb_img_1740388364022.jpg
+  - ../../assets/images/screenshot_20250224_202526_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250224_202059_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250224_202104_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250224_202109_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250224_202113_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250224_202118_samsung_internet.jpg
 categories:
   - companies
   - professionals
