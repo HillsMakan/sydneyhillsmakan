@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Blinds Plus
+title: Blinds Plus Castle Hill
 description: Blinds Shop
 link: https://blindsplus.com.au/
 image: ../../assets/images/screenshot_20250224_201339_facebook.jpg
