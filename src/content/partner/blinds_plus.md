@@ -18,7 +18,7 @@ categories:
   - retailers
 region: nsw
 discount_pct: 10
-discount_text: "Mention HMG International when getting a quote "
+discount_text: "Mention HMG International member when getting a quote "
 ---
 Blindsplus, with business presence since 1986, offers a one-stop solution for new home buyers, renovators, interior designers, and office designers. We are manufacturers and suppliers of Blinds, Screens, Doors, Awnings, Shutters, Pelmets, and Clothesline.
 
