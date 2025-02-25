@@ -26,4 +26,4 @@ discount_text: Excluding promotions
 
 **Trading :**
 
-* Monday - Sunday : 11.30 am - 10 pm
+* Monday - Sunday : 11.30 am - 11 pm
