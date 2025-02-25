@@ -14,9 +14,8 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
 ---
-**Location :** 355 Sussex St, Sydney, 2000, NSW, Australia [](<>)
-(Around 5 mins walk from Broadway Shopping Centre and The University of Sydney Library - Fisher Library)
-(20 mins walk from Central Station)
+**Location :** 355 Sussex St, Sydney, 2000, NSW, Australia[](<>)
+(Around 6 mins walk from Town Hall Station)
 
 **Trading :**
 
