@@ -5,6 +5,9 @@ description: Indonesian Cuisine delicacy special menu and hot bars. Halal
 image: ../../assets/images/2025-01-14.jpg
 images:
   - ../../assets/images/fb_img_1740521861296.jpg
+  - ../../assets/images/fb_img_1740518676576.jpg
+  - ../../assets/images/fb_img_1740518673511.jpg
+  - ../../assets/images/fb_img_1740518670292.jpg
 categories:
   - foodanddrinks
 cuisine:
