@@ -1,7 +1,19 @@
 ---
+draft: true
 title: Warung Suroboyo Indonesian Cuisine by Michaels Kitchen
 description: Indonesian Cuisine delicacy special menu and hot bars
 image: ../../assets/images/20240718_161853.jpg
+images:
+  - ../../assets/images/fb_img_1740518619904.jpg
+  - ../../assets/images/fb_img_1740518610304.jpg
+  - ../../assets/images/fb_img_1740518613251.jpg
+  - ../../assets/images/fb_img_1740518615767.jpg
+  - ../../assets/images/fb_img_1740518670292.jpg
+  - ../../assets/images/fb_img_1740518673511.jpg
+  - ../../assets/images/fb_img_1740518676576.jpg
+  - ../../assets/images/fb_img_1740518737579.jpg
+  - ../../assets/images/2024-10-05.jpg
+  - ../../assets/images/unnamed.jpg
 categories:
   - foodanddrinks
 cuisine:
