@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Warung Suroboyo Indonesian Cuisine by Michaels Kitchen
-description: Indonesian Cuisine delicacy special menu and hot bars
+description: Indonesian Cuisine delicacy special menu and hot bars. Halal
 image: ../../assets/images/20240718_161853.jpg
 images:
   - ../../assets/images/fb_img_1740521861296.jpg
