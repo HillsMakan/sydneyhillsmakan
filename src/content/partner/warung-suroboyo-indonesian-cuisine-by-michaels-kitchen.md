@@ -32,6 +32,7 @@ categories:
   - foodanddrinks
 cuisine:
   - Indonesian
+  - Halal
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
