@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Momozz Harris Park
-description: Modern Indian Restaurant - Halal
+description: Fusion Indian Restaurant - Malaysian & Halal
 image: ../../assets/images/20250227_120010.jpg
 images:
   - ../../assets/images/fb_img_1740633541915.jpg
