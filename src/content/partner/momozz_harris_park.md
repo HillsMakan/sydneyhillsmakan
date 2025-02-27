@@ -35,7 +35,9 @@ Fusion Indian, Malaysian and Halal provides Momos/Dumplings, Briyani, Curries, N
 
 **Location :** Unit 8, 104-108 Wigram St, Harris Park, 2150, NSW. 
 
-(Around 6 mins walk from Parramatta Station or 6 mins walk from Harris Park Station)
+* Around 6 mins walk from Parramatta Station
+* Around 6 mins walk from Harris Park Station
+* Around 8 mins walk from Robin Thomson Light Rail Station 
 
 **Trading :**
 
