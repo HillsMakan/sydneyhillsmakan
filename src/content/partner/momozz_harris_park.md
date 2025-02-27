@@ -15,4 +15,11 @@ region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
 ---
-.
+**Location :** Unit 8, 104-108 Wigram St, Harris Park, 2150, NSW. 
+
+(Around 6 mins walk from Parramatta Station or 6 mins walk from Harris Park Station)
+
+**Trading :**
+
+* Sunday & Wednesday : 12 noon - 10 pm
+* Thursday - Saturday : 12 noon - 10.30 pm
