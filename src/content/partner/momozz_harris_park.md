@@ -31,6 +31,8 @@ region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
 ---
+Fusion Indian, Malaysian and Halal provides Momos/Dumplings, Briyani, Curries, Noodles, Tandoori and Etc.
+
 **Location :** Unit 8, 104-108 Wigram St, Harris Park, 2150, NSW. 
 
 (Around 6 mins walk from Parramatta Station or 6 mins walk from Harris Park Station)
