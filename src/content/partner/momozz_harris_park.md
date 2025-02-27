@@ -5,6 +5,11 @@ description: Modern Indian Restaurant - Halal
 image: ../../assets/images/20250227_120010.jpg
 images:
   - ../../assets/images/fb_img_1740633541915.jpg
+  - ../../assets/images/fb_img_1740633793274.jpg
+  - ../../assets/images/20250227_115914.jpg
+  - ../../assets/images/20250227_115940.jpg
+  - ../../assets/images/20250227_131138.jpg
+  - ../../assets/images/20250227_141226.jpg
 categories:
   - foodanddrinks
 cuisine:
