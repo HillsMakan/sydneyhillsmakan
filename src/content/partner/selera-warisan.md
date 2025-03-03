@@ -2,7 +2,7 @@
 draft: false
 title: Selera Warisan
 description: Malaysian Halal
-image: ../../assets/images/omelacafe.jpg
+image: ../../assets/images/20250129_101850.jpg
 images:
   - ../../assets/images/selera-warisan1.jpg
   - ../../assets/images/selera-warisan2.jpg
