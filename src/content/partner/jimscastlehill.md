@@ -18,7 +18,7 @@ categories:
 cuisine:
   - Malaysian
 region: nsw
-discount_pct: 10
+discount_pct: 5
 discount_text: Cash and meals only
 ---
 
