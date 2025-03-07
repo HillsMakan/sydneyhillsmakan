@@ -4,6 +4,10 @@ title: Mikazuki Knives
 description: Japanese Knife Store
 link: https://mikazuki-knives.com/
 image: ../../assets/images/benelong_bites_knife_logo_nihongobigger.jpg
+images:
+  - ../../assets/images/screenshot_20250307_200825_samsung_internet.jpg
+  - ../../assets/images/71218796-7e0d-4abd-999c-30243451567e.jpg
+  - ../../assets/images/screenshot_20250307_200613_samsung_internet.jpg
 categories:
   - online
   - retailers
