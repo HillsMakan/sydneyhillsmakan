@@ -52,3 +52,5 @@ We don’t just sell knives – we **restore and maintain** them. Our expert s
 Explore our **Japanese knives and accessories** and experience the precision of **Mikazuki Knives**.
 
 ### **Website/Contact : https://mikazuki-knives.com/**
+
+### **10% Discount Promo Code : HMG10**
