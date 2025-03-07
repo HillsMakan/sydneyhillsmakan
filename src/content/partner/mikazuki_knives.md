@@ -40,7 +40,7 @@ We don’t just sell knives – we **restore and maintain** them. Our expert s
 🔪 **Knife Restoration** – Bring old or worn-out knives back to life.
 🔪 **Straightening & Rust Removal** – Ensure perfect alignment and rust-free longevity.
 
-### **Why Choose Mikazuki Knives?**
+### **Why Choose Mikazuki Knives ?**
 
 ✅ **Authentic Japanese Craftsmanship** – Premium quality from renowned blacksmiths.
 ✅ **Expert Knife Knowledge** – Helping you find the perfect knife for your needs.
