@@ -8,6 +8,12 @@ images:
   - ../../assets/images/screenshot_20250307_200825_samsung_internet.jpg
   - ../../assets/images/71218796-7e0d-4abd-999c-30243451567e.jpg
   - ../../assets/images/screenshot_20250307_200613_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250307_200549_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250307_200631_samsung_internet.jpg
+  - ../../assets/images/fb_img_1741337677518.jpg
+  - ../../assets/images/screenshot_20250307_195517_facebook.jpg
+  - ../../assets/images/screenshot_20250307_195624_facebook.jpg
+  - ../../assets/images/screenshot_20250307_195422_facebook.jpg
 categories:
   - online
   - retailers
