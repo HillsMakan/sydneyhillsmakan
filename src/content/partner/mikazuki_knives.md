@@ -50,6 +50,7 @@ We don’t just sell knives – we **restore and maintain** them. Our expert s
 🔪 **Chip Repair** – Fix small chips and damages for a flawless blade.
 🔪 **Knife Restoration** – Bring old or worn-out knives back to life.
 🔪 **Straightening & Rust Removal** – Ensure perfect alignment and rust-free longevity.
+✨ **Hand-Carved Engraving by Craftsmen** – Personalize your knife with exquisite traditional Japanese engraving, meticulously carved by skilled artisans.
 
 ### **Why Choose Mikazuki Knives ?**
 
