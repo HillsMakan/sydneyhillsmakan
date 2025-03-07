@@ -30,7 +30,7 @@ At **Mikazuki Knives**, we bring you an extensive collection of high-quality *
 
 ### **Our Collection**
 
-Explore our selection of knives, categorized for different purposes:
+Explore our selection of knives, categorized for different purposes :
 ✔ **Everyday Use** – Reliable and versatile knives for home and kitchen use.
 ✔ **Poultry & Butchery** – Precision blades for meat processing and butchery.
 ✔ **Vegetable Knives** – Razor-sharp knives designed for precise vegetable cutting.
@@ -38,14 +38,14 @@ Explore our selection of knives, categorized for different purposes:
 
 ### **Accessories & Knife Maintenance**
 
-To help you maintain the sharpness and longevity of your knives, we offer:
+To help you maintain the sharpness and longevity of your knives, we offer :
 ✔ **Sharpening Stones & Tools**
 ✔ **Knife Storage & Protection**
 ✔ **Handle & Blade Care Accessories**
 
 ### **Knife Restoration & Services**
 
-We don’t just sell knives – we **restore and maintain** them. Our expert services include:
+We don’t just sell knives – we **restore and maintain** them. Our expert services include :
 🔪 **Professional Sharpening** – Restore the razor-sharp edge of your knife.
 🔪 **Chip Repair** – Fix small chips and damages for a flawless blade.
 🔪 **Knife Restoration** – Bring old or worn-out knives back to life.
