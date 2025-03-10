@@ -12,6 +12,7 @@ description: New Zealand, or Aotearoa in Maori, is a stunning island nation in
   conservation, making it a perfect destination for eco-conscious travelers.
   Come and discover the beauty and charm of New Zealand, a land of enchantment
   and wonder.
+country: international
 icon: openmoji:flag-new-zealand
 image: ../../assets/images/1000162839.jpg
 ---
