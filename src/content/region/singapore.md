@@ -1,8 +1,9 @@
 ---
 draft: false
 title: Singapore
-description: Singapore is a vibrant city-state known for its skyscrapers, diverse culture, and lush greenery. 🌿🏙️
-icon: flag:sg-4x3
-image: ../../assets/images/Singapore.jpg
+description: Singapore is a vibrant city-state known for its skyscrapers,
+  diverse culture, and lush greenery. 🌿🏙️
 country: international
+icon: twemoji:flag-singapore
+image: ../../assets/images/Singapore.jpg
 ---
