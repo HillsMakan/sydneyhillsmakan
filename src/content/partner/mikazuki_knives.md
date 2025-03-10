@@ -19,8 +19,8 @@ categories:
   - retailers
 region: australia
 discount_pct: 10
-discount_text: "Promo Code : HMG10 (Excluding sales items and postage. Free
-  Australia delivery on orders over $150)"
+discount_text: "Promo Code : WELCOME10HMG (Excluding sales items and postage.
+  Free Australia delivery on orders over $150)"
 ---
 # **Mikazuki Knives – Precision Crafted Japanese Blades**
 
@@ -64,6 +64,6 @@ Explore our **Japanese knives and accessories** and experience the precision o
 
 ### **Website : https://mikazuki-knives.com/**
 
-### **10% Discount Promo Code : HMG10**
+### **10% Discount Promo Code : WELCOME10HMG**
 
 ### **Email Contact : info@mikazuki-knives.com**
