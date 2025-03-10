@@ -16,7 +16,6 @@ images:
   - ../../assets/images/screenshot_20250307_195422_facebook.jpg
 categories:
   - online
-  - retailers
 region: australia
 discount_pct: 10
 discount_text: "Promo Code : WELCOME10HMG (Excluding sales items and postage.
