@@ -9,6 +9,6 @@ description: Japan, an island nation in East Asia, is known for its rich
   in spring and vibrant autumn foliage. Major cities like Tokyo and Kyoto
   showcase a mix of futuristic architecture and historical sites.
 country: international
-icon: flag:jp-4x3
+icon: twemoji:flag-japan
 image: ../../assets/images/tokyo.jpg
 ---
