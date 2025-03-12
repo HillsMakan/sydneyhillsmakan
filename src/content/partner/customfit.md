@@ -12,6 +12,7 @@ images:
   - ../../assets/images/screenshot_20250219_234316_drive.jpg
 categories:
   - wellness
+  - professionals
 region: singapore
 discount_pct: 10
 discount_text: 10% discount for CustomFit PT/Muay Thai/Boxing packages and 5%
