@@ -8,5 +8,6 @@ categories:
   - wellness
 region: nsw
 discount_pct: 25
+discount_text: 25% off initial consultation. 10% subsequent consultation
 ---
 Gh
