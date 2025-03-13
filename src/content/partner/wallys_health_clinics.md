@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Wally's Health Clinics
 description: Chiropractic & Physiotherapy
 image: ../../assets/images/full_logo-colour-transparent_background.png
