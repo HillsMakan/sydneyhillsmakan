@@ -27,13 +27,13 @@ If you’re looking for a fun, energetic and down to earth wedding celebrant wit
 
 I'm not just here to recite words ; I'm here to tell your story. Your journey, your love, your dreams—these are the elements that should shine during your ceremony. I'll work closely with you to ensure that your celebration is a reflection of your personalities and the love you share.
 
-My commitment doesn't end when the ceremony concludes. I'm here to offer guidance and support, whether it's assisting with legal paperwork or providing recommendations for other wedding vendors. Your journey with me is more than just a ceremony; it's a partnership.
+My commitment doesn't end when the ceremony concludes. I'm here to offer guidance and support, whether it's assisting with legal paperwork or providing recommendations for other wedding vendors. Your journey with me is more than just a ceremony ; it's a partnership.
 
 Available for weddings Sydney wide and willing to travel interstate/overseas if required. 
 
 Contact me !
 
-10% Discount: Mention HMG International member to receive discount
+10% Discount : Mention HMG International member to receive discount.
 
 **Terry Chong Celebrant**\
 **0435 451 915**  \
