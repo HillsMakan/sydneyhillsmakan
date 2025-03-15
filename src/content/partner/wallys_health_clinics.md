@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Wally's Health Clinics
 description: Chiropractic & Physiotherapy
 link: https://www.wallyshealth.com.au/
