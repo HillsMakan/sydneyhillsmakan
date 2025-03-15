@@ -37,6 +37,6 @@ Phone : +61 431 047 035
 
 **CLINIC LOCATION**
 
-Address : Shop 1, 64 Darling Drive, Sydney, NSW 2000
+Address : Shop 1, 64 Darling Drive, Sydney, 2000, NSW
 
 Our clinic is located inside MyHealth Darling Square.
