@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Wally's Health Clinics
 description: Chiropractic & Physiotherapy
 link: https://www.wallyshealth.com.au/
@@ -33,11 +33,11 @@ Because healing isn’t just about the body—it’s about feeling understood, s
 
 Email : admin@wallyshealth.com.au​
 
-Phone : +61 2 9188 3893 (MyHealth clinic)
+Phone : 
 
-Chana : +61 431 047 035
-
-Alex : +61 426 525 347
+* MyHealth Clinic : +61 2 9188 3893
+* Chana : +61 431 047 035
+* Alex : +61 426 525 347
 
 Website : https://www.wallyshealth.com.au/ (online booking available)
 
