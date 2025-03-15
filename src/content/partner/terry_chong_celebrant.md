@@ -35,8 +35,8 @@ Contact me !
 
 10% Discount: Mention HMG International member to receive discount
 
-**Terry Chong Celebrant
-0435 451 915**  
+**Terry Chong Celebrant**\
+**0435 451 915**  
 [](mailto:terrychongcelebrant@gmail.com)[terrychongcelebrant@gmail.com](mailto:terrychongcelebrant@gmail.com)
 [](http://afcc.com.au/celebrant/terence-chong)[afcc.com.au/celebrant/terence-chong](http://afcc.com.au/celebrant/terence-chong)
 [](http://instagram.com/terrychongcelebrant)[instagram.com/terrychongcelebrant](http://instagram.com/terrychongcelebrant)
