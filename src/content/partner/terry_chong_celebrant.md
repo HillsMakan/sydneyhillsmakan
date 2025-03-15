@@ -37,14 +37,14 @@ Contact me !
 
 **Terry Chong Celebrant
 0435 451 915**  
-[terrychongcelebrant@gmail.com](mailto:terrychongcelebrant@gmail.com)
-[afcc.com.au/celebrant/terence-chong](http://afcc.com.au/celebrant/terence-chong)
-[instagram.com/terrychongcelebrant](http://instagram.com/terrychongcelebrant)
-[facebook.com/terrychongcelebrant](http://facebook.com/terrychongcelebrant)
-[terrychongcelebrant.carrd.co](http://terrychongcelebrant.carrd.co)
+[](mailto:terrychongcelebrant@gmail.com)[terrychongcelebrant@gmail.com](mailto:terrychongcelebrant@gmail.com)
+[](http://afcc.com.au/celebrant/terence-chong)[afcc.com.au/celebrant/terence-chong](http://afcc.com.au/celebrant/terence-chong)
+[](http://instagram.com/terrychongcelebrant)[instagram.com/terrychongcelebrant](http://instagram.com/terrychongcelebrant)
+[](http://facebook.com/terrychongcelebrant)[facebook.com/terrychongcelebrant](http://facebook.com/terrychongcelebrant)
+[](http://terrychongcelebrant.carrd.co)[terrychongcelebrant.carrd.co](http://terrychongcelebrant.carrd.co)
 
 Watch me in action !
-<https://www.youtube.com/watch?si=wQ892_CO9LR-gvDI&v=b2R--chwX6s&feature=youtu.be>
+[](https://www.youtube.com/watch?si=wQ892_CO9LR-gvDI&v=b2R--chwX6s&feature=youtu.be)<https://www.youtube.com/watch?si=wQ892_CO9LR-gvDI&v=b2R--chwX6s&feature=youtu.be>
 
 ***Testimonials***
 
