@@ -13,9 +13,9 @@ discount_text: 25% off initial consultation. 10% subsequent consultation
 ---
 Mention and show your HMG International member card and receive 25% off initial consultation and 10% subsequent consultation.
 
-More than a quick fix. Evidence-based, hands-on expertise. Tailored Treatment Plans - No one-size-fits-all.
+More than a quick fix. Evidence-based, hands-on expertise. Tailored Treatment Plans - No one-size-fits-all. We Accept a Wide Range of Insurance Plans.
 
-Wally’s Health Clinics started with a simple idea: healing should feel empowering, not exhausting. We were just a group of passionate, curious, young practitioners who wanted to do more than just treat symptoms—we wanted to give people the tools and confidence to take charge of their own recovery.
+Wally’s Health Clinics started with a simple idea : healing should feel empowering, not exhausting. We were just a group of passionate, curious, young practitioners who wanted to do more than just treat symptoms—we wanted to give people the tools and confidence to take charge of their own recovery.
 
 We saw too many clinics that felt cold and transactional. That wasn’t for us. We wanted to create a space where patients felt heard, valued, and supported—not just another name on a schedule.
 
