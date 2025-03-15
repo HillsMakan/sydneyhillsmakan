@@ -3,6 +3,18 @@ draft: false
 title: Terry Chong Celebrant
 description: Wedding Service
 image: ../../assets/images/1_home.png
+images:
+  - ../../assets/images/2_about.png
+  - ../../assets/images/3_services.png
+  - ../../assets/images/4_services.png
+  - ../../assets/images/5_testimonial.png
+  - ../../assets/images/6_contact.png
+  - ../../assets/images/images_1_.png
+  - ../../assets/images/images_2_.png
+  - ../../assets/images/images_3_.png
+  - ../../assets/images/images_4_.png
+  - ../../assets/images/images_5_.png
+  - ../../assets/images/images_6_.jpg
 categories:
   - professionals
 region: nsw
