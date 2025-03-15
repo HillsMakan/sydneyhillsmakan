@@ -33,9 +33,13 @@ Because healing isn’t just about the body—it’s about feeling understood, s
 
 Email : admin@wallyshealth.com.au​
 
-Phone : +61 431 047 035
+Phone : +61 2 9188 3893 (MyHealth clinic)
 
-Website : https://www.wallyshealth.com.au/
+Chana : +61 431 047 035
+
+Alex : +61 426 525 347
+
+Website : https://www.wallyshealth.com.au/ (online booking available)
 
 **CLINIC LOCATION**
 
