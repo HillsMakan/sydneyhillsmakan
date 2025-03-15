@@ -16,25 +16,27 @@ If you’re looking for a fun, energetic and down to earth wedding celebrant wit
 I'm not just here to recite words ; I'm here to tell your story. Your journey, your love, your dreams—these are the elements that should shine during your ceremony. I'll work closely with you to ensure that your celebration is a reflection of your personalities and the love you share.
 
 My commitment doesn't end when the ceremony concludes. I'm here to offer guidance and support, whether it's assisting with legal paperwork or providing recommendations for other wedding vendors. Your journey with me is more than just a ceremony; it's a partnership.
- 
+
 Available for weddings Sydney wide and willing to travel interstate/overseas if required. 
 
-Contact me!
+Contact me !
 
 10% Discount: Mention HMG International member to receive discount
 
-Terry Chong Celebrant
-0435 451 915  
+**Terry Chong Celebrant
+0435 451 915**  
 [terrychongcelebrant@gmail.com](mailto:terrychongcelebrant@gmail.com)
 [afcc.com.au/celebrant/terence-chong](http://afcc.com.au/celebrant/terence-chong)
 [instagram.com/terrychongcelebrant](http://instagram.com/terrychongcelebrant)
 [facebook.com/terrychongcelebrant](http://facebook.com/terrychongcelebrant)
 [terrychongcelebrant.carrd.co](http://terrychongcelebrant.carrd.co)
 
-Watch me in action!
+Watch me in action !
 <https://www.youtube.com/watch?si=wQ892_CO9LR-gvDI&v=b2R--chwX6s&feature=youtu.be>
 
-Testimonials"We were so happy to have Terry as our celebrant! Right from the beginning we knew we had the right man for the job. He listened to what we envisioned for the script & our vows but also helped to convey what we wanted to say more beautifully & eloquently than we could ever have done so on our own. Thank you Terry for all the support & encouragement that you gave us on our special day! It certainly wouldn’t have been the same without you." - Brian and Rui Page
+***Testimonials***
+
+"We were so happy to have Terry as our celebrant! Right from the beginning we knew we had the right man for the job. He listened to what we envisioned for the script & our vows but also helped to convey what we wanted to say more beautifully & eloquently than we could ever have done so on our own. Thank you Terry for all the support & encouragement that you gave us on our special day! It certainly wouldn’t have been the same without you." - Brian and Rui Page
 
 "Terry is responsible, organised, responsive, fastidious and diligent - everything you need in a celebrant and more. We got married in Sydney but are based in HK working in busy professions, so Terry was our only hope for making sure the legal papers and wedding ceremony would proceed in accordance with the necessary formalities. He was so patient with us while still making sure everything he needed from us was in order. Terry put so much thought and effort into our wedding script, making sure it matched our vibe and captured the spirit of our relationship. Our guests were so impressed and many thought he was actually one of our close friends that had volunteered to officiate our marriage! Terry was also the MC for our reception - without him, there would have been no semblance of order or sticking to the reception runsheet. We are so grateful for his guidance and composure - he was our calm amidst the storm, our beacon of light in the darkness, and our knight in shining armour. Thank you sincerely - our wedding couldn’t have happened without you!" - Flora and Tafu
 
