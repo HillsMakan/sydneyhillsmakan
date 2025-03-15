@@ -23,8 +23,20 @@ So, we built Wally’s with one goal in mind: personalised care, genuine relatio
 
 Because healing isn’t just about the body—it’s about feeling understood, supported, and empowered every step of the way.
 
-Opening Hours :
+**Opening Hours :**
 
 * Monday - Friday : 9 am - 5.30 pm
 * Saturday : By appointment only
 * Sunday :  Closed
+
+**CONTACT US**
+
+Email : admin@wallyshealth.com.au​
+
+Phone : +61 431 047 035
+
+**CLINIC LOCATION**
+
+Address : Shop 1, 64 Darling Drive, Sydney, NSW 2000
+
+Our clinic is located inside MyHealth Darling Square.
