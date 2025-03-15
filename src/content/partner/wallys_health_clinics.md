@@ -43,4 +43,4 @@ Address : Shop 1, 64 Darling Drive, Sydney, 2000, NSW
 
 Our clinic is located inside MyHealth Darling Square.
 
-(2 mins walk from Paddy’s Market Light Rail Station)
+(2 mins walk from Paddy’s Markets Light Rail Station)
