@@ -11,7 +11,9 @@ region: nsw
 discount_pct: 25
 discount_text: 25% off initial consultation. 10% subsequent consultation
 ---
-Mention and show your HMG International member card snd receive 25% off initial consultation and 10% subsequent consultation.
+Mention and show your HMG International member card and receive 25% off initial consultation and 10% subsequent consultation.
+
+More than a quick fix. Evidence-based, hands-on expertise. Tailored Treatment Plans - No one-size-fits-all.
 
 Wally’s Health Clinics started with a simple idea: healing should feel empowering, not exhausting. We were just a group of passionate, curious, young practitioners who wanted to do more than just treat symptoms—we wanted to give people the tools and confidence to take charge of their own recovery.
 
