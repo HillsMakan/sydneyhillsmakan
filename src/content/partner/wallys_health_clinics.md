@@ -10,6 +10,7 @@ images:
   - ../../assets/images/screenshot_16-3-2025_153318_www.wallyshealth.com.au.jpeg
   - ../../assets/images/screenshot_16-3-2025_153338_www.wallyshealth.com.au.jpeg
   - ../../assets/images/screenshot_16-3-2025_15343_www.wallyshealth.com.au.jpeg
+  - ../../assets/images/screenshot_16-3-2025_19320_www.wallyshealth.com.au.jpeg
 categories:
   - professionals
   - wellness
