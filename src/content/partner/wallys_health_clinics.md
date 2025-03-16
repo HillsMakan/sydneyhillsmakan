@@ -49,8 +49,5 @@ Website : https://www.wallyshealth.com.au/ (online booking available)
 
 **CLINIC LOCATION**
 
-Address : Shop 1, 64 Darling Drive, Sydney, 2000, NSW
-
-Our clinic is located inside MyHealth Darling Square.
-
-(2 mins walk from Paddy’s Markets Light Rail Station)
+Address : Shop 1, 64 Darling Drive, Sydney, 2000, NSW\
+(Our clinic is located inside MyHealth Darling Square and 2 mins walk from Paddy’s Markets Light Rail Station)
