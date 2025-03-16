@@ -1,9 +1,15 @@
 ---
-draft: true
+draft: false
 title: Wally's Health Clinics
 description: Chiropractic & Physiotherapy
 link: https://www.wallyshealth.com.au/
 image: ../../assets/images/full_logo-colour-transparent_background.png
+images:
+  - ../../assets/images/screenshot_16-3-2025_153159_www.wallyshealth.com.au.jpeg
+  - ../../assets/images/screenshot_16-3-2025_153244_www.wallyshealth.com.au.jpeg
+  - ../../assets/images/screenshot_16-3-2025_153318_www.wallyshealth.com.au.jpeg
+  - ../../assets/images/screenshot_16-3-2025_153338_www.wallyshealth.com.au.jpeg
+  - ../../assets/images/screenshot_16-3-2025_15343_www.wallyshealth.com.au.jpeg
 categories:
   - professionals
   - wellness
