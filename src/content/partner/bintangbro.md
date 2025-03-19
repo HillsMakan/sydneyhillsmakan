@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Bintang Bro Central Park
 description: Comfort Indonesian Grill Cuisine - Halal
 image: ../../assets/images/little-indo-town.jpeg
