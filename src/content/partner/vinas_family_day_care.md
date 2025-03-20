@@ -3,6 +3,11 @@ draft: true
 title: Vina's Family Day Care
 description: Child Care Centre
 image: ../../assets/images/img-20250315-wa0000.jpg
+images:
+  - ../../assets/images/vina_s_.jpg
+  - ../../assets/images/20250318_114511.jpg
+  - ../../assets/images/fb_img_1742470245857.jpg
+  - ../../assets/images/back.jpg
 categories:
   - professionals
 region: nsw
