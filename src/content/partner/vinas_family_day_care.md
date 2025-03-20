@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Vina's Family Day Care
 description: Child Care Centre
 image: ../../assets/images/img-20250315-wa0000.jpg
@@ -26,4 +26,4 @@ CCS available for eligible families.
 
 Location : 43 Sovereign Ave, Kellyville Ridge, 2155, NSW 
 
-If you're interested and want to have a tour, please don’t hesitate to call/message Elvina at 0481759303 or email at elvina.christ@gmail.com and mention HMG International member.
+If you're interested and want to have a tour, please don’t hesitate to call/message Elvina at 0481759303 or email at elvina.christ@gmail.com and mention HMG International Member.
