@@ -18,7 +18,7 @@ No gap for HMG International members.
 
 If you need daycare for your little ones, Vina's Family Daycare is registered with lective Family Day Care. 
 
-Offering long day care, Vacation Care, casual care, before/after school care. Also provide Toddler and School Readiness Program.
+Offering Long Day Care, Vacation Care, Casual Care, Before/After School Care. Also provide Toddler and School Readiness Program.
 
 CCS available for eligible families.
 
