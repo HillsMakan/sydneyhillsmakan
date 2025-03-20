@@ -18,7 +18,7 @@ region: nsw
 discount_pct: 0
 discount_text: "Preschool Fee Relief for HMG International Members "
 ---
-Preschool Fee Relief for HMG International members. 
+Offer Preschool Fee Relief for HMG International members. 
 
 If you need daycare for your little ones, Vina's Family Daycare is registered with Collective Family Day Care. 
 
