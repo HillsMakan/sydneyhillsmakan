@@ -8,11 +8,15 @@ images:
   - ../../assets/images/20250318_114511.jpg
   - ../../assets/images/fb_img_1742470245857.jpg
   - ../../assets/images/back.jpg
+  - ../../assets/images/screenshot_20-3-2025_225625_www.google.com.au.jpeg
+  - ../../assets/images/screenshot_20-3-2025_225659_www.google.com.au.jpeg
+  - ../../assets/images/screenshot_20-3-2025_225725_www.google.com.au.jpeg
+  - ../../assets/images/screenshot_20-3-2025_225752_www.google.com.au.jpeg
 categories:
   - professionals
 region: nsw
 discount_pct: 0
-discount_text: No Gap
+discount_text: "No Gap for HMG International Members "
 ---
 No gap for HMG International members. 
 
