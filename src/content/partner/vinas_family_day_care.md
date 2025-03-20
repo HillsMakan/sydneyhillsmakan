@@ -16,7 +16,7 @@ categories:
   - professionals
 region: nsw
 discount_pct: 5
-discount_text: "When mention HMG International Members "
+discount_text: When mention & show your HMG International member card
 ---
 If you need day care for your little ones, Vina's Family Daycare is registered with Collective Family Day Care. 
 
