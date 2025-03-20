@@ -26,6 +26,6 @@ Offering Long Day Care, Vacation Care, Casual Care, Before/After School Care. Al
 
 CCS available for eligible families.
 
-Location : Kellyville Ridge 
+Location : 43 Sovereign Ave, Kellyville Ridge, 2155, NSW 
 
 If you're interested and want to have a tour, please don’t hesitate to call/message Elvina at 0481759303 or email at elvina.christ@gmail.com and mention HMG International member.
