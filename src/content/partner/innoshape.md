@@ -27,4 +27,10 @@ Treatment :
 * FMSChair Treatment
 * Lymphatic Compression Therapy
 * Vacuum Bike Training
-* HIFU Treatment[](https://innoshape.com.au/teslaformer-the-hills/)
+* HIFU Treatment
+
+Location : C4, 1/3 Burbank Pl, Norwest, 2153, NSW
+
+Contact : (02) 8824 3269
+
+Website : https://innoshape.com.au/
