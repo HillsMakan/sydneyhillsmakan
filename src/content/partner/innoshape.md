@@ -15,6 +15,7 @@ We use innovative, non-invasive, safe and scientifically proven devices to addre
 
 Services :
 
+* Sports Recovery 
 * Weight Management
 * Incontinence & Core Strength
 * Lymphatic Health
