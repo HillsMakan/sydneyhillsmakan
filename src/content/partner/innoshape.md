@@ -1,7 +1,7 @@
 ---
 draft: true
 title: InnoShape
-description: Fitness, Beauty & Wellness Services
+description: Fitness, Beauty, Health & Wellness Services
 link: https://innoshape.com.au/
 image: ../../assets/images/fb_img_1742536436070.jpg
 categories:
