@@ -28,7 +28,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Cash or card payment. Split bill is acceptable but must show HMG
-  International member card
+  International member card individually
 ---
 We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.
 
