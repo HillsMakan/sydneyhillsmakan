@@ -27,10 +27,8 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
-discount_text: "● Cash Payment : 1 Free Soft Drink (Limit : 1 soft drink per
-  paying family or individual friend. Example: 1 family of 3 pays + 2 friends
-  paying individually but seated together = 3 free soft drinks total) + 10 %
-  Discount ● Credit Card Payment : 10 % Discount Only"
+discount_text: Cash or card payment. Split bill is acceptable but must show HMG
+  International member card individually
 ---
 We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.
 
