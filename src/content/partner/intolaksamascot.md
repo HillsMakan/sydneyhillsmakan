@@ -36,7 +36,7 @@ discount_text: "● Cash Payment : 1 Free Soft Drink (Limit : 1 soft drink per
 
 **● Cash Payment : 10% Discount + 1 Free Soft Drink per paying person**
 
-**(Limit : 1 soft drink per paying family or individual friend. Example : 1 family of 3 pays + 2 friends paying individually but seated together = 3 free soft drinks total. Appreciate your understanding and support)**
+**(Limit : 1 soft drink per paying family or individual friend. Example : 1 family of 3 pays + 2 friends paying individually but seated together = 3 free soft drinks total. Appreciate your consideration,  understanding and support)**
 
 **● Credit Card Payment: 10% Discount Only (No free drink)**
 
