@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Into Laksa - St Leonards
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksastleonards.jpg
