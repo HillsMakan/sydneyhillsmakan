@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Into Laksa - Mascot
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksamascot.jpg
