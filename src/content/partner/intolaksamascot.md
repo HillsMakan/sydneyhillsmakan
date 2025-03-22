@@ -38,7 +38,7 @@ discount_text: "● Cash Payment : 1 Free Soft Drink (Limit : 1 soft drink per
 
 **(Limit : 1 soft drink per paying family or individual friend. Example : 1 family of 3 pays + 2 friends paying individually but seated together = 3 free soft drinks total. Appreciate your consideration,  understanding and support)**
 
-**● Credit Card Payment: 10% Discount Only (No free drink)**
+**● Credit Card Payment: 10% Discount Only** 
 
 **Location :** Shop 5, 256 Coward Street, 2020, Mascot, New South Wales, Australia\
 (4 mins walk from Mascot Station)
