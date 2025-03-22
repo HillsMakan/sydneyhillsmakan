@@ -32,7 +32,7 @@ discount_text: Cash or card payment. Split bill is acceptable but must show HMG
 ---
 We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.
 
-Into Laksa offers a diverse menu that features a variety of authentic Malaysian dishes such as Chicken Slice Laksa, BBQ Pork Wonton Noodle, Curry Chicken Laksa and many more.
+Into Laksa offers a diverse menu that features a variety of authentic Malaysian dishes such as Chicken Slice Laksa, Nasi Lemak, Hainanese Chicken Rice, BBQ Pork Wonton Noodle, Curry Chicken Laksa, Malaysian Homemade Desserts, Malaysian Homemade Drinks and many more.
 
 **Location :** Mall 88, Shop LG01/88 Christie St, St Leonards, 2065, New South Wales, Australia\
 (5 minswalk from St Leonard Station)\
