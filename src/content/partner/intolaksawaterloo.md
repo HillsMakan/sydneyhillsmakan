@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Into Laksa - Waterloo
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksawaterloo.jpg
