@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Into Laksa - Norwest
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksanorwest.jpg
