@@ -30,6 +30,8 @@ discount_pct: 10
 discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card
 ---
+We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.
+
 **Location :** Shop 5, 256 Coward Street, 2020, Mascot, New South Wales, Australia\
 (4 mins walk from Mascot Station)
 
