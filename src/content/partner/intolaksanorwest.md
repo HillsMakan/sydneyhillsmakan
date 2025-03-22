@@ -31,13 +31,9 @@ discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card individually
 comment: ""
 ---
-**Exclusive Member Offer :**
+We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.
 
-**● Cash Payment : 10% Discount + 1 Free Soft Drink per paying person**
-
-**(Limit : 1 soft drink per paying family or individual friend. Example : 1 family of 3 pays + 2 friends paying individually but seated together = 3 free soft drinks total. Appreciate your consideration, understanding and support)**
-
-**● Credit Card Payment: 10% Discount Only**
+Into Laksa offers a diverse menu that features a variety of authentic Malaysian dishes such as Chicken Slice Laksa, BBQ Pork Wonton Noodle, Curry Chicken Laksa and many more.
 
 **Location :** Norwest Marketown, Shop T23A, 4 Century Cct, 2153, Norwest, New South Wales, Australia\
 (3 mins walk from Norwest Metro)
