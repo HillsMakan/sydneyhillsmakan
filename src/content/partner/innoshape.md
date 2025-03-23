@@ -41,14 +41,15 @@ We use innovative, non-invasive, safe and scientifically proven devices to addre
 ***Services :***
 
 * Weight Management
-* Incontinence & Core Strength
+* Incontinence
+* Core Strength
 * Lymphatic Health
 * Body Contouring
 * HIFU Treatment
 
 ***Wellness & Recovery Plan :***
 
-* Incontinence Recovery Plan
+* Incontinence Recovery
 * Sports Recovery
 * Muscle Recovery
 * Postpartum Recovery
