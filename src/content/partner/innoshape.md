@@ -18,6 +18,9 @@ images:
   - ../../assets/images/fb_post_teslaformer.png
   - ../../assets/images/fb_img_1742539202853.jpg
   - ../../assets/images/fb_img_1742539404778.jpg
+  - ../../assets/images/fb_img_1742539958157.jpg
+  - ../../assets/images/fb_img_1742539999137.jpg
+  - ../../assets/images/fb_img_1742539441752.jpg
 categories:
   - professionals
   - wellness
