@@ -10,6 +10,7 @@ images:
   - ../../assets/images/screenshot_20250321_165420_facebook.jpg
   - ../../assets/images/fb_img_1742536544959.jpg
   - ../../assets/images/fb_img_1742536718359.jpg
+  - ../../assets/images/fb_img_1742539392763.jpg
 categories:
   - professionals
   - wellness
