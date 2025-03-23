@@ -38,16 +38,22 @@ discount_text: When mention & show your HMG International member card
 ---
 We use innovative, non-invasive, safe and scientifically proven devices to address a variety of wellbeing conditions. Optimal Results, Minimal Effort – InnoShape Body Studio is your one-stop shop for fitness, beauty & wellness revival with innovative technologies.
 
-Services :
+***Services :***
 
-* Sports Recovery 
 * Weight Management
 * Incontinence & Core Strength
 * Lymphatic Health
 * Body Contouring
 * HIFU Treatment
 
-Treatment :
+***Wellness & Recovery Plan :***
+
+* Incontinence Recovery Plan
+* Sports Recovery
+* Muscle Recovery
+* Postpartum Recovery
+
+***Treatment :***
 
 * FMSFormer Treatment
 * FMSChair Treatment
@@ -55,8 +61,8 @@ Treatment :
 * Vacuum Bike Training
 * HIFU Treatment
 
-Location : C4, 1/3 Burbank Pl, Norwest, 2153, NSW
+**Location :** C4, 1/3 Burbank Pl, Norwest, 2153, NSW
 
-Contact : (02) 8824 3269
+**Contact :** (02) 8824 3269
 
-Website : https://innoshape.com.au/
+**Website :** https://innoshape.com.au/
