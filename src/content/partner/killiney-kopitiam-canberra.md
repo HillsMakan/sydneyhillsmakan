@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Killiney Kopitiam Canberra
 description: Singapore Street Food Cuisine and Halal Friendly
 image: ../../assets/images/killiney-kopitiam-canberra.jpg
