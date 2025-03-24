@@ -39,7 +39,7 @@ categories:
   - wellness
 region: nsw
 discount_pct: 10
-discount_text: When mention & show your HMG International member card
+discount_text: Including Products. When mention & show your HMG International member card
 ---
 We use innovative, non-invasive, safe and scientifically proven devices to address a variety of wellbeing conditions. Optimal Results, Minimal Effort – InnoShape Body Studio is your one-stop shop for fitness, beauty & wellness revival with innovative technologies.
 
