@@ -21,6 +21,9 @@ images:
   - ../../assets/images/fb_img_1742539958157.jpg
   - ../../assets/images/fb_img_1742539999137.jpg
   - ../../assets/images/fb_img_1742539441752.jpg
+  - ../../assets/images/20250324_130726.jpg
+  - ../../assets/images/20250324_130754.jpg
+  - ../../assets/images/20250324_130844.jpg
   - ../../assets/images/fb_img_1742539298000.jpg
   - ../../assets/images/fb_img_1742536905888.jpg
   - ../../assets/images/fb_img_1742537234277.jpg
@@ -31,9 +34,6 @@ images:
   - ../../assets/images/fb_img_1742539984902.jpg
   - ../../assets/images/20250324_113914.jpg
   - ../../assets/images/20250324_113954.jpg
-  - ../../assets/images/20250324_130726.jpg
-  - ../../assets/images/20250324_130754.jpg
-  - ../../assets/images/20250324_130844.jpg
 categories:
   - professionals
   - wellness
