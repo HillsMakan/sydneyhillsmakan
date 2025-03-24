@@ -12,8 +12,10 @@ images:
   - ../../assets/images/fb_img_1742536718359.jpg
   - ../../assets/images/fb_img_1742539392763.jpg
   - ../../assets/images/fb_img_1742539474356.jpg
+  - ../../assets/images/20250324_113914.jpg
   - ../../assets/images/fb_img_1742540047995.jpg
   - ../../assets/images/fb_img_1742539557607.jpg
+  - ../../assets/images/20250324_113954.jpg
   - ../../assets/images/fb_post_teslachair.png
   - ../../assets/images/fb_post_teslaformer.png
   - ../../assets/images/fb_img_1742539202853.jpg
@@ -32,8 +34,6 @@ images:
   - ../../assets/images/fb_img_1742539228080.jpg
   - ../../assets/images/fb_img_1742536922011.jpg
   - ../../assets/images/fb_img_1742539984902.jpg
-  - ../../assets/images/20250324_113914.jpg
-  - ../../assets/images/20250324_113954.jpg
 categories:
   - professionals
   - wellness
