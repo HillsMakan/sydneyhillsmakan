@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Taste Station Restaurant
 description: Malay and Thai Cuisine
 image: ../../assets/images/tastestation.jpg
