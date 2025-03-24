@@ -29,6 +29,11 @@ images:
   - ../../assets/images/fb_img_1742539228080.jpg
   - ../../assets/images/fb_img_1742536922011.jpg
   - ../../assets/images/fb_img_1742539984902.jpg
+  - ../../assets/images/20250324_113914.jpg
+  - ../../assets/images/20250324_113954.jpg
+  - ../../assets/images/20250324_130726.jpg
+  - ../../assets/images/20250324_130754.jpg
+  - ../../assets/images/20250324_130844.jpg
 categories:
   - professionals
   - wellness
