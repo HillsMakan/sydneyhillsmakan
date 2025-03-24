@@ -50,7 +50,7 @@ We use innovative, non-invasive, safe and scientifically proven devices to addre
 * Core Strength
 * Lymphatic Health
 * Body Contouring
-* HIFU Treatment
+* HIFU Treatment (Face & Body)
 
 ***Wellness & Recovery Plan :***
 
@@ -65,7 +65,7 @@ We use innovative, non-invasive, safe and scientifically proven devices to addre
 * FMSChair Treatment
 * Lymphatic Compression Therapy
 * Vacuum Bike Training
-* HIFU Treatment (Face & Body)
+* HIFU Treatment
 
 **Location :** C4, 1/3 Burbank Pl, Norwest, 2153, NSW
 
