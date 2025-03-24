@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Jhamel Harris Park
 description: Nepalese and Indian Cuisine
 image: ../../assets/images/jhamel-harris-park.jpg
