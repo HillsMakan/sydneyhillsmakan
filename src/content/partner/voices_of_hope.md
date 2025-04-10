@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Voices of Hope Norwest
+title: Voices of Hope - C4, 3 Burbank Place, 2153, Norwest, NSW
 description: Mental Well-Being Service
 link: https://voicesofhope.com.au/
 image: ../../assets/images/screenshot_20250410_204209_samsung_internet.jpg
