@@ -12,4 +12,6 @@ discount_pct: 10
 discount_text: "Members get extended free session but if book 5 sessions 10%
   discount. Mention HMG International Member "
 ---
-TestHey Aaron maybe put in that
+Welcome to Voices of Hope, a safe haven for exploring mental well-being. Our comprehensive range of services includes Telehealth consultations and private counselling rooms for face-to-face sessions. Additionally, we offer walk and talk sessions, driven by our unwavering commitment to serving the community.
+
+Life inevitably presents emotional struggles, but through counselling, introspection, and a shared dedication to enhancing mental health, we embark on a transformative journey together.
