@@ -12,6 +12,9 @@ images:
   - ../../assets/images/screenshot_20250410_203730_samsung_internet.jpg
   - ../../assets/images/screenshot_20250410_203733_samsung_internet.jpg
   - ../../assets/images/screenshot_20250410_203825_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203746_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_204020_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203833_samsung_internet.jpg
 categories:
   - professionals
   - wellness
