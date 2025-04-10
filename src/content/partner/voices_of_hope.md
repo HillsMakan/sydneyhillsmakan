@@ -20,8 +20,8 @@ categories:
   - wellness
 region: nsw
 discount_pct: 10
-discount_text: "Members get extended free session but if book 5 sessions 10%
-  discount. Mention HMG International Member "
+discount_text: "Members get extended period of free session. If book 5 sessions
+  10% discount. Mention HMG International Member "
 ---
 Welcome to Voices of Hope, a safe haven for exploring mental well-being. Our comprehensive range of services includes Telehealth consultations and private counselling rooms for face-to-face sessions. Additionally, we offer walk and talk sessions, driven by our unwavering commitment to serving the community.
 
