@@ -4,6 +4,13 @@ title: Voices of Hope Norwest
 description: Mental Well-Being Service
 link: https://voicesofhope.com.au/
 image: ../../assets/images/screenshot_20250410_204209_samsung_internet.jpg
+images:
+  - ../../assets/images/screenshot_20250410_203656_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203718_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203726_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203730_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203733_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250410_203825_samsung_internet.jpg
 categories:
   - professionals
   - wellness
