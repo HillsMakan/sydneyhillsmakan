@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Voices of Hope - Norwest, NSW
+title: Voices of Hope
 description: Mental Well-Being Service
 link: https://voicesofhope.com.au
 image: ../../assets/images/screenshot_20250410_204209_samsung_internet.jpg
