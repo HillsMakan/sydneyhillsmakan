@@ -9,5 +9,7 @@ categories:
   - wellness
 region: nsw
 discount_pct: 10
+discount_text: "Members get extended free session but if book 5 sessions 10%
+  discount. Mention HMG International Member "
 ---
-Test
+TestHey Aaron maybe put in that
