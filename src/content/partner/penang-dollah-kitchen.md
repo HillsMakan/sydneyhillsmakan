@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Penang Dollah Kitchen
 description: Malaysian Cruisine Halal
 image: ../../assets/images/penangdollahkitchen-.jpg
