@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 北馬咖喱面 Curry Mee
 description: Malaysian Halal Cuisine
 image: ../../assets/images/currymee.jpg
@@ -9,7 +10,7 @@ cuisine:
   - Halal
 region: nsw
 discount_pct: 5
-discount_text: Minimum purchase $20 & above and excluding promotions
+discount_text: Cash Only. Minimum purchase $20 & above and excluding promotions
 ---
 
 **Location :** 131 Parramatta Rd, Homebush, 2140, New South Wales, Australia\
