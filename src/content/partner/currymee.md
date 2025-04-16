@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 北馬咖喱面 Curry Mee
 description: Malaysian Halal Cuisine
 image: ../../assets/images/currymee.jpg
