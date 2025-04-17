@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Jackie's Authentic Handcrafted Curry Pastes
+title: Jackie's Authentic Handcrafted Curry Pastes International
 description: Malaysian Cuisine
 link: https://shop.jackiem.com.au/?ref=AARONGAN
 image: ../../assets/images/jackiem.jpg
