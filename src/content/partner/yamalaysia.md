@@ -1,7 +1,17 @@
 ---
+draft: true
 title: Ya-Malaysia Restaurant - Chatswood
 description: Malaysian Cuisine
 image: ../../assets/images/yamalaysia.jpg
+images:
+  - ../../assets/images/fb_img_1745707344254.jpg
+  - ../../assets/images/fb_img_1745707347114.jpg
+  - ../../assets/images/fb_img_1745707358196.jpg
+  - ../../assets/images/fb_img_1745707361400.jpg
+  - ../../assets/images/fb_img_1745707379537.jpg
+  - ../../assets/images/fb_img_1745707403786.jpg
+  - ../../assets/images/fb_img_1745707408601.jpg
+  - ../../assets/images/fb_img_1745707413785.jpg
 categories:
   - foodanddrinks
 cuisine:
