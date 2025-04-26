@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Ya-Malaysia Restaurant - Chatswood
 description: Malaysian Cuisine
 image: ../../assets/images/yamalaysia.jpg
