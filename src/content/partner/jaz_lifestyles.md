@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: JAZ Lifestyles
 description: Homewares, rugs, artwork, lighting, home decor and etc
 link: https://www.jazlifestyles.com
