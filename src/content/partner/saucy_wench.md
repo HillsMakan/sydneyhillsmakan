@@ -9,6 +9,11 @@ images:
   - ../../assets/images/20250416_110731.jpg
   - ../../assets/images/screenshot_20250506_222341_samsung_internet.jpg
   - ../../assets/images/screenshot_20250506_222328_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250506_222334_samsung_internet.jpg
+  - ../../assets/images/20250416_105646_1_.jpg
+  - ../../assets/images/9f9188_70942b57542e4c82820310e266c84041~mv2.jpg
+  - ../../assets/images/20250416_105646.jpg
+  - ../../assets/images/20250417_094341.jpg
 categories:
   - online
 region: australia
