@@ -16,6 +16,7 @@ images:
   - ../../assets/images/20250417_094341.jpg
 categories:
   - online
+  - foodanddrinks
 region: australia
 discount_pct: 0
 discount_text: "Promo Code : "
