@@ -9,4 +9,6 @@ categories:
 region: australia
 discount_pct: 0
 ---
+Lisa Liu, herself as the Saucy Wench and delivered up food products as vibrant and enticing as her brand and personality.
+
 The condiment queen has developed a cult following for her Asian sauces, condiments and ready-to-cook dumplings, and thrilling customers with her quirky and fun personality and style, and her delicious products have earned Saucy Wench the title of "Brisbane's Best Handmade Business" and several other food awards for her products in 2024.
