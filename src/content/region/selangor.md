@@ -1,8 +1,9 @@
 ---
 draft: false
 title: Selangor
+description: Selangor is a vibrant Malaysian state known for its economic
+  significance, modern cities, and rich cultural attractions. 🏢🌟
 country: malaysia
-description: Selangor is a vibrant Malaysian state known for its economic significance, modern cities, and rich cultural attractions. 🏢🌟
-icon: flag:my-4x3
+icon: twemoji:flag-malaysia
 image: ../../assets/images/Selangor.jpg
 ---
