@@ -10,6 +10,12 @@ images:
   - ../../assets/images/screenshot_20250509_202753_instagram.jpg
   - ../../assets/images/screenshot_20250509_202903_instagram.jpg
   - ../../assets/images/screenshot_20250509_203041_instagram.jpg
+  - ../../assets/images/img-20250509-wa0007.jpg
+  - ../../assets/images/img-20250509-wa0003.jpg
+  - ../../assets/images/img-20250509-wa0005.jpg
+  - ../../assets/images/img-20250509-wa0006.jpg
+  - ../../assets/images/img-20250509-wa0004.jpg
+  - ../../assets/images/img-20250509-wa0002.jpg
   - ../../assets/images/screenshot_20250509_203110_instagram.jpg
   - ../../assets/images/cfb22918-b1c2-47fc-9175-42813f4d53cb-1.jpeg
 categories:
