@@ -7,6 +7,7 @@ categories:
   - foodanddrinks
 cuisine:
   - Halal
+  - Nasi Kandar
 region: penang
 discount_pct: 10
 ---
