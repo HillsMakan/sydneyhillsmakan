@@ -23,7 +23,7 @@ Come along and zumba your way into happiness !
 
 Classes held every Monday evenings at North Kellyville Public School hall. For casual walk in, it’s $15 per class and there’s also a 10 classes pass for $120. 
 
-Offer, show your HMG International member card and receive $12 per class or $100 for 10 classes. 
+Offer, show your HMG International member card and receive $12 per class casual walk in or $100 for 10 classes. 
 
 **Name :** Sujita 
 
