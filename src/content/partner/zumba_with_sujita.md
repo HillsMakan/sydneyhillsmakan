@@ -50,6 +50,6 @@ Get fit the fun way ! Zumba is a high-energy dance workout that helps burn calor
 * Burn fat and build stamina
 * Reduce stress and feel energized
 * Improve heart health and flexibility
-* Make new friends and have a blast!
+* Make new friends and have a blast !
 
 **No dance experience needed – just bring your smile and energy. Let’s move together !**
