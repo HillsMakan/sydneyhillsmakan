@@ -2,6 +2,7 @@
 draft: true
 title: Zumba With Sujita
 description: Zumba Classes
+link: https://www.instagram.com/suzi.grg?igsh=YWxmd2RlcmVmbmZ5
 image: ../../assets/images/img-20250506-wa0000.jpg
 categories:
   - professionals
@@ -16,3 +17,7 @@ Come along and zumba your way into happiness !
 **Time :** 6.45 pm - 7.45 pm
 
 **Location :** North Kellyville Public School, 120 Hezlett Rd, North Kellyville, 2155, NSW
+
+**Name :** Sujita 
+
+**Contact :** 0452 156 672
