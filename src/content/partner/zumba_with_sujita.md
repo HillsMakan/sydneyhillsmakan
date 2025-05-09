@@ -12,12 +12,12 @@ discount_pct: 0
 ---
 Come along and zumba your way into happiness ! 
 
-**Day :** Every Monday
+**Name :** Sujita 
+
+**Contact :** 0452 156 672
+
+**Class :** Every Monday
 
 **Time :** 6.45 pm - 7.45 pm
 
 **Location :** North Kellyville Public School, 120 Hezlett Rd, North Kellyville, 2155, NSW
-
-**Name :** Sujita 
-
-**Contact :** 0452 156 672
