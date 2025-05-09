@@ -8,7 +8,7 @@ categories:
   - professionals
   - wellness
 region: nsw
-discount_pct: 20
+discount_pct: 16
 discount_text: Show your HMG International member card and get $100 for the 10
   class pass OR $12 for walk-in (after discount)
 ---
