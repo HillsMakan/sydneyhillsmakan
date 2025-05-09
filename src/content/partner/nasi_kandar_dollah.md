@@ -10,4 +10,7 @@ cuisine:
 region: penang
 discount_pct: 10
 ---
-H
+**Trading :** 
+
+* Thursday - Saturday : 6 am - 9 pm
+* Friday : 6 am - 1 pm & 2.30 pm - 9 pm
