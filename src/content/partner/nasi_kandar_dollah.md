@@ -10,6 +10,10 @@ cuisine:
 region: penang
 discount_pct: 10
 ---
+**Location :** 
+
+No 25, Jalan Desa Ara Permai 1, Taman Desa Ara Permai, 13310 Tasek Gelugor Pulau Pinang, Tasek Gelugor Pulau Pinang MY, Taman Desa Ara Permai, 13310 Tasek Gelugor, Pulau Pinang, Malaysia
+
 **Trading :** 
 
 * Thursday - Saturday : 6 am - 9 pm
