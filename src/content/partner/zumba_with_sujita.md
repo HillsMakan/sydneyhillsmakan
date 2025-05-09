@@ -4,6 +4,8 @@ title: Zumba With Sujita
 description: Zumba Classes
 link: https://www.instagram.com/suzi.grg?igsh=YWxmd2RlcmVmbmZ5
 image: ../../assets/images/img-20250506-wa0000.jpg
+images:
+  - ../../assets/images/screenshot_20250509_201520_samsung_internet.jpg
 categories:
   - professionals
   - wellness
