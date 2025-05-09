@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Zumba With Sujita
 description: Zumba Classes
 link: https://www.instagram.com/suzi.grg?igsh=YWxmd2RlcmVmbmZ5
