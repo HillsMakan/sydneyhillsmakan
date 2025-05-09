@@ -1,8 +1,9 @@
 ---
 draft: false
 title: Kuala Lumpur
+description: Kuala Lumpur is Malaysia's bustling capital, known for its iconic
+  Petronas Towers, vibrant markets, and rich multicultural heritage. 🏙️🌟
 country: malaysia
-description: Kuala Lumpur is Malaysia's bustling capital, known for its iconic Petronas Towers, vibrant markets, and rich multicultural heritage. 🏙️🌟
-icon: flag:my-4x3
+icon: twemoji:flag-malaysia
 image: ../../assets/images/Kuala Lumpur.jpg
 ---
