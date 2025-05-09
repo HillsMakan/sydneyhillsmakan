@@ -9,6 +9,8 @@ categories:
   - wellness
 region: nsw
 discount_pct: 0
+discount_text: Show your HMG International member card. $100 for the 10 class
+  pass OR $12 for walk-ins
 ---
 Come along and zumba your way into happiness ! 
 
