@@ -1,8 +1,9 @@
 ---
 draft: false
 title: South Australia
+description: South Australia is celebrated for its world-class wine regions,
+  stunning coastlines, and the vibrant city of Adelaide. 🍷🌊
 country: australia
-description: South Australia is celebrated for its world-class wine regions, stunning coastlines, and the vibrant city of Adelaide. 🍷🌊
-icon: flag:au-4x3
+icon: twemoji:flag-australia
 image: ../../assets/images/South Australia.jpg
 ---
