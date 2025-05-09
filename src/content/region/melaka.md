@@ -1,8 +1,9 @@
 ---
 draft: false
 title: Melaka
+description: Melaka is a historic Malaysian city renowned for its rich colonial
+  heritage, charming streets, and diverse cultural influences. 🌍🏛️
 country: malaysia
-description: Melaka is a historic Malaysian city renowned for its rich colonial heritage, charming streets, and diverse cultural influences. 🌍🏛️
-icon: flag:my-4x3
+icon: twemoji:flag-malaysia
 image: ../../assets/images/Melaka.jpg
 ---
