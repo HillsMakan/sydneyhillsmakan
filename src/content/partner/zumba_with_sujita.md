@@ -6,6 +6,12 @@ link: https://www.instagram.com/suzi.grg?igsh=YWxmd2RlcmVmbmZ5
 image: ../../assets/images/img-20250506-wa0000.jpg
 images:
   - ../../assets/images/screenshot_20250509_201520_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250509_202709_instagram.jpg
+  - ../../assets/images/screenshot_20250509_202753_instagram.jpg
+  - ../../assets/images/screenshot_20250509_202903_instagram.jpg
+  - ../../assets/images/screenshot_20250509_203041_instagram.jpg
+  - ../../assets/images/screenshot_20250509_203110_instagram.jpg
+  - ../../assets/images/cfb22918-b1c2-47fc-9175-42813f4d53cb-1.jpeg
 categories:
   - professionals
   - wellness
