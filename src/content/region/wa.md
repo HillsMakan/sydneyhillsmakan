@@ -1,8 +1,9 @@
 ---
 draft: false
 title: Western Australia
+description: Western Australia is the largest state, known for its expansive
+  landscapes, stunning coastlines, and the vibrant city of Perth. 🏜️🌅
 country: australia
-description: Western Australia is the largest state, known for its expansive landscapes, stunning coastlines, and the vibrant city of Perth. 🏜️🌅
-icon: flag:au-4x3
+icon: twemoji:flag-australia
 image: ../../assets/images/Western Australia.jpg
 ---
