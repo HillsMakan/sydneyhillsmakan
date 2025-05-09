@@ -43,4 +43,4 @@ Offer, show your HMG International member card and receive $12 per class casual 
 
 **Join Our Zumba Sessions !**
 
-Get fit the fun way! Zumba is a high-energy dance workout that helps burn calories, boost your mood, and improve your coordination – all while grooving to great music.
+Get fit the fun way ! Zumba is a high-energy dance workout that helps burn calories, boost your mood, and improve your coordination – all while grooving to great music.
