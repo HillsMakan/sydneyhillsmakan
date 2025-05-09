@@ -9,4 +9,4 @@ categories:
 region: nsw
 discount_pct: 0
 ---
-M
+Come along and zumba your way into happiness ! Happening every Monday from 6.45 pm till 7.45 pm at North Kellyville Public School.
