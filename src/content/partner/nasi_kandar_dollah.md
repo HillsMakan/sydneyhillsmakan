@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: Nasi Kandar Dollah
-description: N
+description: "Nasi Kandar Penang Cuisine "
 image: ../../assets/images/2024-12-27.jpg
 categories:
   - foodanddrinks
