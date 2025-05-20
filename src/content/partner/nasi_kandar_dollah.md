@@ -24,3 +24,9 @@ No 25, Jalan Desa Ara Permai 1, Taman Desa Ara Permai, 13310 Tasek Gelugor Pulau
 
 * Thursday - Saturday : 6 am - 9 pm
 * Friday : 6 am - 1 pm & 2.30 pm - 9 pm
+
+**Another Brunch :** 
+
+Penang Dollah Kitchen Restaurant, Perth, Western Australia, Australia
+
+https://hmginternational.com/partner/penang-dollah-kitchen/
