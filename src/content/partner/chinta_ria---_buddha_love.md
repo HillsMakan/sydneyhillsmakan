@@ -24,3 +24,10 @@ ALWAYS HAVE A GREAT TIME at CHINTA RIA !
 **Location :** 14 Nicolle Walk, Haymarket, 2000, NSW
 
 (Around 3 mins walk from Paddy’s Markets Light Rail Station)
+
+**Trading :**
+
+* Monday : Closed 
+* Tuesday - Thursday : 12 noon - 3 pm & 5 pm - 9 pm
+* Friday & Saturday : 12 noon - 3 pm & 5 pm - 10 pm
+* Sunday : 12 noon - 3 pm & 5 pm - 9 pm
