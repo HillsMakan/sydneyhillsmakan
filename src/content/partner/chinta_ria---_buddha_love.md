@@ -22,3 +22,5 @@ Chinta Ria’s philosophy is about “Homey”, “Fresh” and “Great Taste�
 ALWAYS HAVE A GREAT TIME at CHINTA RIA !
 
 **Location :** 14 Nicolle Walk, Haymarket, 2000, NSW
+
+(Around 3 mins walk from Paddy’s Markets Light Rail Station)
