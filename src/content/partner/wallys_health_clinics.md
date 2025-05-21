@@ -7,6 +7,7 @@ image: ../../assets/images/full_logo-colour-transparent_background.png
 images:
   - ../../assets/images/2025-05-15.jpg
   - ../../assets/images/img-20250317-wa0004.jpg
+  - ../../assets/images/2025-05-15-1.jpg
   - ../../assets/images/screenshot_16-3-2025_153159_www.wallyshealth.com.au.jpeg
   - ../../assets/images/screenshot_16-3-2025_153244_www.wallyshealth.com.au.jpeg
   - ../../assets/images/screenshot_16-3-2025_153318_www.wallyshealth.com.au.jpeg
