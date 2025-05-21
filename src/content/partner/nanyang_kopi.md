@@ -3,6 +3,14 @@ draft: false
 title: Nanyang Kopi
 description: Malaysian Cuisine
 image: ../../assets/images/20250521_112901.jpg
+images:
+  - ../../assets/images/20250521_112840.jpg
+  - ../../assets/images/20250521_112928.jpg
+  - ../../assets/images/20250521_115011.jpg
+  - ../../assets/images/20250521_115520.jpg
+  - ../../assets/images/20250521_115506.jpg
+  - ../../assets/images/20250521_115628.jpg
+  - ../../assets/images/20250521_115932.jpg
 categories:
   - foodanddrinks
 cuisine:
