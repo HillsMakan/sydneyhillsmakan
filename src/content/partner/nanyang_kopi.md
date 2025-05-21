@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Nanyang Kopi
+title: Nanyang Kopi Sydney
 description: Malaysian Cuisine
 image: ../../assets/images/20250521_112901.jpg
 images:
