@@ -6,12 +6,11 @@ image: ../../assets/images/img-20250522-wa0012.jpg
 images:
   - ../../assets/images/chinta-ria-buddha-love-logo.jpg
   - ../../assets/images/unnamed-1_3_.jpg
-  - ../../assets/images/images-5.jpeg
-  - ../../assets/images/unnamed-2_2_.jpg
-  - ../../assets/images/img-20200211-wa0002.jpg
-  - ../../assets/images/screenshot_20250522_164120_samsung_internet.jpg
+  - ../../assets/images/img-20250522-wa0017.jpg
+  - ../../assets/images/img-20250522-wa0016.jpg
+  - ../../assets/images/img-20250522-wa0015.jpg
+  - ../../assets/images/img-20250522-wa0014.jpg
   - ../../assets/images/screenshot_20250522_165734_instagram.jpg
-  - ../../assets/images/2024-01-27.jpg
   - ../../assets/images/chinta-ria-5.jpg
   - ../../assets/images/screenshot_20250522_164416_drive.jpg
   - ../../assets/images/fb_img_1747897340003.jpg
