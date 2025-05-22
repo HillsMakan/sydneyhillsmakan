@@ -5,6 +5,11 @@ description: Malaysian Cuisine
 image: ../../assets/images/69f9eacde776e2a5c91340265d5cc5fd.jpeg
 images:
   - ../../assets/images/chinta-ria-buddha-love-logo.jpg
+  - ../../assets/images/unnamed-1_3_.jpg
+  - ../../assets/images/unnamed-2_2_.jpg
+  - ../../assets/images/img-20200211-wa0002.jpg
+  - ../../assets/images/screenshot_20250522_164120_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250522_165734_instagram.jpg
 categories:
   - foodanddrinks
 cuisine:
