@@ -6,7 +6,7 @@ image: ../../assets/images/69f9eacde776e2a5c91340265d5cc5fd.jpeg
 images:
   - ../../assets/images/chinta-ria-buddha-love-logo.jpg
 categories:
-  - hotels
+  - foodanddrinks
 cuisine:
   - Malaysian
 region: nsw
