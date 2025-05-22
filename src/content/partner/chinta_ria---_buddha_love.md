@@ -2,7 +2,7 @@
 draft: false
 title: Chinta Ria... Buddha Love
 description: Malaysian Cuisine
-image: ""
+image: ../../assets/images/img-20250522-wa0012.jpg
 images:
   - ../../assets/images/chinta-ria-buddha-love-logo.jpg
   - ../../assets/images/unnamed-1_3_.jpg
