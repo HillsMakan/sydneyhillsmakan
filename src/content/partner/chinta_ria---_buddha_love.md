@@ -29,6 +29,16 @@ images:
   - ../../assets/images/screenshot_20250522_164111_samsung_internet.jpg
   - ../../assets/images/screenshot_20250522_164116_samsung_internet.jpg
   - ../../assets/images/screenshot_20250522_164123_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250522_164126_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250522_164947_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165527_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165535_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165605_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165619_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165707_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165724_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165742_instagram.jpg
+  - ../../assets/images/screenshot_20250522_165825_instagram.jpg
 categories:
   - foodanddrinks
 cuisine:
