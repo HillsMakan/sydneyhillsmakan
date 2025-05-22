@@ -14,6 +14,11 @@ images:
   - ../../assets/images/2024-01-27.jpg
   - ../../assets/images/chinta-ria-5.jpg
   - ../../assets/images/screenshot_20250522_164416_drive.jpg
+  - ../../assets/images/fb_img_1747897340003.jpg
+  - ../../assets/images/screenshot_20250522_165550_instagram.jpg
+  - ../../assets/images/unnamed-1_2_.jpg
+  - ../../assets/images/unnamed-2_1_.jpg
+  - ../../assets/images/unnamed-4_1_.jpg
 categories:
   - foodanddrinks
 cuisine:
