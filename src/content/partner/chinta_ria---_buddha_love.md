@@ -13,6 +13,8 @@ region: nsw
 discount_pct: 10
 discount_text: "Excluding promotions "
 ---
+Chinta Ria established 1988 in Melbourne then 1998 in Cockle Bay Sydney & now at HAYMARKET, SYDNEY...
+
 Chinta Ria… Buddha Love is your casual Malaysian Chinese style cuisine restaurant, located in Darling Square, Haymarket. 
 
 The centre piece feature is our iconic 2.5m high Happy Laughing Buddha statue that used to resided in Chinta Ria Temple of Love restaurant in Darling Harbour. 
