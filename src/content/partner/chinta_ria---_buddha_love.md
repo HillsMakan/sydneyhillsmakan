@@ -10,6 +10,10 @@ images:
   - ../../assets/images/img-20200211-wa0002.jpg
   - ../../assets/images/screenshot_20250522_164120_samsung_internet.jpg
   - ../../assets/images/screenshot_20250522_165734_instagram.jpg
+  - ../../assets/images/2024-01-27.jpg
+  - ../../assets/images/images-5.jpeg
+  - ../../assets/images/chinta-ria-5.jpg
+  - ../../assets/images/screenshot_20250522_164416_drive.jpg
 categories:
   - foodanddrinks
 cuisine:
