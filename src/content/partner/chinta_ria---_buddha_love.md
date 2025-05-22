@@ -7,6 +7,8 @@ images:
   - ../../assets/images/chinta-ria-buddha-love-logo.jpg
   - ../../assets/images/unnamed-1_3_.jpg
   - ../../assets/images/img-20250522-wa0017.jpg
+  - ../../assets/images/img-20250522-wa0019.jpg
+  - ../../assets/images/img-20250522-wa0020.jpg
   - ../../assets/images/img-20250522-wa0016.jpg
   - ../../assets/images/img-20250522-wa0015.jpg
   - ../../assets/images/img-20250522-wa0014.jpg
@@ -16,6 +18,8 @@ images:
   - ../../assets/images/fb_img_1747897340003.jpg
   - ../../assets/images/screenshot_20250522_165550_instagram.jpg
   - ../../assets/images/unnamed-1_2_.jpg
+  - ../../assets/images/img-20250522-wa0018.jpg
+  - ../../assets/images/img-20250522-.jpg
   - ../../assets/images/unnamed-2_1_.jpg
   - ../../assets/images/unnamed-4_1_.jpg
   - ../../assets/images/unnamed-5_1_.jpg
@@ -58,10 +62,6 @@ images:
   - ../../assets/images/fb_img_1747897411543.jpg
   - ../../assets/images/fb_img_1747897419109.jpg
   - ../../assets/images/fb_img_1747897431010.jpg
-  - ../../assets/images/img-20250522-wa0019.jpg
-  - ../../assets/images/img-20250522-wa0020.jpg
-  - ../../assets/images/img-20250522-wa0018.jpg
-  - ../../assets/images/img-20250522-.jpg
 categories:
   - foodanddrinks
 cuisine:
