@@ -58,6 +58,10 @@ images:
   - ../../assets/images/fb_img_1747897411543.jpg
   - ../../assets/images/fb_img_1747897419109.jpg
   - ../../assets/images/fb_img_1747897431010.jpg
+  - ../../assets/images/img-20250522-wa0019.jpg
+  - ../../assets/images/img-20250522-wa0020.jpg
+  - ../../assets/images/img-20250522-wa0018.jpg
+  - ../../assets/images/img-20250522-.jpg
 categories:
   - foodanddrinks
 cuisine:
