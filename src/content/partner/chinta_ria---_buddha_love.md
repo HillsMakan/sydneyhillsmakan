@@ -19,6 +19,16 @@ images:
   - ../../assets/images/unnamed-1_2_.jpg
   - ../../assets/images/unnamed-2_1_.jpg
   - ../../assets/images/unnamed-4_1_.jpg
+  - ../../assets/images/unnamed-5_1_.jpg
+  - ../../assets/images/unnamed-6_1_.jpg
+  - ../../assets/images/unnamed-7_1_.jpg
+  - ../../assets/images/caption-1.jpg
+  - ../../assets/images/chinta-ria-buddha-love.jpg
+  - ../../assets/images/caption-3.jpg
+  - ../../assets/images/screenshot_20250522_164108_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250522_164111_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250522_164116_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250522_164123_samsung_internet.jpg
 categories:
   - foodanddrinks
 cuisine:
