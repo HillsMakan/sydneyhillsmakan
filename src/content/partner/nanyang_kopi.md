@@ -23,7 +23,7 @@ images:
   - ../../assets/images/unnamed-6.jpg
   - ../../assets/images/unnamed-7.jpg
   - ../../assets/images/fb_img_1747821963945.jpg
-  - ../../assets/images/20250521_114857.jpg
+  - ../../assets/images/fb_img_1748035190015.jpg
 categories:
   - foodanddrinks
 cuisine:
