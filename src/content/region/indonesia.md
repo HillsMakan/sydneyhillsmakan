@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Indonesia
 description: Online Shopping at Indonesia, is a vibrant and diverse country made
   up of over 17,000 islands, rich in culture, history, and natural beauty. It is
