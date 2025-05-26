@@ -31,9 +31,9 @@ Mention HMG International members to receive below discounts :
 Welcome to Bali Kini Holidays Tour & Travel. Your trusted local partner for transport, tours, and activities across beautiful Bali.\
 
 Founded by Nowa Arnawa, a licensed tour guide and experienced driver, Bali Kini Holidays is built on over 20 years of experience in the tourism industry. Our team of friendly and professional drivers are all qualified in tourism and dedicated to making your Bali holiday enjoyable and memorable.
-\
+
 We take pride in offering personalized service and genuine Balinese hospitality. Whether you're seeking adventure, culture, relaxation, or sightseeing, we’re here to organize the perfect experience for you.
-\
+
 Your satisfaction and happiness are our top priorities. Explore our website for tour packages and activities – and let us help you create unforgettable memories in Bali !
 
 **Contact for booking and quote :**
