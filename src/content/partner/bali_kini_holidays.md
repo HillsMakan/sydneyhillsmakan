@@ -17,7 +17,7 @@ Mention HMG International members to receive below discounts :
 * Day Tour : 10%
 * Adventure Activities : 15%
 
-Bali Kini Holidays Tour & Travel .  We are local company for transport, tour and activities organizer.
+Bali Kini Holidays Tour & Travel. We are local company for transport, tour and activities organizer.
 
 Founder is Nowa Arnawa which is been as legal  tour guide and driver in bali. Our team driver are all qualified in tourism, so we hope you will be happy with us during your holidays in Bali
 
