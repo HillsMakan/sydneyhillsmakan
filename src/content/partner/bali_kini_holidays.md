@@ -17,4 +17,15 @@ Mention HMG International members to receive below discounts :
 * Day tour 10%
 * Adventure Activities 15%
 
-Bali Kini Holidays Tour & Travel .  We are local company for transport, tour and activities organizer .
+Bali Kini Holidays Tour & Travel .  We are local company for transport, tour and activities organizer.
+
+Founder is Nowa Arnawa which is been as legal  tour guide and driver in bali. Our team driver are all qualified in tourism, so we hope you will be happy with us during your holidays in Bali
+
+We have been experienced more the 20 years for handle guest in bali as we are mostly been worked for Travel Agency here in Bali. Your satisfactions and happiness are our motto to serve you better in Bali with us.
+
+**Contact for booking and quote :**
+
+* Name : Nowa Arnawa & Team
+* Email : balikiniholidays@gmail.com
+* Mobile : +62818356277
+* Website : https://www.balikiniholidays.com
