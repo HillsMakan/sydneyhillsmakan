@@ -13,8 +13,8 @@ discount_text: Airport shuttle 5%, Day tour 10%, Adventure Activities 15%
 ---
 Mention HMG International members to receive below discounts :
 
-* Airport shuttle 5%
-* Day tour 10%
+* Airport Shuttle 5%
+* Day Tour 10%
 * Adventure Activities 15%
 
 Bali Kini Holidays Tour & Travel .  We are local company for transport, tour and activities organizer.
