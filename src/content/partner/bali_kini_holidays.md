@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Bali Kini Holidays
-description: Airport Shuttle, Tour Guide & Adventure Activities
+description: Airport Transfers, Car Charter, Tour Guide & Adventure Activities
 link: https://www.balikiniholidays.com
 image: ../../assets/images/2022-11-17.jpg
 categories:
