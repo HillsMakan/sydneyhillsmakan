@@ -12,9 +12,9 @@ images:
   - ../../assets/images/fb_img_1748241494477.jpg
   - ../../assets/images/fb_img_1748241476944.jpg
   - ../../assets/images/fb_img_1748241455540.jpg
+  - ../../assets/images/2023-06-15.jpg
   - ../../assets/images/fb_img_1748241447754.jpg
   - ../../assets/images/fb_img_1748241437584.jpg
-  - ../../assets/images/2023-06-15.jpg
 categories:
   - travel
   - professionals
