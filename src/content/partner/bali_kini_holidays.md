@@ -4,6 +4,17 @@ title: Bali Kini Holidays
 description: Airport Transport, Car Charter, Tour Guide & Adventure Activities
 link: https://www.balikiniholidays.com
 image: ../../assets/images/2022-11-17.jpg
+images:
+  - ../../assets/images/2024-07-17.jpg
+  - ../../assets/images/fb_img_1748242890269.jpg
+  - ../../assets/images/fb_img_1748241595976.jpg
+  - ../../assets/images/fb_img_1748241540800.jpg
+  - ../../assets/images/fb_img_1748241494477.jpg
+  - ../../assets/images/fb_img_1748241476944.jpg
+  - ../../assets/images/fb_img_1748241455540.jpg
+  - ../../assets/images/fb_img_1748241447754.jpg
+  - ../../assets/images/fb_img_1748241437584.jpg
+  - ../../assets/images/2023-06-15.jpg
 categories:
   - travel
   - professionals
