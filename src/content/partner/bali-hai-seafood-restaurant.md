@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Bali Hai Seafood Pty Ltd
 description: Malaysian Cuisine
 image: ../../assets/images/balihaiseafoodrestaurant.jpg
@@ -38,7 +39,7 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 5
-discount_text: 'Cash Only. Excluding lunch and promotions '
+discount_text: "Cash Only. Excluding lunch and promotions "
 ---
 
 Experience authentic Malaysian seafood feast right here in Sydney, exactly like the seafood restaurants in Malaysia.
