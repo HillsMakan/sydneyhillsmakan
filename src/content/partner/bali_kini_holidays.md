@@ -19,15 +19,15 @@ images:
   - ../../assets/images/1000176029.jpg
   - ../../assets/images/1000176037.jpg
   - ../../assets/images/1000176025.jpg
-  - ../../assets/images/1000176034.jpg
   - ../../assets/images/1000176036.jpg
+  - ../../assets/images/1000176034.jpg
   - ../../assets/images/1000176031.jpg
   - ../../assets/images/1000176032.jpg
   - ../../assets/images/1000176024.jpg
-  - ../../assets/images/1000176027.jpg
   - ../../assets/images/1000176026.jpg
-  - ../../assets/images/1000176023.jpg
+  - ../../assets/images/1000176027.jpg
   - ../../assets/images/1000176028.jpg
+  - ../../assets/images/1000176023.jpg
 categories:
   - travel
   - professionals
