@@ -16,14 +16,14 @@ images:
   - ../../assets/images/fb_img_1748241447754.jpg
   - ../../assets/images/fb_img_1748241437584.jpg
   - ../../assets/images/1000176033.jpg
-  - ../../assets/images/1000176036.jpg
   - ../../assets/images/1000176029.jpg
   - ../../assets/images/1000176037.jpg
   - ../../assets/images/1000176025.jpg
+  - ../../assets/images/1000176034.jpg
+  - ../../assets/images/1000176036.jpg
   - ../../assets/images/1000176031.jpg
   - ../../assets/images/1000176032.jpg
   - ../../assets/images/1000176024.jpg
-  - ../../assets/images/1000176034.jpg
   - ../../assets/images/1000176027.jpg
   - ../../assets/images/1000176026.jpg
   - ../../assets/images/1000176023.jpg
