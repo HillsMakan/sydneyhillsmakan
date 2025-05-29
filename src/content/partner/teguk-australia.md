@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Teguk Australia
 description: Bubble Tea Store - Halal
 image: ../../assets/images/little-indo-town.jpeg
