@@ -10,9 +10,9 @@ images:
   - ../../assets/images/bintang-bro-3.jpg
   - ../../assets/images/bintang-bro-4.jpg
   - ../../assets/images/bintang-bro-5.jpg
-  - ../../assets/images/bintang-bro-6.jpg
   - ../../assets/images/bintang-bro-7.jpg
   - ../../assets/images/bintang-bro-8.jpg
+  - ../../assets/images/bintang-bro-6.jpg
   - ../../assets/images/bintang-bro-9.jpg
   - ../../assets/images/bintang-bro-10.jpg
   - ../../assets/images/bintang-bro-11.jpg
@@ -26,6 +26,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 ---
+An Indonesian grill and street food specialist ! Our goal is simple, fresh food flame-grilled to perfection !
 
 **Location :** Little Indo Town, Central Park Mall, RB011, Lower Ground Floor, 28 Broadway, Chippendale, 2008, New South Wales, Australia
 
