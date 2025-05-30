@@ -67,8 +67,8 @@ categories:
 cuisine:
   - Malaysian
 region: nsw
-discount_pct: 10
-discount_text: "Excluding promotions "
+discount_pct: 5
+discount_text: "Excluding promotions and public holidays "
 ---
 Chinta Ria established 1988 in Melbourne then 1998 in Cockle Bay Sydney & now at HAYMARKET, SYDNEY...
 
