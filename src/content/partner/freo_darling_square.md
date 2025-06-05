@@ -8,4 +8,6 @@ categories:
 region: nsw
 discount_pct: 0
 ---
-F
+Frozen Atelier . Let’s FREO !
+Premium Frozen Yoghurt & Express Gelato
+100% Natural Ingredients
