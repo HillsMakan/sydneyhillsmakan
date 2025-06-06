@@ -3,6 +3,20 @@ draft: true
 title: FREO DARLING SQUARE
 description: Frozen Yogurt Shop
 image: ../../assets/images/2025-01-22.jpg
+images:
+  - ../../assets/images/1000177774.jpg
+  - ../../assets/images/1000177703.jpg
+  - ../../assets/images/1000177772.jpg
+  - ../../assets/images/1000177704.jpg
+  - ../../assets/images/1000177763.jpg
+  - ../../assets/images/1000177706.jpg
+  - ../../assets/images/1000177705.jpg
+  - ../../assets/images/1000177781.jpg
+  - ../../assets/images/1000177780.jpg
+  - ../../assets/images/1000177779.jpg
+  - ../../assets/images/1000177778.jpg
+  - ../../assets/images/1000177776.jpg
+  - ../../assets/images/1000177775.jpg
 categories:
   - foodanddrinks
 region: nsw
