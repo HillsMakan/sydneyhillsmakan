@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Global
+title: International
 description: Online Businesses & Shopping
 country: international
 icon: noto:globe-showing-asia-australia
