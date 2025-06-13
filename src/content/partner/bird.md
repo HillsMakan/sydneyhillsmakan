@@ -10,7 +10,7 @@ images:
 categories:
   - professionals
   - companies
-region: international
+region: australia
 discount_pct: 15
 discount_text: ""
 ---
