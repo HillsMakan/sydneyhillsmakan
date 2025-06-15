@@ -29,7 +29,7 @@ images:
 categories:
   - hotels
   - travel
-region: australia
+region: international
 discount_pct: 15
 discount_text: Scan the QR Code (photo below) and follow the instructions. (QR
   Code for 5% discount e-voucher, no limit. Stacked together with the 10% off
