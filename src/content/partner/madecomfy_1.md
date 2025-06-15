@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: MadeComfy
 description: Self-contained (Airbnb) style
 link: https://madecomfy.com.au/search/
