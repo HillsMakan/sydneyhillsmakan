@@ -10,5 +10,5 @@ description: Japan, an island nation in East Asia, is known for its rich
   showcase a mix of futuristic architecture and historical sites.
 country: international
 icon: twemoji:flag-japan
-image: ../../assets/images/tokyo.jpg
+image: ../../assets/images/japan.jpg
 ---
