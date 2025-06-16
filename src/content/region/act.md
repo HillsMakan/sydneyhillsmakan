@@ -6,5 +6,5 @@ description: The Australian Capital Territory (ACT) is home to the nation's
   institutions, and picturesque landscapes. 🏛️🌳
 country: australia
 icon: twemoji:flag-australia
-image: ../../assets/images/Australian Capital Territory.jpg
+image: ../../assets/images/act.jpg
 ---
