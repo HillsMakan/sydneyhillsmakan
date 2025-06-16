@@ -9,5 +9,5 @@ description: Online Shopping at Indonesia, is a vibrant and diverse country made
   and modernity, offering a unique experience in every region.
 country: international
 icon: twemoji:flag-indonesia
-image: ../../assets/images/National Online Shopping.jpg
+image: ../../assets/images/indonesia.jpg
 ---
