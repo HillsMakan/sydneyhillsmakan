@@ -14,5 +14,5 @@ description: New Zealand, or Aotearoa in Maori, is a stunning island nation in
   and wonder.
 country: international
 icon: twemoji:flag-new-zealand
-image: ../../assets/images/1000162839.jpg
+image: ../../assets/images/nz.jpg
 ---
