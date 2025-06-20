@@ -15,6 +15,8 @@ images:
   - ../../assets/images/birdzoparcel...jpg
 categories:
   - companies
+  - online
+  - professionals
 region: international
 discount_pct: 10
 discount_text: Mention that you are HMG International member when you contact
