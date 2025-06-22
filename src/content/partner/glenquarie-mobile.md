@@ -7,7 +7,7 @@ categories:
   - mobile
   - retailers
 region: nsw
-discount_pct: 0
+discount_pct: 19
 discount_text: Excluding specials & gift card
 ---
 
