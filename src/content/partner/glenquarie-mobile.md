@@ -14,6 +14,14 @@ comment: ""
 ---
 Glenquarie Mobile offers a wide range of phone accessories as well as expert repair services for all types of technology.
 
+
+Mention HMG International members to receive below discounts :
+
+
+* 10% Discount for Repairs
+* 20% Discount Accessories Case
+
+
 **Location :** Glenquarie Town Centre, Shop 21 (Opposite Target), 14 Brooks St, Macquarie Fields, 2564, New South Wales, Australia
 
 **Trading :**
