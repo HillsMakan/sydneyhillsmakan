@@ -28,6 +28,4 @@ Xtreme Communications Castle Hill, as part of the Xtreme Group of Companies, has
 
 ● Phone : 02 9476 1115
 
-● Email : castlehill@xtremeonline.com.au. 
-
-For further insight on their business and services, please visit their website at www.xtremeonline.com.au
+● Email : castlehill@xtremeonline.com.au
