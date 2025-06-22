@@ -8,7 +8,8 @@ categories:
   - retailers
 region: nsw
 discount_pct: 19
-discount_text: Excluding specials & gift card
+discount_text: ● 10% Discount for Repairs ● 20% Discount Accessories case ●
+  Excluding specials & gift card.
 ---
 
 ● 10% Discount for Repairs
