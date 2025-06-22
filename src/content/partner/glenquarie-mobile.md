@@ -7,7 +7,7 @@ categories:
   - mobile
   - retailers
 region: nsw
-discount_pct: 19
+discount_pct: 20
 discount_text: ● 10% Discount for Repairs ● 20% Discount Accessories case ●
   Excluding specials & gift card.
 comment: ""
