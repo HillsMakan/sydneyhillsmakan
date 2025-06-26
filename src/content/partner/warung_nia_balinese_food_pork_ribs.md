@@ -19,4 +19,6 @@ In addition to great food, Warung Nia also offers Balinese cooking classes – a
 
 **Location :** Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia 
 
-**Trading :**
+**Trading :** 
+
+* Monday to Sunday : 10 am - 10 pm
