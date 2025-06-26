@@ -5,6 +5,7 @@ description: Balinese Restaurant
 image: ../../assets/images/images-10.jpeg
 images:
   - ../../assets/images/fb_img_1750880648796.jpg
+  - ../../assets/images/20250625_190959.jpg
   - ../../assets/images/20250625_192839.jpg
   - ../../assets/images/20250625_192900.jpg
   - ../../assets/images/20250625_193322.jpg
