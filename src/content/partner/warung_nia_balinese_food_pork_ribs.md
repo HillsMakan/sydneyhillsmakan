@@ -43,7 +43,8 @@ cuisine:
   - Balinese
   - Indonesian
 region: bali
-discount_pct: 0
+discount_pct: 15
+discount_text: Food Only
 ---
 Warung Nia Seminyak – Balinese Food & Pork Ribs
 
