@@ -17,4 +17,6 @@ Located in the heart of Seminyak, Warung Nia is known for its delicious and budg
 
 In addition to great food, Warung Nia also offers Balinese cooking classes – a perfect way to immerse yourself in the local culinary culture.
 
-**Location :**[](<>)
+**Location :** Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia 
+
+**Trading :**
