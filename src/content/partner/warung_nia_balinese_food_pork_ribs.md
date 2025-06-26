@@ -28,6 +28,15 @@ images:
   - ../../assets/images/unnamed-1_6_.jpg
   - ../../assets/images/20250625_203321.jpg
   - ../../assets/images/unnamed-2_4_.jpg
+  - ../../assets/images/caption.jpg
+  - ../../assets/images/20250625_205305.jpg
+  - ../../assets/images/20250625_205212.jpg
+  - ../../assets/images/20250625_205334.jpg
+  - ../../assets/images/20250625_191010.jpg
+  - ../../assets/images/20250625_192207.jpg
+  - ../../assets/images/auc7txv4hpjnr49knazsp8eircnh4ukhh1chywtlm0bpoy8k1y4xx7wucn4eefrx80mt4yhxrgdnjtxoco5_ukqwevoi7j1kloehujaorgppzlnfcy8nxiijucchry03k5-rzulro2u7bfofmfjdnu3z0lu7rv2qgiear4-8h5ztjbwk0yae.jpeg
+  - ../../assets/images/unnamed_3_.jpg
+  - ../../assets/images/images-8.jpeg
 categories:
   - foodanddrinks
 cuisine:
