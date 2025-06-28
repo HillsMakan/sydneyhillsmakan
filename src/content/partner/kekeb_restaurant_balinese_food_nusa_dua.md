@@ -5,6 +5,7 @@ description: "Balinese Cuisine "
 image: ../../assets/images/20250627_104824.jpg
 images:
   - ../../assets/images/fb_img_1750945646435.jpg
+  - ../../assets/images/unnamed-38.jpg
 categories:
   - foodanddrinks
 cuisine:
