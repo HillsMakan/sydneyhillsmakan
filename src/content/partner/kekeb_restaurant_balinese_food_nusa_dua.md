@@ -3,6 +3,8 @@ draft: false
 title: Kekeb Restaurant, Balinese Food Nusa Dua
 description: "Balinese Cuisine "
 image: ../../assets/images/20250627_104824.jpg
+images:
+  - ../../assets/images/fb_img_1750945646435.jpg
 categories:
   - foodanddrinks
 cuisine:
