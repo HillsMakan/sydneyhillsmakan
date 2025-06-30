@@ -58,4 +58,4 @@ In addition to great food, Warung Nia also offers Balinese cooking classes – a
 
 * Monday to Sunday : 10 am - 10 pm
 
-**Reservation and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)
+**Reservation in advance is preferred and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)
