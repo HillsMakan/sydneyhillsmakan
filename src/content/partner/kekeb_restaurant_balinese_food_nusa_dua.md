@@ -67,6 +67,8 @@ images:
   - ../../assets/images/c7eba3bf-c84a-477f-9064-7c50c441498e.jpg
   - ../../assets/images/04ced4d0-bc65-43d7-a7a5-c07b865a6671.jpg
   - ../../assets/images/3d4169bc-aa89-4dde-aea8-e0529bc6f417.jpg
+  - ../../assets/images/06a14fb6-86cb-4b5d-a75a-86f2240c08db.jpg
+  - ../../assets/images/da6fe6f9-475f-44a8-acbe-c0661b1c5239.jpg
   - ../../assets/images/20250627_104359.jpg
   - ../../assets/images/20250627_104648.jpg
   - ../../assets/images/20250627_104907.jpg
