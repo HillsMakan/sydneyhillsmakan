@@ -71,6 +71,13 @@ images:
   - ../../assets/images/20250627_105049.jpg
   - ../../assets/images/20250627_105107.jpg
   - ../../assets/images/20250627_105134.jpg
+  - ../../assets/images/20250627_110940.jpg
+  - ../../assets/images/20250627_110959.jpg
+  - ../../assets/images/20250627_105222.jpg
+  - ../../assets/images/20250628_121841.jpg
+  - ../../assets/images/20250628_121907.jpg
+  - ../../assets/images/20250628_125707.jpg
+  - ../../assets/images/20250628_125825.jpg
 categories:
   - foodanddrinks
 cuisine:
