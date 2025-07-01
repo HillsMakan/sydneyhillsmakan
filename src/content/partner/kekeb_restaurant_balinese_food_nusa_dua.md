@@ -83,10 +83,14 @@ images:
   - ../../assets/images/20250627_105222.jpg
   - ../../assets/images/20250628_121841.jpg
   - ../../assets/images/20250628_121907.jpg
-  - ../../assets/images/20250628_125707.jpg
+  - ../../assets/images/3206205b-c966-4c61-9c7c-0686ab2d65ea.jpg
   - ../../assets/images/20250628_125825.jpg
+  - ../../assets/images/54d172e4-b74c-4732-9f24-841c96c4a05d.jpg
+  - ../../assets/images/1b1a036a-4dc8-4919-a6e5-5f45b94a273b.jpg
+  - ../../assets/images/20250628_125707.jpg
   - ../../assets/images/cf74b4fb-1533-4126-8935-c7457fb36f06.jpg
   - ../../assets/images/20250629_180807.jpg
+  - ../../assets/images/9a545805-27ff-42aa-ad73-a4a7df9b5e2a.jpg
   - ../../assets/images/bffa71a4-097b-44e7-9327-12f33c8d706e.jpg
   - ../../assets/images/20250629_180642.jpg
   - ../../assets/images/20250629_183336.jpg
