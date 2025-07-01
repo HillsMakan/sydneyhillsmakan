@@ -85,7 +85,9 @@ images:
   - ../../assets/images/20250628_121907.jpg
   - ../../assets/images/20250628_125707.jpg
   - ../../assets/images/20250628_125825.jpg
+  - ../../assets/images/cf74b4fb-1533-4126-8935-c7457fb36f06.jpg
   - ../../assets/images/20250629_180807.jpg
+  - ../../assets/images/bffa71a4-097b-44e7-9327-12f33c8d706e.jpg
   - ../../assets/images/20250629_180642.jpg
   - ../../assets/images/20250629_183336.jpg
   - ../../assets/images/20250629_190130.jpg
