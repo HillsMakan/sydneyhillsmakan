@@ -41,6 +41,11 @@ images:
   - ../../assets/images/unnamed-17.jpg
   - ../../assets/images/unnamed-20.jpg
   - ../../assets/images/unnamed-24.jpg
+  - ../../assets/images/unnamed-35.jpg
+  - ../../assets/images/unnamed-36.jpg
+  - ../../assets/images/unnamed-39.jpg
+  - ../../assets/images/unnamed-40.jpg
+  - ../../assets/images/unnamed-41.jpg
 categories:
   - foodanddrinks
 cuisine:
