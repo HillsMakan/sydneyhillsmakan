@@ -64,6 +64,10 @@ images:
   - ../../assets/images/fb_img_1750946146402.jpg
   - ../../assets/images/fb_img_1750946132553.jpg
   - ../../assets/images/20250627_104359.jpg
+  - ../../assets/images/3930a126-b6e0-4fb5-8b67-3955f3c14c88.jpg
+  - ../../assets/images/c7eba3bf-c84a-477f-9064-7c50c441498e.jpg
+  - ../../assets/images/04ced4d0-bc65-43d7-a7a5-c07b865a6671.jpg
+  - ../../assets/images/3d4169bc-aa89-4dde-aea8-e0529bc6f417.jpg
   - ../../assets/images/20250627_104648.jpg
   - ../../assets/images/20250627_104907.jpg
   - ../../assets/images/20250627_104935.jpg
