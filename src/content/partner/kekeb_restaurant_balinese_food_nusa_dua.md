@@ -6,6 +6,7 @@ image: ../../assets/images/20250627_104824.jpg
 images:
   - ../../assets/images/fb_img_1750945646435.jpg
   - ../../assets/images/20250629_183116.jpg
+  - ../../assets/images/20250629_195026.jpg
   - ../../assets/images/unnamed-38.jpg
   - ../../assets/images/fb_img_1750946140654.jpg
   - ../../assets/images/20250629_184825_2_.jpg
