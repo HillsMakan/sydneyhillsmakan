@@ -97,7 +97,7 @@ Opened in 2018 with the goal of providing fresh, organic, seasonal foods. Kekeb 
 
 Since opening, we’ve been able to expand our menu, convert diners into loyal customers, and give back to the community through food drives and fundraising. We aspiration is that every visitor encounters the finest of best Indonesian food and authentic Balinese food experiences. Our diverse menu includes options like the Rendang package, Chicken Betutu, Sate, Grilled Honey Chicken, Whole Crispy Duck, Live Seafood, Grilled Grouper Fish, traditional fish dishes infused with Balinese spices served with steamed rice, and more.
 
-There is live band every night from 8pm to 9pm. Special songs request is available. Special Balinese costume photos taking is available like 3rd photo below for special occasions like Birthdays, Weddings, Honeymoon and Anniversaries (request in advance is preferred).
+Why not have your special occasion like Birthday, Wedding, Honeymoon or Anniversaries at Kekeb Restaurant. Special Balinese costume photos taking is available like 3rd photo below for special occasions (request in advance is preferred). There is live band every night from 8pm to 9pm. 
 
 In addition to great food, Kekeb Restaurant also offers Balinese cooking classes – a perfect way to immerse yourself in the local culinary culture.
 
