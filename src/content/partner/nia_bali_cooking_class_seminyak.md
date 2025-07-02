@@ -58,6 +58,7 @@ images:
   - ../../assets/images/fb_img_1751446703302.jpg
   - ../../assets/images/fb_img_1751446720427.jpg
   - ../../assets/images/fb_img_1751446728149.jpg
+  - ../../assets/images/fb_img_.jpg
 categories:
   - foodanddrinks
   - professionals
