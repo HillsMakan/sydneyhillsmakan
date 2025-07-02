@@ -14,4 +14,4 @@ cuisine:
 region: bali
 discount_pct: 50
 ---
-R
+Elevate your Bali experience into a new level with a half day Nia cooking class and learn to prepare delicious dishes like seafood satay, urab jagung, ...
