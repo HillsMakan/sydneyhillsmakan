@@ -7,6 +7,7 @@ images:
   - ../../assets/images/img-20250626-wa0001.jpg
   - ../../assets/images/niacookingclassinseminyak.webp
   - ../../assets/images/balinese-cooking-class-market-tour-in-seminyak_5ypd1ut.jpg
+  - ../../assets/images/fb_img_1751446298708.jpg
   - ../../assets/images/niacookingclassinseminyak-1.webp
   - ../../assets/images/niacookingclassinseminyak-3.webp
 categories:
