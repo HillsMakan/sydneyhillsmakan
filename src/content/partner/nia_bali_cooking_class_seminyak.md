@@ -10,6 +10,16 @@ images:
   - ../../assets/images/fb_img_1751446298708.jpg
   - ../../assets/images/niacookingclassinseminyak-1.webp
   - ../../assets/images/niacookingclassinseminyak-3.webp
+  - ../../assets/images/bali-cooking-class-3-1024x884.jpg
+  - ../../assets/images/niacookingclass-5.jpg
+  - ../../assets/images/fb_img_1751446026907.jpg
+  - ../../assets/images/fb_img_1751446068779.jpg
+  - ../../assets/images/fb_img_1751446080661.jpg
+  - ../../assets/images/fb_img_1751446101830.jpg
+  - ../../assets/images/fb_img_1751446107117.jpg
+  - ../../assets/images/fb_img_1751446138319.jpg
+  - ../../assets/images/fb_img_1751446155488.jpg
+  - ../../assets/images/fb_img_1751446162618.jpg
 categories:
   - foodanddrinks
   - professionals
