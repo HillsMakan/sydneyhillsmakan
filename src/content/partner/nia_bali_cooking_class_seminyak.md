@@ -51,6 +51,13 @@ images:
   - ../../assets/images/fb_img_1751446536358.jpg
   - ../../assets/images/fb_img_1751446595080.jpg
   - ../../assets/images/fb_img_1751446609014.jpg
+  - ../../assets/images/fb_img_1751446618515.jpg
+  - ../../assets/images/fb_img_1751446642535.jpg
+  - ../../assets/images/fb_img_1751446647826.jpg
+  - ../../assets/images/fb_img_1751446686571.jpg
+  - ../../assets/images/fb_img_1751446703302.jpg
+  - ../../assets/images/fb_img_1751446720427.jpg
+  - ../../assets/images/fb_img_1751446728149.jpg
 categories:
   - foodanddrinks
   - professionals
