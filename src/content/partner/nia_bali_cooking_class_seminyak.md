@@ -5,6 +5,10 @@ description: Cooking Class
 image: ../../assets/images/niacookingclass-logo.jpg
 images:
   - ../../assets/images/img-20250626-wa0001.jpg
+  - ../../assets/images/niacookingclassinseminyak.webp
+  - ../../assets/images/niacookingclassinseminyak-1.webp
+  - ../../assets/images/niacookingclassinseminyak-2.webp
+  - ../../assets/images/niacookingclassinseminyak-3.webp
 categories:
   - foodanddrinks
   - professionals
