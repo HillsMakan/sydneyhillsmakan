@@ -17,8 +17,9 @@ cuisine:
   - Indonesian
 region: bali
 discount_pct: 50
-discount_text: "Mention HMG International Member when making reservation ●
-  Pricing details : IDR 1,150,000 (plus tax) - 50% ‎ = 575,000 IDR/person"
+discount_text: "Mention HMG International Member when making reservation and
+  show member card when check-in ● Pricing details : IDR 1,150,000 (plus tax) -
+  50% ‎ = 575,000 IDR/person"
 ---
 In Nia Balinese Cooking Class, Best Bali Cooking Class at Seminyak, you can learn how to prepare and cook Authentic Balinese dishes with fun and ease in the comfort of our kitchens. 
 
@@ -29,3 +30,7 @@ Our welcoming and friendly instructors will make you feel right at home, and you
 Join us for an unforgettable experience filled with food, culture, and warm, authentic, and friendly Balinese hospitality. 
 
 **Reservation in advance is preferred and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)
+
+Mention HMG International Member when making reservation and show member card when check-in.
+
+Pricing details : IDR 1,150,000 (plus tax) - 50%‎ = 575,000 IDR/person
