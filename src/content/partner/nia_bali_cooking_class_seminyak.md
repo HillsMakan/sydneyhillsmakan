@@ -4,9 +4,9 @@ title: Nia Bali Cooking Class Seminyak
 description: Cooking Class
 image: ../../assets/images/niacookingclass-logo.jpg
 images:
-  - ../../assets/images/niacookingclassinseminyak.webp
   - ../../assets/images/img-20250626-wa0001.jpg
   - ../../assets/images/fb_img_1751446547638.jpg
+  - ../../assets/images/niacookingclassinseminyak.webp
   - ../../assets/images/balinese-cooking-class-market-tour-in-seminyak_5ypd1ut.jpg
   - ../../assets/images/fb_img_1751446298708.jpg
   - ../../assets/images/niacookingclassinseminyak-1.webp
