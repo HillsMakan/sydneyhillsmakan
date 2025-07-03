@@ -66,7 +66,7 @@ cuisine:
   - Balinese
   - Indonesian
 region: bali
-discount_pct: 50
+discount_pct: 60
 discount_text: "Mention HMG International Member when making reservation and
   show member card when check-in ● Pricing details : IDR 1,150,000 (plus tax) -
   50% ‎ = 575,000 IDR/person"
@@ -83,4 +83,4 @@ Join us for an unforgettable experience filled with food, culture, and warm, aut
 
 Mention HMG International Member when making reservation and show member card when check-in.
 
-Pricing details : IDR 1,150,000 (plus tax) - 50%‎ = 575,000 IDR/person
+Pricing details : IDR 1,150,000 (plus tax) - 60%‎ = 517.500 IDR/person
