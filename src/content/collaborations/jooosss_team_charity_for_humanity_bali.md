@@ -34,6 +34,6 @@ Together, let’s make a difference.
 
 📣 Follow Jooosss on Facebook
 
-Stay updated on their latest charity work and community initiatives :
+Would like to donate and stay updated on their latest charity work and community initiatives :
 
 👉 [Jooosss Team "Charity For Humanity" Bali](https://www.facebook.com/groups/1815709871820092/?ref=share&mibextid=NSMWBT)
