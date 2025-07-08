@@ -33,7 +33,7 @@ discount_pct: 60
 discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
 ---
-Immerse yourself in a culinary journey filled with vibrant flavors, captivating aromas, and the breathtaking beauty of the coastline.
+Immerse yourself in a culinary journey filled with vibrant flavors and captivating aromas with a breathtaking beauty beach side view in Nusa Dua.
 
 Allow us to unveil the secrets of Balinese cuisine, unveiling its intricate techniques and rich cultural heritage. Get ready to embark on an unforgettable unique hands-on cooking classes and discover the secrets of Bali traditional cuisine with Kekeb Balinese Cooking Class Nusa Dua. Discover the vibrant flavors, learn the authentic techniques, and immerse yourself in the rich traditions of Balinese cuisine.
 
