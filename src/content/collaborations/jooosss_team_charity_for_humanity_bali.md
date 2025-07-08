@@ -4,7 +4,7 @@ title: Jooosss Team "Charity For Humanity" Bali
 description: Charity Organisation
 image: ../../assets/images/jooosss.jpg
 ---
-**Joosss Team – "Charity for Humanity" Bali**
+**Jooosss Team – "Charity for Humanity" Bali**
 
 The Joosss Team proudly leads the Charity for Humanity initiative in Bali, conducting regular charity programs every three months. These efforts are dedicated to supporting individuals and families living in poverty, assisting the less fortunate, and helping students access educational opportunities.
 
