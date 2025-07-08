@@ -4,6 +4,24 @@ title: Kekeb Cooking Class Nusa Dua
 description: "Cooking Class "
 link: https://www.kekebcookingclass.com
 image: ../../assets/images/screenshot_20250702_195821_samsung_internet.jpg
+images:
+  - ../../assets/images/screenshot_20250705_170234_samsung_internet.jpg
+  - ../../assets/images/d2b373ce-c3e5-4423-b245-8a5361a337f1.png
+  - ../../assets/images/8b63b776-21dd-49d9-be73-5d247db6d427.png
+  - ../../assets/images/kekebcookingclass-1.jpg
+  - ../../assets/images/kekebcookingclass-3.jpg
+  - ../../assets/images/kekebcookingclass-4.jpg
+  - ../../assets/images/kekebcookingclass-10.jpg
+  - ../../assets/images/screenshot_20250705_170252_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250705_170304_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250705_170309_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250705_170315_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250705_170321_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250705_170336_samsung_internet.jpg
+  - ../../assets/images/0bf27d02-9a97-4695-b816-3dc51d1a4184.png
+  - ../../assets/images/a880bdf9-bdee-4b43-a8a1-961f0a212d50.png
+  - ../../assets/images/e7a5bb47-55db-4b8d-9325-816ccfc731d8.png
+  - ../../assets/images/1b855824-8ba1-47ca-9cc4-d3e95b20b8ae.png
 categories:
   - foodanddrinks
   - professionals
