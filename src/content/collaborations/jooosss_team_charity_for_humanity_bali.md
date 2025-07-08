@@ -14,11 +14,11 @@ For every cooking class booked through HMG International, the full commission am
 
 * Nia Bali Cooking Class Seminyak – Rp 42,500 per person
 * Mufu Bali Cooking Class – Rp 27,500 per person
-* Kekeb Cooking Class – Rp 15,000 per person
+* Kekeb Cooking Class Nusa Dua – Rp 15,000 per person
 
 Additionally, HMG International members receive an exclusive 60% discount on these cooking classes – a great opportunity to experience Balinese culture while supporting a meaningful cause.
 
-A heartfelt thank you to Management and Team from Nia Bali Cooking Class Seminyak, Mufu Bali Cooking Class, Kekeb, and the Jooosss Team for giving HMG International the opportunity to contribute to the Bali community and be part of this meaningful initiative.
+A heartfelt thank you to Management and Team from Nia Bali Cooking Class Seminyak, Mufu Bali Cooking Class, Kekeb Cooking Class Nusa Dua, and the Jooosss Team for giving HMG International the opportunity to contribute to the Bali community and be part of this meaningful initiative.
 
 Together, let’s make a difference.
 
@@ -28,11 +28,11 @@ Together, let’s make a difference.
 
 * [Nia Bali Cooking Class Seminyak](https://hmginternational.com/partner/nia_bali_cooking_class_seminyak/)
 * Mufu Bali Cooking Class
-* Kekeb Cooking Class : \[Insert link or contact info]
+* Kekeb Cooking Class Nusa Dua
 
 \---
 
-📣 Follow Joosss on Facebook
+📣 Follow Jooosss on Facebook
 
 Stay updated on their latest charity work and community initiatives :
 
