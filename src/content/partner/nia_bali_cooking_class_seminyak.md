@@ -85,6 +85,8 @@ Mention HMG International Member when making reservation and show member card wh
 
 Pricing details : IDR 1,150,000 (plus tax) - 60%‎ = 517,500 IDR/person
 
+**Location :** Jl. Kayu Aya No.22, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, 80361, Indonesia.
+
 **Charity Donation :**
 
 HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating 100% of the commission which is IDR 42,500 per person earned from Nia Balinese Cooking Class Seminyak bookings to Charity for Humanity.
