@@ -79,7 +79,7 @@ Our welcoming and friendly instructors will make you feel right at home, and you
 
 Join us for an unforgettable experience filled with food, culture, and warm, authentic, and friendly Balinese hospitality. 
 
-**Reservation in advance is preferred and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)
+**Reservation in advance is compulsory and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)
 
 Mention HMG International Member when making reservation and show member card when check-in.
 
