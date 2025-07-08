@@ -6,7 +6,7 @@ image: ../../assets/images/jooosss.jpg
 ---
 **Jooosss Team – "Charity for Humanity" Bali**
 
-The Joosss Team proudly leads the Charity for Humanity initiative in Bali, conducting regular charity programs every three months. These efforts are dedicated to supporting individuals and families living in poverty, assisting the less fortunate, and helping students access educational opportunities.
+The Jooosss Team proudly leads the Charity for Humanity initiative in Bali, conducting regular charity programs every three months. These efforts are dedicated to supporting individuals and families living in poverty, assisting the less fortunate, and helping students access educational opportunities.
 
 HMG International is honoured to support this cause by donating 100% of the commission earned from selected cooking class bookings to Charity for Humanity.
 
