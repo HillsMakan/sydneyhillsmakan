@@ -27,4 +27,5 @@ discount_pct: 60
 discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
 ---
-Dd
+Dive into the heart of Bali's culinary traditions through hands-on cooking sessions led by local chefs. With options for both morning and afternoon classes.[
+](https://www.mufubalicookingclass.com/cooking-class-program/)
