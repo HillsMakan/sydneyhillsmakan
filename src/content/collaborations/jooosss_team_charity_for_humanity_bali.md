@@ -12,7 +12,7 @@ HMG International is honoured to support this cause by donating 100% of the comm
 
 For every cooking class booked through HMG International, the full commission amount will be donated :
 
-* Nia Cooking Class – Rp 42,500 per person
+* Nia Bali Cooking Class Seminyak – Rp 42,500 per person
 * Mufu Cooking Class – Rp 27,500 per person
 * Kekeb Cooking Class – Rp 15,000 per person
 
@@ -26,7 +26,7 @@ Together, let’s make a difference.
 
 🍳 Booking & Information for Cooking Classes :
 
-* Nia Cooking Class : \[Insert link or contact info]
+* Nia Bali Cooking Class Seminyak
 * Mufu Cooking Class : \[Insert link or contact info]
 * Kekeb Cooking Class : \[Insert link or contact info]
 
