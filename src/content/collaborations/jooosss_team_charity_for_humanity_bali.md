@@ -26,7 +26,7 @@ Together, let’s make a difference.
 
 🍳 Booking & Information for Cooking Classes :
 
-* Nia Bali Cooking Class Seminyak
+* [Nia Bali Cooking Class Seminyak](https://hmginternational.com/partner/nia_bali_cooking_class_seminyak/)
 * Mufu Cooking Class : \[Insert link or contact info]
 * Kekeb Cooking Class : \[Insert link or contact info]
 
