@@ -88,4 +88,8 @@ Pricing details : IDR 1,150,000 (plus tax) - 60%‎ = 517.500 IDR/person
 
 HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating 100% of the commission which is IDR 42,500 per person earned from Nia Balinese Cooking Class Seminyak bookings to Charity for Humanity.
 
-Click link to know more about [Jooosss Team "Charity For Humanity" Bali](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)
+Click link to know more about [Jooosss Team "Charity For Humanity" Bali.](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)
+
+[](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)A heartfelt thank you to Management and Team from Nia Bali Cooking Class Seminyak and the Jooosss Team for giving HMG International the opportunity to contribute to the Bali community and be part of this meaningful initiative.
+
+Together, let’s make a difference.
