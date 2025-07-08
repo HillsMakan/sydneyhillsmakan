@@ -18,7 +18,7 @@ For every cooking class booked through HMG International, the full commission am
 
 Additionally, HMG International members receive an exclusive 60% discount on these cooking classes – a great opportunity to experience Balinese culture while supporting a meaningful cause.
 
-A heartfelt thank you to Nia, Mufu, Kekeb, and the Jooosss Team for giving HMG International the opportunity to contribute to the Bali community and be part of this meaningful initiative.
+A heartfelt thank you to Management and Team from Nia Bali Cooking Class Seminyak, Mufu, Kekeb, and the Jooosss Team for giving HMG International the opportunity to contribute to the Bali community and be part of this meaningful initiative.
 
 Together, let’s make a difference.
 
