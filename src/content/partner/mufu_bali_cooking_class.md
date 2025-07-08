@@ -29,4 +29,22 @@ discount_text: Mention HMG International Member when making reservations and
 ---
 Cook With Locals in Ubud Bali and dive into the heart of Bali's culinary traditions through hands-on cooking sessions led by local chefs. With options for both morning and afternoon classes.[](https://www.mufubalicookingclass.com/cooking-class-program/)
 
-[](https://www.mufubalicookingclass.com/cooking-class-program/)In the Mufu Bali Cooking Class, you’ll gain a deeper understanding of the ingredients and how to bring out their flavors. By learning the basics of Balinese cuisine, you’ll develop an appreciation for this unique culinary tradition and be inspired to recreate it
+[](https://www.mufubalicookingclass.com/cooking-class-program/)In the Mufu Bali Cooking Class, you’ll gain a deeper understanding of the ingredients and how to bring out their flavors. By learning the basics of Balinese cuisine, you’ll develop an appreciation for this unique culinary tradition and be inspired to recreate it.
+
+Join us for an unforgettable experience filled with food, culture, and warm, authentic, and friendly Balinese hospitality.
+
+**Reservation in advance is compulsory and chat directly on WhatsApp :** +62 81 776 699 369[ ](https://wa.me/6287761556688)(For Fast Response)
+
+Mention HMG International Member when making reservation and show member card when check-in.
+
+Pricing details : IDR 1,700,000 (plus tax) - 60% = 765,000 IDR/person
+
+**Charity Donation :**
+
+HMG International is honoured to support this Jooosss Team “Charity For Humanity” Bali cause by donating 100% of the commission which is IDR 15,000 per person earned from Mufu Bali Cooking Class bookings to Charity for Humanity.
+
+Click link to know more about [Jooosss Team “Charity For Humanity” Bali](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/).[](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)
+
+[](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)A heartfelt thank you to Management and Team from Mufu Bali Cooking Class and the Jooosss Team for giving HMG International the opportunity to contribute to the Bali community and be part of this meaningful initiative.
+
+Together, let’s make a difference.
