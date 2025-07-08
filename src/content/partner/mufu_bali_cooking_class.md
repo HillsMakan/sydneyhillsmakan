@@ -39,7 +39,7 @@ Mention HMG International Member when making reservation and show member card wh
 
 Pricing details : IDR 950,000 (plus tax) - 60% = 427,500 IDR/person
 
-**Location :** Jl. Elang Blok Komplek Burung No.3, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia.[](<>)
+**Location :** Jl. Elang Blok Komplek Burung No.3, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia. (Around 12 mins drive from Bali I Gusti Ngurah Rai International Airport)
 
 **Charity Donation :**
 
