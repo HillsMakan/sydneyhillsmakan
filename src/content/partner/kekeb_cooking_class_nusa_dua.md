@@ -27,6 +27,18 @@ images:
   - ../../assets/images/20250627_105222.gxccbecd.jpg
   - ../../assets/images/cf74b4fb-1533-4126-8935-c7457fb36f06.dkhek7z7.jpg
   - ../../assets/images/20250629_180642.b7hcnf-t.jpg
+  - ../../assets/images/unnamed.webp
+  - ../../assets/images/unnamed-1.webp
+  - ../../assets/images/unnamed-3.webp
+  - ../../assets/images/unnamed-4.webp
+  - ../../assets/images/unnamed-5.webp
+  - ../../assets/images/unnamed-6.webp
+  - ../../assets/images/unnamed-7.webp
+  - ../../assets/images/unnamed-8.webp
+  - ../../assets/images/unnamed-9.webp
+  - ../../assets/images/unnamed-10.webp
+  - ../../assets/images/unnamed-11.webp
+  - ../../assets/images/unnamed-12.webp
 categories:
   - foodanddrinks
   - professionals
