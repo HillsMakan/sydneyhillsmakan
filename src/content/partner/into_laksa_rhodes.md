@@ -3,6 +3,15 @@ draft: false
 title: Into Laksa Rhodes
 description: Malaysian Cuisine
 image: ../../assets/images/intolaksarhodes.jpeg
+images:
+  - ../../assets/images/2025-03-09.webp
+  - ../../assets/images/2025-03-10.webp
+  - ../../assets/images/into.webp
+  - ../../assets/images/2025-03-10-1.webp
+  - ../../assets/images/2025-03-10-2.webp
+  - ../../assets/images/2025-03-10-3.webp
+  - ../../assets/images/2025-03-10-4.webp
+  - ../../assets/images/2025-03-10-5.webp
 categories:
   - foodanddrinks
 cuisine:
