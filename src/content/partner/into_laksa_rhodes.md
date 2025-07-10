@@ -27,6 +27,9 @@ Into Laksa offers a diverse menu that features a variety of authentic Malaysian 
 
 **Location :** 1 Rider Blvd Shop 55A , Rhodes Waterside, Rhodes, 2138, NSW, Australia
 
-[](<>)(3 mins walk from Norwest Metro)
+[](<>)(In Rhodes Waterside Shopping Centre and 8 mins walk from Rhodes Station)
 
-**Trading :** Monday - Sunday : 11 am - 3 pm & 4 pm - 9 pm
+**Trading :** 
+
+* Monday - Friday : 11 am - 3 pm & 4 pm - 9 pm
+* Saturday & Sunday : 11 am - 9 pm
