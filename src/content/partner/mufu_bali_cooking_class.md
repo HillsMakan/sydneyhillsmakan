@@ -43,7 +43,9 @@ Pricing details : IDR 950,000 (plus tax) - 60% = 427,500 IDR/person
 
 **Charity Donation :**
 
-HMG International is honoured to support this Jooosss Team “Charity For Humanity” Bali cause by donating 100% of the commission which is IDR 27,500 per person earned from Mufu Bali Cooking Class bookings to Charity for Humanity.
+Part of HMG International commission receive is put into the discount for HMG International members. 
+
+HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating the rest 100% of the commission which is IDR 27,500 per person earned from Mufu Bali Cooking Class bookings to Charity for Humanity.
 
 Click link to know more about [Jooosss Team “Charity For Humanity” Bali](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/).[](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)
 
