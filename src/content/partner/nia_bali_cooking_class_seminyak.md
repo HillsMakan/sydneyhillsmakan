@@ -87,6 +87,10 @@ Pricing details : IDR 1,150,000 (plus tax) - 60%‎ = 517,500 IDR/person
 
 **Location :** Jl. Kayu Aya No.22, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, 80361, Indonesia.
 
+**Supporting Our Members with Every Booking :**
+
+At HMG International, part of the commission we receive goes directly toward subsidizing discounts for our members. This allows us to offer up to 60% off for HMG International members on Bali cooking class experiences — helping you save more while supporting our community and partners.
+
 **Charity Donation :**
 
 Part of HMG International commission receive is put into the discount for HMG International members. 
