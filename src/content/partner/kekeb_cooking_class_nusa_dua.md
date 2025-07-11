@@ -66,9 +66,11 @@ Pricing details : IDR 1,700,000 (plus tax) - 60% = 765,000 IDR/person
 
 **Location :** ITDC Area, Jl. Nusa Dua Lot C-1B, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia.
 
-**Charity Donation :**
+**Supporting Our Members with Every Booking :**
 
-Part of HMG International commission receive is put into the discount for HMG International members. 
+At HMG International, part of the commission we receive goes directly toward subsidizing discounts for our members. This allows us to offer up to 60% off for HMG International members on Bali cooking class experiences — helping you save more while supporting our community and partners.
+
+**Charity Donation :**
 
 HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating the rest 100% of the commission which is IDR 15,000 per person earned from Kekeb Cooking Class Nusa Dua bookings to Charity for Humanity.
 
