@@ -2,7 +2,7 @@
 draft: false
 title: Jooosss Team "Charity For Humanity" Bali
 description: Charity Organisation
-image: ../../assets/images/jooosss.jpg
+image: ../../assets/images/jooossscharity.jpg
 ---
 **Jooosss Team – "Charity for Humanity" Bali**
 
