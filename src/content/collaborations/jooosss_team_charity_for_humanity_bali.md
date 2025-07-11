@@ -24,6 +24,10 @@ Together, let’s make a difference.
 
 \---
 
+**Supporting Our Members with Every Booking :**
+
+At HMG International, part of the commission we receive goes directly toward subsidizing discounts for our members. This allows us to offer up to 60% off for HMG International members on Bali cooking class experiences — helping you save more while supporting our community and partners.
+
 🍳 Booking & Information for Cooking Classes :
 
 * [Nia Bali Cooking Class Seminyak](https://hmginternational.com/partner/nia_bali_cooking_class_seminyak/)
