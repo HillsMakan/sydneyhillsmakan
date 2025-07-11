@@ -68,7 +68,9 @@ Pricing details : IDR 1,700,000 (plus tax) - 60% = 765,000 IDR/person
 
 **Charity Donation :**
 
-HMG International is honoured to support this Jooosss Team “Charity For Humanity” Bali cause by donating 100% of the commission which is IDR 15,000 per person earned from Kekeb Cooking Class Nusa Dua bookings to Charity for Humanity.
+Part of HMG International commission receive is put into the discount for HMG International members. 
+
+HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating the rest 100% of the commission which is IDR 15,000 per person earned from Kekeb Cooking Class Nusa Dua bookings to Charity for Humanity.
 
 Click link to know more about [Jooosss Team “Charity For Humanity” Bali](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/).[](https://hmginternational.com/collaborations/jooosss_team_charity_for_humanity_bali/)
 
