@@ -28,6 +28,16 @@ images:
   - ../../assets/images/fb_img_1752461302768.jpg
   - ../../assets/images/fb_img_1752461306318.jpg
   - ../../assets/images/fb_img_1752461311926.jpg
+  - ../../assets/images/2f71d5fa-b51a-401e-a7a2-aa2b96a743c9-retina-large.jpg
+  - ../../assets/images/4c3d9c4a-3a8f-40b5-8094-d6ee449f9fb5-retina-large.jpg
+  - ../../assets/images/b32c4bc8-e36e-42af-89a9-ec45fe3bbc26-retina-large.jpg
+  - ../../assets/images/ed380e34-5c64-4bfe-a4fb-b76b2cc07d88-retina-large.jpg
+  - ../../assets/images/fa973ead-9863-4c7f-bbf9-86d1545374c7-retina-large.jpg
+  - ../../assets/images/53272c3e-4cc9-49d7-995e-dbcca1ce6d27-retina-large.jpg
+  - ../../assets/images/333f88ba-ad0b-4362-8ec0-a6dd94c24939-retina-large.jpg
+  - ../../assets/images/3777f951-0bfa-4e0b-bf2d-d8d28720fbe4-retina-large.jpg
+  - ../../assets/images/0bdc2a26-4022-47f1-bbab-efd5ae3b16af-retina-large.jpg
+  - ../../assets/images/b8e2c2ee-ca24-4905-8c14-439707cb8db2-retina-large.jpg
   - ../../assets/images/unnamed-2.webp
   - ../../assets/images/laksavic.webp
   - ../../assets/images/laksavicrest.webp
