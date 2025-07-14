@@ -5,6 +5,24 @@ description: Malaysian Cuisine
 image: ../../assets/images/screenshot_20250714_173659_maps.jpg
 images:
   - ../../assets/images/laksa.jpg
+  - ../../assets/images/1.webp
+  - ../../assets/images/2.webp
+  - ../../assets/images/2024-11-01-1.webp
+  - ../../assets/images/3.webp
+  - ../../assets/images/2024-11-01-2.webp
+  - ../../assets/images/2024-11-01-3.webp
+  - ../../assets/images/2024-11-01-4.webp
+  - ../../assets/images/2024-11-01-5.webp
+  - ../../assets/images/4.webp
+  - ../../assets/images/5.webp
+  - ../../assets/images/6.webp
+  - ../../assets/images/8.webp
+  - ../../assets/images/2024-11-03.webp
+  - ../../assets/images/9.webp
+  - ../../assets/images/10.webp
+  - ../../assets/images/2024-11-01.webp
+  - ../../assets/images/7.webp
+  - ../../assets/images/laksab.webp
 categories:
   - foodanddrinks
 cuisine:
