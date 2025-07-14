@@ -21,7 +21,7 @@ Beyond laksa, diners can enjoy other Malaysian favourites like **Prawn Noodles*
 
 Whether you’re craving comfort food or exploring new flavours, Laksa Town delivers authentic taste and friendly service in every bowl.
 
-**Location :** [](<>)459 South Rd, Bentleigh, 3204, Victoria, Australia (5 mins walk from Clayton Railway Station)
+**Location :** [](<>)459 South Rd, Bentleigh, 3204, Victoria, Australia (3 mins walk from Moorabbin Railway Station)
 
 **Trading :**[](https://hmginternational.com/partner/laksa_town_-_clayton/)
 
