@@ -18,3 +18,5 @@ Located in the heart of Clayton, Melbourne, Laksa Town brings the bold, authenti
 Beyond laksa, diners can enjoy other Malaysian favourites like **Prawn Noodles**, **Yong Tau Foo**, and the popular **Prawn Spring Roll**. Generous servings, fresh ingredients, and a cozy hawker-style setting create a warm, casual dining experience loved by locals.
 
 Whether you're craving comfort food or exploring new flavours, Laksa Town delivers authentic taste and friendly service in every bowl.
+
+**Location :** Shopping Plaza, Unit 9/371-373 Clayton Rd, Clayton, 3168, Victoria[](<>)
