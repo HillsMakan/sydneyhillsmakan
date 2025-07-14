@@ -18,6 +18,16 @@ images:
   - ../../assets/images/fb_img_1752443398301.jpg
   - ../../assets/images/fb_img_1752443395836.jpg
   - ../../assets/images/fb_img_1752443392774.jpg
+  - ../../assets/images/fb_img_1752461263825.jpg
+  - ../../assets/images/fb_img_1752461271627.jpg
+  - ../../assets/images/fb_img_1752461276233.jpg
+  - ../../assets/images/fb_img_1752461286380.jpg
+  - ../../assets/images/fb_img_1752461291102.jpg
+  - ../../assets/images/fb_img_1752461295151.jpg
+  - ../../assets/images/fb_img_1752461299020.jpg
+  - ../../assets/images/fb_img_1752461302768.jpg
+  - ../../assets/images/fb_img_1752461306318.jpg
+  - ../../assets/images/fb_img_1752461311926.jpg
   - ../../assets/images/unnamed-2.webp
   - ../../assets/images/laksavic.webp
   - ../../assets/images/laksavicrest.webp
