@@ -3,6 +3,25 @@ draft: false
 title: Laksa Town - Clayton
 description: "Malaysian Cuisine "
 image: ../../assets/images/rab3-interior-laksa-town.jpg
+images:
+  - ../../assets/images/laksa.jpg
+  - ../../assets/images/coffee.webp
+  - ../../assets/images/fb_img_1752443401765.jpg
+  - ../../assets/images/drink.webp
+  - ../../assets/images/16049809191397135349228936197924.webp
+  - ../../assets/images/laksabowl.webp
+  - ../../assets/images/nasi.webp
+  - ../../assets/images/mee.webp
+  - ../../assets/images/16049810637142334519051719281384.webp
+  - ../../assets/images/laksa-town_da3e060b61bdbf4ef3fba406d38b0595.jpg
+  - ../../assets/images/fb_img_1752443467603.jpg
+  - ../../assets/images/fb_img_1752443398301.jpg
+  - ../../assets/images/fb_img_1752443395836.jpg
+  - ../../assets/images/fb_img_1752443392774.jpg
+  - ../../assets/images/unnamed-2.webp
+  - ../../assets/images/laksavic.webp
+  - ../../assets/images/laksavicrest.webp
+  - ../../assets/images/screenshot_20250714_073203_gallery.jpg
 categories:
   - foodanddrinks
 cuisine:
