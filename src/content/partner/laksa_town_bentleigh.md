@@ -25,6 +25,7 @@ Whether you’re craving comfort food or exploring new flavours, Laksa Town deli
 
 **Trading :**[](https://hmginternational.com/partner/laksa_town_-_clayton/)
 
-* Monday to Thursday : 11 am - 3.30 pm & 4 pm - 8 pm
-* Friday & Saturday : 11 am - 8.30 pm
-* Sunday : 11 am - 8 pm
+* Monday : 11.30 am - 3 pm & 5 pm - 9 pm
+* Tuesday & Wednesday : Closed
+* Thursday & Friday : 11.30 am - 3 pm & 5 pm - 9 pm
+* Saturday & Sunday : 11 am - 3.30 pm & 5 pm - 9 pm
