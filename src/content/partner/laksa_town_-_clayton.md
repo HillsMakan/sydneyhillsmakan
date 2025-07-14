@@ -23,4 +23,6 @@ Whether you're craving comfort food or exploring new flavours, Laksa Town delive
 
 **Trading :** [](<>)
 
-* Monday to Thursday : 11 am - 3.30 pm & 4 pm - 8 pm
+* Monday to Thursday :
+* Friday & Saturday :
+* Sunday :
