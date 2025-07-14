@@ -19,4 +19,4 @@ Beyond laksa, diners can enjoy other Malaysian favourites like **Prawn Noodles**
 
 Whether you're craving comfort food or exploring new flavours, Laksa Town delivers authentic taste and friendly service in every bowl.
 
-**Location :** Shopping Plaza, Unit 9/371-373 Clayton Rd, Clayton, 3168, Victoria[](<>)
+**Location :** Shopping Plaza, Unit 9/371-373 Clayton Rd, Clayton, 3168, Victoria, Australia (5 mins walk from Clayton Railway Station)[](<>)
