@@ -40,6 +40,10 @@ Infusion8 was born from a deeply personal journey. Following a challenging cance
 
 We believe in supporting your wellness journey through high-quality, purpose-driven offerings that reflect care, authenticity, and transformation.
 
+**HMG International Member Offer**
+
+Mention you're an HMG International Member to receive 10% off your purchase (excluding postage).
+
 **Contact Us**
 
 For enquiries or purchases, please reach out :
