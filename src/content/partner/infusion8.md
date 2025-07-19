@@ -2,7 +2,7 @@
 draft: false
 title: Infusion8
 description: Health and Beauty Products
-link: www.infusion8.com.au
+link: ""
 image: ../../assets/images/messenger_creation_5c4a687c-9b11-486d-a1aa-dc14873a6bf7.jpeg
 images:
   - ../../assets/images/screenshot_20250719_231735_drive.jpg
