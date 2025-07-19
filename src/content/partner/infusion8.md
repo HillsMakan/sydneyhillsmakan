@@ -34,4 +34,22 @@ region: australia
 discount_pct: 10
 discount_text: Excluding Postage
 ---
-g
+**About Infusion8**
+
+Infusion8 was born from a deeply personal journey. Following a challenging cancer diagnosis, our founder, Shal, was inspired to seek out genuine Australian-made products that promote health, healing, and overall wellbeing. This pursuit led to the creation of Infusion8—a name that embodies our mission to infuse innovative ideas and thoughtfully selected products into a holistic wellness experience that nurtures the mind, body, spirit, and soul.
+
+We believe in supporting your wellness journey through high-quality, purpose-driven offerings that reflect care, authenticity, and transformation.
+
+**HMG International Member Offer**
+
+Mention you're an HMG International Member to receive 10% off your purchase (excluding postage).
+
+**Contact Us**
+
+For enquiries or purchases, please reach out :
+
+Name : Shal
+
+Mobile : +61 422 641 849
+
+Email : info@infusion8.com.au
