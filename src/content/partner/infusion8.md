@@ -2,6 +2,7 @@
 draft: false
 title: Infusion8
 description: Health and Beauty Products
+link: www.infusion8.com.au
 image: ../../assets/images/messenger_creation_5c4a687c-9b11-486d-a1aa-dc14873a6bf7.jpeg
 images:
   - ../../assets/images/screenshot_20250719_231735_drive.jpg
@@ -32,7 +33,21 @@ categories:
   - online
   - wellness
 region: australia
-discount_pct: 0
+discount_pct: 10
 discount_text: Excluding Postage
 ---
-G
+**About Infusion8**
+
+Infusion8 was born from a deeply personal journey. Following a challenging cancer diagnosis, our founder, Shal, was inspired to seek out genuine Australian-made products that promote health, healing, and overall wellbeing. This pursuit led to the creation of Infusion8—a name that embodies our mission to infuse innovative ideas and thoughtfully selected products into a holistic wellness experience that nurtures the mind, body, spirit, and soul.
+
+We believe in supporting your wellness journey through high-quality, purpose-driven offerings that reflect care, authenticity, and transformation.
+
+**Contact Us**
+
+For enquiries or purchases, please reach out :
+
+Name : Shal
+
+Mobile : 0422 641 849
+
+Email : info@infusion8.com.au
