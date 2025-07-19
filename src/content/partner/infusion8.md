@@ -5,8 +5,6 @@ description: Health and Beauty Products
 link: ""
 image: ../../assets/images/messenger_creation_5c4a687c-9b11-486d-a1aa-dc14873a6bf7.jpeg
 images:
-  - ../../assets/images/screenshot_20250719_231735_drive.jpg
-  - ../../assets/images/i8.webp
   - ../../assets/images/screenshot_20250719_222701_drive.jpg
   - ../../assets/images/screenshot_20250719_222708_drive.jpg
   - ../../assets/images/screenshot_20250719_222715_drive.jpg
