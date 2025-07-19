@@ -21,6 +21,13 @@ images:
   - ../../assets/images/screenshot_20250719_222830_drive.jpg
   - ../../assets/images/screenshot_20250719_222836_drive.jpg
   - ../../assets/images/screenshot_20250719_222842_drive.jpg
+  - ../../assets/images/screenshot_20250719_221354_drive.jpg
+  - ../../assets/images/screenshot_20250719_221411_drive.jpg
+  - ../../assets/images/screenshot_20250719_221444_drive.jpg
+  - ../../assets/images/screenshot_20250719_221453_drive.jpg
+  - ../../assets/images/screenshot_20250719_221501_drive.jpg
+  - ../../assets/images/screenshot_20250719_221507_drive.jpg
+  - ../../assets/images/screenshot_20250719_221513_drive.jpg
 categories:
   - online
   - wellness
