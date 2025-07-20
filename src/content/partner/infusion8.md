@@ -32,7 +32,7 @@ categories:
   - wellness
 region: australia
 discount_pct: 10
-discount_text: Excluding Postage
+discount_text: Excluding Postage. Shipped Globally
 ---
 **About Infusion8**
 
@@ -42,7 +42,7 @@ We believe in supporting your wellness journey through high-quality, purpose-dri
 
 **HMG International Member Offer**
 
-Mention you're an HMG International Member to receive 10% off your purchase (excluding postage).
+Mention you're an HMG International Member to receive 10% off your purchase (excluding postage. Shipped Globally).
 
 **Contact Us**
 
