@@ -42,7 +42,7 @@ We believe in supporting your wellness journey through high-quality, purpose-dri
 
 **HMG International Member Offer**
 
-Mention you're an HMG International Member to receive 10% off your purchase (excluding postage. Shipped Globally).
+Mention you're an HMG International Member to receive 10% off your purchase (Excluding postage. Shipped Globally).
 
 **Contact Us**
 
