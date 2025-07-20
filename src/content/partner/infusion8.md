@@ -26,6 +26,7 @@ images:
   - ../../assets/images/screenshot_20250719_221501_drive.jpg
   - ../../assets/images/screenshot_20250719_221507_drive.jpg
   - ../../assets/images/screenshot_20250719_221513_drive.jpg
+  - ../../assets/images/i8.jpg
 categories:
   - online
   - wellness
