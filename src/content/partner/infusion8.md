@@ -36,9 +36,11 @@ discount_text: Excluding Postage. Shipped Globally
 ---
 **About Infusion8**
 
-Infusion8 was born from a deeply personal journey. Following a challenging cancer diagnosis, our founder, Shal, was inspired to seek out genuine Australian-made products that promote health, healing, and overall wellbeing. This pursuit led to the creation of Infusion8—a name that embodies our mission to infuse innovative ideas and thoughtfully selected products into a holistic wellness experience that nurtures the mind, body, spirit, and soul.
+Hi, I’m Shal – the founder of Infusion8 and a proud cancer survivor. After overcoming health challenges, I discovered the healing power of nature through botanical body oils and crystal-inspired soaps. They brought calm, comfort, and a renewed sense of wellbeing that I couldn’t wait to share with others.
 
-We believe in supporting your wellness journey through high-quality, purpose-driven offerings that reflect care, authenticity, and transformation.
+Infusion8 was born from this journey. We curate high-quality, Australian-made products that promote natural wellness and self-care – from soothing body oils and nourishing soaps to crystal candles. Every item is personally tested and chosen with love, supporting local makers and holistic living.
+
+Whether you’re gifting a loved one or treating yourself, I hope our products bring you joy, balance, and a deeper connection to nature.
 
 **HMG International Member Offer**
 
