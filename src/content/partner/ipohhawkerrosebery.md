@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Ipoh Hawker - Rosebery
 description: Malaysian and Halal Friendly
 image: ../../assets/images/ipohhawkerrosebery.jpg
