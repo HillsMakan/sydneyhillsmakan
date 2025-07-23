@@ -20,3 +20,14 @@ Once an iconic fixture on Hunter Street, the original location earned legendary 
 The star of the show? Laksa. Rich, salty, and made from a signature coconut-based broth infused with dry curry powder, the soup has a unique, slightly grainy texture that packs a punch. Choose from favourites like tender chicken (complete with a fall-apart drumstick), succulent king prawns, or the chef’s own favourite – a hearty version with chunks of Rendang-style beef.
 
 Beyond laksa, the menu is a love letter to Malay-Chinese cuisine. Don’t miss the smoky char kway teow, stir-fried with rice noodles, chicken, prawns, Chinese sausage, egg, and a touch of chilli. Or enjoy classic comfort with Hainanese chicken rice and combination plates – simple, nostalgic, and full of flavour.
+
+**Location :** Shop 1, 267 Sussex St, Sydney, 2000, NSW
+
+(Only 5 mins walk from QVB & Town Hall Station or 6 mins walk from Gadigal Metro Station)
+
+**Trading :**
+
+* Monday - Thursday : 11 am - 4.30 pm
+* Friday : 11 am - 4 pm & 5 pm - 9 pm
+* Saturday : 5 pm - 9 pm
+* Sunday : Closed
