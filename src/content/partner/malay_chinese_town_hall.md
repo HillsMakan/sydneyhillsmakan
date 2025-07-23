@@ -15,7 +15,7 @@ discount_text: Excluding promotions
 
 When it comes to lunchtime rush, few places match the buzz of Malay Chinese Takeaway – a beloved institution that has long captured the hearts (and appetites) of Asian food lovers in Sydney.
 
-Once an iconic fixture on Hunter Street, the original location earned legendary status among city workers and laksa devotees for its consistent, crowd-pleasing recipes dating back to 1987. Today, the legacy continues with three popular outposts: one on Liverpool Road in Ashfield, another inside the bustling Sydney Place dining precinct at Circular Quay and now Town Hall.
+Once an iconic fixture on Hunter Street, the original location earned legendary status among city workers and laksa devotees for its consistent, crowd-pleasing recipes dating back to 1987. Today, the legacy continues with three popular outposts: one on Liverpool Road in Ashfield, another inside the bustling Sydney Place dining precinct at Circular Quay and third one is located in Sydney's CBD near the Sydney Harbor Marriott.
 
 The star of the show? Laksa. Rich, salty, and made from a signature coconut-based broth infused with dry curry powder, the soup has a unique, slightly grainy texture that packs a punch. Choose from favourites like tender chicken (complete with a fall-apart drumstick), succulent king prawns, or the chef’s own favourite – a hearty version with chunks of Rendang-style beef.
 
