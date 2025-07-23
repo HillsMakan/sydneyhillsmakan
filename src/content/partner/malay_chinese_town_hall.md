@@ -3,6 +3,25 @@ draft: true
 title: Malay Chinese Town Hall
 description: "Malaysian Cuisine "
 image: ../../assets/images/fb_img_1753263954681.jpg
+images:
+  - ../../assets/images/screenshot_20250723_204747_samsung_internet.jpg
+  - ../../assets/images/26194e34-5129-42da-81ee-d28c51b9ceea.jpeg
+  - ../../assets/images/img_1844.jpeg
+  - ../../assets/images/img_1412.jpeg
+  - ../../assets/images/900f6d31-b013-4604-9bf9-f92e1633bc36.jpeg
+  - ../../assets/images/fb_img_1753265129441.jpg
+  - ../../assets/images/fb_img_1753265154226.jpg
+  - ../../assets/images/fb_img_1753265157550.jpg
+  - ../../assets/images/fb_img_1753265162551.jpg
+  - ../../assets/images/fb_img_1753265165502.jpg
+  - ../../assets/images/fb_img_1753265167874.jpg
+  - ../../assets/images/fb_img_1753265245593.jpg
+  - ../../assets/images/fb_img_1753265256448.jpg
+  - ../../assets/images/fb_img_1753265279897.jpg
+  - ../../assets/images/fb_img_1753265293692.jpg
+  - ../../assets/images/fb_img_1753265180645.jpg
+  - ../../assets/images/fb_img_1753265175649.jpg
+  - ../../assets/images/fb_img_1753265188302.jpg
 categories:
   - foodanddrinks
 cuisine:
