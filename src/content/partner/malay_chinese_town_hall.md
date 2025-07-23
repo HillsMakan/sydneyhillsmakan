@@ -13,7 +13,7 @@ discount_text: Excluding promotions
 ---
 **Malay Chinese Restaurant – An Icon of Laksa and More**
 
-When it comes to lunchtime rush, few places match the buzz of Malay Chinese Takeaway – a beloved institution that has long captured the hearts (and appetites) of Asian food lovers in Sydney.
+When it comes to lunchtime rush, few places match the buzz of Malay Chinese  – a beloved institution that has long captured the hearts (and appetites) of Asian food lovers in Sydney.
 
 Once an iconic fixture on Hunter Street, the original location earned legendary status among city workers and laksa devotees for its consistent, crowd-pleasing recipes dating back to 1987. Today, the legacy continues with three popular outposts: one on Liverpool Road in Ashfield, another inside the bustling Sydney Place dining precinct at Circular Quay and third one is located in Sydney's CBD near the Sydney Harbor Marriott.
 
