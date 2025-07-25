@@ -1,8 +1,23 @@
 ---
+draft: true
 title: Café Saturdays
 description: Bakery café which reinventing banana bread. Also available Basque
   cheesecake, toastie and hot & cold drinks.
 image: ../../assets/images/cafesaturdays.jpg
+images:
+  - ../../assets/images/fb_img_1753403870403.jpg
+  - ../../assets/images/2023-02-06.webp
+  - ../../assets/images/2023-03-18.webp
+  - ../../assets/images/2023-11-10.webp
+  - ../../assets/images/2023-03-18-1.webp
+  - ../../assets/images/co.webp
+  - ../../assets/images/fb_img_1753403828368.jpg
+  - ../../assets/images/fb_img_1753403847460.jpg
+  - ../../assets/images/fb_img_1753403852350.jpg
+  - ../../assets/images/fb_img_1753403926252.jpg
+  - ../../assets/images/fb_img_1753403887239.jpg
+  - ../../assets/images/fb_img_1753403905004.jpg
+  - ../../assets/images/fb_img_1753403909940.jpg
 categories:
   - foodanddrinks
   - online
