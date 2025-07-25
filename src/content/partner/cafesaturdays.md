@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Café Saturdays
 description: Bakery café which reinventing banana bread. Also available Basque
   cheesecake, toastie and hot & cold drinks.
