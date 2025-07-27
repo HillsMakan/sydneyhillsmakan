@@ -26,3 +26,9 @@ With a focus on originality, quality, and innovation, Machi Machi continues to r
 **Location :** Shop 2, 289 Old Northern Rd, Castle Hill, 2154, NSW
 
 (3 mins walk from Castle Hill Metro Station. Located near the pedestrian crossing between Castle Towers Piazza and Castle Mall)
+
+**Trading :**
+
+* Monday - Wednesday : 12 noon - 9 pm
+* Thursday - Saturday : 11 am - 10 pm
+* Sunday : 11 am - 8 pm
