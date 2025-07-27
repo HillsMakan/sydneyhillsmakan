@@ -5,6 +5,16 @@ description: Bubble Tea Store
 image: ../../assets/images/20250724_143422.jpg
 images:
   - ../../assets/images/home-3-2.jpg
+  - ../../assets/images/home-6.jpg
+  - ../../assets/images/machi_.webp
+  - ../../assets/images/2025-07-08-3.webp
+  - ../../assets/images/machi_drinks.jpeg
+  - ../../assets/images/images-9.jpeg
+  - ../../assets/images/machi_drink.jpeg
+  - ../../assets/images/machi_drinkslot.jpeg
+  - ../../assets/images/machi_drink_range_.jpeg
+  - ../../assets/images/20250724_143517.jpg
+  - ../../assets/images/20250724_143537.jpg
 categories:
   - foodanddrinks
 region: nsw
