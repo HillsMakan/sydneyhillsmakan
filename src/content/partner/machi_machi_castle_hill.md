@@ -11,4 +11,14 @@ region: nsw
 discount_pct: 5
 discount_text: Minimum 2 drinks
 ---
-F
+**Famous Global Milk Tea Brand from Taiwan**
+
+**Welcome to Machi Machi Castle Hill**
+
+Machi Machi is a globally renowned milk tea brand originating from Taiwan, celebrated for its innovative take on bubble tea and its dedication to premium quality.
+
+At Machi Machi Castle Hill, our diverse menu is centered around specialty milk teas, with the Black Milk Tea range being a customer favorite. We’re proud to offer unique creations that stand apart in the industry.
+
+Our signature cream cheese foam has become one of the most loved toppings, while our bottled milk tea is a true original—unmatched and exclusive to Machi Machi. We’re also the inventor of the iconic Black Milk Tea with Crème Brûlée, a must-try for tea lovers seeking something extraordinary.
+
+With a focus on originality, quality, and innovation, Machi Machi continues to redefine what bubble tea can be.
