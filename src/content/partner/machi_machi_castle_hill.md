@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: machi machi Castle Hill
 description: Bubble Tea Store
 image: ../../assets/images/20250724_143422.jpg
@@ -19,7 +19,7 @@ categories:
   - foodanddrinks
 region: nsw
 discount_pct: 10
-discount_text: Minimum 2 drinks
+discount_text: Minimum purchase 2 drinks and not eligible to collect Machi points
 ---
 **Famous Global Milk Tea Brand from Taiwan**
 
