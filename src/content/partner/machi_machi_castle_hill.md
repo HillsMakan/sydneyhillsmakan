@@ -8,7 +8,7 @@ images:
 categories:
   - foodanddrinks
 region: nsw
-discount_pct: 5
+discount_pct: 10
 discount_text: Minimum 2 drinks
 ---
 **Famous Global Milk Tea Brand from Taiwan**
