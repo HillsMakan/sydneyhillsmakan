@@ -1,7 +1,7 @@
 ---
 draft: true
 title: machi machi Castle Hill
-description: Bubble tea store
+description: Bubble Tea Store
 image: ../../assets/images/20250724_143422.jpg
 images:
   - ../../assets/images/home-3-2.jpg
