@@ -41,6 +41,6 @@ The menu features a delicious range of vegan and non-vegan options, catering to 
 
 Join Sangee on a tantalising culinary journey and discover the unforgettable taste of Malaysian Penang flavours—right here in Australia.
 
-For Catering WhatsApp Sangee on 0414 956 994
-
 She does do some weekend orders, catering (any occasions Sydney wide), and some Market venues. Show your member card at Markets or mention that you are HMG International member for catering.
+
+**For Catering WhatsApp Sangee on 0414 956 994**
