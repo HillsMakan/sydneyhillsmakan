@@ -31,7 +31,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Show your HMG International member card at her Food Truck/Stall
-  or mention that you are HMG International member for catering
+  or mention that you are HMG International member for catering.
 ---
 **Experience the Bold, Aromatic Flavours of Malaysian-Tamil Cuisine**
 
