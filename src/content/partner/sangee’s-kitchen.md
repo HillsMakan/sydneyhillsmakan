@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Sangee’s Kitchen
 description: "Malaysian Cuisine Catering and Food Truck "
 image: ../../assets/images/20250713_132335.jpg
@@ -21,6 +21,7 @@ images:
   - ../../assets/images/fb_img_1754016817500.jpg
   - ../../assets/images/fb_img_1754016810578.jpg
   - ../../assets/images/fb_img_1754013731121.jpg
+  - ../../assets/images/20250713_142156.jpg
   - ../../assets/images/fb_img_1754013257355.jpg
   - ../../assets/images/screenshot_20250801_120743_facebook.jpg
   - ../../assets/images/fb_img_1754014048369.jpg
