@@ -35,7 +35,7 @@ discount_pct: 10
 discount_text: Show your HMG International member card at her Food Truck/Stall
   or mention that you are HMG International member for catering.
 ---
-**Experience the Bold, Aromatic Flavours of Malaysian-Tamil Cuisine**
+**Experience the Bold, Aromatic Flavours of Malaysian-Tamil Cuisine Halal**
 
 Welcome to Sangee’s Kitchen, where the vibrant essence of Malaysian street food meets the rich heritage of Tamil culinary traditions. Founded in 2021 by chef Sangee, this food business is renowned for its unique Malaysian-fusion menu—crafted with a skillful blend of aromatic spices, bold flavours, and multicultural inspiration.
 
