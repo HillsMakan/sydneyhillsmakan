@@ -2,7 +2,7 @@
 draft: false
 title: Sangee’s Kitchen
 description: Malaysian Cuisine
-image: ../../assets/images/sangee’s-kitchen.jpg
+image: ../../assets/images/20250713_132335.jpg
 categories:
   - foodanddrinks
 cuisine:
