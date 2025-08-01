@@ -31,6 +31,16 @@ cuisine:
 region: nsw
 discount_pct: 10
 ---
-For Catering WhatsApp Sangee : 0414 956 994
+**Experience the Bold, Aromatic Flavours of Malaysian-Tamil Cuisine**
+
+Welcome to Sangee’s Kitchen, where the vibrant essence of Malaysian street food meets the rich heritage of Tamil culinary traditions. Founded in 2021 by chef Sangee, this food business is renowned for its unique Malaysian-fusion menu—crafted with a skillful blend of aromatic spices, bold flavours, and multicultural inspiration.
+
+Sangee's passion for cooking was ignited during her childhood in Penang, where she learned the art of spice and flavour from her father, a seasoned curry chef. After moving to Australia in 2018, she channelled those cherished memories into creating Sangee’s Kitchen—a tribute to her heritage and a celebration of Malaysia’s diverse food culture.
+
+The menu features a delicious range of vegan and non-vegan options, catering to all dietary preferences. From the creamy richness of curry laksa to the fragrant layers of nasi lemak, every dish tells a story. In honour of her Tamil roots, Sangee also serves pani puri, a beloved South Asian street food, alongside Malaysian favourites like satay skewers, bringing together the best of both worlds.
+
+Join Sangee on a tantalising culinary journey and discover the unforgettable taste of Malaysian Penang flavours—right here in Australia.
+
+For Catering WhatsApp Sangee on 0414 956 994
 
 She does do some weekend orders, catering (any occasions Sydney wide), and some Market venues. Show your member card at Markets or mention that you are HMG International member for catering.
