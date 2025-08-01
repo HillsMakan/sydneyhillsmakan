@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Sangee’s Kitchen
-description: "Malaysian Cuisine Catering and Food Truck "
+description: "Malaysian Indian Cuisine Catering and Food Truck "
 image: ../../assets/images/20250713_132335.jpg
 images:
   - ../../assets/images/fb_img_1754013205271.jpg
@@ -28,7 +28,7 @@ images:
 categories:
   - foodanddrinks
 cuisine:
-  - Malaysian
+  - Malaysian Indian
 region: nsw
 discount_pct: 10
 discount_text: Show your HMG International member card at her Food Truck/Stall
