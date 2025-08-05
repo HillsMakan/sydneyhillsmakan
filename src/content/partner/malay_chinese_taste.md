@@ -28,7 +28,7 @@ With over 30 years of experience, Jimmy brings his culinary expertise to the tab
 
 **Location :** North Sydney Greenwood Plaza Metro Level/upstairs Foodcourt on 36 Blue St, North Sydney, 2060, NSW, Australia. 
 
-(6 mins walk from Victoria Cross Metro Station or 3mins walk from North Sydney Station)
+(6 mins walk from Victoria Cross Metro Station or 3 mins walk from North Sydney Station)
 
 **Trading :** 
 
