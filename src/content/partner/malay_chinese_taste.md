@@ -16,3 +16,12 @@ discount_text: "Excluding promotions "
 Discover flavour-packed Malaysian-Chinese cuisine right in the heart of North Sydney. From rich, aromatic laksa to sizzling stir-fries, Malay Chinese Taste is your new go-to spot for a satisfying lunch.
 
 With over 30 years of experience, Jimmy brings his culinary expertise to the table. Before launching his own venture, he worked alongside his uncle at the iconic Malay Chinese Takeaway Restaurant, mastering the art of authentic flavours and fast-paced service.
+
+**Location :** North Sydney Greenwood Plaza Metro Level/upstairs Foodcourt on 36 Blue St, North Sydney, 2060, NSW, Australia. 
+
+(6 mins walk from Victoria Cross Metro Station or 3mins walk from North Sydney Station)
+
+**Trading :** 
+
+* Monday to Friday: 10.30 am - 3 pm
+* Saturday & Sunday : Closed
