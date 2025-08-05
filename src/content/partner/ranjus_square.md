@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Ranju's Square
-description: Malaysian Indian Cuisine & Catering
+description: Malaysian Indian Cuisine & Catering. Halal
 image: ../../assets/images/img-20250805-wa0013.jpg
 images:
   - ../../assets/images/fb_img_1754402682197.jpg
@@ -29,6 +29,7 @@ categories:
   - foodanddrinks
 cuisine:
   - Malaysian Indian
+  - Halal
 region: victoria
 discount_pct: 10
 discount_text: "Including catering and excluding promotions "
