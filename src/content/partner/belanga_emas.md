@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Belanga Emas
+title: Belanga Emas Malaga
 description: Malaysian Halal
 image: ../../assets/images/belanga_emas.jpg
 images:
