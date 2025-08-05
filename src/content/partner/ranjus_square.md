@@ -1,8 +1,23 @@
 ---
-draft: false
+draft: true
 title: Ranju's Square
 description: Malaysian Indian Cuisine & Catering
 image: ../../assets/images/img-20250805-wa0013.jpg
+images:
+  - ../../assets/images/fb_img_1754402682197.jpg
+  - ../../assets/images/5283d81c664b43c5f57a3a186d273063.jpeg
+  - ../../assets/images/fb_img_1754402823595.jpg
+  - ../../assets/images/fb_img_1754402758956.jpg
+  - ../../assets/images/fb_img_1754402790739.jpg
+  - ../../assets/images/fb_img_1754402793705.jpg
+  - ../../assets/images/fb_img_1754402795623.jpg
+  - ../../assets/images/fb_img_1754402797604.jpg
+  - ../../assets/images/fb_img_1754402800149.jpg
+  - ../../assets/images/nasile.webp
+  - ../../assets/images/le.webp
+  - ../../assets/images/screenshot_20250806_001317_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250806_001404_samsung_internet.jpg
+  - ../../assets/images/screenshot_20250806_001455_samsung_internet.jpg
 categories:
   - foodanddrinks
 region: victoria
