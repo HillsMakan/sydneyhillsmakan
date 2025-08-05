@@ -20,6 +20,8 @@ images:
   - ../../assets/images/screenshot_20250806_001455_samsung_internet.jpg
 categories:
   - foodanddrinks
+cuisine:
+  - Malaysian Indian
 region: victoria
 discount_pct: 10
 discount_text: "Including catering and excluding promotions "
