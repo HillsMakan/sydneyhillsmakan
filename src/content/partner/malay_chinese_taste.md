@@ -3,6 +3,15 @@ draft: false
 title: Malay Chinese Taste
 description: "Malaysian Cuisine "
 image: ../../assets/images/20250805_133617.jpg
+images:
+  - ../../assets/images/20250805_130417.jpg
+  - ../../assets/images/20250805_130336.jpg
+  - ../../assets/images/20250805_131958.jpg
+  - ../../assets/images/20250805_135124.jpg
+  - ../../assets/images/20250805_130206.jpg
+  - ../../assets/images/20250805_130003.jpg
+  - ../../assets/images/20250805_130012.jpg
+  - ../../assets/images/20250805_130022.jpg
 categories:
   - foodanddrinks
 cuisine:
