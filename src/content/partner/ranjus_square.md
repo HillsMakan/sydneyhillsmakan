@@ -57,7 +57,7 @@ At Ranju’s Square, customer satisfaction is our top priority.
 
 📞 Feel free to call Ranju on 0481 700 571 to place your order or discuss catering needs.
 
-**Location :** Shop 9, 73/75 Point Cook Rd, Seabrook, 3028, VIC, Australia 
+**Location :** Shop 9, 73-75 Point Cook Rd, Seabrook, 3028, VIC, Australia 
 
 **Trading :**
 
