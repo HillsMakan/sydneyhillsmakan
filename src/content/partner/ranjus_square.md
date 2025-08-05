@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Ranju's Square
 description: Malaysian Indian Cuisine & Catering
 image: ../../assets/images/img-20250805-wa0013.jpg
