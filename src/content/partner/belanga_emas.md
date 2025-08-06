@@ -53,4 +53,4 @@ Come by and experience the warmth, flavour, and hospitality of Malaysian street 
 * Sunday & Monday : 9 am - 5 pm
 * Tuesday - Thursday : 10 am - 5 pm
 * Friday : 9.30 am - 5 pm
-* Saturday : 9 am - 6 pm
+* Saturday : 9 am - 5 pm
