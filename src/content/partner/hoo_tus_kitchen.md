@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Hoo & Tu's Kitchen 台馬小館 - Artarmon NSW
+title: Hoo & Tu's Kitchen 台馬小館 - Artarmon, NSW
 description: Malaysian Chinese flavours infused with a touch of Taiwanese soul
 image: ../../assets/images/20250717_134617.jpg
 images:
