@@ -11,7 +11,7 @@ cuisine:
   - Asian Fusion
 region: nsw
 discount_pct: 10
-discount_text: "Excluding "
+discount_text: "Excluding specials/promotions "
 ---
 **Hoo & Tu's Kitchen – Artarmon**
 
