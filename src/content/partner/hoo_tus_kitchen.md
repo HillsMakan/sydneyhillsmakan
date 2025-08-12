@@ -13,7 +13,7 @@ region: nsw
 discount_pct: 10
 discount_text: "Excluding specials/promotions "
 ---
-**Hoo & Tu's Kitchen – Artarmon**
+**Hoo & Tu's Kitchen 台馬小館 – Artarmon**
 
 Discover the perfect harmony of flavours at Hoo & Tu's Kitchen in Artarmon, where East meets West in our signature fusion dishes and sizzling wok stir-fries. From indulgent golden lava salted egg yolk creations to fresh pipis and beloved Asian comfort classics, every plate is prepared with care to delight your taste buds.
 
