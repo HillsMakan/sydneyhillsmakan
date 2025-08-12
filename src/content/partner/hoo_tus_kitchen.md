@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Hoo & Tu's Kitchen
+title: Hoo & Tu's Kitchen Artarmon
 description: Malaysian Chinese flavours infused with a touch of Taiwanese soul
 image: ../../assets/images/20250717_134617.jpg
 categories:
