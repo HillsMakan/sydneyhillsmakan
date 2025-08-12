@@ -3,6 +3,17 @@ draft: false
 title: Hoo & Tu's Kitchen Artarmon
 description: Malaysian Chinese flavours infused with a touch of Taiwanese soul
 image: ../../assets/images/20250717_134617.jpg
+images:
+  - ../../assets/images/screenshot_20250812_195358_facebook.jpg
+  - ../../assets/images/fb_img_1754992456627.jpg
+  - ../../assets/images/fb_img_1754992504394.jpg
+  - ../../assets/images/20250717_122922.jpg
+  - ../../assets/images/fb_img_1754992508562.jpg
+  - ../../assets/images/20250717_123417.jpg
+  - ../../assets/images/20250717_123521.jpg
+  - ../../assets/images/ho.webp
+  - ../../assets/images/20250717_124216.jpg
+  - ../../assets/images/hoo.webp
 categories:
   - foodanddrinks
 cuisine:
