@@ -38,7 +38,7 @@ Discover the perfect harmony of flavours at Hoo & Tu's Kitchen in Artarmon, wher
 
 Enjoy Malaysian Chinese hawker-style flavours infused with a touch of Taiwanese soul—bringing you a truly unique dining experience.
 
-**LoLocation :** 1A Broughton Rd, Artarmon, 2064, NSW, Australia 
+**LoLcation :** 1A Broughton Rd, Artarmon, 2064, NSW, Australia 
 
 (2 mins walk from Artarmon Station)
 
