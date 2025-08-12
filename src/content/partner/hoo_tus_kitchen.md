@@ -45,3 +45,5 @@ Enjoy Malaysian Chinese hawker-style flavours infused with a touch of Taiwanese 
 **Trading :**
 
 * Monday : Closed
+* Tuesday - Thursday : 11 am - 2.30 pm & 5.30 pm - 9 pm
+* Friday - Sunday : 11 am - 2.30 pm & 5.30 pm - 9.30 pm
