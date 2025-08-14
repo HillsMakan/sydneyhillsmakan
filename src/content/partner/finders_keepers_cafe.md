@@ -3,6 +3,17 @@ draft: false
 title: Finders Keepers Cafe
 description: Australian Cafe
 image: ../../assets/images/fb_img_1755155839303.jpg
+images:
+  - ../../assets/images/fb_img_1755154787991.jpg
+  - ../../assets/images/fb_img_1755155149214.jpg
+  - ../../assets/images/fb_img_1755155157944.jpg
+  - ../../assets/images/fb_img_1755154902863.jpg
+  - ../../assets/images/fb_img_1755155559298.jpg
+  - ../../assets/images/fin.webp
+  - ../../assets/images/fb_img_1755154877674.jpg
+  - ../../assets/images/fb_img_1755154883898.jpg
+  - ../../assets/images/fb_img_1755154891757.jpg
+  - ../../assets/images/fb_img_1755154917297.jpg
 categories:
   - foodanddrinks
 cuisine:
