@@ -34,6 +34,16 @@ images:
   - ../../assets/images/fb_img_1755155661323.jpg
   - ../../assets/images/fb_img_1755155685303.jpg
   - ../../assets/images/screenshot_20250814_171536_facebook.jpg
+  - ../../assets/images/unnamed-4_5_.jpg
+  - ../../assets/images/find.webp
+  - ../../assets/images/finde.png
+  - ../../assets/images/fb_img_1755155857660.jpg
+  - ../../assets/images/877867199f608cb3b3221126b633bd81.jpg
+  - ../../assets/images/finder.webp
+  - ../../assets/images/306511166_491493326319738_1704181851210489238_n.jpeg
+  - ../../assets/images/finders.webp
+  - ../../assets/images/278531458_5200546386662204_7860818582613859002_n.jpeg
+  - ../../assets/images/fcafe.webp
 categories:
   - foodanddrinks
 cuisine:
