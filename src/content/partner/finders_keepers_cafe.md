@@ -23,6 +23,8 @@ Whether you’re stopping by for your morning caffeine fix or a leisurely weeken
 
 **Location :** 87-89 Riversdale Rd, Hawthorn, 3122, VIC, Australia
 
+(1 min walk from Riversdale Rd & Glenferrie Rd Tram Stop)
+
 **Trading :**
 
 * Monday - Friday : 7 am - 3 pm
