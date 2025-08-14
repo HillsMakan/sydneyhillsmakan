@@ -25,4 +25,5 @@ Whether you’re stopping by for your morning caffeine fix or a leisurely weeken
 
 **Trading :**
 
-* Monday
+* Monday - Friday : 7 am - 3 pm
+* Saturday & Sunday : 8 am - 3 pm
