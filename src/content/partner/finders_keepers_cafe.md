@@ -49,7 +49,7 @@ categories:
 cuisine:
   - Australian
 region: victoria
-discount_pct: 0
+discount_pct: 10
 discount_text: Excluding specials
 ---
 **Finders Keepers Cafe – Hawthorn**
