@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Malay Chinese Taste North Sydney
+title: Malay Chinese Taste
 description: "Malaysian Cuisine "
 image: ../../assets/images/20250805_133617.jpg
 images:
