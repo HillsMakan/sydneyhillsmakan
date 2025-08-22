@@ -29,13 +29,11 @@ region: victoria
 discount_pct: 10
 discount_text: "Excluding Specials "
 ---
-**Aikomama Japanese at Vermont** 
+**Aikomama Poke Bowl at Vermont** 
 
 At Aikomama, we bring gourmet flavours to life with the freshest ingredients in every bowl and sashimi-style dish. Our menu celebrates quality and simplicity, offering vibrant, wholesome meals that highlight both taste and presentation.
 
-Indulge in a local seafood experience like no other with our Bluefin Tuna from Port Lincoln, expertly prepared to showcase its delicate flavour and freshness.
-
-Signature Dish ... Poke Bowl – Bluefin Tuna, Cherry Tomato, Seaweed Salad.
+Indulge in a local seafood experience like no other with our premium Southern Bluefin Tuna from Port Lincoln, expertly prepared to showcase its delicate flavour and freshness.
 
 **Location :** 14 Boronia Rd, Vermont, 3133, VIC, Australia
 
