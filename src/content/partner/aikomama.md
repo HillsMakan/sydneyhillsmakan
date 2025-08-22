@@ -41,3 +41,9 @@ Indulge in a local seafood experience like no other with our premium Southern Bl
 
 * Friday & Saturday : 11 am - 7 pm
 * Sunday - Thursday : Closed
+
+**Website :** https://www.aikomama.com.au
+
+* Promo code : HILLSMAKAN10
+* Pick Up Location : 14 Boronia Rd, Vermont, 3133, VIC, Australia
+* Pick Up Trading : Friday & Saturday from 11 am to 7 pm
