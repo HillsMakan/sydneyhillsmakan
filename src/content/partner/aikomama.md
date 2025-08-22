@@ -35,7 +35,7 @@ At Aikomama, we bring gourmet flavours to life with the freshest ingredients in 
 
 Indulge in a local seafood experience like no other with our Bluefin Tuna from Port Lincoln, expertly prepared to showcase its delicate flavour and freshness.
 
-Signature Dish ... Poke Bowl – Bluefin Tuna, Cherry Tomato, Seaweed Salad and many more.
+Signature Dish ... Poke Bowl – Bluefin Tuna, Cherry Tomato, Seaweed Salad.
 
 **Location :** 14 Boronia Rd, Vermont, 3133, VIC, Australia
 
