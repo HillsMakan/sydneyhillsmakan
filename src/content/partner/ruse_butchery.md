@@ -5,6 +5,16 @@ description: Butcher - Halal
 image: ../../assets/images/ruse_butchery.jpg
 images:
   - ../../assets/images/fb_img_1756084230010.jpg
+  - ../../assets/images/fb_img_1756084738464.jpg
+  - ../../assets/images/2025-03-01.webp
+  - ../../assets/images/2025-03-01-1.webp
+  - ../../assets/images/2025-07-13.webp
+  - ../../assets/images/2025-07-13-1.webp
+  - ../../assets/images/2025-07-13-2.webp
+  - ../../assets/images/2025-07-13-3.webp
+  - ../../assets/images/2025-07-13-4.webp
+  - ../../assets/images/2025-04-25.webp
+  - ../../assets/images/ruse1.webp
 categories:
   - foodanddrinks
   - supermarket
