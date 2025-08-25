@@ -8,6 +8,9 @@ images:
 categories:
   - foodanddrinks
   - supermarket
+cuisine:
+  - Butcher
+  - Halal
 region: nsw
 discount_pct: 10
 discount_text: Minimum spend $30
