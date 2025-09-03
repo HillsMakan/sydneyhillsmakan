@@ -58,7 +58,7 @@ import { Icon } from 'astro-iconify'
         <input
           type="search"
           x-model="searchText"
-          class="form-control relative m-0 block w-full min-w-0 max-w-xs flex-auto rounded border border-solid border-blue-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-500 transition ease-in-out focus:border-blue-500 focus:text-gray-700 focus:outline-none dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300 dark:focus:border-blue-600 dark:focus:text-gray-100"
+          class="form-control relative m-0 block w-full min-w-0 max-w-xs flex-auto rounded-sm border border-solid border-blue-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-500 transition ease-in-out focus:border-blue-500 focus:text-gray-700 focus:outline-hidden dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300 dark:focus:border-blue-600 dark:focus:text-gray-100"
           id="lunrsearch"
           name="q"
           maxlength="255"
@@ -68,7 +68,7 @@ import { Icon } from 'astro-iconify'
           aria-describedby="lunrbutton"
         />
         <button
-          class="btn inline-block items-center rounded bg-blue-600 p-2 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg"
+          class="btn inline-block items-center rounded-sm bg-blue-600 p-2 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-hidden focus:ring-0 active:bg-blue-800 active:shadow-lg"
           type="button"
           name="search"
           id="lunrbutton"
@@ -139,7 +139,7 @@ import { Icon } from 'astro-iconify'
             >
               <button
                 type="button"
-                class="rounded-md text-blue-300 hover:text-pink-300 focus:outline-none focus:ring-2 focus:ring-white"
+                class="rounded-md text-blue-300 hover:text-pink-300 focus:outline-hidden focus:ring-2 focus:ring-white"
                 x-on:click="searchResults = false"
               >
                 <span class="sr-only">Close panel</span>

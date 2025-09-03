@@ -15,14 +15,16 @@ const { cuisine } = Astro.props
 export async function getStaticPaths() {
   const partners = await getCollection('partner', (partner) => !partner.data.draft)
 
-  let cuisines = Array.from(new Set(partners.flatMap((partner) => partner.data.cuisine)))
+  let cuisines = Array.from(
+    new Set(partners.flatMap((partner) => partner.data.cuisine))
+  ) as string[]
 
-  if (!cuisines[0]) {
-    cuisines = cuisines.slice(1)
-  }
+  cuisines = cuisines.filter((cuisine) => cuisine !== undefined)
+
+  console.log(cuisines)
 
   return cuisines.map((cuisine) => ({
-    params: { cuisine: cuisine },
+    params: { cuisine },
     props: { cuisine }
   }))
 }

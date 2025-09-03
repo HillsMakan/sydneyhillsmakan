@@ -33,7 +33,7 @@ for (const p of partners) {
       {
         pext.length > 0 ? (
           pext.map((partner) => (
-            <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
+            <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-xs dark:border-gray-700 dark:bg-gray-800">
               <a href={'/partner/' + partner.id}>
                 <div>
                   <h4 class="text-xl font-bold dark:text-white">{partner.data.title}</h4>
@@ -50,7 +50,7 @@ for (const p of partners) {
                     <RegBadge region={partner.region} />
                   </span>
                   {partner.data.discount_pct && partner.data.discount_pct > 0 ? (
-                    <span class="me-2 rounded bg-red-100 px-2.5 py-0.5 text-base font-medium text-red-800 dark:bg-red-900 dark:text-red-300">
+                    <span class="me-2 rounded-sm bg-red-100 px-2.5 py-0.5 text-base font-medium text-red-800 dark:bg-red-900 dark:text-red-300">
                       {partner.data.discount_pct}% Discount
                     </span>
                   ) : (
@@ -78,7 +78,7 @@ for (const p of partners) {
                 <div class="mt-4 flex items-center justify-between gap-4">
                   <a
                     href={'/partner/' + partner.id}
-                    class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                    class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-hidden focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                   >
                     <Icon class="-ms-2 me-2 size-5" name="mdi:eye" />
                     View partner

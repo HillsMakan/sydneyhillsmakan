@@ -10,7 +10,7 @@ export interface Props {
 const { frontmatter } = Astro.props
 ---
 
-<header class="mx-auto max-w-screen-xl items-center px-4 py-8 sm:py-16 lg:px-6">
+<header class="mx-auto max-w-(--breakpoint-xl) items-center px-4 py-8 sm:py-16 lg:px-6">
   <div class="gap-8 xl:grid xl:grid-cols-2 xl:gap-16">
     <Image class="w-full rounded-lg" src={frontmatter.image!} alt={frontmatter.title} />
     <div class="mt-4 flex items-center md:mt-0">
