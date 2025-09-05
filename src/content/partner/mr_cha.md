@@ -10,4 +10,42 @@ cuisine:
 region: nsw
 discount_pct: 10
 ---
-M
+**Mr Cha Eatery**
+
+Authentic Malaysian Street Food in the Heart of Bankstown
+
+Mr Cha Eatery brings the rich, vibrant flavours of Malaysia to Bankstown, serving up beloved street food classics alongside sweet treats like waffles and tiramisu.
+
+✨ Exciting news for nasi lovers – remember the famous Nasi Kerabu at Guildford Mamu ? That much-loved dish is now available right here in Bankstown !
+
+Menu Highlights :
+
+• Penang Har Mee – prawn noodle soup
+
+• Penang Curry Mee – laksa
+
+• Hainanese Chicken Rice
+
+• Curry Chicken with Steamed Rice
+
+• Nasi Lemak
+
+• Nasi Kerabu
+
+• Waffles
+
+• Tiramisu
+
+• …and more Malaysian favourites
+
+Whether you’re craving comforting noodle soups, fragrant rice dishes, or a sweet finish, Mr Cha Eatery is your go-to spot for authentic Malaysian flavours.
+
+**Location :** 91 Bankstown City Plaza, Bankstown, 2200, NSW (1 min walk from Bankstown Station)
+
+**Trading :**
+
+• Mon – Thu : 1 pm – 9 pm
+
+• Fri & Sat : 1 pm – 12 midnight
+
+• Sun : 1 pm – 10 pm
