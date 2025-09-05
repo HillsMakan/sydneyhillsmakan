@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Mr·Cha
-description: "Malaysian Style Street Food "
+description: Malaysian Style Street Food - Halal
 image: ../../assets/images/messenger_creation_b123374c-e9b0-413f-9357-2ed9aec998c1.jpeg
 images:
   - ../../assets/images/messenger_creation_2d1ead24-dd34-41e4-a2fa-9ddd290d7782.jpeg
@@ -16,6 +16,7 @@ categories:
   - foodanddrinks
 cuisine:
   - Malaysian
+  - Halal
 region: nsw
 discount_pct: 10
 discount_text: "Excluding specials "
