@@ -1,8 +1,17 @@
 ---
-draft: false
+draft: true
 title: Mr·Cha
 description: "Malaysian Style Street Food "
 image: ../../assets/images/messenger_creation_b123374c-e9b0-413f-9357-2ed9aec998c1.jpeg
+images:
+  - ../../assets/images/messenger_creation_2d1ead24-dd34-41e4-a2fa-9ddd290d7782.jpeg
+  - ../../assets/images/fb_img_1757052163537.jpg
+  - ../../assets/images/fb_img_1757052228715.jpg
+  - ../../assets/images/fb_img_1757052236896.jpg
+  - ../../assets/images/fb_img_1757052248028.jpg
+  - ../../assets/images/fb_img_1757052251997.jpg
+  - ../../assets/images/fb_img_1757052263044.jpg
+  - ../../assets/images/fb_img_1757052268311.jpg
 categories:
   - foodanddrinks
 cuisine:
