@@ -18,6 +18,7 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
+discount_text: "Excluding specials "
 ---
 **Mr Cha Eatery**
 
