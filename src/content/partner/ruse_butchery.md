@@ -2,7 +2,7 @@
 draft: false
 title: Ruse Butchery
 description: Butcher - Halal
-image: ../../assets/images/ruse_butchery.jpg
+image: ../../assets/images/img-20250908-wa0005.jpg
 images:
   - ../../assets/images/fb_img_1756084230010.jpg
   - ../../assets/images/fb_img_1756084738464.jpg
