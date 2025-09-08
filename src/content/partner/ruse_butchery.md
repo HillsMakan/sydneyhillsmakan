@@ -14,7 +14,6 @@ images:
   - ../../assets/images/2025-07-13-3.webp
   - ../../assets/images/2025-07-13-4.webp
   - ../../assets/images/2025-04-25.webp
-  - ../../assets/images/ruse1.webp
 categories:
   - foodanddrinks
   - supermarket
