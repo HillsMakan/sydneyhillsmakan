@@ -8,7 +8,7 @@ categories:
 cuisine:
   - American Style SMOKED BBQ
   - Halal
-region: kl
+region: selangor
 discount_pct: 0
 ---
 H
