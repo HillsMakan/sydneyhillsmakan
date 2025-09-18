@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Cowboys Barbecue & Grill Petaling Jaya, Selangor
+title: Cowboys Barbecue & Grill Damansara
 description: American Style SMOKED BBQ Restaurant - 100% Halal
 image: ../../assets/images/fb_img_1758018688057.jpg
 images:
