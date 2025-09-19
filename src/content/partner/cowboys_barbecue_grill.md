@@ -5,6 +5,7 @@ description: American Style SMOKED BBQ Restaurant - 100% Halal
 image: ../../assets/images/fb_img_1758018688057.jpg
 images:
   - ../../assets/images/screenshot_20250916_205148_samsung_internet.jpg
+  - ../../assets/images/images-16.jpeg
   - ../../assets/images/fb_img_1758021402638.jpg
   - ../../assets/images/fb_img_1758021720255.jpg
   - ../../assets/images/465508201_18465935080037533_7279604212550977273_n.jpg
@@ -15,6 +16,15 @@ images:
   - ../../assets/images/bbq2.jpeg
   - ../../assets/images/3fd731_7c9b0ade0ab74bb287099a52e34bf291~mv2.jpg
   - ../../assets/images/fb_img_1758021410446.jpg
+  - ../../assets/images/fb_img_1758021641115.jpg
+  - ../../assets/images/fb_img_1758021482643.jpg
+  - ../../assets/images/fb_img_1758021516413.jpg
+  - ../../assets/images/fb_img_1758021592098.jpg
+  - ../../assets/images/fb_img_1758021656984.jpg
+  - ../../assets/images/fb_img_1758021766298.jpg
+  - ../../assets/images/fb_img_1758021687312.jpg
+  - ../../assets/images/fb_img_1758021828330.jpg
+  - ../../assets/images/fb_img_1758022163374.jpg
 categories:
   - foodanddrinks
 cuisine:
