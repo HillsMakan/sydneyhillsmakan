@@ -2,7 +2,7 @@
 draft: false
 title: Warung Nia Balinese Food & Pork Ribs
 description: Balinese Restaurant
-image: ../../assets/images/images-10.jpeg
+image: ../../assets/images/caption.jpg
 images:
   - ../../assets/images/fb_img_1750880648796.jpg
   - ../../assets/images/20250625_190959.jpg
@@ -52,9 +52,9 @@ Located in the heart of Seminyak, Warung Nia is known for its delicious authenti
 
 In addition to great food, Warung Nia also offers Balinese cooking classes – a perfect way to immerse yourself in the local culinary culture.
 
-**Location :** Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia 
+**Location :** Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia
 
-**Trading :** 
+**Trading :**
 
 * Monday to Sunday : 10 am - 10 pm
 
