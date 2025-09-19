@@ -48,4 +48,155 @@ cuisine:
 region: selangor
 discount_pct: 0
 ---
-H
+**Cowboys Barbecue & Grill**
+
+Halal American BBQ — Muslim‑Run
+
+Bold Texas smoke, with a fun Malaysian twist.
+
+Smoked Low & Slow. Loved by All.
+
+Savor tender Smoked Beef Brisket, Signature Chicken Wings, and more—finished with our house‑made sauces.
+
+Show your HMG International e‑Member Card at our restaurant or food truck for exclusive discounts. Mention HMG International for catering perks.
+
+\---
+
+**What We’re About**
+
+We bring the best of Texan‑style barbecue to Malaysia — 100% halal, Muslim‑run, and crafted with care. From classic smokehouse cuts to crowd‑pleasing bites, every dish is seasoned, smoked, and served with genuine Southern hospitality.
+
+\---
+
+**Menu Highlights**
+
+* Smoked Beef Brisket — melt‑in‑your‑mouth, slow‑smoked perfection
+* Sticky Signature Wings — crispy, juicy, and tossed in our secret sauce
+* Ribs — tender, saucy, and finger‑licking good
+* Juicy Lamb — richly spiced and slow‑cooked
+* Burgers & Hot Dogs — loaded and satisfying
+* Quesadillas & Wings — Tex‑Mex comfort with our BBQ flair
+* Hearty Sides — slaw, fries, mac, beans, and more
+
+All sauces are made in‑house.
+
+\---
+
+**Events, Catering & Food Truck**
+
+Planning an event ? We’ll bring the smoke and sizzle to you.
+
+* Live Grill Station — chef‑led grilling on‑site for maximum theatre
+* Food Truck — perfect for festivals, school fairs, corporate days & private parties
+* Buffet & Set Menus — tailored packages to suit your budget and guest list
+
+Tell us your date, headcount, and vibe—we’ll handle the food so you can focus on what matters.
+
+\---
+
+**Why Choose Us**
+
+* Certified Halal ingredients and preparation
+* Authentic Smokehouse Technique — low & slow
+* House‑Made Sauces and rubs
+* Friendly, Fast Service from our crew
+* Family‑Friendly and event‑ready
+
+\---
+
+**HMG International Member Benefits**
+
+* Show your HMG International e‑Member Card at the restaurant or food truck for discounts.
+* Catering bookings: Mention you’re an HMG International member for a special rate.
+
+\---
+
+Visit Us
+
+
+
+Address: \[Insert address]
+
+Hours: \[Insert trading hours]
+
+Phone: \[Insert phone number]
+
+Email: \[Insert email]
+
+Social: \[Instagram/Facebook/TikTok links]
+
+
+
+\> Tip: Save our number—BBQ cravings can strike anytime.
+
+
+
+
+
+
+
+
+
+\---
+
+
+
+Quick Enquiry
+
+
+
+Planning an event? Tell us:
+
+
+
+Event date & time
+
+
+
+Location
+
+
+
+Number of guests
+
+
+
+Live grill, food truck, or buffet
+
+We’ll reply with a tailored quote.
+
+
+
+
+
+
+
+\---
+
+
+
+SEO Snippets (Optional)
+
+
+
+Meta Title: Cowboys Barbecue & Grill — Halal American BBQ, Catering & Food Truck
+
+Meta Description: Muslim‑run halal Texas‑style BBQ with a Malaysian twist. Smoked brisket, ribs, wings, burgers & sides. Live grill, food truck, and buffet catering. HMG member discounts.
+
+
+
+Schema Keywords: halal BBQ, smoked brisket, halal catering, food truck, Texan BBQ, Malaysian twist
+
+
+
+
+
+\---
+
+
+
+Fine Print
+
+
+
+Menu items, availability, and pricing may vary by location and event. Please advise of allergies when ordering.
