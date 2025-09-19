@@ -25,6 +25,17 @@ images:
   - ../../assets/images/fb_img_1758021687312.jpg
   - ../../assets/images/fb_img_1758021828330.jpg
   - ../../assets/images/fb_img_1758022163374.jpg
+  - ../../assets/images/fb_img_1758021958753.jpg
+  - ../../assets/images/fb_img_1758022066833.jpg
+  - ../../assets/images/fb_img_1758021974406.jpg
+  - ../../assets/images/fb_img_1758021815497.jpg
+  - ../../assets/images/2.png
+  - ../../assets/images/3.png
+  - ../../assets/images/4.png
+  - ../../assets/images/5.png
+  - ../../assets/images/6.png
+  - ../../assets/images/fb_img_1758018697730.jpg
+  - ../../assets/images/images-14.jpeg
 categories:
   - foodanddrinks
 cuisine:
