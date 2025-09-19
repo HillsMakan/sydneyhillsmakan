@@ -2,6 +2,7 @@
 draft: false
 title: Cowboys Barbecue & Grill - Petaling Jaya, Selangor, Malaysia
 description: American Style SMOKED BBQ Restaurant - 100% Halal
+link: https://www.cowboysbarbecuengrill.com
 image: ../../assets/images/fb_img_1758018688057.jpg
 images:
   - ../../assets/images/screenshot_20250916_205148_samsung_internet.jpg
