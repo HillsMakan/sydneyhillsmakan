@@ -2,7 +2,7 @@
 draft: false
 title: Warung Nia Balinese Food & Pork Ribs
 description: Balinese Restaurant
-image: ../../assets/images/caption.jpg
+image: ../../assets/images/warung_.jpg
 images:
   - ../../assets/images/fb_img_1750880648796.jpg
   - ../../assets/images/20250625_190959.jpg
