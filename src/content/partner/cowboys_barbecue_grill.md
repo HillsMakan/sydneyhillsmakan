@@ -48,6 +48,8 @@ cuisine:
 region: selangor
 discount_pct: 0
 ---
+
+
 **Cowboys Barbecue & Grill**
 
 Halal American BBQ — Muslim‑Run
@@ -100,3 +102,9 @@ Tell us your date, headcount, and vibe—we’ll handle the food so you can focu
 * Catering bookings : Mention you’re an HMG International member for a special rate.
 
 **Visit Us**
+
+5, Jalan PJU 1a/42, Ara Damansara, 47301, Petaling Jaya, Selangor, Malaysia 
+
+**Trading**
+
+Monday to Sunday : 11 am - 10 pm
