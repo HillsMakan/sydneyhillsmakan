@@ -60,7 +60,7 @@ Smoked Low & Slow. Loved by All.
 
 Savor tender Smoked Beef Brisket, Signature Chicken Wings, and more—finished with our house‑made sauces.
 
-Show your HMG International e‑Member Card at our restaurant or food truck for exclusive discounts. Mention HMG International for catering perks.
+Show your HMG International e‑Member Card at our restaurant or food truck for exclusive discounts. Mention HMG International member for catering perks.
 
 **What We’re About**
 
