@@ -46,10 +46,9 @@ cuisine:
   - American Style SMOKED BBQ
   - Halal
 region: selangor
-discount_pct: 0
+discount_pct: 10
+discount_text: in Restaurant and including Catering
 ---
-
-
 **Cowboys Barbecue & Grill**
 
 Halal American BBQ — Muslim‑Run
@@ -96,15 +95,19 @@ Tell us your date, headcount, and vibe—we’ll handle the food so you can focu
 * Friendly, Fast Service from our crew
 * Family‑Friendly and event‑ready
 
-**HMG International Member Benefits**
+**HMG International Member Benefits 10% Off**
 
 * Show your HMG International e‑Member Card at the restaurant or food truck for discounts.
-* Catering bookings : Mention you’re an HMG International member for a special rate.
+* Catering bookings : Mention you’re an HMG International member for discounts.
 
 **Visit Us**
 
-5, Jalan PJU 1a/42, Ara Damansara, 47301, Petaling Jaya, Selangor, Malaysia 
+Location : 5, Jalan PJU 1a/42, Ara Damansara, 47301, Petaling Jaya, Selangor, Malaysia 
+
+Phone : 011 - 5620 4093
+
+Email : cowboysbarbecuengrill@gmail.com
 
 **Trading**
 
-Monday to Sunday : 11 am - 10 pm
+Monday to Sunday : 11 am - 10 pm (9,30 pm Last Call)
