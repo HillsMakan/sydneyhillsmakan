@@ -47,7 +47,7 @@ cuisine:
   - Halal
 region: selangor
 discount_pct: 10
-discount_text: in Restaurant and including Catering
+discount_text: in Restaurant, Food Truck and including Catering
 ---
 **Cowboys Barbecue & Grill**
 
