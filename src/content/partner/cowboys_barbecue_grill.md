@@ -38,7 +38,7 @@ images:
   - ../../assets/images/fb_img_1758018697730.jpg
   - ../../assets/images/images-14.jpeg
   - ../../assets/images/bbq3.jpeg
-  - ../../assets/images/fb_img_1758018213659.jpg
+  - ../../assets/images/1000195702.jpg
   - ../../assets/images/fb_img_1758018347110.jpg
 categories:
   - foodanddrinks
