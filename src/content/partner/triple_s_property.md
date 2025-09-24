@@ -20,7 +20,7 @@ discount_text: $1,500 Discount on Marketing Fee
 
 Sales Executive – Real Estate Agent at Triple S Property
 
-8 Years of Experience | Sydney Metropolitan Area
+8 Years of Experience and Sydney Metropolitan Area
 
 Buying, selling, or renting private or commercial property in Sydney ?
 
