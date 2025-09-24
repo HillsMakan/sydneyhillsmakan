@@ -32,7 +32,7 @@ Reginald doesn’t just offer friendly and energetic service—he delivers relia
 
 Choosing Reginald means more than working with a professional—it means partnering with a trusted advisor and friend, dedicated to your success in every property journey.
 
-Ccontact me and mention HMG International member to receive $1,500 discount on Marketing Fee.
+Contact me and mention HMG International member to receive $1,500 discount on Marketing Fee.
 
 **Contacts :**
 
