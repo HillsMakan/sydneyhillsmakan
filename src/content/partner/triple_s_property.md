@@ -26,11 +26,11 @@ Buying, selling, or renting private or commercial property in Sydney ?
 
 Reginald Kurniawan is here to help.
 
-With over 8 years in the real estate industry, Reginald combines a strong work ethic with an easy-going, honest, and responsible nature. His warm communication style puts clients at ease, while his commitment to their best interests shows in his willingness to go above and beyond.
+With over 8 years in the real estate industry, Reginald combines a strong work ethic with an easy-going, honest, and responsible nature. My warm communication style puts clients at ease, while I am commitment to their best interests shows in my willingness to go above and beyond.
 
-Reginald doesn’t just offer friendly and energetic service—he delivers reliability you can count on. In the fast-paced world of real estate, he understands the balance between art and science, applying both strategic and analytical skills to make the perfect property match.
+I doesn’t just offer friendly and energetic service—I delivers reliability you can count on. In the fast-paced world of real estate, I understands the balance between art and science, applying both strategic and analytical skills to make the perfect property match.
 
-Choosing Reginald means more than working with a professional—it means partnering with a trusted advisor and friend, dedicated to your success in every property journey.
+Choosing me means more than working with a professional—it means partnering with a trusted advisor and friend, dedicated to your success in every property journey.
 
 Contact me and mention HMG International member to receive $1,500 discount on Marketing Fee.
 
