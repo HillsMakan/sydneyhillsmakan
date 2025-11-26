@@ -12,6 +12,7 @@ But we do more than make music.
 We also collaborate with community groups, businesses, and companies who need a unique song for their brand, project, program, or event. Whether it’s an anthem, a theme song, or music that brings your story to life, we can create it.
 
 All our music is available on YouTube, Spotify, Apple Music, Amazon Music, Facebook, and Instagram.
+
 Please share our songs with your family, friends, and your network — your support helps our music reach more people around the world.
 
 If you would like to collaborate, please contact Vinh Van Lam, Co-Founder of ArtSHINE.
