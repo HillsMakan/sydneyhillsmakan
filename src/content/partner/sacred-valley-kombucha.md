@@ -1,6 +1,7 @@
 ---
+draft: true
 title: Sacred Valley Kombucha
-description: ''
+description: Kombucha Drink
 image: ../../assets/images/sacred-valley-kombucha.jpg
 categories:
   - foodanddrinks
