@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Sacred Valley Kombucha
 description: Kombucha Drink
 image: ../../assets/images/sacred-valley-kombucha.jpg
