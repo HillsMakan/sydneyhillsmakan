@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Plaza Premium Lounge Brisbane, Brisbane Airport (BNE)
 description: Airport Premium Lounge
 link: https://www.plazapremiumlounge.com/en-uk/find/asia/australia/brisbane/brisbane-airport/international-departures-near-gate-seventy-seven
