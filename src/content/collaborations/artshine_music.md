@@ -28,7 +28,7 @@ Vinh believes that music has the power to lift people up, encourage them, and re
 
 Alongside music, Vinh is the Co-Founder of ArtSHINE, a social enterprise dedicated to helping creatives commercialise their art. For over a decade, he has supported artists and surface designers through licensing, mentoring, education, and industry opportunities — guiding them to build sustainable creative careers.
 
-Through ArtSHINE Music, Vinh now brings these two worlds together:
+Through ArtSHINE Music, Vinh now brings these two worlds together :
 creative support + uplifting music, giving the creative community a soundtrack that inspires them to shine.
 
 **ArtSHINE Music YouTube Channel :** <https://www.youtube.com/@ArtSHINEMusic>
