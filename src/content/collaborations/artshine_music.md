@@ -41,9 +41,9 @@ creative support + uplifting music, giving the creative community a soundtrack t
 
 **[How ArtSHINE Music And HMG International Started Blog](https://artshine.com.au/2025/11/taste-the-world-together-the-story-behind-the-song-the-new-collaboration-with-hmg-international.html)**
 
-**[HMG International Theme Song YouTube](https://youtu.be/ZTcwANoBXKg)**
+**[HMG International Theme Song "Taste The World Together" YouTube](https://youtu.be/ZTcwANoBXKg)**
 
-**[HMG International Theme Song Spotify](https://open.spotify.com/track/5Nje4wKbtU2ZvTHc3Lvkkv?si=nDtvpdNQQhWstQpvbaf_lw)**
+**[HMG International Theme Song "Taste The World Together" Spotify](https://open.spotify.com/track/5Nje4wKbtU2ZvTHc3Lvkkv?si=nDtvpdNQQhWstQpvbaf_lw)**
 
 **[](https://youtu.be/ZTcwANoBXKg)Contact :** Vinh Van Lam on [vinh@artshine.com](<>)\
 \
