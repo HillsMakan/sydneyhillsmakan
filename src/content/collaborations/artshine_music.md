@@ -43,8 +43,8 @@ creative support + uplifting music, giving the creative community a soundtrack t
 
 **[HMG International Theme Song YouTube](https://youtu.be/ZTcwANoBXKg)**
 \
-**Contact Vinh Van Lam on [vinh@artshine.com](<>)**
+**Contact :** Vinh Van Lam on [vinh@artshine.com](<>)
 [](https://youtu.be/ZTcwANoBXKg)
-**Website:** [www.artshine.com.au/artshinemusic](https://artshine.com.au/artshinemusic)
+**Website :** [www.artshine.com.au/artshinemusic](https://artshine.com.au/artshinemusic)
 
 [](https://youtube.com/@ArtSHINEMusic)
