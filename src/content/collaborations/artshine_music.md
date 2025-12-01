@@ -2,6 +2,7 @@
 draft: false
 title: ArtSHINE Music
 description: Creates original songs for the creative community
+pubDate: 2025-12-01T19:54:00.000+11:00
 image: ../../assets/images/youtube_banner-final.jpg
 ---
 **ArtSHINE Music — Songs That Inspire, Connect, and Bring Stories to Life**
