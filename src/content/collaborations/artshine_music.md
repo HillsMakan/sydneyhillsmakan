@@ -35,10 +35,10 @@ creative support + uplifting music, giving the creative community a soundtrack t
 
 **[ArtSHINE Music YouTube Channel](https://www.youtube.com/@ArtSHINEMusic)**[](https://www.youtube.com/@ArtSHINEMusic)
 
-**ArtSHINE Music Facebook :** [https;//www.facebook.com/profile.php?id=61584159002595](https;//www.facebook.com/profile.php?id=61584159002595)
+**[ArtSHINE Music Facebook](https;//www.facebook.com/profile.php?id=61584159002595)**[](https;//www.facebook.com/profile.php?id=61584159002595)
 
-**ArtSHINE Music Instagram :** https://instagram.com/artshinemusic
+**[ArtSHINE Music Instagram](https://instagram.com/artshinemusic)**
 
-**How ArtSHINE Music And HMG International Started Blog :** https://artshine.com.au/2025/11/taste-the-world-together-the-story-behind-the-song-the-new-collaboration-with-hmg-international.html
+**[How ArtSHINE Music And HMG International Started Blog](https://artshine.com.au/2025/11/taste-the-world-together-the-story-behind-the-song-the-new-collaboration-with-hmg-international.html)**
 
-**HMG International Theme Song YouTube :** https://youtu.be/ZTcwANoBXKg[](https://youtu.be/ZTcwANoBXKg)[](https://youtube.com/@ArtSHINEMusic)
+**[HMG International Theme Song YouTube](https://youtu.be/ZTcwANoBXKg)**[](https://youtu.be/ZTcwANoBXKg)[](https://youtube.com/@ArtSHINEMusic)
