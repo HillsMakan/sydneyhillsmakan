@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Plaza Premium Lounge (International Departures), Sydney International
   Airport (SYD)
 description: Airport Premium Lounge
