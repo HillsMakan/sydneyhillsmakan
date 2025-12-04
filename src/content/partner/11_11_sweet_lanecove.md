@@ -27,7 +27,7 @@ region: nsw
 discount_pct: 15
 discount_text: Excluding Promotions
 ---
-**A Taste of Something New**
+**A Taste of Something New - Homemade Asian Dessert & Cafe**
 
 At 11:11 Sweet, we specialise in handcrafted desserts made from the finest, carefully selected ingredients.
 
