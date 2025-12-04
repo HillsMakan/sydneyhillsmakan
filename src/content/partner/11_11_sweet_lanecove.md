@@ -13,6 +13,12 @@ images:
   - ../../assets/images/screenshot_20251204_213032_samsung_internet.jpg
   - ../../assets/images/screenshot_20251204_213035_samsung_internet.jpg
   - ../../assets/images/screenshot_20251204_213037_samsung_internet.jpg
+  - ../../assets/images/2025-07-09.png
+  - ../../assets/images/img-20251204-wa0006.jpg
+  - ../../assets/images/img-20251204-wa0008.jpg
+  - ../../assets/images/img-20251204-wa0013.jpg
+  - ../../assets/images/img-20251204-wa0007.jpg
+  - ../../assets/images/img-20251204-wa0005.jpg
 categories:
   - foodanddrinks
 cuisine:
