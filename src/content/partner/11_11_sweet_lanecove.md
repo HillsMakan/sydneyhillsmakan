@@ -3,6 +3,8 @@ draft: false
 title: 11:11 Sweet Lanecove
 description: Dessert Shop
 image: ../../assets/images/img-20251204-wa0004.jpg
+images:
+  - ../../assets/images/sweet-1111-square-1200.png
 categories:
   - foodanddrinks
 cuisine:
