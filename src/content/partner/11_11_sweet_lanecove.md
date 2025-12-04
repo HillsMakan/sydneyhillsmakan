@@ -35,6 +35,8 @@ Our culinary team has taken inspiration from the best dessert houses across Asia
 
 We’re dedicated to offering exceptional food and memorable service — and we can’t wait for you to experience it.
 
-**Location :** Shop C, 123-125 Longuevelle Road, 2066, Lane Cove, NSW, Australia 
+**Location :** Shop C, 123-125 Longuevelle Road, 2066, Lane Cove, NSW, Australia
 
-**Trading :**
+(11:11 Sweet is located at the top of the Plaza between La Piazza and Sushi Maru)
+
+**Trading :** Monday to Sunday from 8 am to 8 pm
