@@ -17,6 +17,7 @@ images:
   - ../../assets/images/img-20251204-wa0006.jpg
   - ../../assets/images/img-20251204-wa0008.jpg
   - ../../assets/images/img-20251204-wa0013.jpg
+  - ../../assets/images/images-25.jpeg
   - ../../assets/images/img-20251204-wa0007.jpg
   - ../../assets/images/img-20251204-wa0005.jpg
 categories:
