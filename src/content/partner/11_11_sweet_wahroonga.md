@@ -21,6 +21,7 @@ images:
   - ../../assets/images/images-29.jpeg
   - ../../assets/images/1111.jpg
   - ../../assets/images/images-26.jpeg
+  - ../../assets/images/motion_photo_6639700030702716589.jpg
 categories:
   - foodanddrinks
 cuisine:
