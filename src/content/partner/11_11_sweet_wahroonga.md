@@ -14,6 +14,13 @@ images:
   - ../../assets/images/screenshot_20251204_213035_samsung_internet.jpg
   - ../../assets/images/screenshot_20251204_213037_samsung_internet.jpg
   - ../../assets/images/2025-07-09.png
+  - ../../assets/images/motion_photo_5168345672051192982.jpg
+  - ../../assets/images/img-20251205-wa0007.jpg
+  - ../../assets/images/1111-sweet-acai-1-copy-300x300.jpg
+  - ../../assets/images/images-28.jpeg
+  - ../../assets/images/images-29.jpeg
+  - ../../assets/images/1111.jpg
+  - ../../assets/images/images-26.jpeg
 categories:
   - foodanddrinks
 cuisine:
