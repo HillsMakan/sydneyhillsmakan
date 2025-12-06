@@ -3,6 +3,17 @@ draft: false
 title: 11:11 Sweet Wahroonga
 description: "Dessert Shop "
 image: ../../assets/images/img-20251205-wa0004.jpg
+images:
+  - ../../assets/images/sweet-1111-square-1200.png
+  - ../../assets/images/screenshot_20251204_213011_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213016_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213019_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213023_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213028_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213032_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213035_samsung_internet.jpg
+  - ../../assets/images/screenshot_20251204_213037_samsung_internet.jpg
+  - ../../assets/images/2025-07-09.png
 categories:
   - foodanddrinks
 cuisine:
