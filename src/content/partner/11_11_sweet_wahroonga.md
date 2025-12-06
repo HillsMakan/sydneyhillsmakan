@@ -38,8 +38,6 @@ Our culinary team has taken inspiration from the best dessert houses across Asia
 
 We’re dedicated to offering exceptional food and memorable service — and we can’t wait for you to experience it.
 
-**Location :** 2 Railway Ave, Wahroonga, 2076, NSW, Australia 
-
-(1 min walk from Wahroonga Station)
+**Location :** 2 Railway Ave, Wahroonga, 2076, NSW, Australia (1 min walk from Wahroonga Station)
 
 **Trading :** Monday to Sunday from 8 am to 8 pm
