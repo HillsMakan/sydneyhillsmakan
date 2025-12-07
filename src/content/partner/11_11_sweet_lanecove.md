@@ -17,6 +17,13 @@ images:
   - ../../assets/images/img-20251204-wa0006.jpg
   - ../../assets/images/img-20251204-wa0008.jpg
   - ../../assets/images/img-20251204-wa0013.jpg
+  - ../../assets/images/20251207_123155.jpg
+  - ../../assets/images/20251207_124137.jpg
+  - ../../assets/images/20251207_125155.jpg
+  - ../../assets/images/20251207_161117.jpg
+  - ../../assets/images/20251207_130850.jpg
+  - ../../assets/images/20251207_124943.jpg
+  - ../../assets/images/20251207_124955.jpg
   - ../../assets/images/images-25.jpeg
   - ../../assets/images/img-20251204-wa0007.jpg
   - ../../assets/images/img-20251204-wa0005.jpg
