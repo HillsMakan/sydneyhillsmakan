@@ -21,6 +21,14 @@ images:
   - ../../assets/images/images-29.jpeg
   - ../../assets/images/1111.jpg
   - ../../assets/images/images-26.jpeg
+  - ../../assets/images/20251207_123155.jpg
+  - ../../assets/images/20251207_124137.jpg
+  - ../../assets/images/20251207_125155.jpg
+  - ../../assets/images/20251207_161117.jpg
+  - ../../assets/images/20251207_124943.jpg
+  - ../../assets/images/20251207_124955.jpg
+  - ../../assets/images/20251207_130850.jpg
+  - ../../assets/images/20251207_140832_0_.jpg
   - ../../assets/images/motion_photo_6639700030702716589.jpg
 categories:
   - foodanddrinks
