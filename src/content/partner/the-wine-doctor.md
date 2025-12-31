@@ -1,7 +1,8 @@
 ---
+draft: true
 title: The Wine Doctor
 description: Wine
-image: ../../assets/images/the-wine-doctor.jpg
+image: ../../assets/images/img-20251231-wa0002.jpg
 categories:
   - online
   - foodanddrinks
@@ -10,19 +11,18 @@ cuisine:
 region: australia
 discount_pct: 0
 ---
-
 To know more about The Wine Doctor, please go to below website BUT please do not order through the website if you want the discount.
 
 Websites for information : \
 -www.thewinedoctor.com.au\ -http://drnorrie.info/
 
-\* 2017 The Wine Doctor Barossa Valley Shiraz, REW (Patented Resveratrol Enhanced Wine) 14.0% Alc/Vol. Rated 93 points by James Halliday & 94 points by Nick Butler\
+\* 2021 The Wine Doctor Barossa Valley Shiraz, REW (Patented Resveratrol Enhanced Wine) 14.0% Alc/Vol. Rated 93 points by James Halliday & 94 points by Nick Butler\
 -Dan Murphys Online Price : $295/case of 12\
--HMG Members' Price : $180 Delivered\*
+-HMG Members' Price : $180 Delivered*
 
 \* 2016 The Wine Doctor Barossa Valley Shiraz, Premium, REW (Patented Resveratrol Enhanced Wine) 14.0% Alc/Vol\
 -Dan Murphys Online Price : $210/case of 6\
--HMG Members' Offer : $150 Delivered\*
+-HMG Members' Offer : $150 Delivered*
 
 If you need more information please contact :\
 Name : Mr Tony Yew\
@@ -36,4 +36,4 @@ If you need to order. Please email Mr Tony with below information. \
 -Your phone number
 
 \*Payment is COD or transfer.\
-\*Delivery Australia Wide.
+*Delivery Australia Wide.
