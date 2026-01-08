@@ -1,7 +1,7 @@
 ---
 draft: true
 title: OnePasskey Pty Ltd
-description: Software and Technology
+description: Digital Loyalty Solution
 image: ../../assets/images/messenger_creation_d9610b78-61a6-4ad2-b4d0-2228bb4d1f11.jpeg
 images:
   - ../../assets/images/onepaaskey.jpeg
@@ -56,4 +56,6 @@ Enhanced Security and Fraud Prevention Operational and Marketing Benefits for B
 * After that, $1 per day (around $30 per month) for unlimited digital loyalty cards with their own shop logo
 * Refundable $300 device deposit to safeguard the NFC device we provide, which also includes a SIM card inside the device.
 
-**Interested or any enquiries contact Cindy on 04 and mention Referrals HMG members**
+**Interested or any enquiries contact Cindy on 04 and mention Referrals HMG members** 
+
+***All-in-one NFC box for your business. Fix your loyalty UX, delight customers with a simple tap, and unlock the future of stablecoin payments.***
