@@ -1,7 +1,7 @@
 ---
 draft: true
 title: OnePasskey Pty Ltd
-description: Digital Loyalty Solution
+description: Digital Loyalty Solution. All-in-one NFC box for your business
 image: ../../assets/images/messenger_creation_d9610b78-61a6-4ad2-b4d0-2228bb4d1f11.jpeg
 images:
   - ../../assets/images/onepaaskey.jpeg
