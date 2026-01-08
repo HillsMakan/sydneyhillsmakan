@@ -23,6 +23,9 @@ The term "OnePassKey" seems to be a general or conceptual name for digital loyal
 * **Universal Access**
 
   : Passkeys are designed to work across multiple devices and operating systems, allowing a customer to access their stamp card regardless of whether they are using an iPhone or an Android device. The digital card is available wherever the customer is. 
+
+**Enhanced Security and Fraud Prevention** 
+
 * **Fraud Reduction**
 
   : Paper cards are prone to fraudulent activities like forging stamps. Digital systems mitigate this by having the barista or merchant electronically "approve the stamp" through their own secure system (e.g., a merchant console or terminal).
