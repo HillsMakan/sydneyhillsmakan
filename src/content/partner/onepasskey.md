@@ -10,7 +10,7 @@ categories:
 region: nsw
 discount_pct: 0
 ---
-The term "OnePassKey" seems to be a general or conceptual name for digital loyalty solutions that use **passkey technology** for seamless authentication, replacing physical coffee stamp cards through digital convenience, enhanced security, and data collection. Here is how a passkey-enabled digital loyalty system replaces traditional paper cards :
+Digital loyalty solutions that use **OnePasskey technology** for seamless authentication, replacing physical coffee stamp cards through digital convenience, enhanced security, and data collection. Here is how a OnePasskey-enabled digital loyalty system replaces traditional paper cards :
 
 **Digital Convenience vs. Physical Card**
 
@@ -19,7 +19,7 @@ The term "OnePassKey" seems to be a general or conceptual name for digital loyal
   Instead of carrying a paper card that can be lost, damaged, or forgotten, the customer's loyalty status is stored digitally on their smartphone (via an app or digital wallet like Apple Wallet or Google Wallet).
 * **No App Downloads/Sign-ups (in some cases)**
 
-  Some systems, like those mentioned in the search results, allow customers to simply scan a unique QR code displayed at the counter to interact with the loyalty program instantly, without a cumbersome initial sign-up process or app download. The passkey technology handles the secure login/authentication in the background.
+  Allow customers to simply tap OnePassKey box at the counter to interact with the loyalty program instantly, without a cumbersome initial sign-up process or app download. The OnePasskey technology handles the secure login/authentication in the background.
 * **Universal Access**
 
   Passkeys are designed to work across multiple devices and operating systems, allowing a customer to access their stamp card regardless of whether they are using an iPhone or an Android device. The digital card is available wherever the customer is. 
