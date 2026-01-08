@@ -49,3 +49,11 @@ Digital loyalty solutions that use **OnePasskey technology** for seamless auth
   Replacing millions of physical paper cards with digital alternatives is an environmentally friendly choice. 
 
 Enhanced Security and Fraud Prevention Operational and Marketing Benefits for BusinessesIn essence, a passkey-based system uses modern, secure authentication to provide a seamless, digital experience that removes the physical friction and security vulnerabilities of traditional coffee stamp cards.
+
+**Current offer to cafés is for Sydney Hills Makan/HMG members :**
+
+* 1-month free trial
+* After that, $1 per day (around $30 per month) for unlimited digital loyalty cards with their own shop logo
+* Refundable $300 device deposit to safeguard the NFC device we provide, which also includes a SIM card inside the device.
+
+**Interested or any enquiries contact Cindy on 04 and mention Referrals HMG members**
