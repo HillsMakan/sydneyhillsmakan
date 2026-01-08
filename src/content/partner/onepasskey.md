@@ -35,6 +35,9 @@ The term "OnePassKey" seems to be a general or conceptual name for digital loyal
 * **Non-Transferable**
 
   : Unlike a paper card that can be passed around, a passkey is tied to a specific device and user authentication, making it difficult to share fraudulently. 
+
+**Operational and Marketing Benefits for Businesses**
+
 * **Data Collection**
 
   : Digital programs allow coffee shops to collect valuable customer data (with permission) which can be used to personalize offers, run targeted marketing campaigns, and better understand customer behavior.
