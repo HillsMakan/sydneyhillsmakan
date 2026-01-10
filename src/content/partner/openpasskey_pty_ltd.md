@@ -13,7 +13,7 @@ discount_pct: 0
 
 **Replace paper coffee stamp cards with a simple tap — secure, app-free, and brand-ready.**
 
-OpenPasskey is a digital loyalty solution powered by OnePasskey seamless authentication. It replaces physical stamp cards with a modern, tap-to-stamp experience that’s faster for staff, easier for customers, and far harder to misuse.
+OpenPasskey is a digital loyalty solution powered by OpenPasskey seamless authentication. It replaces physical stamp cards with a modern, tap-to-stamp experience that’s faster for staff, easier for customers, and far harder to misuse.
 
 **Why cafés are switching from paper to OpenPasskey**
 
