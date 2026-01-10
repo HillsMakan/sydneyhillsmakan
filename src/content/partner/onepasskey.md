@@ -4,58 +4,50 @@ title: OnePasskey Pty Ltd
 description: Digital Loyalty Solution. All-in-one NFC box for your business
 image: ../../assets/images/messenger_creation_d9610b78-61a6-4ad2-b4d0-2228bb4d1f11.jpeg
 images:
-  - ../../assets/images/onepaaskey.jpeg
+  - ../../assets/images/messenger_creation_ba16d3a9-24aa-40e6-bb07-49f2b0209288.jpeg
 categories:
   - professionals
 region: nsw
 discount_pct: 0
 ---
-Digital loyalty solutions that use **OnePasskey technology** for seamless authentication, replacing physical coffee stamp cards through digital convenience, enhanced security, and data collection. Here is how a OnePasskey-enabled digital loyalty system replaces traditional paper cards :
+**OpenPasskey Digital Stamps**
 
-**Digital Convenience vs. Physical Card**
+**Replace paper coffee stamp cards with a simple tap — secure, app-free, and brand-ready.**
 
-* **No Physical Card Needed**
+OpenPasskey is a digital loyalty solution powered by OnePasskey seamless authentication. It replaces physical stamp cards with a modern, tap-to-stamp experience that’s faster for staff, easier for customers, and far harder to misuse.
 
-  Instead of carrying a paper card that can be lost, damaged, or forgotten, the customer's loyalty status is stored digitally on their smartphone (via an app or digital wallet like Apple Wallet or Google Wallet).
-* **No App Downloads/Sign-ups (in some cases)**
+**Why cafés are switching from paper to OpenPasskey**
 
-  Allow customers to simply tap OnePassKey console or terminal at the counter to interact with the loyalty program instantly, without a cumbersome initial sign-up process or app download. The OnePasskey technology handles the secure login/authentication in the background.
-* **Universal Access**
+**1) Digital convenience (no more lost cards)**
 
-  OnePasskeys are designed to work across multiple devices and operating systems, allowing a customer to access their stamp card regardless of whether they are using an iPhone or an Android device. The digital card is available wherever the customer is. 
+* **No physical card needed:** Customers keep their loyalty card digitally on their phone (Apple Wallet / Google Wallet).
+* **Tap to collect stamps:** A quick tap at the counter updates their stamps instantly.
+* **Works across iPhone & Android:** One experience for all customers.
 
-**Enhanced Security and Fraud Prevention** 
+**2) No app downloads, no friction (optional)**
 
-* **Fraud Reduction**
+* **No app. No lengthy sign-up:** Customers can start using the loyalty card with a simple tap.
+* **OnePasskey authentication runs in the background:** A seamless, secure way to recognise the customer without awkward onboarding.
 
-  Paper cards are prone to fraudulent activities like forging stamps. Digital systems mitigate this by having the barista or merchant electronically "approve the stamp" through OnePassKey secure system (e.g., OnePasskey console or terminal).
-* **Secure Authentication**
+**3) Stronger security & fraud prevention**
 
-  Passkeys replace passwords, using biometrics (like a fingerprint or face scan) or the device's PIN for verification. This built-in multi-factor authentication makes the customer's account much more secure than a simple physical card.
-* **Non-Transferable**
+* **Stops fake stamps:** Digital stamps can’t be forged like paper cards.
+* **Secure authentication:** Passkey-based verification can use biometrics (Face ID / fingerprint) or device PIN for added protection.
+* **Hard to share or misuse:** Digital loyalty is tied to verified access, reducing “pass-it-around” stamp fraud.
 
-  Unlike a paper card that can be passed around, a passkey is tied to a specific device and user authentication, making it difficult to share fraudulently. 
+**4) Better operations + smarter marketing for cafés**
 
-**Operational and Marketing Benefits for Businesses**
+* **Faster at the counter:** Tap → stamp updates automatically → staff are prompted when a free coffee is due.
+* **Actionable customer insights (with permission):** Understand repeat visits, redemption behaviour, and campaign performance.
+* **Eco-friendly:** Reduce paper waste and printing costs.
 
-* **Data Collection**
+**Exclusive offer for Sydney Hills Makan / HMG members**
 
-  Digital programs allow coffee shops to collect valuable customer data (with permission) which can be used to personalize offers, run targeted marketing campaigns, and better understand customer behavior.
-* **Streamlined Process**
+✅ **2-months free trial**
+Then **$1/day (~$30/month)** for **unlimited digital loyalty cards**, branded with **your café logo**.
 
-  The process for baristas is streamlined: the customer just tap the OnePassKey console or terminal, and the system automatically tracks the stamps and informs the barista when a free coffee is due.
-* **Eco-Friendly**
+**Refundable $300 device deposit**
+To safeguard the NFC device we provide (SIM included).
 
-  Replacing millions of physical paper cards with digital alternatives is an environmentally friendly choice. 
-
-Enhanced Security and Fraud Prevention Operational and Marketing Benefits for BusinessesIn essence, a passkey-based system uses modern, secure authentication to provide a seamless, digital experience that removes the physical friction and security vulnerabilities of traditional coffee stamp cards.
-
-**Current offer to cafés is for Sydney Hills Makan/HMG members :**
-
-* 1-month free trial
-* After that, $1 per day (around $30 per month) for unlimited digital loyalty cards with their own shop logo
-* Refundable $300 device deposit to safeguard the NFC device we provide, which also includes a SIM card inside the device.
-
-**Interested or any enquiries contact Cindy on 04 and mention Referrals HMG members** 
-
-***All-in-one NFC box for your business. Fix your loyalty UX, delight customers with a simple tap, and unlock the future of stablecoin payments.***
+**To join or enquire:**
+Contact **Cindy (**cindy@openpasskey.com**)** and mention **“Referrals – HMG members”**.
