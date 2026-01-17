@@ -15,4 +15,8 @@ region: australia
 discount_pct: 10
 discount_text: Free delivery within 20 km from Chatswood. Postage applies for all other orders
 ---
-T
+10% discount on B2C in Australia.
+
+
+
+I'm also seeking B2B agent overseas, if I can ask a favour on the HMG association be international instead of Australia only that would be fantastic.
