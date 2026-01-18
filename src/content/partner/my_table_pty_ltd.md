@@ -14,7 +14,7 @@ region: australia
 discount_pct: 10
 discount_text: Free delivery within 20 km from Chatswood. Postage applies for all other orders
 ---
-**My Table 5 Star Fish Sauce**
+**My Table Premium 5⭐️ Fish Sauce**
 
 Pure. Premium. Naturally Umami.
 
