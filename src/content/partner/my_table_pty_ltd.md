@@ -66,7 +66,7 @@ Normally RRP $88888 size 888ml
 
 📞 Direct orders : 0433 216
 
-📞 Business owners (Cafe, Restaurant, Supermarketand etc) : **0653 2256**
+📞 Business owners enquiries (Cafe, Restaurant, Supermarketand etc) : **0653 2256**
 
 **Overseas Expansion Opportunities**
 
