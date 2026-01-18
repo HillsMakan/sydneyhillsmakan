@@ -2,7 +2,7 @@
 draft: false
 title: My Table Pty Ltd
 description: My Table Premium 5⭐️ Fish Sauce
-image: ../../assets/images/img-20260115-wa0001.jpg
+image: ../../assets/images/file_00000000fcb872079ea187f3265eb9ca.png
 images:
   - ../../assets/images/fish_sauce.jpg
 categories:
