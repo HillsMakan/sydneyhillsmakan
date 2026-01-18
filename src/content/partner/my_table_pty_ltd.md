@@ -18,7 +18,7 @@ discount_text: Free delivery within 20 km from Chatswood. Postage applies for al
 
 Pure. Premium. Naturally Umami.
 
-My Table 5 Star Fish Sauce is a premium, clean-label condiment crafted to deliver a rich, distinctive umami flavour. Naturally fermented from anchovies using a slow, traditional process, it is designed for versatility—perfect for both cooking and dipping—while staying true to quality and simplicity.
+My Table Premium 5⭐️ Fish Sauce is a premium, clean-label condiment crafted to deliver a rich, distinctive umami flavour. Naturally fermented from anchovies using a slow, traditional process, it is designed for versatility—perfect for both cooking and dipping—while staying true to quality and simplicity.
 
 Key Features & Highlights
 
