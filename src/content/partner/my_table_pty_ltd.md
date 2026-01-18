@@ -62,9 +62,9 @@ Normally RRP $88888 size 888ml
 
 • Postage applies for all other locations
 
-**How to Order**
+**How to Order and Enquiries** 
 
-📞 Direct orders : 0433 216
+📞 Customers/Consumers : 0433 216
 
 📞 Business owners enquiries (Cafe, Restaurant, Supermarketand etc) : **0653 2256**
 
