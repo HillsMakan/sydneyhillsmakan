@@ -22,48 +22,54 @@ My Table Premium 5⭐️ Fish Sauce is a premium, clean-label condiment crafted 
 
 **Key Features & Highlights**
 
-* Clean Ingredients
+• Clean Ingredients
 
 Free from artificial preservatives, artificial colouring, MSG, and gluten.
 
-Traditional Production Method
+• Traditional Production Method
 
 Naturally fermented anchovies through a slow, time-honoured process.
 
-Rich & Distinctive Flavour
+• Rich & Distinctive Flavour
 
 Deep umami taste that enhances a wide variety of dishes.
 
-Premium Quality Positioning
+• Premium Quality Positioning
 
 A high-quality, healthier alternative to elevate everyday meals.
 
-Ideal For
+**Ideal For**
 
-Home cooking
+• Home cooking
 
-Dipping sauces
+• Commercial cooking 
 
-Marinades
+• Dipping sauces
 
-Stir-fries, soups, and dressings
+• Marinades
 
-Special Offers
+• Stir-fries, soups, and dressings
 
-10% OFF for direct customers/consumers Australia-wide
+**Special Offers**
 
-Free delivery within 20 km from Chatswood
+• 10% OFF for direct customers/consumers Australia-wide. 
 
-Postage applies for all other locations
+Normally RRP $888 size 655ml
 
-How to Order
+Normally RRP $88888 size 888ml
 
-📞 Direct orders: 0433 216*
+• Free delivery within 20 km from Chatswood
 
-📞 Supermarkets & restaurant owners: 0653 2256
+• Postage applies for all other locations
 
-Overseas Expansion Opportunities
+**How to Order**
+
+📞 Direct orders : 0433 216
+
+📞 Business owners (Cafe, Restaurant, Supermarketand etc) : **0653 2256**
+
+**Overseas Expansion Opportunities**
 
 My Table Pty Ltd is actively seeking to expand into overseas markets and is looking for potential overseas agencies and partners.
 
-📞 Overseas agency enquiries: 0543 267
+📞 Overseas agency enquiries : 0543 267
