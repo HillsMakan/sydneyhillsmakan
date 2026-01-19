@@ -3,6 +3,14 @@ draft: true
 title: The Local Cafe Macquarie Park
 description: Malaysian and Western Cuisines
 image: ../../assets/images/20260119_114351.jpg
+images:
+  - ../../assets/images/cafe.webp
+  - ../../assets/images/2025-10-28-1.webp
+  - ../../assets/images/2025-10-28.webp
+  - ../../assets/images/20260119_120734.jpg
+  - ../../assets/images/20260119_115725.jpg
+  - ../../assets/images/20260119_120154.jpg
+  - ../../assets/images/20260119_120001.jpg
 categories:
   - foodanddrinks
 cuisine:
