@@ -2,7 +2,7 @@
 draft: false
 title: Freskin Beauty Clinic Castle Hill
 description: Skin Care Clinic
-image: ../../assets/images/freskin04.jpg
+image: ../../assets/images/20260119_102343.jpg
 images:
   - ../../assets/images/freskin-logo_400.png
 categories:
