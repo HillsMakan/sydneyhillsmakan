@@ -12,4 +12,11 @@ region: nsw
 discount_pct: 0
 discount_text: "Excluding promotions "
 ---
-Food
+**Location :**  Unit 6A, 277 Lane Cove Rd, Macquarie Park, 2113, NSW, Australia 
+
+(Around 4 mins walk from Macquare Park Metro Station. Fyi, no parking if you are planning to drive. Park behind Macdonald which is also around 4 mins walk.)
+
+**Trading :** 
+
+* Monday to Friday : 7 am - 3 pm
+* Saturday & Sunday : 11 am - 3 pm
