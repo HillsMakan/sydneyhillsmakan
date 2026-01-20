@@ -89,4 +89,6 @@ We invite you to visit Freskin Beauty Clinic Castle Hill for a professional cons
 (Level 2 close between Myer and Carpark entrace)
 (Around 7 mins walk from Castle Hill Metro Station)
 
+**Contact Number :** (02) 9894 9695
+
 **Trading :** Monday - Sunday : 10 am - 6 pm
