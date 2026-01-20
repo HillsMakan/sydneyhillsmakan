@@ -15,6 +15,12 @@ images:
   - ../../assets/images/screenshot_20260119_231702_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231754_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231824_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231837_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231852_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231909_samsung_internet.jpg
+  - ../../assets/images/unnamed-3.jpg
+  - ../../assets/images/freskin.webp
+  - ../../assets/images/freskin1.webp
 categories:
   - salons
 region: nsw
