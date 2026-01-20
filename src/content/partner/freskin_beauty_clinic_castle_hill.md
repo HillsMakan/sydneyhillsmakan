@@ -45,25 +45,23 @@ Our architect-designed clinic provides a luxurious, comfortable, and relaxing en
 
 Freskin Beauty Clinic offers a comprehensive range of non-surgical cosmetic and aesthetic treatments, including :
 
-• Thermage® Skin Rejuvenation
+• Premium Facial 
 
-• Ultherapy®
+• Laser & IPL
 
-• Medical & Advanced Facials
+• Anti-Aging
 
-• Laser Hair Removal
+• Skin Boosters
 
-• PicoSure® Pigmentation Management
+• RF Treatment 
 
-• Acne Management
+• Microneedling
 
-• M22 Skin Rejuvenation
+• Body & Fat Reduction 
 
-• Q-Switch Laser Treatments
+• Ance Treatment 
 
-• Fat Reduction Treatments
-
-• Cosmetic Injectables
+• Other Services 
 
 Our dedicated team includes Aesthetic Doctors, Nutritionists, and Professional Beauty Therapists, working together to deliver safe, effective, and results-focused care.
 
