@@ -28,4 +28,4 @@ region: nsw
 discount_pct: 20
 discount_text: "Excluding promotions "
 ---
-F
+ijikjoiulkj
