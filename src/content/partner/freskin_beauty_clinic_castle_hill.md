@@ -33,9 +33,4 @@ discount_text: Excluding promotions
 (Level 2 close between Myer and Carpark entrace)
 (Around 7 mins walk from Castle Hill Metro Station)
 
-**Trading :**
-
-* Monday : 11.30 am - 3 pm
-* Tuesday & Wednesday : 11.30 am - 3 pm & 5 pm - 8 pm
-* Thursday - Saturday : 11.30 am - 3 pm & 5 pm - 9 pm
-* Sunday : 11.30 am - 3 pm & 5 pm - 8 pm
+**Trading :** Monday - Sunday : 10 am - 6 pm
