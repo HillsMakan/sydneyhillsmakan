@@ -10,11 +10,15 @@ categories:
 region: international
 discount_pct: 20
 ---
-**TRAVELLING SOON ?**
+**✈️ TRAVELLING SOON ?**
 
 **SPECIAL 20% OFF FOR ALL HMG MEMBERS**
 
-**HMG members get 20% off travel eSIMs from E.Tel Mobile, with coverage in 200+ countries.**
+**Stay connected wherever you go 🌍**
+
+**HMG International members enjoy 20% OFF travel eSIMs from E.Tel Mobile, with coverage in 200+ countries worldwide.**
+
+**No roaming shock. No physical SIM. Just instant, reliable connectivity.**
 
 How to redeem ?
 
