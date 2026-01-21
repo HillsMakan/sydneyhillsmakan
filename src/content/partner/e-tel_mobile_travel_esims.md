@@ -10,18 +10,16 @@ categories:
 region: international
 discount_pct: 20
 ---
-**TRAVELLING SOON?**
+**TRAVELLING SOON ?**
 
 **SPECIAL 20% OFF FOR ALL HMG MEMBERS**
 
 **HMG members get 20% off travel eSIMs from E.Tel Mobile, with coverage in 200+ countries.**
 
-How to redeem?
+How to redeem ?
 
 1. Simply visit 👉 https://apply.etel.com.au/travelesim?referral=HMG20
-
 2. Choose your eSIM package, the discount is automatically applied at checkout.
-
 3. After checkout, you will receive a QR code for your travel eSIM via email.
 
 **Important Notes :**  
