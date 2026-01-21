@@ -40,10 +40,10 @@ How to redeem ?
 
 If you have any questions or need help with the eSIM service, please email support@etel.com.au or contact E.Tel Customer Support at +61 1300 383 588.
 
-✨ Exclusive to HMG Members
+✨ **Exclusive to HMG Members**
 
-🌍 Global coverage in 200+ countries
+**🌍 Global coverage in 200+ countries**
 
-📱 No physical SIM required
+**📱 No physical SIM required**
 
-🚀 Fast, convenient & travel-ready
+**🚀 Fast, convenient & travel-ready**
