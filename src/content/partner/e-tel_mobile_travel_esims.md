@@ -1,7 +1,7 @@
 ---
 draft: false
 title: E.Tel Mobile Travel eSIMs
-description: Travel eSIMs
+description: Travel eSIMs Telecommunications Service Provider
 link: https://apply.etel.com.au/travelesim?referral=HMG20
 image: ../../assets/images/img-20260121-wa0000.jpg
 categories:
