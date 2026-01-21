@@ -26,7 +26,7 @@ images:
 categories:
   - salons
 region: nsw
-discount_pct: 20
+discount_pct: 10
 discount_text: Excluding promotions and discounted items
 ---
 **Freskin Beauty Clinic Castle Hill**
