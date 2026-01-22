@@ -58,7 +58,7 @@ Normally RRP $7.50 for 750 ml bottle
 
 • Postage applies for all other locations
 
-**How to Order & Enquiries**
+**How to Order & Enquiries (Mention that you are HMG International members)**
 
 ***Customers / Consumers***
 
