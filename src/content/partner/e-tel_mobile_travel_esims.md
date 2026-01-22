@@ -47,3 +47,5 @@ If you have any questions or need help with the eSIM service, please email suppo
 **📱 No physical SIM required**
 
 **🚀 Fast, convenient & travel-ready**
+
+**📱 E.Tel Mobile Travel eSIMs is accessible from anywhere 200+ countries worldwide**
