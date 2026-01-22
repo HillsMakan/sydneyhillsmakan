@@ -70,7 +70,7 @@ Email : mytable388@gmail.com
 
 **Overseas Expansion Opportunities**
 
-My Table Pty Ltd is actively seeking to expand into overseas markets and is looking for potential overseas agencies and partners.
+My Table Pty Ltd is actively seeking to expand into overseas markets and is looking for potential overseas agencies and partners. B2B price based on application.
 
 📞 Overseas agency enquiries :
 
