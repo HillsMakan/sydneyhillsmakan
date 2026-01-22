@@ -60,7 +60,17 @@ Normally RRP $7.50 for 750 ml bottle
 
 **How to Order and Enquiries**
 
-📞 Customers/Consumers/Business owners enquiries (Cafe, Restaurant, Supermarket and etc) : 
+📞 Customers/Consumers :
+
+Name : CN YONG
+
+Mobile : + 61 431 966 123
+
+Email : mytable388@gmail.com
+
+**Australian Business Owners Enquiries** 
+
+📞 For Cafe, Restaurant, Supermarket and etc owners (B2B price based on application) : 
 
 Name : CN YONG
 
