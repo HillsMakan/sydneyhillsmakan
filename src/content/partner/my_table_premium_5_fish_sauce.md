@@ -52,9 +52,7 @@ A high-quality, healthier alternative to elevate everyday meals.
 
 • 10% OFF for direct customers/consumers Australia-wide.
 
-Normally RRP $888 size 655ml
-
-Normally RRP $88888 size 888ml
+Normally RRP $7.50 for 750 ml bottle
 
 • Free delivery within 20 km from Chatswood
 
@@ -62,12 +60,22 @@ Normally RRP $88888 size 888ml
 
 **How to Order and Enquiries**
 
-📞 Customers/Consumers : 0433 216
+📞 Customers/Consumers/Business owners enquiries (Cafe, Restaurant, Supermarket and etc) : 
 
-📞 Business owners enquiries (Cafe, Restaurant, Supermarketand etc) : **0653 2256**
+Name : CN YONG
+
+Mobile : + 61 431 966 123
+
+Email : mytable388@gmail.com
 
 **Overseas Expansion Opportunities**
 
 My Table Pty Ltd is actively seeking to expand into overseas markets and is looking for potential overseas agencies and partners.
 
-📞 Overseas agency enquiries : 0543 267
+📞 Overseas agency enquiries :
+
+Name : CN YONG
+
+Mobile : + 61 431 966 123
+
+Email : mytable388@gmail.com
