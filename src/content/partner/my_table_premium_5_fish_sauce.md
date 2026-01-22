@@ -58,34 +58,34 @@ Normally RRP $7.50 for 750 ml bottle
 
 • Postage applies for all other locations
 
-**How to Order and Enquiries**
+**How to Order & Enquiries**
 
-📞 Customers/Consumers :
+***Customers / Consumers***
 
-Name : CN YONG
+Contact Person : CN Yong
 
-Mobile : + 61 431 966 123
+📞 Mobile : +61 431 966 123
 
-Email : mytable388@gmail.com
+📧 Email : mytable388@gmail.com
 
-**Australian Business Owners Enquiries** 
+***Australian Business Owners (B2B)***
 
-📞 For Cafe, Restaurant, Supermarket and etc owners (B2B price based on application) : 
+For cafés, restaurants, supermarkets, and other business enquiries. B2B pricing available upon application.
 
-Name : CN YONG
+Contact Person : CN Yong
 
-Mobile : + 61 431 966 123
+📞 Mobile : +61 431 966 123
 
-Email : mytable388@gmail.com
+📧 Email : mytable388@gmail.com
 
-**Overseas Expansion Opportunities**
+***Overseas Expansion Opportunities***
 
-My Table Pty Ltd is actively seeking to expand into overseas markets and is looking for potential overseas agencies and partners. B2B price based on application.
+My Table Pty Ltd is actively expanding into international markets and welcomes enquiries from overseas agencies and business partners. B2B pricing available upon application.
 
-📞 Overseas agency enquiries :
+Overseas Agency Enquiries
 
-Name : CN YONG
+Contact Person : CN Yong
 
-Mobile : + 61 431 966 123
+📞 Mobile : +61 431 966 123
 
-Email : mytable388@gmail.com
+📧 Email : mytable388@gmail.com
