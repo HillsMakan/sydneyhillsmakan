@@ -66,8 +66,10 @@ We invite you to visit Freskin Beauty Clinic Castle Hill for a professional cons
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
-**Location :** Castle Towers, Shop 377, 6/14 Castle St, Castle Hill, 2154, NSW, Australia (Level 2 close between Myer and Carpark entrace) (Around 7 mins walk from Castle Hill Metro Station)
+**Location :** Shop 2096, Westfield Hornsby, 236 Pacific Hwy, Hornsby, 2077, NSW, Australia
 
-**Contact Number :** (02) 9894 9695
+(Around 10 mins walk from Hornsby Station)
 
-**Trading :** Monday - Sunday : 10 am - 6 pm
+**Contact Number :** (02) 9987 4375
+
+**Trading :** Monday - Sunday : 10 am - 5.30 pm
