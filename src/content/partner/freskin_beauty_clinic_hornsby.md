@@ -4,6 +4,20 @@ title: Freskin Beauty Clinic Hornsby
 description: Skin Care Clinic
 link: https://www.freskin.com.au
 image: ../../assets/images/freskin_hornsby.jpeg
+images:
+  - ../../assets/images/freskin-logo_400.png
+  - ../../assets/images/freskinhornsby3.jpeg
+  - ../../assets/images/screenshot_20260119_231515_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231548_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231600_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231635_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231641_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231702_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231754_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231824_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231837_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231852_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260119_231909_samsung_internet.jpg
 categories:
   - salons
 region: nsw
