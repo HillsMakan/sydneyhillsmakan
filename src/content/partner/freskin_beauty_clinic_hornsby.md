@@ -18,6 +18,11 @@ images:
   - ../../assets/images/screenshot_20260119_231837_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231852_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231909_samsung_internet.jpg
+  - ../../assets/images/freskinhornsby2.jpeg
+  - ../../assets/images/freskinhornsby4.jpeg
+  - ../../assets/images/freskinhornsby6.jpg
+  - ../../assets/images/freskinhornsby5.jpg
+  - ../../assets/images/freskin_hornsby_1.jpeg
 categories:
   - salons
 region: nsw
