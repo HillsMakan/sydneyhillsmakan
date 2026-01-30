@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Knightsbridge Canberra
 description: Hotel and Service Apartment
 link: https://www.knightsbridgecanberra.com.au
@@ -47,13 +47,13 @@ discount_pct: 10
 discount_text: May be times Promo code may not be accessible due to restrictions
   imposed during peak seasons
 ---
-
 Here are the steps/process :
 
 1. Go to https://www.knightsbridgecanberra.com.au
 2. Click BOOK NOW
 3. Input Check In, Check Out, Rooms, Adults, Children, key in Promo Code AFG, click BOOK NOW.
 4. Choose your room(s) and follow the process.
+5. Make sure it shows "Australia Foodie Groups" like in the last two photos below.*
 
 \* 10 % Discount Promo Code : AFG\
 (May be times Promo code may not be accessible due to restrictions imposed during peak seasons).
