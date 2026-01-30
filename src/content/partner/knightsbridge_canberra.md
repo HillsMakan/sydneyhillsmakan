@@ -37,6 +37,8 @@ images:
   - ../../assets/images/knightsbridge30.jpg
   - ../../assets/images/knightsbridge31.jpg
   - ../../assets/images/knightsbridge32.jpg
+  - ../../assets/images/screenshot_20260130_144849_samsung_internet.jpg
+  - ../../assets/images/screenshot_20260130_144844_samsung_internet.jpg
 categories:
   - hotels
   - travel
