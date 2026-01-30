@@ -81,7 +81,7 @@ Freskin HMG
 
 **Book Your Consultation**
 
-We invite you to visit Freskin Beauty Clinic Castle Hill for a professional consultation and personalised treatment plan.
+We invite you to visit Freskin Beauty Clinic Hornsby for a professional consultation and personalised treatment plan.
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
