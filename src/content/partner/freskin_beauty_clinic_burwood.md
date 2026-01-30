@@ -4,6 +4,9 @@ title: Freskin Beauty Clinic Burwood
 description: Skin Care Clinic
 link: https://www.freskin.com.au
 image: ../../assets/images/freskinburwood8.jpg
+images:
+  - ../../assets/images/freskin-logo_400.png
+  - ../../assets/images/freskinburwood2.jpg
 categories:
   - salons
 region: nsw
