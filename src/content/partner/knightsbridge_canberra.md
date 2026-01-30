@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Knightsbridge Canberra
 description: Hotel and Service Apartment
 link: https://www.knightsbridgecanberra.com.au
