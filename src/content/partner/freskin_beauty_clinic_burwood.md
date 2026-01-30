@@ -18,6 +18,13 @@ images:
   - ../../assets/images/screenshot_20260119_231837_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231852_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231909_samsung_internet.jpg
+  - ../../assets/images/freskinburwood3.jpg
+  - ../../assets/images/freskinburwood1.jpg
+  - ../../assets/images/freskinburwood4.jpg
+  - ../../assets/images/freskinburwood5.jpg
+  - ../../assets/images/freskinburwood6.jpg
+  - ../../assets/images/freskinburwood.jpeg
+  - ../../assets/images/freskinburwood7.jpg
 categories:
   - salons
 region: nsw
