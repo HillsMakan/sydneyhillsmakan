@@ -42,6 +42,8 @@ A high-quality, healthier alternative to elevate everyday meals.
 
 • Commercial cooking
 
+• Grilling 
+
 • Dipping sauces
 
 • Marinades
