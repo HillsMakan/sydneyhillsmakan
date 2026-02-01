@@ -73,11 +73,11 @@ Freskin Beauty Clinic proudly offers treatments for both females and males, with
 
 **Exclusive HMG International Member Benefit**
 
-🎉 HMG International Members Receive 20% OFF
+🎉 HMG International Members Receive 10% OFF
 
 Simply present your HMG International e-Member Card in-clinic
 
-Online purchases: Enjoy 20% OFF (excluding discounted items) using promo code :
+Online purchases: Enjoy 10% OFF (excluding discounted items) using promo code :
 
 Freskin HMG
 
