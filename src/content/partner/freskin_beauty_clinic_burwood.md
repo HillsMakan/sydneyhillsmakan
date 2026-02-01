@@ -3,7 +3,7 @@ draft: false
 title: Freskin Beauty Clinic Burwood
 description: Skin Care Clinic
 link: https://www.freskin.com.au
-image: ../../assets/images/freskinburwood8.jpg
+image: ../../assets/images/freskinburwoodfront.jpg
 images:
   - ../../assets/images/freskin-logo_400.png
   - ../../assets/images/freskinburwood2.jpg
