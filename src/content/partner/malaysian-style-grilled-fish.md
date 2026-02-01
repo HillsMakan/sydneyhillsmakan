@@ -1,6 +1,7 @@
 ---
+draft: true
 title: Malaysian Style Grilled Fish
-description: 'Malaysia Ikan Bakar '
+description: "Malaysia Ikan Bakar "
 image: ../../assets/images/malaysian-style-grilled-fish.jpg
 images:
   - ../../assets/images/malaysian-style-grilled-fish1.jpg
