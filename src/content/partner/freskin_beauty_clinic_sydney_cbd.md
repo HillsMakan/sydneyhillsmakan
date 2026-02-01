@@ -10,7 +10,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and discounted items
 ---
-**Freskin Beauty Clinic Sydney CBD** 
+ ** BFreskin Beauty Clinic Sydney CBD** 
 
 *Advanced Aesthetic Care | Professional | Results-Driven*
 
@@ -66,9 +66,9 @@ We invite you to visit Freskin Beauty Clinic Sydney CBD for a professional consu
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
-**Location :** Shop 1, 35 Belmore St, Burwood, 2134, NSW, Australia
+**Location :** Shop 5, 537-551 George St, Sydney NSW 2000
 
-(Around 5 mins walk from Burwood Station)
+(In . Around 5 mins walk from Burwood Station)
 
 **Contact Number :** (02) 9211 9641
 
