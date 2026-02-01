@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Freskin Beauty Clinic Sydney CBD
 description: Skin Care Clinic
 link: https://www.freskin.com.au
@@ -84,7 +84,7 @@ We invite you to visit Freskin Beauty Clinic Sydney CBD for a professional consu
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
-**Location :** Shop 5, 537-551 George St, Sydney NSW 2000
+**Location :** Meriton Tower Building, Shop 5, 537-551 George St, Sydney NSW 2000
 
 (Around 5 mins walk from Gadigal Metro South Bathurst St Station or Town Hall Station)
 
