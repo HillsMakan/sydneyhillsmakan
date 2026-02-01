@@ -66,9 +66,9 @@ We invite you to visit Freskin Beauty Clinic Chatswood for a professional consul
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
-**Location :** Shop 2096, Westfield Hornsby, 236 Pacific Hwy, Hornsby, 2077, NSW, Australia
+**Location :** Chatswood Chase, Shop B024, 345 Victoria Ave, Chatswood, 2067, NSW, Australia 
 
-(Around 10 mins walk from Hornsby Station)
+(Around 9 mins walk from Chatswood Station)
 
 **Contact Number :** (02) 9413 3327
 
