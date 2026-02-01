@@ -70,6 +70,6 @@ We invite you to visit Freskin Beauty Clinic Sydney CBD for a professional consu
 
 (Around 5 mins walk from Burwood Station)
 
-**Contact Number :** (02) 9744 0347
+**Contact Number :** (02) 9211 9641
 
-**Trading :** Monday - Sunday : 10 am - 6 pm
+**Trading :** Monday - Sunday : 11 am - 7 pm
