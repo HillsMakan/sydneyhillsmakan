@@ -28,7 +28,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and discounted items
 ---
-**,  BFreskin Beauty Clinic Sydney CBD** 
+**Freskin Beauty Clinic Sydney CBD** 
 
 *Advanced Aesthetic Care | Professional | Results-Driven*
 
