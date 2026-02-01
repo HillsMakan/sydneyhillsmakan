@@ -70,6 +70,6 @@ We invite you to visit Freskin Beauty Clinic Chatswood for a professional consul
 
 (Around 10 mins walk from Hornsby Station)
 
-**Contact Number :** (02) 9987 4375
+**Contact Number :** (02) 9413 3327
 
-**Trading :** Monday - Sunday : 10 am - 5.30 pm
+**Trading :** Monday - Sunday : 10 am - 6 pm
