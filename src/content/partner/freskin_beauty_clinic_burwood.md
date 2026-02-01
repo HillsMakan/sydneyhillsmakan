@@ -77,10 +77,6 @@ Freskin Beauty Clinic proudly offers treatments for both females and males, with
 
 Simply present your HMG International e-Member Card in-clinic
 
-Online purchases: Enjoy 10% OFF (excluding discounted items) using promo code :
-
-Freskin HMG
-
 **Book Your Consultation**
 
 We invite you to visit Freskin Beauty Clinic Burwood for a professional consultation and personalised treatment plan.
