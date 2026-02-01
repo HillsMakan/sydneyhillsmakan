@@ -10,7 +10,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and discounted items
 ---
- ** BFreskin Beauty Clinic Sydney CBD** 
+**,  BFreskin Beauty Clinic Sydney CBD** 
 
 *Advanced Aesthetic Care | Professional | Results-Driven*
 
@@ -52,11 +52,11 @@ Freskin Beauty Clinic proudly offers treatments for both females and males, with
 
 **Exclusive HMG International Member Benefit**
 
-🎉 HMG International Members Receive 20% OFF
+🎉 HMG International Members Receive 10% OFF
 
 Simply present your HMG International e-Member Card in-clinic
 
-Online purchases: Enjoy 20% OFF (excluding discounted items) using promo code :
+Online purchases: Enjoy 10% OFF (excluding discounted items) using promo code :
 
 Freskin HMG
 
@@ -68,7 +68,7 @@ We invite you to visit Freskin Beauty Clinic Sydney CBD for a professional consu
 
 **Location :** Shop 5, 537-551 George St, Sydney NSW 2000
 
-(In . Around 5 mins walk from Burwood Station)
+(Around 5 mins walk from Gadigal Metro South Bathurst St Station or Town Hall Station)
 
 **Contact Number :** (02) 9211 9641
 
