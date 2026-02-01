@@ -18,6 +18,9 @@ images:
   - ../../assets/images/screenshot_20260119_231837_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231852_samsung_internet.jpg
   - ../../assets/images/screenshot_20260119_231909_samsung_internet.jpg
+  - ../../assets/images/freskinchatswood4.jpg
+  - ../../assets/images/freskinchatswood3.jpg
+  - ../../assets/images/freskinchatswood1.jpg
 categories:
   - salons
 region: nsw
@@ -69,10 +72,6 @@ Freskin Beauty Clinic proudly offers treatments for both females and males, with
 🎉 HMG International Members Receive 10% OFF
 
 Simply present your HMG International e-Member Card in-clinic
-
-Online purchases: Enjoy 10% OFF (excluding discounted items) using promo code :
-
-Freskin HMG
 
 **Book Your Consultation**
 
