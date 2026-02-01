@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Freskin Beauty Clinic Sydney CBD
 description: Skin Care Clinic
 link: https://www.freskin.com.au
