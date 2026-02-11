@@ -37,8 +37,7 @@ You can find Brooklyn Fine Meats at :
 * Westfield Miranda
 * HomeCo Plumpton Marketplace
 * Campbelltown Marketfair
-* Seven Hills Plaza
-  [Hills Makan Group International | Brooklyn Fine Meats - Seven Hills](https://hmginternational.com/partner/brooklyn_fine_meats_-_seven_hills/)
+* Seven Hills Plaza - https://hmginternational.com/partner/brooklyn_fine\_meats\_-_seven_hills/[](https://hmginternational.com/partner/brooklyn_fine_meats_-_seven_hills/)
 * Macarthur Square
 * Tramsheds
 
