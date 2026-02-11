@@ -4,6 +4,17 @@ title: Brooklyn Fine Meats - Seven Hills
 description: Butcher
 link: https://brooklynfinemeats.com.au
 image: ../../assets/images/bfm7hills.jpg
+images:
+  - ../../assets/images/bfm8.jpg
+  - ../../assets/images/bfm11.jpg
+  - ../../assets/images/bfm9.jpg
+  - ../../assets/images/bfm4.jpg
+  - ../../assets/images/bfm1.jpg
+  - ../../assets/images/bfm2.jpg
+  - ../../assets/images/bfm5.jpg
+  - ../../assets/images/bfm6.jpg
+  - ../../assets/images/bfm10.jpg
+  - ../../assets/images/bfm13.jpeg
 categories:
   - foodanddrinks
   - retailers
