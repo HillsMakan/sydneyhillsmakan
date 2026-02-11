@@ -46,19 +46,19 @@ You can find Brooklyn Fine Meats at :
 
 * Westfield Miranda 
 
-  Shop 2076, Level 2 (Near Coles), 600 Kingsway Miranda, 2228, NSW, Australia (Around 5 mins walk from Miranda Station). Phone : (02) 9531 1934
+  Shop 2076, Level 2 (Near Coles), 600 Kingsway Miranda, 2228, NSW, Australia (around 5 mins walk from Miranda Station). Phone : (02) 9531 1934
 * HomeCo Plumpton Marketplace
 
   Shop 5 (Near Woolworths), 260 Jersey Road, Plumpton, 2761, NSW, Australia. Phone : (02) 9624 4031
 * Campbelltown Marketfair
 
-  Shop 4 (Near Woolworths), 4 Tindall St, Campbelltown, 2560, NSW, Australia (Around 10 mins walk from Macarthur Station). Phone : (02) 9525 7972
+  Shop 4 (Near Woolworths), 4 Tindall St, Campbelltown, 2560, NSW, Australia (around 10 mins walk from Macarthur Station). Phone : (02) 9525 7972
 * Seven Hills Plaza
 
-  Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia (Around 10 mins walk from Seven Hills Station). Phone : (02) 9525 7972
+  Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia (around 10 mins walk from Seven Hills Station). Phone : (02) 9525 7972
 * Macarthur Square
 
-  Shop 2125 (Near Woolworths), Level 2, 200 Gilchrist Dr, Campbelltown, 2560, NSW, Australia (Around 10 mins walk from Macarthur Station). Phone : (02) 4626 7265
+  Shop 2125 (Near Woolworths), Level 2, 200 Gilchrist Dr, Campbelltown, 2560, NSW, Australia (around 10 mins walk from Macarthur Station). Phone : (02) 4626 7265
 * Tramsheds (Forest Lodge) 
 
   Shop 16B (Near IGA), 1 Dalgal Way, Forest Lodge, 2037, NSW, Australia (around 5 mins walk from Jubilee Park Light Rail Stop). Phone : (02) 9518 4689
