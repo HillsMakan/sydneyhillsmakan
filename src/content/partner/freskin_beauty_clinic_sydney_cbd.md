@@ -25,8 +25,8 @@ images:
 categories:
   - salons
 region: nsw
-discount_pct: 10
-discount_text: Excluding promotions and discounted items
+discount_pct: 4
+discount_text: Including Discount Items
 ---
 **Freskin Beauty Clinic Sydney CBD** 
 
