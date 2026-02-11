@@ -13,8 +13,6 @@ region: nsw
 discount_pct: 5
 discount_text: "In-store 5% - Online order 10% excluding delivery "
 ---
-
-
 ## Brooklyn Fine Meats
 
 **Proudly Australian. Family-Owned. Community-Focused.**
@@ -63,3 +61,13 @@ At Brooklyn Fine Meats, we believe good food brings people closer.
 We’re proud to serve local communities, build lasting relationships with our customers, and be the trusted butcher families return to week after week.
 
 Fresh. Honest. Made for Families.
+
+**Location :** Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia 
+
+**Phone :** (02) 9525 7972
+
+**Trading :**
+
+* Monday - Wednesay : 7 am - 6 pm
+* Thursday : 7 am - 7.30 pm
+* Friday : 7 am - 6 pm
