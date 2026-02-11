@@ -32,7 +32,6 @@ Enjoy sapecial savings with Brooklyn Fine Meats :
 * 5% off with purchases made at our locations when showing HMG International e-member card (excluding specials)
 * 10% off online (excluding delivery and specials) at www.brooklynfinemeats.com.au - enter your exclusive discount code at checkout : 
 
-
 ## Brooklyn Fine Meats
 
 **Proudly Australian. Family-Owned. Community-Focused.**
@@ -48,7 +47,7 @@ You can find Brooklyn Fine Meats at :
 * Westfield Miranda
 * HomeCo Plumpton Marketplace
 * Campbelltown Marketfair
-* Seven Hills Plaza - https://hmginternational.com/partner/brooklyn_fine\_meats\_-_seven_hills/[](https://hmginternational.com/partner/brooklyn_fine_meats_-_seven_hills/)
+* Seven Hills Plaza - https://hmginternational.com/partner/brooklyn*fine\_meats\_-_seven_hills/*
 * Macarthur Square
 * Tramsheds
 
