@@ -6,6 +6,12 @@ link: https://brooklynfinemeats.com.au
 image: ../../assets/images/bfm8.jpg
 images:
   - ../../assets/images/bfm11.jpg
+  - ../../assets/images/bfmmiranda.avif
+  - ../../assets/images/bmfplumpton.avif
+  - ../../assets/images/bmfcampbelltown.avif
+  - ../../assets/images/bfm7hills.jpg
+  - ../../assets/images/bmfmacarthur.avif
+  - ../../assets/images/bfmtramsheds.avif
   - ../../assets/images/bfm9.jpg
   - ../../assets/images/bfm4.jpg
   - ../../assets/images/bfm1.jpg
