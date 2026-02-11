@@ -14,6 +14,12 @@ discount_pct: 5
 discount_text: In-store 5% - Online order 10% excluding delivery - All Discounts
   is excluding any specials
 ---
+## Exclusive Member Discounts
+
+Enjoy sapecial savings with Brooklyn Fine Meats :
+
+* 5% off with purchases made at our locations when showing HMG International e-member card (excluding specials)
+* 10% off online (excluding delivery and specials) at www.brooklynfinemeats.com.au - enter your exclusive discount code at checkout : 
 
 
 ## Brooklyn Fine Meats
@@ -32,6 +38,7 @@ You can find Brooklyn Fine Meats at :
 * HomeCo Plumpton Marketplace
 * Campbelltown Marketfair
 * Seven Hills Plaza
+  [Hills Makan Group International | Brooklyn Fine Meats - Seven Hills](https://hmginternational.com/partner/brooklyn_fine_meats_-_seven_hills/)
 * Macarthur Square
 * Tramsheds
 
@@ -67,6 +74,8 @@ Fresh. Honest. Made for Families.
 
 **Location :** Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia 
 
+(Around 10 mins walk from Seven Hills Station)
+
 **Phone :** (02) 9525 7972
 
 **Trading :**
@@ -74,3 +83,4 @@ Fresh. Honest. Made for Families.
 * Monday - Wednesay : 7 am - 6 pm
 * Thursday : 7 am - 7.30 pm
 * Friday : 7 am - 6 pm
+* Saturday & Sunday : 7 am - 5.30 pm
