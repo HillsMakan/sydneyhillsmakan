@@ -26,7 +26,6 @@ discount_text: "Discount Code : SHMG10 | Sydney Metro Only"
 
 Click and collect (pick up) is available.
 
-
 ## Brooklyn Fine Meats
 
 **Proudly Australian. Family-Owned. Community-Focused.**
@@ -43,7 +42,8 @@ You can find Brooklyn Fine Meats at :
 * HomeCo Plumpton Marketplace
 * Campbelltown Marketfair
 * Seven Hills Plaza
-* Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia (Around 10 mins walk from Seven Hills Station)
+
+  Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia (Around 10 mins walk from Seven Hills Station). Phone: (02) 9525 7972
 * Macarthur Square
 * Tramsheds
 
