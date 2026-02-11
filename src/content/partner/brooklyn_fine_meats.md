@@ -38,12 +38,14 @@ As a proudly Australian-owned, family-run business, we understand how important 
 
 You can find Brooklyn Fine Meats at :
 
-* Westfield Miranda
+* Westfield Miranda 
+
+  Westfield Miranda, Shop 2076, Level 2 (Near Coles), 600 Kingsway Miranda, 2228, NSW, Australia (Around 5 mins walk from Miranda Station). Phone : (02) 9531 1934
 * HomeCo Plumpton Marketplace
 * Campbelltown Marketfair
 * Seven Hills Plaza
 
-  Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia (Around 10 mins walk from Seven Hills Station). Phone: (02) 9525 7972
+  Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia (Around 10 mins walk from Seven Hills Station). Phone : (02) 9525 7972
 * Macarthur Square
 * Tramsheds
 
