@@ -11,8 +11,11 @@ categories:
   - supermarket
 region: nsw
 discount_pct: 5
-discount_text: "In-store 5% - Online order 10% excluding delivery "
+discount_text: In-store 5% - Online order 10% excluding delivery - All Discounts
+  is excluding any specials
 ---
+
+
 ## Brooklyn Fine Meats
 
 **Proudly Australian. Family-Owned. Community-Focused.**
