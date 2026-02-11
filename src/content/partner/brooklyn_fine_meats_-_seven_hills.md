@@ -29,8 +29,8 @@ discount_text: In-store 5% - Online order 10% excluding delivery - All Discounts
 
 Enjoy sapecial savings with Brooklyn Fine Meats :
 
-* 5% off with purchases made at our locations when showing HMG International e-member card (excluding specials)
-* 10% off online (excluding delivery and specials) at www.brooklynfinemeats.com.au - enter your exclusive discount code at checkout : 
+* 5% off with purchases made at our locations when showing your HMG International e-member card (excluding specials)
+* 10% off online (excluding delivery and specials) at www.brooklynfinemeats.com.au (pick up option is available) - enter your exclusive discount code at checkout : 
 
 ## Brooklyn Fine Meats
 
