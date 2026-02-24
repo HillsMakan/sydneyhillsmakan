@@ -31,13 +31,11 @@ When contacting the team, please provide :
 * Your tour start date
 * Quote the dedicated code “HMG” to receive the 6% discount
 
-Important note
+***Important note***
 
 The 6% discount applies to tour costs only and excludes any peak season surcharges and single supplement fees, if applicable.
 
-\---
-
-Promotional Travel Products (HMG Code Eligible)
+**Promotional Travel Products (HMG Code Eligible)**
 
 Sky Road Railway: China & Tibet’s Grand Journey
 
