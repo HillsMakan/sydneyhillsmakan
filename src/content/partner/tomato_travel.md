@@ -47,13 +47,13 @@ The 6% discount applies to tour costs only and excludes any peak season surcharg
 
 **Promotional Travel Products (HMG Code Eligible)**
 
-* Aromas of Japan 2026
-
-https://www.tomatotravel.com.au/products/Aromas-Of-Japan-Foodie/432
-
 * Sky Road Railway: China & Tibet’s Grand Journey
 
 https://www.tomatotravel.com.au/products/sky-road-railway-tibets-grand-journey/498
+
+* Aromas of Japan 2026
+
+https://www.tomatotravel.com.au/products/Aromas-Of-Japan-Foodie/432
 
 * Discover Fukuoka
 
