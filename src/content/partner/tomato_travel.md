@@ -5,6 +5,14 @@ description: Travel Company
 image: ../../assets/images/tomatotravel_logo_rgb_.pdf.png
 images:
   - ../../assets/images/tomato_discount_code.png
+  - ../../assets/images/shinkansen_-japan.jpg
+  - ../../assets/images/geisha-in-kyoto-_japan.png
+  - ../../assets/images/osaka_castle_spring-japan.png
+  - ../../assets/images/great_wall_of_china.jpg
+  - ../../assets/images/guilin_li_river-china.png
+  - ../../assets/images/seongsan_ilchulbong_tuff_cone_and_hydrangea_buses_south_korea_2_.jpg
+  - ../../assets/images/busan_south_korea.jpg
+  - ../../assets/images/seongsan_ilchulbong_tuff_cone_and_hydrangea_buses_south_korea.jpg
 categories:
   - companies
   - travel
