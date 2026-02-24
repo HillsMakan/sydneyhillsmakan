@@ -3,6 +3,8 @@ draft: false
 title: Tomato Travel
 description: Travel Company
 image: ../../assets/images/tomatotravel_logo_rgb_.pdf.png
+images:
+  - ../../assets/images/tomato_discount_code.png
 categories:
   - companies
   - travel
