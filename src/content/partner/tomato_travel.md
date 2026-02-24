@@ -11,44 +11,29 @@ region: international
 discount_pct: 6
 discount_text: Enter the code HMG during checkout/booking to receive your 6% discount.
 ---
-Exclusive HMG Member Offer – Tomato Travel (6% OFF)
+**Exclusive HMG Member Offer – Tomato Travel (6% OFF)**
 
-Discount Code: “HMG”
+Discount Code : “HMG”
 
 HMG members will receive 6% OFF when booking with Tomato Travel by applying the code HMG at the time of booking.
 
-How to book (2 options)
+**How to book (2 options)**
 
-1. Book online:
+1. Book online : Enter the code HMG during checkout/booking to receive your 6% discount. (See first image below)
+2. Book with the Tomato Travel team :
 
+* Email : info@tomatotravel.com.au
+* Phone (Sydney Office) : +612 8005 8383
 
+When contacting the team, please provide :
 
-Enter the code HMG during checkout/booking to receive your 6% discount.
-
-
-2. Book with the Tomato Travel team:
-
-
-
-Email: info@tomatotravel.com.au
-
-Phone (Sydney Office): (02) 8005 8383
-
-When contacting the team, please provide:
-
-
-
-Your preferred travel package
-
-Your tour start date
-
-Quote the dedicated code “HMG” to receive the 6% discount
-
+* Your preferred travel package
+* Your tour start date
+* Quote the dedicated code “HMG” to receive the 6% discount
 
 Important note
 
 The 6% discount applies to tour costs only and excludes any peak season surcharges and single supplement fees, if applicable.
-
 
 \---
 
@@ -101,8 +86,6 @@ https://www.tomatotravel.com.au/products/independent-around-japan/421
 Around Taiwan 2026
 
 https://www.tomatotravel.com.au/products/around-taiwan/429
-
-
 
 \---
 
