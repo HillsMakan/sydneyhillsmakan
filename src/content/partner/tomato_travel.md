@@ -47,51 +47,51 @@ The 6% discount applies to tour costs only and excludes any peak season surcharg
 
 ### **Promotional Travel Products (HMG Code Eligible)**
 
-* *Sky Road Railway: China & Tibet’s Grand Journey*
+* ***Sky Road Railway: China & Tibet’s Grand Journey***
 
 https://www.tomatotravel.com.au/products/sky-road-railway-tibets-grand-journey/498
 
-* *Independent Around Japan*
+* ***Independent Around Japan***
 
 https://www.tomatotravel.com.au/products/independent-around-japan/421
 
-* *Aromas of Japan 2026*
+* ***Aromas of Japan 2026***
 
 https://www.tomatotravel.com.au/products/Aromas-Of-Japan-Foodie/432
 
-* *Discover Fukuoka*
+* ***Discover Fukuoka***
 
 https://www.tomatotravel.com.au/products/discover-fukuoka/484
 
-* *7 Days of Authentic Japan in Shikoku*
+* ***7 Days of Authentic Japan in Shikoku***
 
 https://www.tomatotravel.com.au/products/7-days-of-authentic-japan-in-shikoku/504
 
-* *Discover Japan with Hiroshima 2026*
+* ***Discover Japan with Hiroshima 2026***
 
 https://www.tomatotravel.com.au/products/discover-japan-with-Hiroshima-2026/414
 
-* *Highlights of Japan with Hiroshima 2026*
+* ***Highlights of Japan with Hiroshima 2026***
 
 https://www.tomatotravel.com.au/products/highlights-of-japan-with-hiroshima/345
 
-* *Japan Golden Route with Hiroshima 2026*
+* ***Japan Golden Route with Hiroshima 2026***
 
 https://www.tomatotravel.com.au/products/Japan-Golden-Route-with-Hiroshima/413
 
-* *Highlights of Japan 2026*
+* ***Highlights of Japan 2026***
 
 https://www.tomatotravel.com.au/products/highlights-of-japan-2026/351
 
-* *Around Taiwan 2026*
+* ***Around Taiwan 2026***
 
 https://www.tomatotravel.com.au/products/around-taiwan/429
 
-* *Imagine Endless Discoveries in Japan & South Korea 2026*
+* ***Imagine Endless Discoveries in Japan & South Korea 2026***
 
 https://www.tomatotravel.com.au/products/imagine-endless-discoveries-in-japan-and-south-korea/427
 
-* *Imagine Endless Discoveries in South Korea, Japan & Taiwan 2026*
+* ***Imagine Endless Discoveries in South Korea, Japan & Taiwan 2026***
 
 https://www.tomatotravel.com.au/products/imagine-endless-discoveries-in-south-korea-japan-and-taiwan/428
 
