@@ -35,8 +35,7 @@ HMG members will receive 6% OFF when booking with Tomato Travel by applying the 
 * Email : info@tomatotravel.com.au
 * Phone (Sydney Office) : +612 8005 8383
 * Address : 502/121 Walker Street, North Sydney, 2060, NSW, Australia (Google map above is not correct due issues and will be fix)
-* Opening Hours : Monday to Friday from 10 am till 4 pm
-
+* Operating Hours : Monday to Friday from 9 am till 5.30 pm AEST
 
 When contacting the team, please provide :
 
