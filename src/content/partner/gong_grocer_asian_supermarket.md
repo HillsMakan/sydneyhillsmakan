@@ -22,3 +22,8 @@ As a proud supporter of the community, they believe in the power of community su
 World Square Shopping Centre, Lower Ground, Shop 8.01, 644 George St, 2000, Sydney, NSW, Australia
 
 (Next to Priceline Pharmacy. Closest entrance via the escalators on the corner of George St and Liverpool St, or via the lifts next to Pandora.)
+
+**Trading :**
+
+* Monday to Friday : 9 am - 10 pm
+* Saturday & Sunday : 9 am - 11 pm
