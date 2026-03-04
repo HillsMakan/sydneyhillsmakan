@@ -20,3 +20,5 @@ As a proud supporter of the community, they believe in the power of community su
 **Location :**
 
 World Square Shopping Centre, Lower Ground, Shop 8.01, 644 George St, 2000, Sydney, NSW, Australia
+
+(Next to Priceline Pharmacy. Closest entrance via the escalators on the corner of George St and Liverpool St, or via the lifts next to Pandora.)
