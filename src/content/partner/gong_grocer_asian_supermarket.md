@@ -16,3 +16,7 @@ Driven by a passion for food, culture, and family values, they are committed to 
 More than just a supermarket, they offer a complete shopping experience with fresh produce, everyday groceries, an onsite butcher, bakery, and a specialty Asian liquor store—all under one roof.
 
 As a proud supporter of the community, they believe in the power of community supporting community, creating a welcoming place where families, food lovers, and local businesses can come together to celebrate great food and culture.
+
+**Location :**
+
+World Square Shopping Centre, Lower Ground, Shop 8.01, 644 George St, 2000, Sydney, NSW, Australia
