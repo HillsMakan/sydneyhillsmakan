@@ -27,6 +27,23 @@ images:
   - ../../assets/images/1000230621.jpg
   - ../../assets/images/1000230623.jpg
   - ../../assets/images/1000230627.jpg
+  - ../../assets/images/1000230636.jpg
+  - ../../assets/images/1000230637.jpg
+  - ../../assets/images/1000230638.jpg
+  - ../../assets/images/1000230639.jpg
+  - ../../assets/images/1000230640.jpg
+  - ../../assets/images/1000230641.jpg
+  - ../../assets/images/1000230642.jpg
+  - ../../assets/images/1000230643.jpg
+  - ../../assets/images/1000230644.jpg
+  - ../../assets/images/1000230645.jpg
+  - ../../assets/images/1000230632.jpg
+  - ../../assets/images/1000230633.jpg
+  - ../../assets/images/1000230634.jpg
+  - ../../assets/images/1000230635.jpg
+  - ../../assets/images/1000230629.jpg
+  - ../../assets/images/1000230630.jpg
+  - ../../assets/images/1000230631.jpg
 categories:
   - professionals
 region: nsw
