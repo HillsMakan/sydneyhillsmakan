@@ -31,6 +31,7 @@ categories:
   - professionals
 region: nsw
 discount_pct: 10
+discount_text: When you mention that you are HMG member
 ---
 DTS Construction, led by Albert, is a trusted renovation and construction service dedicated to delivering quality workmanship and reliable solutions for residential and commercial properties across Sydney. Established in 2012, the business brings over a decade of hands-on industry experience.
 
@@ -58,4 +59,4 @@ As a proud HMG International collaboration partner, DTS Construction shares the 
 
 Whether it's home renovation or a commercial upgrade, DTS Construction aims to bring your vision to life with professionalism and care.
 
-For enquiries or a quotation, contact Albert on 0410 138 582
+For enquiries or a quotation, contact Albert on 0410 138 582 (Mention that you are HMG member)
