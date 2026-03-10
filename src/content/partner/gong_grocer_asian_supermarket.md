@@ -19,7 +19,7 @@ images:
 categories:
   - supermarket
 region: nsw
-discount_pct: 5
+discount_pct: 0
 discount_text: "Excluding discounted items "
 ---
 With over 30 years of experience, this proudly family-owned business has become a trusted destination for quality Asian groceries while staying deeply connected to the community it serves.
