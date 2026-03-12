@@ -72,3 +72,11 @@ Healthy skin is achieved through a combination of clinical treatments and prope
 * Mesopeel Treatments
 * Cosmetic Injectables
 * Mole & Skin Tag Removal
+
+**Location :** 488 Pacific Hwy, St Leonards, 2065, NSW, Australia
+
+(Located inside the Salon Lane Salon. Around 5 mins walk from St Leonards Station)
+
+**Contact Number :** 0450 292 388
+
+**Trading :** Monday - Sunday : 9 am - 8 pm
