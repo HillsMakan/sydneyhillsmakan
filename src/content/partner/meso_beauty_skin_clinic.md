@@ -75,7 +75,7 @@ Healthy skin is achieved through a combination of clinical treatments and prope
 
 **Location :** 488 Pacific Hwy, St Leonards, 2065, NSW, Australia
 
-(Located inside the Salon Lane Salon. Around 5 mins walk from St Leonards Station)
+(Located inside the Salon Lane Salon. Around 5 mins walk from St Leonards Station and 3 mins walk from Crows Nest Metro Station)
 
 **Contact Number :** 0450 292 388
 
