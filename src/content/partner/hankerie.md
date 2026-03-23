@@ -38,7 +38,7 @@ Hankerie is offering an exclusive HMG International deal :
 
 🎉 $50 OFF per person
 
-👉 Use discount code: Shmg50 at checkout
+👉 Use discount code : Shmg50 at checkout
 
 🔁 Future Classes
 
