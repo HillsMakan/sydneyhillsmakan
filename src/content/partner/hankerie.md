@@ -13,8 +13,22 @@ images:
   - ../../assets/images/20260321_120014.jpg
   - ../../assets/images/fb_img_1774258224738.jpg
   - ../../assets/images/fb_img_1774258213114.jpg
+  - ../../assets/images/2025-10-02.webp
+  - ../../assets/images/20260323_191427.jpg
+  - ../../assets/images/2025-11-02.webp
+  - ../../assets/images/fb_img_1774258418729.jpg
+  - ../../assets/images/fb_img_1774258308248.jpg
+  - ../../assets/images/fb_img_1774258377118.jpg
+  - ../../assets/images/fb_img_1774258370679.jpg
+  - ../../assets/images/fb_img_1774258278776.jpg
+  - ../../assets/images/baking_.webp
+  - ../../assets/images/2025-11-02-1.webp
+  - ../../assets/images/2025-05-05.webp
+  - ../../assets/images/fb_img_1774258260040.jpg
+  - ../../assets/images/2026-01-24.webp
 categories:
   - foodanddrinks
+  - professionals
 cuisine: []
 region: nsw
 discount_pct: 50
