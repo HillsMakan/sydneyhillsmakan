@@ -31,20 +31,12 @@ categories:
   - professionals
 cuisine: []
 region: nsw
-discount_pct: 50
-discount_text: • Purchase 1 ticket at the standard price • Bring a love one or
-  friend at no extra cost
+discount_pct: 0
+discount_text: '$50 off per person with discount code "Shmg50" at checkout '
 ---
 Hankerie is offering an exclusive HMG International deal :
 
-🎉 BUY 1 TICKET, BRING 1 LOVE ONES OR FRIEND FOR FREE (2-for-1 value!) That's 50% Off
-👉 Just quote “Sydney Hills Makan Group” in the order notes during checkout.
-
-🥖 The Deal
-
-• Purchase 1 ticket at the standard price
-
-• Bring a friend or partner at no extra cost
+🎉 $50 off per person with discount code "Shmg50" at checkout.
 
 🔁 Future Classes
 
