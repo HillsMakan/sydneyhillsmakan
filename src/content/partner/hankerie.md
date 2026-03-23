@@ -7,9 +7,13 @@ image: ../../assets/images/fb_img_1774257425205.jpg
 images:
   - ../../assets/images/fb_img_1774258297981.jpg
   - ../../assets/images/fb_img_1774257428513.jpg
+  - ../../assets/images/20260321_112614.jpg
+  - ../../assets/images/20260321_113004.jpg
+  - ../../assets/images/20260321_115859.jpg
+  - ../../assets/images/20260321_120014.jpg
+  - ../../assets/images/fb_img_1774258213114.jpg
 categories:
   - foodanddrinks
-  - professionals
 cuisine: []
 region: nsw
 discount_pct: 50
