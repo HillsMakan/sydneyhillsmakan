@@ -58,3 +58,5 @@ Hankerie is offering an exclusive HMG International deal :
 
 🔗 Booking link (exclusive for SHMG community) :
 👉 https://hankerie.com/product/sourdoughclass/
+
+**Location :** Ryde, NSW, Australia
