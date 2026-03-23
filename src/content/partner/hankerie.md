@@ -56,5 +56,3 @@ Hankerie is offering an exclusive HMG International deal :
 
 🔗 Booking link (exclusive for SHMG community) :
 👉 https://hankerie.com/product/sourdoughclass/
-
-* Just quote “Sydney Hills Makan Group” in the order notes during checkout.
