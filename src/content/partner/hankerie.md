@@ -37,13 +37,12 @@ discount_text: • Purchase 1 ticket at the standard price • Bring a love one 
 ---
 Hankerie is offering an exclusive HMG International deal :
 
-🎉 BUY 1 TICKET, BRING 1 FRIEND FOR FREE (2-for-1 value!) That's 50% Off
+🎉 BUY 1 TICKET, BRING 1 LOVE ONES OR FRIEND FOR FREE (2-for-1 value!) That's 50% Off
 👉 Just quote “Sydney Hills Makan Group” in the order notes during checkout.
 
 🥖 The Deal
 
 • Purchase 1 ticket at the standard price
-
 
 • Bring a friend or partner at no extra cost
 
@@ -65,4 +64,5 @@ Hankerie is offering an exclusive HMG International deal :
 
 🔗 Booking link (exclusive for SHMG community) :
 👉 https://hankerie.com/product/sourdoughclass/
+
 * Just quote “Sydney Hills Makan Group” in the order notes during checkout.
