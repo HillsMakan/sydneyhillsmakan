@@ -5,6 +5,7 @@ description: Baking classes & supply store
 link: https://hankerie.com/product/sourdoughclass/
 image: ../../assets/images/fb_img_1774257425205.jpg
 images:
+  - ../../assets/images/fb_img_1774258297981.jpg
   - ../../assets/images/fb_img_1774257428513.jpg
 categories:
   - foodanddrinks
