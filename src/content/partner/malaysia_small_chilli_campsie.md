@@ -24,6 +24,8 @@ images:
   - ../../assets/images/2025-01-15-1.jpg
   - ../../assets/images/ac3c23b2-4e2c-4f52-80cd-c2ab7b6880ab.jpg
   - ../../assets/images/unnamed-3_1_.jpg
+  - ../../assets/images/20260314_171306.jpg
+  - ../../assets/images/20260314_171229.jpg
 categories:
   - foodanddrinks
 cuisine:
