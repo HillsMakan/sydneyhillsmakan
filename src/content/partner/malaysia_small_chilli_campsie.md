@@ -3,6 +3,21 @@ draft: false
 title: Malaysia Small Chilli Campsie
 description: Malaysian Restaurant
 image: ../../assets/images/20260314_171210.jpg
+images:
+  - ../../assets/images/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg
+  - ../../assets/images/20260314_172608.jpg
+  - ../../assets/images/20260314_182448.jpg
+  - ../../assets/images/20260314_182604.jpg
+  - ../../assets/images/20260314_183330.jpg
+  - ../../assets/images/20260314_183618.jpg
+  - ../../assets/images/20260314_183918.jpg
+  - ../../assets/images/20260314_195231.jpg
+  - ../../assets/images/20260314_195246.jpg
+  - ../../assets/images/20260314_195307.jpg
+  - ../../assets/images/20260314_195426.jpg
+  - ../../assets/images/20260314_195546.jpg
+  - ../../assets/images/20260314_200003.jpg
+  - ../../assets/images/20260314_200526.jpg
 categories:
   - foodanddrinks
 cuisine:
