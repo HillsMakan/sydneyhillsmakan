@@ -18,6 +18,12 @@ images:
   - ../../assets/images/20260314_195546.jpg
   - ../../assets/images/20260314_200003.jpg
   - ../../assets/images/20260314_200526.jpg
+  - ../../assets/images/2025-01-15.jpg
+  - ../../assets/images/sc.jpg
+  - ../../assets/images/sc2.jpg
+  - ../../assets/images/2025-01-15-1.jpg
+  - ../../assets/images/ac3c23b2-4e2c-4f52-80cd-c2ab7b6880ab.jpg
+  - ../../assets/images/unnamed-3_1_.jpg
 categories:
   - foodanddrinks
 cuisine:
