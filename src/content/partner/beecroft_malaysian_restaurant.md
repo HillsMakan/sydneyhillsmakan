@@ -3,6 +3,26 @@ draft: true
 title: Beecroft Malaysian Restaurant 吉隆坡大炒
 description: Malaysian Restaurant
 image: ../../assets/images/20260115_121345.jpg
+images:
+  - ../../assets/images/fb_img_1774608567736.jpg
+  - ../../assets/images/fb_img_1774608570778.jpg
+  - ../../assets/images/fb_img_1774608573224.jpg
+  - ../../assets/images/fb_img_1774608575427.jpg
+  - ../../assets/images/fb_img_1774608579994.jpg
+  - ../../assets/images/fb_img_1774608582578.jpg
+  - ../../assets/images/fb_img_1774608584676.jpg
+  - ../../assets/images/fb_img_1774608587443.jpg
+  - ../../assets/images/fb_img_1774608589890.jpg
+  - ../../assets/images/fb_img_1774608592264.jpg
+  - ../../assets/images/fb_img_1774608594600.jpg
+  - ../../assets/images/fb_img_1774608596994.jpg
+  - ../../assets/images/fb_img_1774608609438.jpg
+  - ../../assets/images/fb_img_1774608611888.jpg
+  - ../../assets/images/fb_img_1774608614286.jpg
+  - ../../assets/images/fb_img_1774608626300.jpg
+  - ../../assets/images/fb_img_1774608673793.jpg
+  - ../../assets/images/fb_img_1774608696377.jpg
+  - ../../assets/images/fb_img_1774608634958.jpg
 categories:
   - foodanddrinks
 cuisine:
