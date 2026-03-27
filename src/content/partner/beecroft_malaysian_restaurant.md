@@ -24,3 +24,12 @@ The restaurant offers a warm, homely atmosphere, making it perfect for casual me
 Due to its popularity, the restaurant can get busy during peak hours, so early or advance orders are recommended. Despite this, the team maintains strong standards across food quality, service, and overall dining experience.
 
 Beecroft Malaysian Restaurant 吉隆坡大炒 is highly recommended by its loyal customers and is a must-visit for anyone seeking authentic, hearty Malaysian and Chinese cuisine in the Beecroft area.
+
+**Location :** Shop 25, 8 Hannah St, Beecroft, 2119, NSW, Australia (3 mins walk from Beecroft Station)
+
+**Trading :** 
+
+* Monday & Tuesday : 10 am to 9.30 pm
+* Wednesday : Closed
+* Thursday to Saturday : 10 am to 9.30 pm
+* Sunday : 8 am to 9.30 pm
