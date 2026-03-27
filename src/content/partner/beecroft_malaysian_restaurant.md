@@ -29,7 +29,6 @@ Beecroft Malaysian Restaurant 吉隆坡大炒 is highly recommended by its loyal
 
 **Trading :** 
 
-* Monday & Tuesday : 10 am to 9.30 pm
-* Wednesday : Closed
-* Thursday to Saturday : 10 am to 9.30 pm
-* Sunday : 8 am to 9.30 pm
+* Monday : 11 am – 3 pm & 5 pm – 9 pm
+* Tuesday : Closed
+* Wednesday to Sunday : 11 am – 3 pm & 5 pm – 9 pm
