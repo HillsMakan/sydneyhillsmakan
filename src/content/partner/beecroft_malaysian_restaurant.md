@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Beecroft Malaysian Restaurant 吉隆坡大炒
 description: Malaysian Restaurant
 image: ../../assets/images/20260115_121345.jpg
