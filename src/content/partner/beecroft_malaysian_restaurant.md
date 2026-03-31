@@ -23,6 +23,8 @@ images:
   - ../../assets/images/fb_img_1774608673793.jpg
   - ../../assets/images/fb_img_1774608696377.jpg
   - ../../assets/images/fb_img_1774608634958.jpg
+  - ../../assets/images/fb_img_1774994568185.jpg
+  - ../../assets/images/fb_img_1774994571840.jpg
 categories:
   - foodanddrinks
 cuisine:
