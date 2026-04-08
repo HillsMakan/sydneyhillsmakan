@@ -14,9 +14,9 @@ categories:
 region: australia
 discount_pct: 0
 ---
-**FOUNDATION OFFER – LIMITED RELEASE**
+**HMG MEMBERS OFFER – LIMITED RELEASE**
 
-We’re excited to introduce a limited foundation release of modular, architecturally designed premium cabins/units — available exclusively to our community.
+We’re excited to introduce a limited release of modular, architecturally designed premium cabins/units — available exclusively to our community.
 
 These high-quality, pre-built, fully self-contained units are designed for flexibility and can be used as : 
 
@@ -82,4 +82,4 @@ This is ideal if you’re looking to :
 
 If you’d like more details, specifications, or to explore whether this suits your situation, feel free to reach out.
 
-**Avi - 0448 301 941**
+**Avi - 0448 301 941** (Mention that you are HMG members)
