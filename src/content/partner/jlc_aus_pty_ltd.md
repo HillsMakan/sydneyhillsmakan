@@ -4,11 +4,21 @@ title: JLC Aus Pty Ltd
 description: Modular, architecturally designed premium cabins/units
 image: ../../assets/images/image1.png
 images:
-  - ../../assets/images/image0.png
+  - ../../assets/images/img-20260409-wa0002.jpg
   - ../../assets/images/image2.png
   - ../../assets/images/image3.png
-  - ../../assets/images/image4.png
+  - ../../assets/images/img-20260409-wa0009.jpg
+  - ../../assets/images/img-20260409-wa0013.jpg
+  - ../../assets/images/img-20260409-wa0012.jpg
+  - ../../assets/images/img-20260409-wa0011.jpg
+  - ../../assets/images/img-20260409-wa0007.jpg
+  - ../../assets/images/img-20260409-wa0006.jpg
+  - ../../assets/images/img-20260409-wa0008.jpg
   - ../../assets/images/image5.png
+  - ../../assets/images/image4.png
+  - ../../assets/images/img-20260409-wa0005.jpg
+  - ../../assets/images/img-20260409-wa0010.jpg
+  - ../../assets/images/image0.png
 categories:
   - professionals
 region: australia
