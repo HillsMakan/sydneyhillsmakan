@@ -14,7 +14,7 @@ categories:
 region: australia
 discount_pct: 0
 ---
-**HMG MEMBERS OFFER – LIMITED RELEASE**
+**HMG INTERNATIONAL MEMBERS OFFER – LIMITED RELEASE**
 
 We’re excited to introduce a limited release of modular, architecturally designed premium cabins/units — available exclusively to our community.
 
@@ -26,7 +26,7 @@ These high-quality, pre-built, fully self-contained units are designed for flexi
 
 • Home offices, studios, or creative spaces
 
-Typically retailing well above $150,000, our foundation partners can access these from $129,000 + site costs (depending on specifications and finishes).
+Typically retailing well above $150,000, HMG International members can access these from $129,000 + site costs (depending on specifications and finishes). That’s around $19,000 savings off regular pricing.
 
 **Why This Opportunity Stands Out**
 
