@@ -64,7 +64,7 @@ We don’t just supply the unit — we guide you through the entire journey :
 
 Our goal is to make the process simple, transparent, and achievable — even for first-time buyers or investors.
 
-**What Makes This a Foundation Offer**
+**What Makes This Offer**
 
 • Limited allocation available
 
