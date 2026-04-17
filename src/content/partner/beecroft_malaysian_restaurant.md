@@ -31,7 +31,7 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
-discount_text: "Excluding Specials "
+discount_text: "Discount valid from Mondays to Thursdays only. Excluding Specials "
 ---
 Beecroft Malaysian Restaurant 吉隆坡大炒 is a well-loved, family-run dining spot known for its comforting flavours, warm hospitality, and excellent value. With a strong reputation among locals, it has become a reliable go-to for both dine-in and takeaway, thanks to its generous portions and consistently high-quality dishes.
 
