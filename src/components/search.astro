@@ -234,7 +234,7 @@ import { Icon } from 'astro-icon/components'
   }
 
   document.querySelector('#lunrbutton')?.addEventListener('click', async () => {
-    const searchText = (document.querySelector('#lunrsearch') as HTMLInputElement)?.value ?? ''
+    const searchText = (document.querySelector('#lunrsearch') as HTMLInputElement)?.value || ''
     await lunrSearch(searchText)
     openPanel()
   })
