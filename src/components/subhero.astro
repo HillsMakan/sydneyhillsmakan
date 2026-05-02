@@ -10,36 +10,17 @@ export interface Props {
 const { frontmatter } = Astro.props
 ---
 
-<header class="
-  mx-auto max-w-(--breakpoint-xl) items-center px-4 py-8
-  sm:py-16
-  lg:px-6
-">
-  <div class="
-    gap-8
-    xl:grid xl:grid-cols-2 xl:gap-16
-  ">
+<header class="mx-auto max-w-(--breakpoint-xl) items-center px-4 py-8 sm:py-16 lg:px-6">
+  <div class="gap-8 xl:grid xl:grid-cols-2 xl:gap-16">
     <Image class="w-full rounded-lg" src={frontmatter.image!} alt={frontmatter.title} />
-    <div class="
-      mt-4 flex items-center
-      md:mt-0
-    ">
-      <div class="
-        format format-sm mb-4 format-blue
-        dark:format-invert
-      ">
+    <div class="mt-4 flex items-center md:mt-0">
+      <div class="prose prose-sm prose-blue dark:prose-invert mb-4">
         <div class="flex">
           <Icon
-            class="
-              me-2 size-10 shrink-0 text-gray-900
-              dark:text-white
-            "
+            class="me-2 size-10 shrink-0 text-gray-900 dark:text-white"
             name={frontmatter.icon}
           />
-          <h2 class="
-            mb-4 text-4xl font-extrabold tracking-tight text-gray-900
-            dark:text-white
-          ">
+          <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
             {frontmatter.title}
           </h2>
         </div>

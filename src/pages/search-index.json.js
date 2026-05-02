@@ -4,18 +4,14 @@ import lunr from 'lunr'
 const pages = await getCollection('pages', (page) => !page.data.draft)
 const partners = await getCollection('partner', (partner) => !partner.data.draft)
 
-let documents = await Promise.all(
-  pages.map(async (page) => {
-    return {
-      url: import.meta.env.BASE_URL + '/' + page.id,
-      title: page.data.title,
-      description: page.data.description,
-      content: page.body
-    }
-  })
-)
-documents = documents.concat(
-  partners.map((partner) => ({
+const documents = [
+  ...pages.map((page) => ({
+    url: import.meta.env.BASE_URL + '/' + page.id,
+    title: page.data.title,
+    description: page.data.description,
+    content: page.body
+  })),
+  ...partners.map((partner) => ({
     url: import.meta.env.BASE_URL + 'partner/' + partner.id,
     title: partner.data.title,
     description: partner.data.description,
@@ -26,7 +22,7 @@ documents = documents.concat(
     comment: partner.data.comment,
     content: partner.body
   }))
-)
+]
 
 const index = lunr(function () {
   this.ref('url')
@@ -34,9 +30,9 @@ const index = lunr(function () {
   this.field('description')
   this.field('content')
 
-  documents.forEach(function (document_) {
+  for (const document_ of documents) {
     this.add(document_)
-  }, this)
+  }
 })
 
 export async function GET() {

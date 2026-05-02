@@ -10,46 +10,28 @@ export interface Props {
 const { collaborations } = Astro.props
 ---
 
-<aside aria-label="Collaborations" class="
-  bg-gray-50 py-4
-  lg:py-8
-  dark:bg-gray-800
-">
-  <div class="mx-auto px-4">
-    <div class="
-      grid grid-cols-2 gap-4
-      lg:grid-cols-3
-      xl:grid-cols-4
-    ">
+<aside aria-label="Collaborations" class="bg-gray-50 py-8 lg:py-12 dark:bg-gray-900">
+  <div class="mx-auto max-w-(--breakpoint-xl) px-4">
+    <div class="grid grid-cols-2 gap-4 lg:grid-cols-3 xl:grid-cols-4">
       {
         collaborations.map((collab) => (
-          <article class="max-w-xs">
-            <a href={'/collaborations/' + collab.id}>
-              <Image src={collab.data.image!} class="mb-5 rounded-lg" alt={collab.data.title} />
+          <article class="group max-w-xs">
+            <a href={'/collaborations/' + collab.id} class="mb-5 block overflow-hidden rounded-lg">
+              <Image
+                src={collab.data.image!}
+                class="transition-transform duration-300 motion-safe:group-hover:scale-105"
+                alt={collab.data.title}
+              />
             </a>
             <div class="flex">
-              <h2 class="
-                mb-2 text-xl/tight font-bold text-gray-900
-                dark:text-white
-              ">
+              <h2 class="mb-2 text-xl/tight font-bold text-gray-900 dark:text-white">
                 <a href={'/collaborations/' + collab.id}>{collab.data.title}</a>
               </h2>
             </div>
-            <p class="
-              mb-4 text-gray-500
-              dark:text-gray-400
-            ">{collab.data.description}</p>
+            <p class="mb-4 text-gray-500 dark:text-gray-400">{collab.data.description}</p>
             <a
               href={'/collaborations/' + collab.id}
-              class="
-                inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5
-                text-sm font-medium text-white
-                hover:bg-primary-800
-                focus:ring-4 focus:ring-primary-300 focus:outline-hidden
-                dark:bg-primary-600
-                dark:hover:bg-primary-700
-                dark:focus:ring-primary-800
-              "
+              class="bg-primary-700 hover:bg-primary-800 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 inline-flex items-center rounded-lg px-5 py-2.5 text-sm font-medium text-white transition-colors duration-150 focus:ring-4 focus:outline-hidden"
             >
               <Icon class="-ms-2 me-2 size-5" name="mdi:eye" />
               View collaboration

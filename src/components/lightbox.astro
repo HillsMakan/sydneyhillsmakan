@@ -1,6 +1,7 @@
 ---
 import 'photoswipe/style.css'
 import { Image } from 'astro:assets'
+import type { ImageMetadata } from 'astro'
 
 export interface Props {
   id: string
@@ -9,14 +10,11 @@ export interface Props {
 
 const { id, images } = Astro.props
 
-const imagetitles = images.map((image) => image.src.split('/').reverse()[0].split('.')[0])
+const imagetitles = images.map((image) => image.src.split('/').toReversed()[0].split('.')[0])
 ---
 
 <lightbox-inner data-id={id}>
-  <div class="
-    grid grid-cols-2 gap-4
-    md:grid-cols-3
-  ">
+  <div class="grid grid-cols-2 gap-4 md:grid-cols-3">
     {
       images.map((image, index) => (
         <div>
@@ -31,7 +29,7 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
                 src={image}
                 alt={imagetitles[index]}
                 format="webp"
-                class="w-max-full h-auto rounded-lg"
+                class="h-auto max-w-full rounded-lg"
               />
             </a>
           </figure>

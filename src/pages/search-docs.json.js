@@ -3,17 +3,13 @@ import { getCollection } from 'astro:content'
 const pages = await getCollection('pages', (page) => !page.data.draft)
 const partners = await getCollection('partner', (partner) => !partner.data.draft)
 
-let documents = await Promise.all(
-  pages.map(async (page) => {
-    return {
-      url: import.meta.env.BASE_URL + '/' + page.id,
-      title: page.data.title,
-      description: page.data.description
-    }
-  })
-)
-documents = documents.concat(
-  partners.map((partner) => ({
+const documents = [
+  ...pages.map((page) => ({
+    url: import.meta.env.BASE_URL + '/' + page.id,
+    title: page.data.title,
+    description: page.data.description
+  })),
+  ...partners.map((partner) => ({
     url: import.meta.env.BASE_URL + 'partner/' + partner.id,
     title: partner.data.title,
     description: partner.data.description,
@@ -23,9 +19,9 @@ documents = documents.concat(
     discount_text: partner.data.discount_text,
     comment: partner.data.comment
   }))
-)
+]
 
-export async function GET() {
+export function GET() {
   return Response.json(documents, {
     status: 200,
     headers: {

@@ -1,5 +1,5 @@
 ---
-import type { CollectionEntry } from 'astro:content'
+import type { ImageMetadata } from 'astro'
 import { SEO } from 'astro-seo'
 import { getImage } from 'astro:assets'
 import type {
@@ -11,25 +11,35 @@ import type {
   WithContext
 } from 'schema-dts'
 import Site from '../site.ts'
+
+/** Minimal structural type so this component accepts all collection data types
+ *  (pages, partner, region, categories) and ad-hoc frontmatter objects. */
 export interface Props {
-  frontmatter: CollectionEntry<'pages'>['data'] | CollectionEntry<'partner'>['data']
+  frontmatter: {
+    title: string
+    description?: string
+    image?: ImageMetadata
+  }
 }
 
 const { frontmatter } = Astro.props
 
-const siteurl = new URL(import.meta.env.BASE_URL, Astro.url)
-const type = 'page'
+const siteurl = Astro.site ?? new URL(import.meta.env.BASE_URL, Astro.url)
+const pageurl = Astro.url.toString()
 const year = Site.buildTime.getFullYear()
+const title = frontmatter.title === Site.title ? Site.title : `${frontmatter.title} | ${Site.title}`
 const image = await getImage({
-  src: frontmatter.image || Site.image,
+  src: frontmatter.image ?? Site.image,
   width: 1200,
   format: 'jpg'
 })
+const imageUrl = new URL(image.src, Astro.url).toString()
 const openGraph = {
   basic: {
     title: frontmatter.title,
     type: 'website',
-    image: new URL(image.src, Astro.url).toString()
+    image: imageUrl,
+    url: pageurl
   },
   optional: {
     description: frontmatter.description,
@@ -44,6 +54,14 @@ const openGraph = {
     author: Site.author.url,
     publishedTime: Site.buildTime.toISOString()
   }
+}
+
+const twitter = {
+  card: 'summary_large_image' as const,
+  title: frontmatter.title,
+  description: frontmatter.description,
+  image: imageUrl,
+  imageAlt: frontmatter.title
 }
 
 const website: WithContext<WebSite> = {
@@ -67,7 +85,7 @@ const website: WithContext<WebSite> = {
   description: Site.description,
   image: {
     '@type': 'ImageObject',
-    url: new URL(image.src, Astro.url).toString()
+    url: imageUrl
   },
   inLanguage: 'en',
   name: Site.title,
@@ -144,7 +162,6 @@ const person: WithContext<Person> = {
 const article: WithContext<Article> = {
   '@context': 'https://schema.org',
   '@type': 'Article',
-  articleSection: type,
   author: {
     '@id': Site.author.url
   },
@@ -163,7 +180,7 @@ const article: WithContext<Article> = {
   headline: frontmatter.title,
   image: {
     '@type': 'ImageObject',
-    url: new URL(image.src, Astro.url).toString()
+    url: imageUrl
   },
   inLanguage: 'en',
   mainEntityOfPage: Site.org.url,
@@ -171,14 +188,16 @@ const article: WithContext<Article> = {
   publisher: {
     '@id': Site.org.url
   },
-  url: siteurl.toString()
+  url: pageurl
 }
 ---
 
 <SEO
-  title={Site.title + ' | ' + frontmatter.title}
+  title={title}
   description={frontmatter.description}
+  canonical={pageurl}
   {openGraph}
+  {twitter}
 />
 <script is:inline set:html={JSON.stringify(website)} type="application/ld+json" />
 <script is:inline set:html={JSON.stringify(organization)} type="application/ld+json" />

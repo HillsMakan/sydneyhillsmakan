@@ -27,42 +27,23 @@ for (const p of partners) {
 }
 ---
 
-<section class="
-  bg-gray-50 py-8 antialiased
-  md:py-8
-  dark:bg-gray-900
-">
-  <div class="
-    mx-auto px-2
-    2xl:px-0
-  ">
-    <div class="
-      mb-4 grid gap-4
-      md:mb-8 md:grid-cols-2
-      lg:grid-cols-3
-      xl:grid-cols-4
-    ">
+<section class="bg-gray-50 py-8 antialiased dark:bg-gray-900">
+  <div class="mx-auto px-4 2xl:px-0">
+    <div class="mb-4 grid gap-4 md:mb-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {
         pext.length > 0 ? (
           pext.map((partner) => (
-            <div class="
-              rounded-lg border border-gray-200 bg-white p-6 shadow-xs
-              dark:border-gray-700 dark:bg-gray-800
-            ">
-              <a href={'/partner/' + partner.id}>
+            <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-xs transition-all duration-200 hover:shadow-md motion-safe:hover:-translate-y-1 dark:border-gray-700 dark:bg-gray-800">
+              <a href={'/partner/' + partner.id} class="group block">
                 <div>
-                  <h4 class="
-                    text-xl font-bold
-                    dark:text-white
-                  ">{partner.data.title}</h4>
-                  <Image
-                    class="
-                      h-64 w-full rounded-lg object-cover
-                      md:h-48
-                    "
-                    src={partner.data.image!}
-                    alt={partner.data.title}
-                  />
+                  <h4 class="text-xl font-bold dark:text-white">{partner.data.title}</h4>
+                  <div class="overflow-hidden rounded-lg">
+                    <Image
+                      class="h-64 w-full rounded-lg object-cover transition-transform duration-300 motion-safe:group-hover:scale-105 md:h-48"
+                      src={partner.data.image!}
+                      alt={partner.data.title}
+                    />
+                  </div>
                 </div>
               </a>
               <div class="pt-2">
@@ -71,11 +52,7 @@ for (const p of partners) {
                     <RegBadge region={partner.region} />
                   </span>
                   {partner.data.discount_pct && partner.data.discount_pct > 0 ? (
-                    <span class="
-                      me-2 rounded-sm bg-red-100 px-2.5 py-0.5 text-base
-                      font-medium text-red-800
-                      dark:bg-red-900 dark:text-red-300
-                    ">
+                    <span class="me-2 rounded-sm bg-red-100 px-2.5 py-0.5 text-sm font-medium text-red-800 dark:bg-red-900 dark:text-red-300">
                       {partner.data.discount_pct}% Discount
                     </span>
                   ) : (
@@ -83,23 +60,19 @@ for (const p of partners) {
                   )}
                 </div>
 
-                <CatBadge categories={partner.categories} />
+                <div class="flex flex-wrap gap-1">
+                  <CatBadge categories={partner.categories} />
+                </div>
 
                 <ul class="mt-2 flex items-center gap-4">
                   {partner.data.cuisine &&
                     partner.data.cuisine.map((cuisine) => (
                       <li class="flex items-center gap-2">
                         <Icon
-                          class="
-                            size-4 text-gray-500
-                            dark:text-gray-400
-                          "
+                          class="size-4 text-gray-500 dark:text-gray-400"
                           name="mdi:restaurant-menu"
                         />
-                        <p class="
-                          text-sm font-medium text-gray-500
-                          dark:text-gray-400
-                        ">
+                        <p class="text-sm font-medium text-gray-500 dark:text-gray-400">
                           {cuisine}
                         </p>
                       </li>
@@ -109,15 +82,7 @@ for (const p of partners) {
                 <div class="mt-4 flex items-center justify-between gap-4">
                   <a
                     href={'/partner/' + partner.id}
-                    class="
-                      inline-flex items-center rounded-lg bg-primary-700 px-5
-                      py-2.5 text-sm font-medium text-white
-                      hover:bg-primary-800
-                      focus:ring-4 focus:ring-primary-300 focus:outline-hidden
-                      dark:bg-primary-600
-                      dark:hover:bg-primary-700
-                      dark:focus:ring-primary-800
-                    "
+                    class="bg-primary-700 hover:bg-primary-800 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 inline-flex items-center rounded-lg px-5 py-2.5 text-sm font-medium text-white transition-colors duration-150 focus:ring-4 focus:outline-hidden"
                   >
                     <Icon class="-ms-2 me-2 size-5" name="mdi:eye" />
                     View partner
@@ -127,12 +92,7 @@ for (const p of partners) {
             </div>
           ))
         ) : (
-          <div class="
-            flex h-32 items-center justify-center rounded-lg border-2
-            border-dashed border-gray-300 text-gray-500
-            md:h-64
-            dark:border-gray-600
-          ">
+          <div class="flex h-32 items-center justify-center rounded-lg border-2 border-dashed border-gray-300 text-gray-500 md:h-64 dark:border-gray-600">
             No partners yet, please check again in the future
           </div>
         )

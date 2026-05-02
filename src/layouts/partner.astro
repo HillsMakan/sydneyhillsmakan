@@ -16,10 +16,7 @@ const { partner } = Astro.props
 ---
 
 <Base frontmatter={partner.data}>
-  <main class="
-    h-auto p-4 pt-20
-    md:ml-64
-  ">
+  <main class="h-auto p-4 pt-20 md:ml-64">
     <Breadcrumb
       links={[
         { title: 'Partner', link: '/partners' },
@@ -30,53 +27,29 @@ const { partner } = Astro.props
       <header>
         <PartnerHero frontmatter={partner.data} />
       </header>
-      <section class="
-        bg-white
-        dark:bg-gray-900
-      ">
+      <section class="bg-white dark:bg-gray-800">
         <div
-          class="
-            mx-auto grid grid-cols-1 gap-x-8 gap-y-16 px-4 py-8
-            sm:px-6
-            lg:max-w-7xl lg:grid-cols-2 lg:px-8
-          "
+          class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 px-4 py-8 sm:px-6 lg:max-w-7xl lg:grid-cols-2 lg:px-8"
         >
           <div>
             <GMap search={partner.data.title} />
           </div>
           <div>
-            <Image src={partner.data.image!} alt={partner.data.title} class="
-              w-full rounded-lg
-            " />
+            <Image src={partner.data.image!} alt={partner.data.title} class="w-full rounded-lg" />
             <dl class="mt-4 grid grid-cols-1 gap-x-6 gap-y-2">
               {
                 partner.data.cuisine && (
-                  <div class="
-                    border-t border-gray-200 pt-2
-                    dark:border-gray-800
-                  ">
-                    <dt class="
-                      font-medium text-gray-900
-                      dark:text-gray-100
-                    ">Cuisine</dt>
-                    <dd class="
-                      mt-2 text-sm text-gray-600
-                      dark:text-gray-400
-                    ">
+                  <div class="border-t border-gray-200 pt-2 dark:border-gray-800">
+                    <dt class="font-medium text-gray-900 dark:text-gray-100">Cuisine</dt>
+                    <dd class="mt-2 text-sm text-gray-600 dark:text-gray-400">
                       <ul class="flex items-center gap-4">
                         {partner.data.cuisine.map((cuisine) => (
                           <li class="flex items-center gap-2">
                             <Icon
-                              class="
-                                size-4 text-gray-500
-                                dark:text-gray-400
-                              "
+                              class="size-4 text-gray-500 dark:text-gray-400"
                               name="mdi:restaurant-menu"
                             />
-                            <p class="
-                              text-sm font-medium text-gray-500
-                              dark:text-gray-400
-                            ">
+                            <p class="text-sm font-medium text-gray-500 dark:text-gray-400">
                               {cuisine}
                             </p>
                           </li>
@@ -86,37 +59,19 @@ const { partner } = Astro.props
                   </div>
                 )
               }
-              <div class="
-                border-t border-gray-200 pt-2
-                dark:border-gray-800
-              ">
-                <dt class="
-                  font-medium text-gray-900
-                  dark:text-gray-100
-                ">
+              <div class="border-t border-gray-200 pt-2 dark:border-gray-800">
+                <dt class="font-medium text-gray-900 dark:text-gray-100">
                   {partner.data.discount_pct}% Discount
                 </dt>
-                <dd class="
-                  mt-2 text-sm text-gray-600
-                  dark:text-gray-400
-                ">
+                <dd class="mt-2 text-sm text-gray-600 dark:text-gray-400">
                   {partner.data.discount_text}
                 </dd>
               </div>
               {
                 partner.data.link && (
-                  <div class="
-                    border-t border-gray-200 pt-2
-                    dark:border-gray-800
-                  ">
-                    <dt class="
-                      font-medium text-gray-900
-                      dark:text-gray-100
-                    ">Link</dt>
-                    <dd class="
-                      mt-2 text-sm text-gray-500
-                      dark:text-gray-400
-                    ">
+                  <div class="border-t border-gray-200 pt-2 dark:border-gray-800">
+                    <dt class="font-medium text-gray-900 dark:text-gray-100">Link</dt>
+                    <dd class="mt-2 text-sm text-gray-500 dark:text-gray-400">
                       <a href={partner.data.link}>{partner.data.link}</a>
                     </dd>
                   </div>
@@ -126,12 +81,7 @@ const { partner } = Astro.props
           </div>
         </div>
         <div
-          class="
-            format format-sm mx-auto w-full max-w-2xl format-blue
-            sm:format-base
-            lg:format-lg
-            dark:format-invert
-          "
+          class="prose prose-sm prose-blue sm:prose-base lg:prose-lg dark:prose-invert mx-auto w-full max-w-2xl"
         >
           <slot />
         </div>
