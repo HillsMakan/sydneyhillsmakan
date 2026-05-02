@@ -10,11 +10,49 @@ const mapPartners = allPartners
     description: p.data.description,
     coordinates: p.data.coordinates,
     categories: p.data.categories.map(c => c.id),
-    cuisine: p.data.cuisine,
+    cuisine: p.data.cuisine || [],
     region: p.data.region.id,
     link: `/partner/${p.id}/`
   }));
+
+const allCategories = await getCollection('categories');
+const activeCategoryIds = new Set(mapPartners.flatMap(p => p.categories));
+const categories = allCategories
+  .filter(c => activeCategoryIds.has(c.id))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const allRegions = await getCollection('region');
+const activeRegionIds = new Set(mapPartners.map(p => p.region));
+const regions = allRegions
+  .filter(r => activeRegionIds.has(r.id))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 ---
+
+<div class="mb-6 grid grid-cols-1 md:grid-cols-3 gap-4">
+  <div>
+    <label for="filter-region" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Region</label>
+    <select id="filter-region" class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:border-gray-700 dark:text-white sm:text-sm">
+      <option value="">All Regions</option>
+      {regions.map(r => <option value={r.id}>{r.data.title}</option>)}
+    </select>
+  </div>
+  <div>
+    <label for="filter-category" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Category</label>
+    <select id="filter-category" class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:border-gray-700 dark:text-white sm:text-sm">
+      <option value="">All Categories</option>
+      {categories.map(c => <option value={c.id}>{c.data.title}</option>)}
+    </select>
+  </div>
+  <div>
+    <label for="filter-cuisine" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Cuisine</label>
+    <select id="filter-cuisine" class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:border-gray-700 dark:text-white sm:text-sm">
+      <option value="">All Cuisines</option>
+      {cuisines.map(c => <option value={c}>{c}</option>)}
+    </select>
+  </div>
+</div>
 
 <div id="partner-map" 
      class="h-[600px] w-full rounded-lg shadow-md z-0"
