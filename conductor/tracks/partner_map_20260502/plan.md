@@ -19,3 +19,6 @@
 - [x] Task: Verify map performance with a large number of partners. (3effdeb)
 - [x] Task: Ensure the geocoding process is robust and handles API limits or missing addresses gracefully. (a13df81)
 - [x] Task: Conductor - User Manual Verification 'Finalization and Verification' (Protocol in workflow.md) (c7363f0)
+
+## Phase 5: Bug Fix (Map Tiles) [checkpoint: 7749e89]
+- [x] Task: Fix Leaflet tile rendering issue by invalidating map size after initialization. (7749e89)
