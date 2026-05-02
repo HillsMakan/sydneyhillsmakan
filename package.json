@@ -11,7 +11,11 @@
     "lint": "pnpm run lint:prettier && pnpm run lint:eslint",
     "lint:prettier": "prettier --write  \"src/**/*.{js,jsx,ts,tsx,md,mdx,astro}\"",
     "lint:eslint": "eslint --fix \"src/**/*.{js,ts,jsx,tsx,astro}\"",
-    "refresh": "pnpm dlx @astrojs/upgrade; pnpm up -L"
+    "refresh": "pnpm dlx @astrojs/upgrade; pnpm up -L",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
@@ -34,6 +38,7 @@
     "@astrojs/check": "^0.9.9",
     "@eslint/js": "^10.0.1",
     "@eslint/markdown": "^8.0.1",
+    "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0",
     "astro-eslint-parser": "^1.4.0",
     "eslint": "^10.3.0",
@@ -51,7 +56,8 @@
     "schema-dts": "^2.0.0",
     "sharp": "^0.34.5",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.59.1"
+    "typescript-eslint": "^8.59.1",
+    "vitest": "^4.1.5"
   },
   "packageManager": "pnpm@10.33.2+sha512.a90faf6feeab71ad6c6e57f94e0fe1a12f5dcc22cd754db40ae9593eb6a3e0b6b12e3540218bb37ae083404b1f2ce6db2a4121e979829b4aff94b99f49da1cf8"
 }
