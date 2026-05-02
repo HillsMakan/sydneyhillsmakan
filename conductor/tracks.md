@@ -4,7 +4,7 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [~] **Track: Enhance geocoding logic to fallback to partner name and region.**
+- [x] **Track: Enhance geocoding logic to fallback to partner name and region.**
   *Link: [./tracks/geocoding_fallback_20260502/](./tracks/geocoding_fallback_20260502/)*
 - [x] **Track: Refactor geocoding logic to store coordinates directly in Markdown and remove external cache.**
   *Link: [./tracks/refactor_geocoding_20260502/](./tracks/refactor_geocoding_20260502/)*

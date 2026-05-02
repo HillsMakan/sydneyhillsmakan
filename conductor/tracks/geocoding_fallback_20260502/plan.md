@@ -9,5 +9,5 @@
 - [x] Task: Run `scripts/geocode.mjs` to process all partners. (8a2aadd)
 - [x] Task: Verify that `pnpm run build` succeeds and the map component displays the newly geocoded partners. (8a2aadd)
 
-## Phase 3: Finalization
-- [ ] Task: Conductor - User Manual Verification 'Geocoding Fallback' (Protocol in workflow.md)
+## Phase 3: Finalization [checkpoint: 1c61d7e]
+- [x] Task: Conductor - User Manual Verification 'Geocoding Fallback' (Protocol in workflow.md) (1c61d7e)
