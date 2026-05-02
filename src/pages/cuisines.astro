@@ -23,8 +23,8 @@ interface TagType {
 const tagmap: Map<string, TagType> = new Map()
 
 for (const partner of partners) {
-  partner.data.cuisine &&
-    partner.data.cuisine.forEach((tag) => {
+  if (partner.data.cuisine) {
+    for (const tag of partner.data.cuisine) {
       let utag = tagmap.get(tag)
       if (utag) {
         utag.count += 1
@@ -33,10 +33,11 @@ for (const partner of partners) {
         utag = { tag: tag, count: 1, pages: [partner] }
       }
       tagmap.set(tag, utag)
-    })
+    }
+  }
 }
 
-const cuisines = [...tagmap.values()].sort((a, b) =>
+const cuisines = [...tagmap.values()].toSorted((a, b) =>
   a.tag.toLowerCase().localeCompare(b.tag.toLowerCase())
 )
 ---

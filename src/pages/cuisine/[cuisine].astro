@@ -19,8 +19,6 @@ export async function getStaticPaths() {
 
   cuisines = cuisines.filter((cuisine) => cuisine !== undefined)
 
-  console.log(cuisines)
-
   return cuisines.map((cuisine) => ({
     params: { cuisine },
     props: { cuisine }

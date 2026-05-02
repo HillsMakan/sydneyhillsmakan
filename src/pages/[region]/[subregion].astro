@@ -5,6 +5,7 @@ import Layout from '../../layouts/base.astro'
 import Breadcrumb from '../../components/breadcrumb.astro'
 import SubHero from '../../components/subhero.astro'
 import CategoryList from '../../components/categorylist.astro'
+import { uniqBy } from '../../utils.ts'
 
 export interface Props {
   region: CollectionEntry<'region'>
@@ -27,14 +28,6 @@ export async function getStaticPaths() {
 }
 
 const country = await getEntry(region.data.country!)
-
-function uniqBy<T>(array: T[], key: (item: T) => string): T[] {
-  const seen = new Set()
-  return array.filter((item) => {
-    const k = key(item)
-    return seen.has(k) ? false : seen.add(k)
-  })
-}
 
 const partners = await getCollection(
   'partner',

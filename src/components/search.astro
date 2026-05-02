@@ -2,7 +2,6 @@
 import { Icon } from 'astro-icon/components'
 ---
 
-<script is:inline src="https://unpkg.com/lunr/lunr.min.js"></script>
 <div id="search-widget">
   <div class="flex justify-center">
     <div class="w-48">
@@ -150,9 +149,7 @@ import { Icon } from 'astro-icon/components'
 </div>
 
 <script>
-  declare const lunr: {
-    Index: { load: (data: unknown) => { search: (term: string) => Array<{ ref: string }> } }
-  }
+  import lunr from 'lunr'
 
   const BASE_URL = import.meta.env.BASE_URL
 
