@@ -14,7 +14,17 @@ Implement a versatile Astro component that displays partners on an interactive m
 - **Geocoding:** Implement a build-time script or integration that uses a geocoding API (e.g., OpenStreetMap/Nominatim or Google Maps) to fetch coordinates for partners and store them in a cache or inject them into the data layer.
 - **Content Collection Update:** Extend the partner content collection schema to include an optional `location` field (for the address) and a build-time populated `coordinates` field.
 
-## Components
-- `MapContainer.astro`: Main component that initializes the map and handles filters.
-- `MapFilter.astro`: UI for selecting filters.
-- `MapMarkers.astro`: Handles the rendering and updating of markers based on current filters.
+## Geocoding Process
+- **Automation:** A build-time script `scripts/geocode.mjs` scans partner Markdown files and fetches coordinates from Nominatim (OpenStreetMap) based on the `address` field.
+- **Caching:** Results are cached in `src/data/geo-cache.json` to respect API rate limits and speed up builds.
+- **Trigger:** The script runs automatically before every build via the `prebuild` hook.
+
+## Handling Geocoding Failures
+- **Vague Addresses:** If an address is too vague (e.g., "Sydney Metro Area"), the script skips it.
+- **Manual Overrides:** For partners where automatic geocoding fails, coordinates can be manually specified in the Markdown frontmatter:
+  ```yaml
+  coordinates:
+    lat: -33.123
+    lng: 151.456
+  ```
+- **Fallback:** Partners without valid coordinates are omitted from the map but remain visible in the directory listing.
