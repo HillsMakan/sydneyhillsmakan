@@ -10,6 +10,7 @@ cuisine:
   - Drinks
 region: australia
 discount_pct: 0
+geocoding_failed: true
 ---
 
 To know more about The Wine Doctor, please go to below website BUT please do not order through the website if you want the discount.

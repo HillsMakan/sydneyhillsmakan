@@ -28,6 +28,9 @@ categories:
   - travel
 region: singapore
 discount_pct: 15
+coordinates:
+  lat: 1.2796267
+  lng: 103.8400076
 ---
 
 Planning your next holiday ? Why not check into Dorsett Singapore. Here are the steps/process :

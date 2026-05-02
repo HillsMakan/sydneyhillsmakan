@@ -10,6 +10,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Mention HMG member to receive discount
+geocoding_failed: true
 ---
 
 Contact \

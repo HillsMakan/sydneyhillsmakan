@@ -27,6 +27,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: 5% off + Refer a friend ONE TIME $10 OFF to redeem
+geocoding_failed: true
 ---
 
 Special :

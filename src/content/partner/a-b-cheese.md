@@ -17,6 +17,9 @@ cuisine:
   - Italian
 region: nsw
 discount_pct: 0
+coordinates:
+  lat: 53.3238717
+  lng: -6.2644113
 ---
 
 Giorgio Musante sells range of products and he delivers anywhere in Sydney. If outside of Sydney please do enquiry with him. If you need more information or to place an order, please contact Giorgio Musante with below details and mentioned that you are HMG member at email address : abcheese16@gmail.com

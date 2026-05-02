@@ -13,6 +13,9 @@ categories:
 region: malaysia
 discount_pct: 15
 discount_text: ''
+coordinates:
+  lat: 3.1435687
+  lng: 101.6890017
 ---
 
 Special Offer when you mention HMG Member

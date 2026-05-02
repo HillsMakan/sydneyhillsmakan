@@ -10,6 +10,7 @@ cuisine:
   - Drinks
 region: australia
 discount_pct: 0
+geocoding_failed: true
 ---
 
 Sacred Valley Apple Cider 4.5% Alc/Vol\

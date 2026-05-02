@@ -11,6 +11,7 @@ categories:
 region: australia
 discount_pct: 10
 discount_text: Free delivery within 20 km from Chatswood. Postage applies for all other orders
+geocoding_failed: true
 ---
 
 **My Table Premium 5⭐️ Fish Sauce by My Table Pty Ltd**

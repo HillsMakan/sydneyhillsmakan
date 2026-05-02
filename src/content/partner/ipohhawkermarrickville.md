@@ -17,7 +17,9 @@ region: nsw
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 address: "Marrickville Metro Centre, Shop G001, 20 Smidmore Street, 2204, Marrickville, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -33.9079012
+  lng: 151.1723202
 ---
 
 **Location :** Marrickville Metro Centre, Shop G001, 20 Smidmore Street, 2204, Marrickville, New South Wales, Australia\

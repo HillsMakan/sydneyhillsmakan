@@ -2,31 +2,43 @@ import fs from 'fs';
 import path from 'path';
 
 const PARTNER_DIR = './src/content/partner';
-const DATA_DIR = './src/data';
-const CACHE_FILE = path.join(DATA_DIR, 'geo-cache.json');
+
+const REGION_NAMES = {
+  act: 'Australian Capital Territory, Australia',
+  australia: 'Australia',
+  bali: 'Bali, Indonesia',
+  indonesia: 'Indonesia',
+  japan: 'Japan',
+  johor: 'Johor, Malaysia',
+  kl: 'Kuala Lumpur, Malaysia',
+  kyoto: 'Kyoto, Japan',
+  malaysia: 'Malaysia',
+  melaka: 'Melaka, Malaysia',
+  new_zealand: 'New Zealand',
+  nsw: 'New South Wales, Australia',
+  penang: 'Penang, Malaysia',
+  queensland: 'Queensland, Australia',
+  sa: 'South Australia, Australia',
+  selangor: 'Selangor, Malaysia',
+  singapore: 'Singapore',
+  united_kingdom: 'United Kingdom',
+  victoria: 'Victoria, Australia',
+  wa: 'Western Australia, Australia',
+};
 
 async function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function geocode(address) {
-  // Clean address for fetching: remove parenthetical notes, specific unit/shop info, and trailing punctuation
-  let cleanAddress = address.split('(')[0].trim();
-  cleanAddress = cleanAddress.replace(/^(Shop|Unit|Level|Suite|SShop)\s+[^,]+,\s*/i, '');
-  cleanAddress = cleanAddress.replace(/[\\,]+$/, '').trim();
+async function geocode(query) {
+  if (!query || query.length < 3) return null;
 
-  // Filter out vague addresses
-  if (!cleanAddress || cleanAddress.length < 5 || /sydney metro area/i.test(cleanAddress)) {
-    console.log(`Skipping vague address: ${address}`);
-    return null;
-  }
-
-  const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(cleanAddress)}`;
-  console.log(`Geocoding: ${cleanAddress}`);
+  const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`;
+  console.log(`Geocoding: ${query}`);
   try {
     const response = await fetch(url, {
       headers: {
-        'User-Agent': 'SydneyHillsMakanGeocoder/1.0 (hmg@sydneyhillsmakan.com)'
+        'User-Agent': 'SydneyHillsMakanGeocoder/1.1 (hmg@sydneyhillsmakan.com)'
       }
     });
     if (!response.ok) {
@@ -41,22 +53,12 @@ async function geocode(address) {
       };
     }
   } catch (error) {
-    console.error(`Error geocoding ${address}:`, error);
+    console.error(`Error geocoding ${query}:`, error);
   }
   return null;
 }
 
 async function run() {
-  let cache = {};
-  if (fs.existsSync(CACHE_FILE)) {
-    console.log('Found existing cache file. Using it for migration...');
-    try {
-        cache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
-    } catch (e) {
-        console.error('Error reading cache file:', e);
-    }
-  }
-
   const files = fs.readdirSync(PARTNER_DIR).filter(f => f.endsWith('.md'));
   let updatedCount = 0;
   const LIMIT = process.env.LIMIT ? parseInt(process.env.LIMIT) : -1;
@@ -73,51 +75,71 @@ async function run() {
     let body = content.slice(fmMatch[0].length);
     let changed = false;
 
-    // Skip if coordinates already exist OR if specifically marked as failed
-    if (fm.includes('coordinates:') || fm.includes('geocoding_failed: true')) {
+    // Skip if coordinates already exist
+    if (fm.includes('coordinates:')) {
         continue;
     }
 
-    // 1. Extract or identify address
-    let address = null;
-    const addrFM = fm.match(/address:\s*"(.*)"/) || fm.match(/address:\s*(.*)/);
-    if (addrFM) {
-      address = addrFM[1].trim().replace(/^"/, '').replace(/"$/, '');
-    } else {
-      // Try to extract from body if not in FM
-      const locMatch = body.match(/\*\*Location\s*:\s*\*\*\s*(.*)/i) || body.match(/Location\s*:\s*(.*)/i);
-      if (locMatch) {
-        address = locMatch[1].trim().replace(/\\$/, '').replace(/^ /, '');
-        if (address && address.length > 5 && !/Location\s*:\s*\*\*/.test(address)) {
-          fm += `\naddress: "${address.replace(/"/g, '\\"')}"`;
-          changed = true;
-        } else {
-          address = null;
+    // Extract fields
+    const titleMatch = fm.match(/title:\s*"(.*)"/) || fm.match(/title:\s*(.*)/);
+    const title = titleMatch ? titleMatch[1].trim().replace(/^"/, '').replace(/"$/, '') : null;
+    
+    const regionMatch = fm.match(/region:\s*(.*)/);
+    const regionId = regionMatch ? regionMatch[1].trim() : null;
+    const regionName = REGION_NAMES[regionId] || '';
+
+    const addrMatch = fm.match(/address:\s*"(.*)"/) || fm.match(/address:\s*(.*)/);
+    const address = addrMatch ? addrMatch[1].trim().replace(/^"/, '').replace(/"$/, '') : null;
+
+    if (!title) continue;
+
+    let coords = null;
+
+    // 1. Try Address First
+    if (address && !/sydney metro area/i.test(address)) {
+        let cleanAddress = address.split('(')[0].trim();
+        cleanAddress = cleanAddress.replace(/^(Shop|Unit|Level|Suite|SShop)\s+[^,]+,\s*/i, '');
+        cleanAddress = cleanAddress.replace(/[\\,]+$/, '').trim();
+        
+        if (cleanAddress.length > 5) {
+            await delay(1200);
+            coords = await geocode(cleanAddress);
         }
-      }
     }
 
-    if (!address) continue;
+    // 2. Fallback to Title + Region
+    if (!coords) {
+        // Strip non-latin characters from title for geocoding query
+        const cleanTitle = title.replace(/[^\x00-\x7F]/g, '').trim();
+        const queries = [
+            `${cleanTitle}, ${regionName}`,
+            `${cleanTitle}, Australia`,
+            cleanTitle
+        ];
 
-    // 2. Try to get coordinates (Check cache first for migration, then API)
-    let coords = cache[address];
-    let source = 'cache';
+        for (const query of queries) {
+            const finalQuery = query.trim().replace(/,\s*$/, '');
+            if (finalQuery.length < 3) continue;
 
-    if (coords === undefined) {
-      await delay(1200); // 1.2s delay for Nominatim
-      coords = await geocode(address);
-      source = 'API';
+            console.log(`Fallback for ${file}: ${finalQuery}`);
+            await delay(1200);
+            coords = await geocode(finalQuery);
+            if (coords) break;
+        }
     }
 
     if (coords) {
+      // Remove geocoding_failed if it exists
+      fm = fm.replace(/\ngeocoding_failed: true/g, '');
       fm += `\ncoordinates:\n  lat: ${coords.lat}\n  lng: ${coords.lng}`;
       changed = true;
-      console.log(`Updated ${file} with coordinates from ${source}`);
+      console.log(`Updated ${file} with coordinates`);
     } else {
-      // Mark as failed to avoid retrying every build
-      fm += `\ngeocoding_failed: true`;
-      changed = true;
-      console.log(`Marked ${file} as geocoding_failed`);
+      if (!fm.includes('geocoding_failed: true')) {
+          fm += `\ngeocoding_failed: true`;
+          changed = true;
+          console.log(`Marked ${file} as geocoding_failed`);
+      }
     }
 
     if (changed) {

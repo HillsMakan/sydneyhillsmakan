@@ -30,7 +30,9 @@ discount_pct: 10
 discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card individually
 address: "Mall 88, Shop LG01/88 Christie St, St Leonards, 2065, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -33.8242014
+  lng: 151.1951631
 ---
 
 We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.

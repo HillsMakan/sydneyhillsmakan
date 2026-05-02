@@ -25,6 +25,7 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: 'Discount Code : SHMG10 | Sydney Metro Only'
+geocoding_failed: true
 ---
 
 ## Exclusive Member Discounts - Sydney Metro only

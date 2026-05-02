@@ -13,6 +13,9 @@ categories:
   - companies
 region: nsw
 discount_pct: 0
+coordinates:
+  lat: -34.0169955
+  lng: 151.0829905
 ---
 
 180 Cadence organise trail running events in Sydney, NSW, Australia. From trail half marathon to trail ultra marathon events.

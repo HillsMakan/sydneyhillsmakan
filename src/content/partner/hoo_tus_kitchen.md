@@ -31,6 +31,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: 'Excluding specials/promotions '
+geocoding_failed: true
 ---
 
 **Hoo & Tu's Kitchen 台馬小館 – Artarmon**

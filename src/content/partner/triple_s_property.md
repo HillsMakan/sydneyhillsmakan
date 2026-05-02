@@ -15,6 +15,9 @@ categories:
 region: nsw
 discount_pct: 0
 discount_text: $1,500 Discount on Marketing Fee
+coordinates:
+  lat: -33.9083168
+  lng: 151.2055999
 ---
 
 **Reginald Kurniawan**

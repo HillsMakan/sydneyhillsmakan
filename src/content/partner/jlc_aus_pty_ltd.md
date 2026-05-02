@@ -23,6 +23,7 @@ categories:
   - professionals
 region: australia
 discount_pct: 0
+geocoding_failed: true
 ---
 
 **HMG INTERNATIONAL MEMBERS OFFER – LIMITED RELEASE**

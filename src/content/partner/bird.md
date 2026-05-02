@@ -13,6 +13,9 @@ categories:
 region: australia
 discount_pct: 15
 discount_text: ''
+coordinates:
+  lat: -37.5584605
+  lng: 144.7297098
 ---
 
 Special Offer when you mention HMG Member

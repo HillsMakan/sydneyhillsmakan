@@ -34,6 +34,7 @@ categories:
 region: international
 discount_pct: 10
 discount_text: Excluding Postage. Worldwide shipping available
+geocoding_failed: true
 ---
 
 **About Infusion8**

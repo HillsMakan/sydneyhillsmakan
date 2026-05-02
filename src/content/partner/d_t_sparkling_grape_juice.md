@@ -12,6 +12,7 @@ categories:
   - online
 region: australia
 discount_pct: 33
+geocoding_failed: true
 ---
 
 **D & T SPARKLING GRAPE JUICE**

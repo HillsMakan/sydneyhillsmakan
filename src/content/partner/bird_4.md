@@ -13,6 +13,9 @@ categories:
 region: new_zealand
 discount_pct: 15
 discount_text: ''
+coordinates:
+  lat: -37.7851058
+  lng: 175.2785744
 ---
 
 Special Offer when you mention HMG Member

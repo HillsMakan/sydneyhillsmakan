@@ -8,6 +8,7 @@ categories:
   - professionals
 region: nsw
 discount_pct: 0
+geocoding_failed: true
 ---
 
 **OpenPasskey Digital Stamps**

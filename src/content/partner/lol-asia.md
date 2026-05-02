@@ -9,6 +9,7 @@ categories:
   - companies
 region: international
 discount_pct: 0
+geocoding_failed: true
 ---
 
 LOL Asia is a live event company privileged to have worked with hundreds of amazing artists with the likes Kumar, Kevin Hart, Russell Peters, David Blaine, Fluffy, Jimmy Carr, Margaret and many more. Check out their website for live events in your neighborhood.

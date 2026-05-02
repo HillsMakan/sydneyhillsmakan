@@ -14,6 +14,7 @@ categories:
 region: australia
 discount_pct: 0
 discount_text: ''
+geocoding_failed: true
 ---
 
 Planning your next trip ? Then check this out. If you are interested, please follow the steps below :

@@ -8,6 +8,7 @@ categories:
   - professionals
 region: international
 discount_pct: 10
+geocoding_failed: true
 ---
 
 Like to tour around Singapore on motorbikes but do not have a license. Do not worry.

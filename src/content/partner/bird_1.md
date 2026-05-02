@@ -13,6 +13,9 @@ categories:
 region: international
 discount_pct: 15
 discount_text: ''
+coordinates:
+  lat: 19.2688735
+  lng: 73.0463121
 ---
 
 Special Offer when you mention HMG Member

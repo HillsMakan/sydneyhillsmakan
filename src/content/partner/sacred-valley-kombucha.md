@@ -10,6 +10,7 @@ cuisine:
   - Drinks
 region: australia
 discount_pct: 0
+geocoding_failed: true
 ---
 
 Sacred Valley, incorporated since 2012, is a producer of 100% natural & organic Kombucha in NSW

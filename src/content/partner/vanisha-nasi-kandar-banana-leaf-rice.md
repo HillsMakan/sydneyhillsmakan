@@ -10,6 +10,7 @@ cuisine:
   - Halal
 region: nsw
 discount_pct: 5
+geocoding_failed: true
 ---
 
 Mention HMG member for catering

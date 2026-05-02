@@ -34,6 +34,7 @@ categories:
 region: bali
 discount_pct: 15
 discount_text: Airport Shuttle 5% ● Day Tour 10% ● Adventure Activities 15%
+geocoding_failed: true
 ---
 
 Mention HMG International members to receive below discounts :

@@ -13,6 +13,9 @@ categories:
 region: singapore
 discount_pct: 15
 discount_text: ''
+coordinates:
+  lat: 1.2857692
+  lng: 103.8507359
 ---
 
 Special Offer when you mention HMG Member

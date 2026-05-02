@@ -13,6 +13,9 @@ categories:
 region: indonesia
 discount_pct: 15
 discount_text: ''
+coordinates:
+  lat: -1.4085087
+  lng: 132.8150818
 ---
 
 Special Offer when you mention HMG Member

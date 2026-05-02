@@ -20,6 +20,7 @@ categories:
 region: nsw
 discount_pct: 25
 discount_text: 25% off initial consultation. 10% subsequent consultation
+geocoding_failed: true
 ---
 
 Mention and show your HMG International member card and receive 25% off initial consultation and 10% subsequent consultation.

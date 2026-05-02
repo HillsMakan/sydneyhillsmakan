@@ -10,7 +10,9 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
 address: "Market City, Level 3, 1909 Dining Precinct, Shop R3, 9-13 Hay St, Haymarket, 2000, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: 37.3156793
+  lng: -121.978212
 ---
 
 **Location :** Market City, Level 3, 1909 Dining Precinct, Shop R3, 9-13 Hay St, Haymarket, 2000, New South Wales, Australia

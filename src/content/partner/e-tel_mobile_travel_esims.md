@@ -9,6 +9,7 @@ categories:
   - travel
 region: international
 discount_pct: 20
+geocoding_failed: true
 ---
 
 **✈️ TRAVELLING SOON ?**

@@ -16,6 +16,7 @@ region: nsw
 discount_pct: 5
 discount_text: Mention HMG member. Orders above $95 excluding delivery, set up
   and wedding cake orders.
+geocoding_failed: true
 ---
 
 Contact Eugene and Edith at info.ee,cakery@gmail.com

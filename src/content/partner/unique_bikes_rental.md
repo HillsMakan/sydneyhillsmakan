@@ -10,6 +10,7 @@ categories:
   - travel
 region: international
 discount_pct: 0
+geocoding_failed: true
 ---
 
 HMG members enjoy Off Peak 15% off rental rates and Peak 10% off rental rates. \

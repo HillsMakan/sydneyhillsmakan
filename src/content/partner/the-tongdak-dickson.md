@@ -10,7 +10,9 @@ region: act
 discount_pct: 5
 discount_text: Cash Only. Minimum spend $40 & above
 address: "G SHOP 2, 6 Cape St, Dickson, 2602, Australian Capital Territory, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -35.2514562
+  lng: 149.1367189
 ---
 
 **Location :** G SHOP 2, 6 Cape St, Dickson, 2602, Australian Capital Territory, Australia\

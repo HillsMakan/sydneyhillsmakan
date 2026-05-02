@@ -13,6 +13,7 @@ region: nsw
 discount_pct: 5
 discount_text: Minimum order $50 & above
 comment: ''
+geocoding_failed: true
 ---
 
 Please use Code “Hills Makan” at the checkout

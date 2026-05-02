@@ -20,7 +20,9 @@ region: nsw
 discount_pct: 5
 discount_text: Not valid with other promotions
 address: "The District Podium, 78/436 Victoria Avenue, Chatswood, 2067, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -33.7975696
+  lng: 151.1807919
 ---
 
 **Location :** The District Podium, 78/436 Victoria Avenue, Chatswood, 2067, New South Wales, Australia\

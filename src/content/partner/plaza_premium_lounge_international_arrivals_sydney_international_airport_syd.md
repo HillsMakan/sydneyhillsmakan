@@ -22,6 +22,7 @@ discount_pct: 15
 discount_text: Please show your HMG International membership card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st
   August 2025
+geocoding_failed: true
 ---
 
 **THE LOUNGE**

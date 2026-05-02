@@ -12,6 +12,7 @@ region: nsw
 discount_pct: 10
 discount_text: "Show card at stall at the markets or mention HMG members for catering\t"
 comment: ''
+geocoding_failed: true
 ---
 
 Catering, Food Stall, Market Stall

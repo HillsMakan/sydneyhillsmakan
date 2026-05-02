@@ -10,6 +10,7 @@ categories:
   - supermarket
 region: australia
 discount_pct: 5
+geocoding_failed: true
 ---
 
 Please visit : www.justgoshop.com.au

@@ -19,6 +19,7 @@ categories:
 region: new_zealand
 discount_pct: 10
 discount_text: 'Promo Code : WELCOME10HMG (Including Sale Items. Excluding postage)'
+geocoding_failed: true
 ---
 
 # **Mikazuki Knives – Precision Crafted Japanese Blades**

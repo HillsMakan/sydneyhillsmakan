@@ -7,6 +7,7 @@ categories:
   - travel
 region: wa
 discount_pct: 5
+geocoding_failed: true
 ---
 
 Hire Cars and Taxi Chauffeur Services for all your transfer needs Sydney wide, Melbourne, Brisbane, Canberra & Perth.\

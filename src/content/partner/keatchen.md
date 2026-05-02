@@ -7,6 +7,9 @@ categories:
   - foodanddrinks
 region: selangor
 discount_pct: 20
+coordinates:
+  lat: 43.6170448
+  lng: 1.4367459
 ---
 
 Go to www.order.keatchen.my for order.\
