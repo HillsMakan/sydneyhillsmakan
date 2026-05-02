@@ -65,8 +65,6 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 </div>
 
 <style>
-  /* Import Leaflet CSS in the style block or in global.css */
-  @import "leaflet/dist/leaflet.css";
 </style>
 
 <script>
@@ -147,6 +145,11 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 
     // Initial render
     renderMarkers(partners);
+
+    // Fix for "only one tile showing" issue: force Leaflet to recalculate container size
+    setTimeout(() => {
+      map.invalidateSize();
+    }, 100);
 
     [regionFilter, categoryFilter, cuisineFilter].forEach(el => {
       el.addEventListener('change', updateMarkers);
