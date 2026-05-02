@@ -25,6 +25,7 @@ region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
 address: "Eastwood Markets, Kios 8, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 **Location :** Eastwood Markets, Kios 8, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia

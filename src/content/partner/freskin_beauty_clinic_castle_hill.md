@@ -29,6 +29,7 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 address: "Castle Towers, Shop 377, 6/14 Castle St, Castle Hill, 2154, NSW, Australia"
+geocoding_failed: true
 ---
 
 **Freskin Beauty Clinic Castle Hill**

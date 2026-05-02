@@ -10,6 +10,7 @@ region: nsw
 discount_pct: 5
 discount_text: Minimum spend $25 and above
 address: "Kellyville Village, Nature’s Fresh 4 Less Fruits & Vegetables Shop, Shop 37, 90 Wrights Road, 2155, Kellyville, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 **Location :** Kellyville Village, Nature’s Fresh 4 Less Fruits & Vegetables Shop, Shop 37, 90 Wrights Road, 2155, Kellyville, New South Wales, Australia\

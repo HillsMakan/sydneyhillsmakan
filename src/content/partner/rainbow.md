@@ -22,6 +22,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding Specials & Promotions
 address: "Eastwood Markets, Kios 3, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 **Location :** Eastwood Markets, Kios 3, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia\

@@ -28,6 +28,7 @@ region: nsw
 discount_pct: 4
 discount_text: Including Discount Items
 address: "Meriton Tower Building, Shop 5, 537-551 George St, Sydney NSW 2000"
+geocoding_failed: true
 ---
 
 **Freskin Beauty Clinic Sydney CBD**

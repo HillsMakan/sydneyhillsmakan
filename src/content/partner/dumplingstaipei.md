@@ -9,6 +9,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 address: "Garden Piazza Building, Unit 13, 3-9 Terminus Street, Castle Hill, 2154, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 **Location :** Garden Piazza Building, Unit 13, 3-9 Terminus Street, Castle Hill, 2154, New South Wales, Australia\

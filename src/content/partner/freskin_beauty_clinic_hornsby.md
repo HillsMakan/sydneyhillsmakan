@@ -29,6 +29,7 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 address: "Shop 2096, Westfield Hornsby, 236 Pacific Hwy, Hornsby, 2077, NSW, Australia"
+geocoding_failed: true
 ---
 
 **Freskin Beauty Clinic Honsby**

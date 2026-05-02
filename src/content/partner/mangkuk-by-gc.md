@@ -10,6 +10,7 @@ region: kl
 discount_pct: 20
 discount_text: Excluding promotions
 address: "44, Jalan Medan Putra 3, Medan Putra Business Centre, 52200, Kuala Lumpur, Malaysia"
+geocoding_failed: true
 ---
 
 **Location :** 44, Jalan Medan Putra 3, Medan Putra Business Centre, 52200, Kuala Lumpur, Malaysia\

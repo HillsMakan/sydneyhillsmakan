@@ -26,6 +26,7 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 address: "Macquarie Shopping Centre, Level 2, Shop 2242, Macquarie Park, 2113, NSW, Australia"
+geocoding_failed: true
 ---
 
 **Freskin Beauty Clinic Macquarie**

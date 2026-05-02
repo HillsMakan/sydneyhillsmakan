@@ -10,6 +10,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding specials/promotions and Tobacco
 address: "Block C103, 548-568 Canterbury Road, Campsie, 2194, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 **Location :** Block C103, 548-568 Canterbury Road, Campsie, 2194, New South Wales, Australia\

@@ -47,21 +47,22 @@ async function geocode(address) {
 }
 
 async function run() {
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
-  }
-
   let cache = {};
   if (fs.existsSync(CACHE_FILE)) {
-    cache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
+    console.log('Found existing cache file. Using it for migration...');
+    try {
+        cache = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
+    } catch (e) {
+        console.error('Error reading cache file:', e);
+    }
   }
 
   const files = fs.readdirSync(PARTNER_DIR).filter(f => f.endsWith('.md'));
   let updatedCount = 0;
-  const LIMIT = process.env.LIMIT ? parseInt(process.env.LIMIT) : 5;
+  const LIMIT = process.env.LIMIT ? parseInt(process.env.LIMIT) : -1;
 
   for (const file of files) {
-    if (updatedCount >= LIMIT && LIMIT !== -1) break;
+    if (LIMIT !== -1 && updatedCount >= LIMIT) break;
 
     const filePath = path.join(PARTNER_DIR, file);
     let content = fs.readFileSync(filePath, 'utf8');
@@ -72,52 +73,60 @@ async function run() {
     let body = content.slice(fmMatch[0].length);
     let changed = false;
 
-    // 1. Extract address from body if missing from FM
+    // Skip if coordinates already exist OR if specifically marked as failed
+    if (fm.includes('coordinates:') || fm.includes('geocoding_failed: true')) {
+        continue;
+    }
+
+    // 1. Extract or identify address
     let address = null;
     const addrFM = fm.match(/address:\s*"(.*)"/) || fm.match(/address:\s*(.*)/);
     if (addrFM) {
       address = addrFM[1].trim().replace(/^"/, '').replace(/"$/, '');
     } else {
+      // Try to extract from body if not in FM
       const locMatch = body.match(/\*\*Location\s*:\s*\*\*\s*(.*)/i) || body.match(/Location\s*:\s*(.*)/i);
       if (locMatch) {
         address = locMatch[1].trim().replace(/\\$/, '').replace(/^ /, '');
-        if (address && address.length > 5) {
-          // Check if it's not a generic placeholder
-          if (!/Location\s*:\s*\*\*/.test(address)) {
-            fm += `\naddress: "${address.replace(/"/g, '\\"')}"`;
-            changed = true;
-          } else {
-              address = null;
-          }
+        if (address && address.length > 5 && !/Location\s*:\s*\*\*/.test(address)) {
+          fm += `\naddress: "${address.replace(/"/g, '\\"')}"`;
+          changed = true;
+        } else {
+          address = null;
         }
       }
     }
 
-    // 2. Geocode if address exists but coordinates missing
-    if (address && !fm.includes('coordinates:')) {
-      let coords = cache[address];
-      if (!coords) {
-        await delay(1200); // 1.2s delay for Nominatim
-        coords = await geocode(address);
-        // Always update cache (even if coords is null)
-        cache[address] = coords;
-        fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
-      }
+    if (!address) continue;
 
-      if (coords) {
-        fm += `\ncoordinates:\n  lat: ${coords.lat}\n  lng: ${coords.lng}`;
-        changed = true;
-      }
+    // 2. Try to get coordinates (Check cache first for migration, then API)
+    let coords = cache[address];
+    let source = 'cache';
+
+    if (coords === undefined) {
+      await delay(1200); // 1.2s delay for Nominatim
+      coords = await geocode(address);
+      source = 'API';
+    }
+
+    if (coords) {
+      fm += `\ncoordinates:\n  lat: ${coords.lat}\n  lng: ${coords.lng}`;
+      changed = true;
+      console.log(`Updated ${file} with coordinates from ${source}`);
+    } else {
+      // Mark as failed to avoid retrying every build
+      fm += `\ngeocoding_failed: true`;
+      changed = true;
+      console.log(`Marked ${file} as geocoding_failed`);
     }
 
     if (changed) {
       fs.writeFileSync(filePath, `---\n${fm}\n---${body}`);
       updatedCount++;
-      console.log(`Updated: ${file}`);
     }
   }
 
-  console.log(`Finished. Processed ${updatedCount} files.`);
+  console.log(`Finished. Updated ${updatedCount} files.`);
 }
 
 run();

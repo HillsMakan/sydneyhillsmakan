@@ -10,6 +10,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 address: "North Kellyville Square, 46 Withers Rd, North Kellyville, 2155, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 All their chickens are Lilydale free range and Halal

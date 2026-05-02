@@ -59,6 +59,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 address: "Little Indo Town, Central Park Mall, RB011, Lower Ground Floor, 28 Broadway, Chippendale, 2008, New South Wales, Australia"
+geocoding_failed: true
 ---
 
 From the rich flavours of Black Sugar Cendol to the creamy delight of Heavenly Durian Indonesian desserts are simply irresistible.
