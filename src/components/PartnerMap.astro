@@ -1,10 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
 
-const allPartners = await getCollection('partner');
-const allRegions = await getCollection('region');
+const allPartners = await getCollection('partner', (p) => !p.data.draft);
+const allRegions = await getCollection('region', (r) => !r.data.draft);
 
-// Create a lookup map for regions to support hierarchical filtering
+// Create a lookup map for regions to support hierarchical filtering and title lookup
 const regionMap = new Map(allRegions.map(r => [r.id, r]));
 
 const mapPartners = allPartners
@@ -20,6 +20,7 @@ const mapPartners = allPartners
       categories: p.data.categories.map(c => c.id),
       cuisine: p.data.cuisine || [],
       region: regionId,
+      regionName: region?.data.title || regionId,
       country: region?.data.country?.id || null,
       link: `/partner/${p.id}/`
     };
@@ -77,32 +78,46 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 </div>
 
 <style>
+  /* Ensure Leaflet popups are readable in dark mode */
+  :global(.leaflet-popup-content-wrapper) {
+    background-color: white !important;
+    color: #1a202c !important;
+  }
+  :global(.leaflet-popup-tip) {
+    background-color: white !important;
+  }
 </style>
 
 <script>
   import L from 'leaflet';
-  import icon from 'leaflet/dist/images/marker-icon.png';
-  import iconRetina from 'leaflet/dist/images/marker-icon-2x.png';
-  import iconShadow from 'leaflet/dist/images/marker-shadow.png';
+  import iconUrl from 'leaflet/dist/images/marker-icon.png?url';
+  import iconRetinaUrl from 'leaflet/dist/images/marker-icon-2x.png?url';
+  import shadowUrl from 'leaflet/dist/images/marker-shadow.png?url';
 
-  // Robust Leaflet default icon fix for Vite
-  delete (L.Icon.Default.prototype as any)._getIconUrl;
-  L.Icon.Default.mergeOptions({
-    iconRetinaUrl: iconRetina.src || iconRetina,
-    iconUrl: icon.src || icon,
-    shadowUrl: iconShadow.src || iconShadow,
+  // Fix Leaflet default icon paths for Vite
+  const DefaultIcon = L.icon({
+    iconUrl: typeof iconUrl === 'string' ? iconUrl : (iconUrl as any).src,
+    iconRetinaUrl: typeof iconRetinaUrl === 'string' ? iconRetinaUrl : (iconRetinaUrl as any).src,
+    shadowUrl: typeof shadowUrl === 'string' ? shadowUrl : (shadowUrl as any).src,
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
   });
+  L.Marker.prototype.options.icon = DefaultIcon;
 
   const mapElement = document.getElementById('partner-map');
   if (mapElement) {
     const partners = JSON.parse(mapElement.getAttribute('data-partners') || '[]');
     console.log(`Loaded ${partners.length} partners for the map`);
 
-    const map = L.map('partner-map').setView([-33.8688, 151.2093], 12);
+    const map = L.map('partner-map', {
+        scrollWheelZoom: false
+    }).setView([-33.8688, 151.2093], 12);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
-      attribution: '© OpenStreetMap contributors'
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
     const markerGroup = L.layerGroup().addTo(map);
@@ -111,22 +126,40 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
     const categoryFilter = document.getElementById('filter-category') as HTMLSelectElement;
     const cuisineFilter = document.getElementById('filter-cuisine') as HTMLSelectElement;
 
+    // Helper to jitter overlapping coordinates
+    const jitter = () => (Math.random() - 0.5) * 0.005;
+
     function renderMarkers(filteredPartners: any[]) {
       markerGroup.clearLayers();
       const boundsArr: L.LatLngExpression[] = [];
+      const seenCoords = new Set<string>();
 
       filteredPartners.forEach(partner => {
         if (partner.coordinates) {
-          const marker = L.marker([partner.coordinates.lat, partner.coordinates.lng])
+          let lat = partner.coordinates.lat;
+          let lng = partner.coordinates.lng;
+          
+          // Jitter if identical to another marker to avoid overlapping
+          const coordKey = `${lat.toFixed(4)},${lng.toFixed(4)}`;
+          if (seenCoords.has(coordKey)) {
+              lat += jitter();
+              lng += jitter();
+          }
+          seenCoords.add(`${lat.toFixed(4)},${lng.toFixed(4)}`);
+
+          const marker = L.marker([lat, lng])
             .bindPopup(`
-              <div class="p-1 min-w-[150px]">
-                <h3 class="font-bold text-base mb-1 dark:text-gray-900">${partner.title}</h3>
-                <p class="text-xs text-gray-600 mb-2">${partner.description}</p>
-                <a href="${partner.link}" class="text-blue-600 hover:underline text-xs font-semibold">View Details →</a>
+              <div class="p-1 min-w-[180px]">
+                <h3 class="font-bold text-base mb-1 text-gray-900">${partner.title}</h3>
+                <p class="text-[10px] font-bold text-blue-600 uppercase tracking-wider mb-1">${partner.regionName}</p>
+                <p class="text-xs text-gray-600 mb-2 leading-tight">${partner.description}</p>
+                <a href="${partner.link}" class="inline-block bg-blue-50 text-blue-700 hover:bg-blue-100 px-2 py-1 rounded text-[10px] font-bold uppercase transition-colors">View Details →</a>
               </div>
-            `);
+            `, {
+                maxWidth: 250
+            });
           markerGroup.addLayer(marker);
-          boundsArr.push([partner.coordinates.lat, partner.coordinates.lng]);
+          boundsArr.push([lat, lng]);
         }
       });
 
@@ -148,19 +181,20 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
         return matchesRegion && matchesCategory && matchesCuisine;
       });
 
+      console.log(`Filtering: region=${selectedRegion}, category=${selectedCategory}, cuisine=${selectedCuisine} -> Found ${filteredPartners.length} matches`);
       renderMarkers(filteredPartners);
     }
 
     // Initial render
     renderMarkers(partners);
 
-    // Fix for "only one tile showing" issue: force Leaflet to recalculate container size
+    // Force Leaflet to recalculate container size
     setTimeout(() => {
       map.invalidateSize();
-    }, 100);
+    }, 200);
 
     [regionFilter, categoryFilter, cuisineFilter].forEach(el => {
-      el.addEventListener('change', updateMarkers);
+      el?.addEventListener('change', updateMarkers);
     });
 
     const resetBtn = document.getElementById('reset-map');
@@ -168,7 +202,7 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
       regionFilter.value = '';
       categoryFilter.value = '';
       cuisineFilter.value = '';
-      renderMarkers(partners);
+      updateMarkers();
     });
 
     console.log('Map initialized with markers and filtering');
