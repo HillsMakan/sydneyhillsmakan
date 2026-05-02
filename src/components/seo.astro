@@ -12,6 +12,8 @@ import type {
 } from 'schema-dts'
 import Site from '../site.ts'
 
+/** Minimal structural type so this component accepts all collection data types
+ *  (pages, partner, region, categories) and ad-hoc frontmatter objects. */
 export interface Props {
   frontmatter: {
     title: string
