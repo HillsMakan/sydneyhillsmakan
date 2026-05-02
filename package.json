@@ -14,7 +14,6 @@
     "refresh": "pnpm dlx @astrojs/upgrade; pnpm up -L"
   },
   "dependencies": {
-    "@astrojs/alpinejs": "^0.5.0",
     "@astrojs/sitemap": "^3.7.2",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/noto": "^1.2.7",
@@ -22,8 +21,6 @@
     "@iconify-json/twemoji": "^1.2.5",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.2.4",
-    "@types/alpinejs": "^3.13.11",
-    "alpinejs": "^3.15.12",
     "astro": "^6.2.1",
     "astro-icon": "^1.1.5",
     "astro-robots-txt": "^1.0.0",
