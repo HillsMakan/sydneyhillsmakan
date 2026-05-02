@@ -1,7 +1,25 @@
 ---
+import { getCollection } from 'astro:content';
+
+const allPartners = await getCollection('partner');
+const mapPartners = allPartners
+  .filter(p => p.data.coordinates)
+  .map(p => ({
+    id: p.id,
+    title: p.data.title,
+    description: p.data.description,
+    coordinates: p.data.coordinates,
+    categories: p.data.categories.map(c => c.id),
+    cuisine: p.data.cuisine,
+    region: p.data.region.id,
+    link: `/partner/${p.id}/`
+  }));
 ---
 
-<div id="partner-map" class="h-[500px] w-full rounded-lg shadow-md z-0"></div>
+<div id="partner-map" 
+     class="h-[600px] w-full rounded-lg shadow-md z-0"
+     data-partners={JSON.stringify(mapPartners)}>
+</div>
 
 <style>
   /* Import Leaflet CSS in the style block or in global.css */
@@ -13,6 +31,9 @@
 
   const mapElement = document.getElementById('partner-map');
   if (mapElement) {
+    const partners = JSON.parse(mapElement.getAttribute('data-partners') || '[]');
+    console.log(`Loaded ${partners.length} partners for the map`);
+
     const map = L.map('partner-map').setView([-33.8688, 151.2093], 13); // Default to Sydney
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
