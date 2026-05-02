@@ -10,5 +10,6 @@ The HMG (Hills Makan Group) International website serves as a dynamic, centraliz
 
 ## Core Value Proposition
 - **Comprehensive Discovery:** Easy navigation and full-text search across partners, regions, and cuisine categories.
+- **Interactive Visualization:** Explore partners on a dynamic map with real-time filtering.
 - **Community Engagement:** Highlighting collaborations and community partnerships.
 - **Fast & Responsive:** A static-site generated, highly performant, and mobile-friendly interface with dark mode support.

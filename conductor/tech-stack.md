@@ -12,6 +12,9 @@
 ## Search
 - **Lunr:** Local full-text search engine for fast discovery across content collections.
 
+## Interactivity
+- **Leaflet:** Lightweight, open-source library for interactive maps and marker visualization.
+
 ## Testing
 - **Vitest:** For fast and efficient unit testing.
 - **Playwright:** For comprehensive end-to-end testing.
