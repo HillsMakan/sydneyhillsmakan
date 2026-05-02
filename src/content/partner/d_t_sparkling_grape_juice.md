@@ -12,7 +12,9 @@ categories:
   - online
 region: australia
 discount_pct: 33
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 **D & T SPARKLING GRAPE JUICE**

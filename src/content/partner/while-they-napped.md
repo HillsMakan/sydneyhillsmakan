@@ -12,7 +12,9 @@ region: australia
 discount_pct: 5
 discount_text: Excluding sales. Mention HMG member
 comment: ''
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 Facebook : While They Napped

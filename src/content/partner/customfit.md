@@ -17,7 +17,9 @@ region: singapore
 discount_pct: 10
 discount_text: 10% discount for CustomFit PT/Muay Thai/Boxing packages and 5%
   discount on Xtraprotein supplement
-geocoding_failed: true
+coordinates:
+  lat: 1.357107
+  lng: 103.8194992
 ---
 
 Special offers for HMG International members when you mention that you are HMG International members.

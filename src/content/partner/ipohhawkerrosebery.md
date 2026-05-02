@@ -12,7 +12,9 @@ region: nsw
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
 address: "29, Shop 2/37 Epsom Rd, Rosebery, 2018, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Location :** 29, Shop 2/37 Epsom Rd, Rosebery, 2018, New South Wales, Australia\

@@ -21,7 +21,9 @@ region: nsw
 discount_pct: 5
 discount_text: Cash and meals only
 address: "Macquarie Centre, Shop 2141, Cnr, Waterloo Rd, 2113, Macquarie Park, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Location :** Macquarie Centre, Shop 2141, Cnr, Waterloo Rd, 2113, Macquarie Park, New South Wales, Australia\

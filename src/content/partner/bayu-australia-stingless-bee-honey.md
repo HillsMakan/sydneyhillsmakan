@@ -15,7 +15,9 @@ cuisine:
   - Honey
 region: australia
 discount_pct: 10
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 Bayu Kelulut 100% Pure Stingless Bee Honey.

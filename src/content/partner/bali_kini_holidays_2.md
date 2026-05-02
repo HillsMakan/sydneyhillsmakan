@@ -34,7 +34,9 @@ categories:
 region: indonesia
 discount_pct: 15
 discount_text: Airport Shuttle 5% ● Day Tour 10% ● Adventure Activities 15%
-geocoding_failed: true
+coordinates:
+  lat: -2.4833826
+  lng: 117.8902853
 ---
 
 Mention HMG International members to receive below discounts :

@@ -26,7 +26,9 @@ region: nsw
 discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Contact :**\

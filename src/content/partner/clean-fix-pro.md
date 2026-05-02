@@ -19,7 +19,9 @@ region: nsw
 discount_pct: 15
 discount_text: Mention HMG International member to receive discount
 address: "Sydney Metro Area"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 Welcome to Clean Fix Pro, your reliable and professional handyperson service provider. We specialize in a wide range of home repair, maintenance, and clean services.

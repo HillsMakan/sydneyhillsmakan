@@ -12,7 +12,9 @@ region: act
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 address: "AE02, 148 Bunda Street, 2601, Canberra, Australian Capital Territory, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -35.4883502
+  lng: 149.0026942
 ---
 
 **Location :** AE02, 148 Bunda Street, 2601, Canberra, Australian Capital Territory, Australia

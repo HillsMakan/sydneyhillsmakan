@@ -16,7 +16,9 @@ cuisine:
 region: australia
 discount_pct: 5
 discount_text: 'For orders $100 and above excluding deliveries. Mention Code HMG5. '
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 Delivery Australia Wide. Order and Enquiries contact Kenny either :

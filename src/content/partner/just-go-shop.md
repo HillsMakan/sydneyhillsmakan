@@ -10,7 +10,9 @@ categories:
   - supermarket
 region: australia
 discount_pct: 5
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 Please visit : www.justgoshop.com.au

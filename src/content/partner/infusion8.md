@@ -34,7 +34,9 @@ categories:
 region: australia
 discount_pct: 10
 discount_text: Excluding Postage. Worldwide shipping available
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 **About Infusion8**

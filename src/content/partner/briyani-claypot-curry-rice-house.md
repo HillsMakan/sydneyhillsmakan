@@ -12,7 +12,9 @@ region: nsw
 discount_pct: 10
 discount_text: "Show card at stall at the markets or mention HMG members for catering\t"
 comment: ''
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 Catering, Food Stall, Market Stall

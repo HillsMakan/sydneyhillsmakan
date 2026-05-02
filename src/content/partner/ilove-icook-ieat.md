@@ -9,7 +9,9 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: Cookies selection only
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 HMG members 10 % Discount to all the their cookies selection only on their website.

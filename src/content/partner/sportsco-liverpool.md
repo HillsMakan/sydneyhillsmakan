@@ -9,7 +9,9 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding sales and promotional items
 address: "Sportsco Liverpool, Westfield Shoppingtown Liverpool, Shop 1053/4, Macquarie Street, Liverpool, 2170, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Location :** Sportsco Liverpool, Westfield Shoppingtown Liverpool, Shop 1053/4, Macquarie Street, Liverpool, 2170, New South Wales, Australia\

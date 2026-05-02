@@ -33,7 +33,9 @@ region: singapore
 discount_pct: 10
 discount_text: Excluding promotions
 address: "333 New Bridge Rd, #01-01 Dorsett Singapore, 088765, Singapore"
-geocoding_failed: true
+coordinates:
+  lat: 1.357107
+  lng: 103.8194992
 ---
 
 **Location :** 333 New Bridge Rd, #01-01 Dorsett Singapore, 088765, Singapore\

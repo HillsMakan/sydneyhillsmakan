@@ -11,7 +11,9 @@ region: nsw
 discount_pct: 15
 discount_text: Excluding sales, online & minimum purchase $20
 address: "Castle Mall Shopping Centre, Kiosk 112, 4/16 Terminus St, Castle Hill, 2154, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 About Xtreme Communications Castle Hill

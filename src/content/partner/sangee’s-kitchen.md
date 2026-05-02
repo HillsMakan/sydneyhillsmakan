@@ -34,7 +34,9 @@ region: nsw
 discount_pct: 10
 discount_text: Show your HMG International member card at her Food Truck/Stall
   or mention that you are HMG International member for catering.
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Experience the Bold, Aromatic Flavours of Malaysian-Tamil Cuisine Halal**

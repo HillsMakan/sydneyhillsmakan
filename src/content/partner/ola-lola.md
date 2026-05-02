@@ -9,7 +9,9 @@ cuisine:
   - Spanish
 region: nsw
 discount_pct: 10
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 Ola Lola provides traditional Latin American and Spanish food.

@@ -7,7 +7,9 @@ categories:
   - travel
 region: victoria
 discount_pct: 5
-geocoding_failed: true
+coordinates:
+  lat: -36.5986096
+  lng: 144.6780052
 ---
 
 Hire Cars and Taxi Chauffeur Services for all your transfer needs Sydney wide, Melbourne, Brisbane, Canberra & Perth.\

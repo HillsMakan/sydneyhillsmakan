@@ -14,7 +14,9 @@ categories:
 region: australia
 discount_pct: 0
 discount_text: ''
-geocoding_failed: true
+coordinates:
+  lat: -24.7761086
+  lng: 134.755
 ---
 
 Planning your next trip ? Then check this out. If you are interested, please follow the steps below :

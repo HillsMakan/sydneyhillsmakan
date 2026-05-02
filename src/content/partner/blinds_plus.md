@@ -32,7 +32,9 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: 'Mention HMG International member when getting a quote '
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 Blinds Plus, with business presence since 1986, offers a one-stop solution for new home buyers, renovators, interior designers, and office designers. We are manufacturers and suppliers of Blinds, Screens, Doors, Awnings, Shutters, Pelmets, and Clothesline.

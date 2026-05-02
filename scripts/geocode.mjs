@@ -131,26 +131,33 @@ async function run() {
             coords = await geocode(cleanAddress, regionId);
         }
     }
+// 2. Fallback to Title + Region
+if (!coords) {
+    // Strip non-latin characters and specific numeric prefixes from title
+    const cleanTitle = title.replace(/[^\x00-\x7F]/g, '').replace(/^\d+[:\.]\d+\s*/, '').trim();
+    const queries = [
+        `${cleanTitle}, ${regionName}`,
+        `${cleanTitle}, Australia`,
+        cleanTitle
+    ];
 
-    // 2. Fallback to Title + Region
-    if (!coords) {
-        const cleanTitle = title.replace(/[^\x00-\x7F]/g, '').trim();
-        const queries = [
-            `${cleanTitle}, ${regionName}`,
-            `${cleanTitle}, Australia`,
-            cleanTitle
-        ];
+    for (const query of queries) {
+        const finalQuery = query.trim().replace(/,\s*$/, '');
+        if (finalQuery.length < 3) continue;
 
-        for (const query of queries) {
-            const finalQuery = query.trim().replace(/,\s*$/, '');
-            if (finalQuery.length < 3) continue;
-
-            console.log(`Fallback for ${file}: ${finalQuery}`);
-            await delay(1200);
-            coords = await geocode(finalQuery, regionId);
-            if (coords) break;
-        }
+        console.log(`Fallback for ${file}: ${finalQuery}`);
+        await delay(1200);
+        coords = await geocode(finalQuery, regionId);
+        if (coords) break;
     }
+}
+
+// 3. Last Resort: Region Center
+if (!coords && regionName) {
+    console.log(`Last resort for ${file}: ${regionName}`);
+    await delay(1200);
+    coords = await geocode(regionName, regionId);
+}
 
     if (coords) {
       // Remove geocoding_failed if it exists

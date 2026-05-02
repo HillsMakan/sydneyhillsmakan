@@ -13,7 +13,9 @@ region: nsw
 discount_pct: 5
 discount_text: Minimum order $50 & above
 comment: ''
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 Please use Code “Hills Makan” at the checkout

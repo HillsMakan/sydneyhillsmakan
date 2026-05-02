@@ -21,7 +21,9 @@ region: nsw
 discount_pct: 5
 discount_text: Cash and meals only
 address: "Castle Towers, Level 1, Shop 1224, 6-14 Castle St., 2154, Castle Hill, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Location :** Castle Towers, Level 1, Shop 1224, 6-14 Castle St., 2154, Castle Hill, New South Wales, Australia\

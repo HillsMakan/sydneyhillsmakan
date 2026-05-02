@@ -46,7 +46,9 @@ region: bali
 discount_pct: 15
 discount_text: Food Only
 address: "Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia"
-geocoding_failed: true
+coordinates:
+  lat: -8.2271303
+  lng: 115.1919203
 ---
 
 Warung Nia Seminyak – Balinese Food & Pork Ribs

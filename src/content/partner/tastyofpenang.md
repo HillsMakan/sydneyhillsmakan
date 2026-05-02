@@ -11,7 +11,9 @@ discount_pct: 10
 discount_text: 'Monday to Friday only, Minimum Order $20 and above. Excluding
   specials/promotions '
 address: "Burwood Chinatown Building, Shop 106, 1/127 Burwood Road, Burwood, 2134, New South Wales, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 **Location :** Burwood Chinatown Building, Shop 106, 1/127 Burwood Road, Burwood, 2134, New South Wales, Australia\

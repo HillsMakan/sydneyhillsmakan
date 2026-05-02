@@ -20,7 +20,9 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: Mention HMG International member to receive discount
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 Congratulations on your engagement ! Now let's get you married.

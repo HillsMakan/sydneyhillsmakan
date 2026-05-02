@@ -22,7 +22,9 @@ region: nsw
 discount_pct: 0
 discount_text: ''
 address: "World Square Shopping Centre, Lower Ground, Shop 8.01, 644 George St, 2000, Sydney, NSW, Australia"
-geocoding_failed: true
+coordinates:
+  lat: -31.8759835
+  lng: 147.2869493
 ---
 
 With over 30 years of experience, this proudly family-owned business has become a trusted destination for quality Asian groceries while staying deeply connected to the community it serves.

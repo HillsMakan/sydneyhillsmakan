@@ -40,7 +40,9 @@ discount_pct: 10
 discount_text: Reservations required · Has private dining room
 comment: ''
 address: "One Raffles Pl, #04-48, 048616, Singapore"
-geocoding_failed: true
+coordinates:
+  lat: 1.357107
+  lng: 103.8194992
 ---
 
 **World’s 1st Neo-Indian Omakase Fine Dining Experience**\
