@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../layouts/base.astro';
+import PartnerMap from '../components/PartnerMap.astro';
+
+const mockFrontmatter = {
+  title: 'Map Test',
+  description: 'Testing the partner map component',
+};
+---
+
+<BaseLayout frontmatter={mockFrontmatter as any}>
+  <div class="container mx-auto p-8 lg:ml-64">
+    <h1 class="text-3xl font-bold mb-8 dark:text-white">Partner Map Test</h1>
+    <PartnerMap />
+  </div>
+</BaseLayout>

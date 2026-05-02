@@ -1,0 +1,25 @@
+---
+---
+
+<div id="partner-map" class="h-[500px] w-full rounded-lg shadow-md z-0"></div>
+
+<style>
+  /* Import Leaflet CSS in the style block or in global.css */
+  @import "leaflet/dist/leaflet.css";
+</style>
+
+<script>
+  import L from 'leaflet';
+
+  const mapElement = document.getElementById('partner-map');
+  if (mapElement) {
+    const map = L.map('partner-map').setView([-33.8688, 151.2093], 13); // Default to Sydney
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    console.log('Map initialized');
+  }
+</script>
