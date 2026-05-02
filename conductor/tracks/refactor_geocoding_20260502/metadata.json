@@ -1,0 +1,8 @@
+{
+  "track_id": "refactor_geocoding_20260502",
+  "type": "refactor",
+  "status": "new",
+  "created_at": "2026-05-02T17:00:00Z",
+  "updated_at": "2026-05-02T17:00:00Z",
+  "description": "Refactor geocoding logic to store coordinates directly in Markdown and remove external cache."
+}
