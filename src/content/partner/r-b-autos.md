@@ -14,6 +14,10 @@ categories:
   - professionals
 region: nsw
 discount_pct: 0
+address: "Unit 49, 7 Hoyle Ave, Castle Hill, 2154, New South Wales, Australia"
+coordinates:
+  lat: -33.7316321
+  lng: 150.9847383
 ---
 
 $20 off of the whole bill (excluding Pink Slip) when you show the HMG member card.

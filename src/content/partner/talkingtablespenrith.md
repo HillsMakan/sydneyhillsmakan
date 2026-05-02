@@ -9,6 +9,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Dine-in & Pickups (not in conjunction with any other offer)
+address: "166 Henry Street, Penrith, 2750, New South Wales, Australia"
+coordinates:
+  lat: -33.7525545
+  lng: 150.698668
 ---
 
 **Location :** 166 Henry Street, Penrith, 2750, New South Wales, Australia\

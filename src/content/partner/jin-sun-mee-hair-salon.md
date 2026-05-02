@@ -19,6 +19,10 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Cash only, discounts apply to products & excluding promotions
+address: "Shop 125, 75 Bathurst St, Sydney, 2000, New South Wales, Australia"
+coordinates:
+  lat: -33.8744145
+  lng: 151.2073868
 ---
 
 Welcome to JIN SUN MEE HAIR SALON, where truth, goodness, and beauty converge to create a space dedicated to exploring the essence of true beauty. We believe in infusing your hair with positive energy and radiance.

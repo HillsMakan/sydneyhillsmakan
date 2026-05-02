@@ -21,6 +21,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Plus $5 off first order as a thank you to all new app users
+address: "63 Mountain St, Ultimo, 2007, New South Wales, Australia"
+coordinates:
+  lat: -33.8841464
+  lng: 151.1962854
 ---
 
 **Location :** 63 Mountain St, Ultimo, 2007, New South Wales, Australia\

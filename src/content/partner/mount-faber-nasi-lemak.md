@@ -18,6 +18,10 @@ cuisine:
 region: singapore
 discount_pct: 10
 discount_text: Excluding Set Meals
+address: "20 Sago St, 059018, Singapore"
+coordinates:
+  lat: 1.2818773
+  lng: 103.8442283
 ---
 
 **Mount Faber Nasi Lemak since 1975**

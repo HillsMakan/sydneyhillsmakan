@@ -9,6 +9,7 @@ cuisine:
 region: johor
 discount_pct: 10
 discount_text: Excluding promotions
+address: "No. 155 & 157, Jalan Sutera, Taman Sentosa, 80150, Johor Bahru, Johor, Malaysia"
 ---
 
 **Location :** No. 155 & 157, Jalan Sutera, Taman Sentosa, 80150, Johor Bahru, Johor, Malaysia

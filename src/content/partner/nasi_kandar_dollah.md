@@ -15,6 +15,7 @@ cuisine:
   - Nasi Kandar
 region: penang
 discount_pct: 10
+address: "No 25, Jalan Desa Ara Permai 1, Taman Desa Ara Permai, 13310 Tasek Gelugor Pulau Pinang, Tasek Gelugor Pulau Pinang MY, Taman Desa Ara Permai, 13310 Tasek Gelugor, Pulau Pinang, Malaysia"
 ---
 
 **Location :**

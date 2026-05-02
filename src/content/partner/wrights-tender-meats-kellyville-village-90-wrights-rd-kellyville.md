@@ -13,6 +13,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Excluding specials
+address: "Kellyville Village, Shop 13, 90 Wrights Rd, Kellyville, 2155, New South Wales, Australia"
 ---
 
 **Location :** Kellyville Village, Shop 13, 90 Wrights Rd, Kellyville, 2155, New South Wales, Australia

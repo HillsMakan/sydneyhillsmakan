@@ -10,6 +10,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Cash Only. Excluding Specials/Promotions & Public Holidays
+address: "Castle Towers Shopping Centre, The Piazza, Shop 10, 6-14 Castle St, 2154, Castle Hill, New South Wales, Australia"
 ---
 
 **Location :** Castle Towers Shopping Centre, The Piazza, Shop 10, 6-14 Castle St, 2154, Castle Hill, New South Wales, Australia\

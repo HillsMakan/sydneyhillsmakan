@@ -9,6 +9,10 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Excluding Sales
+address: "Shop 4/22-28 Cambridge St, Epping, 2121, New South Wales, Australia"
+coordinates:
+  lat: -33.7718546
+  lng: 151.0745367
 ---
 
 **Location :** Shop 4/22-28 Cambridge St, Epping, 2121, New South Wales, Australia\

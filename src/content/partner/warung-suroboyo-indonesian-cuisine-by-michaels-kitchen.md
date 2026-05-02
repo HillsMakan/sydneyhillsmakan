@@ -36,6 +36,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
+address: "27 Glebe Point Rd, Glebe, 2037, New South Wales, Australia"
+coordinates:
+  lat: -33.8817024
+  lng: 151.189091
 ---
 
 **Location :** 27 Glebe Point Rd, Glebe, 2037, New South Wales, Australia\

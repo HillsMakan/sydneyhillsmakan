@@ -9,6 +9,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
+address: "1 Jackson Dr, Mascot, 2020, New South Wales, Australia"
+coordinates:
+  lat: -33.923292
+  lng: 151.1851827
 ---
 
 **Location :** 1 Jackson Dr, Mascot, 2020, New South Wales, Australia\

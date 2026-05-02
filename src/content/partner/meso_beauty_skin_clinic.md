@@ -23,6 +23,10 @@ region: nsw
 discount_pct: 20
 discount_text: Mentioning HMG International member during booking and presenting
   your HMG e-Member Card upon arrival
+address: "488 Pacific Hwy, St Leonards, 2065, NSW, Australia"
+coordinates:
+  lat: -33.8244329
+  lng: 151.1915601
 ---
 
 ## Meso Beauty Skin Clinic

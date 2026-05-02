@@ -33,6 +33,10 @@ cuisine:
 region: victoria
 discount_pct: 10
 discount_text: 'Including catering and excluding promotions '
+address: "Shop 9, 73-75 Point Cook Rd, Seabrook, 3028, VIC, Australia"
+coordinates:
+  lat: -37.8771933
+  lng: 144.7580552
 ---
 
 **Ranju's Square – Malaysian Indian Cuisine in Seabrook**

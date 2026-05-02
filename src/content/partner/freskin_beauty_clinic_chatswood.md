@@ -26,6 +26,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
+address: "Chatswood Chase, Shop B024, 345 Victoria Ave, Chatswood, 2067, NSW, Australia"
 ---
 
 **Freskin Beauty Clinic Chatswood**

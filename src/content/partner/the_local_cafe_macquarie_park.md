@@ -30,6 +30,10 @@ cuisine:
 region: nsw
 discount_pct: 0
 discount_text: 'Excluding promotions '
+address: "Unit 6A, 277 Lane Cove Rd, Macquarie Park, 2113, NSW, Australia"
+coordinates:
+  lat: -33.784421
+  lng: 151.129753
 ---
 
 Welcome to The Local Cafe Macquarie Park — formerly known as Sambal Macquarie Restaurant.

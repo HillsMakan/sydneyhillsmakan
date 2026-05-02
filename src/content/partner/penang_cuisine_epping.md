@@ -27,6 +27,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Cash only and excluding promotions
+address: "Shop 32, 74-76 Rawson St., Epping, 2121, NSW[]() (2 mins walk from Epping Train Station)"
+coordinates:
+  lat: -33.7716662
+  lng: 151.0808475
 ---
 
 Penang Cuisine, situated in the Epping neighbourhood , offers a rich variety of Malaysian dishes.

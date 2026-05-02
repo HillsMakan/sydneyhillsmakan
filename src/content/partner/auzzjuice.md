@@ -19,6 +19,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Minimum spend $20 and above
+address: "Between Gate/Door 1 & 2,, Shop 5, Parklea Markets, 601 Sunnyholt Rd, Parklea, 2768, New South Wales, Australia"
 ---
 
 Fresh Sugarcane Juice, fruit juices, ice cream, milk shakes, eggs and etc.

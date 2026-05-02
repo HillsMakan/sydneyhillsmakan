@@ -10,6 +10,10 @@ cuisine:
 region: act
 discount_pct: 15
 discount_text: Excluding promotions
+address: "1/102 Emu Bank, Belconnen, 2617, Australian Capital Territory, Australia"
+coordinates:
+  lat: -35.2387211
+  lng: 149.0712211
 ---
 
 **Location :** 1/102 Emu Bank, Belconnen, 2617, Australian Capital Territory, Australia

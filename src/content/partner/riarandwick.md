@@ -10,6 +10,10 @@ cuisine:
 region: nsw
 discount_pct: 0
 discount_text: Free Side Soup and Free Teh Pucuk every meal purchased min order $15 and above
+address: "34 Belmore Rd, Randwick, 2031, New South Wales, Australia"
+coordinates:
+  lat: -33.9145013
+  lng: 151.2401165
 ---
 
 **Location :** 34 Belmore Rd, Randwick, 2031, New South Wales, Australia

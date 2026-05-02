@@ -31,6 +31,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Cash Only. Minimum purchase $20 & above and excluding promotions
+address: "131 Parramatta Rd, Homebush, 2140, New South Wales, Australia"
+coordinates:
+  lat: -33.8634203
+  lng: 151.0816076
 ---
 
 **Location :** 131 Parramatta Rd, Homebush, 2140, New South Wales, Australia\

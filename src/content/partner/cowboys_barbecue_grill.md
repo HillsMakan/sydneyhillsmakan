@@ -48,6 +48,10 @@ cuisine:
 region: selangor
 discount_pct: 10
 discount_text: in Restaurant, Food Truck and including Catering
+address: "5, Jalan PJU 1a/42, Ara Damansara, 47301, Petaling Jaya, Selangor, Malaysia"
+coordinates:
+  lat: 3.1177727
+  lng: 101.5882462
 ---
 
 **Cowboys Barbecue & Grill**

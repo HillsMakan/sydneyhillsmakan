@@ -17,6 +17,10 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: When mention & show your HMG International member card
+address: "43 Sovereign Ave, Kellyville Ridge, 2155, NSW"
+coordinates:
+  lat: -33.7002987
+  lng: 150.9204953
 ---
 
 If you need day care for your little ones, Vina's Family Daycare is registered with Collective Family Day Care.

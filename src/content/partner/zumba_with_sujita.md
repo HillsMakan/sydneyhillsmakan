@@ -24,6 +24,7 @@ categories:
 region: nsw
 discount_pct: 16
 discount_text: ''
+address: "North Kellyville Public School Hall, 120 Hezlett Rd, North Kellyville, 2155, NSW"
 ---
 
 **Come along and zumba your way into happiness !**

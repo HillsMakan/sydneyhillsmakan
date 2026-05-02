@@ -9,6 +9,10 @@ cuisine:
 region: nsw
 discount_pct: 0
 discount_text: Free drinks for all you can eat dine in when you show your member card
+address: "66A Burwood Rd, Burwood, 2134, New South Wales, Australia"
+coordinates:
+  lat: -33.8850891
+  lng: 151.1021744
 ---
 
 **Location :** 66A Burwood Rd, Burwood, 2134, New South Wales, Australia\

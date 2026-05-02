@@ -20,6 +20,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Cash and meals only
+address: "Westfield Miranda, Shop 1010, 600 Kingsway, 2228, Miranda, New South Wales, Australia"
 ---
 
 **Location :** Westfield Miranda, Shop 1010, 600 Kingsway, 2228, Miranda, New South Wales, Australia\

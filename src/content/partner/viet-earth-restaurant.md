@@ -22,6 +22,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: '5% discount for credit card. Excluding promotions '
+address: "Shop 1008, 30 Glen St, Milsons Point, 2061, NSW, Australia"
+coordinates:
+  lat: -33.8459111
+  lng: 151.2106597
 ---
 
 Authentic Vietnamese cuisine made with love !

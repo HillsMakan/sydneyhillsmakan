@@ -20,6 +20,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
+address: "355 Sussex St, Sydney, 2000, NSW, Australia[]()"
+coordinates:
+  lat: -33.876477
+  lng: 151.204314
 ---
 
 **Location :** 355 Sussex St, Sydney, 2000, NSW, Australia[]()

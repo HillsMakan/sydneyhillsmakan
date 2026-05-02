@@ -37,6 +37,10 @@ cuisine:
 region: nsw
 discount_pct: 15
 discount_text: 'Excluding Promotions '
+address: "2 Railway Ave, Wahroonga, 2076, NSW, Australia (1 min walk from Wahroonga Station)"
+coordinates:
+  lat: -33.7184717
+  lng: 151.1172049
 ---
 
 **A Taste of Something New - Homemade Asian Dessert & Cafe**

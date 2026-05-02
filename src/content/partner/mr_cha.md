@@ -20,6 +20,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: 'Excluding specials '
+address: "91 Bankstown City Plaza, Bankstown, 2200, NSW (1 min walk from Bankstown Station)"
+coordinates:
+  lat: -33.9176258
+  lng: 151.03346
 ---
 
 **Mr Cha Eatery**

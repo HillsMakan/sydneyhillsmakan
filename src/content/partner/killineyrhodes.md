@@ -10,6 +10,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
+address: "1 Rider Blvd, Rhodes, 2138, New South Wales, Australia"
+coordinates:
+  lat: -33.8347953
+  lng: 151.0853091
 ---
 
 **Location :** 1 Rider Blvd, Rhodes, 2138, New South Wales, Australia\

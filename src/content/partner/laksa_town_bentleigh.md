@@ -30,6 +30,7 @@ cuisine:
 region: victoria
 discount_pct: 10
 discount_text: 'Excluding promotions '
+address: "[]()459 South Rd, Bentleigh, 3204, Victoria, Australia (3 mins walk from Moorabbin Railway Station)"
 ---
 
 **Laksa Town – Authentic Malaysian Flavours in Bentleigh**

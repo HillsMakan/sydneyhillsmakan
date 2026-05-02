@@ -18,6 +18,10 @@ cuisine:
 region: wa
 discount_pct: 10
 discount_text: Excluding promotions
+address: "2/55 Central Road, Rossmoyne, 6148, Western Australia[]()[]()"
+coordinates:
+  lat: -32.0386305
+  lng: 115.8708917
 ---
 
 Rossmoyne Chinese Restaurant 客人来 is a hidden gem of authentic Hakka cuisine in Perth. The establishment offers a cozy and welcoming ambiance.

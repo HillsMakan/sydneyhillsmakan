@@ -16,6 +16,10 @@ categories:
 region: singapore
 discount_pct: 15
 discount_text: Show your HMG member card when you arrive
+address: "29 Teo Hong Road, 088335, Singapore"
+coordinates:
+  lat: 1.2796596
+  lng: 103.8408203
 ---
 
 Skinlash is a premier beauty destination that offers a wide range of professional services to enhance and revitalize your skin and lashes. Our expert team of trained aestheticians and stylists provide personalized treatments and techniques tailored to meet your unique beauty needs. From rejuvenating facials and advanced skincare treatments to stunning lash extensions, eyebrow embroidery, SHR hair removal & nails services we are dedicated to delivering exceptional results. Experience the perfect blend of relaxation and indulgence in our modern and inviting salon, where you can trust us to make you look and feel your absolute best. Discover the transformative power of Skinlash and uncover a new level of confidence and radiance.

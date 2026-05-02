@@ -21,6 +21,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
+address: "551 George St, Sydney, 2000, New South Wales, Australia"
+coordinates:
+  lat: -33.8800469
+  lng: 151.205235
 ---
 
 Home of delicious and fresh Thai.Tea.Bites crafted with only the finest Thai and local ingredients and abundance of passion.

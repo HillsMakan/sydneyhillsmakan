@@ -21,6 +21,10 @@ categories:
   - foodanddrinks
 region: nsw
 discount_pct: 0
+address: "Shop SE.05, 5 Little Hay Street, Haymarket, 2000, NSW"
+coordinates:
+  lat: -33.8786786
+  lng: 151.2029361
 ---
 
 Frozen Atelier . Let’s FREO !\

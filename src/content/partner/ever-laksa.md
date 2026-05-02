@@ -11,6 +11,10 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
+address: "Shop R06, 275 Kent St, Sydney, 2000, New South Wales, Australia"
+coordinates:
+  lat: -33.8659215
+  lng: 151.20406
 ---
 
 **Location :** Shop R06, 275 Kent St, Sydney, 2000, New South Wales, Australia\

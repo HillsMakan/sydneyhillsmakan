@@ -26,6 +26,10 @@ region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
 comment: ''
+address: "339 Liverpool Rd, Ashfield, 2131, NSW"
+coordinates:
+  lat: -33.8879799
+  lng: 151.1233956
 ---
 
 **Location :** 339 Liverpool Rd, Ashfield, 2131, NSW

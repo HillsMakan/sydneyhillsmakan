@@ -31,6 +31,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Cash only
+address: "77 Liverpool St, Sydney, 2000, NSW"
+coordinates:
+  lat: -33.8764519
+  lng: 151.2058543
 ---
 
 Nanyang Kopi specialist in Malaysian cuisine and it's formally known as Rainbow Food Truck Eastwood before moving to Sydney CBD.

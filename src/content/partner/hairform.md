@@ -16,6 +16,10 @@ categories:
 region: singapore
 discount_pct: 15
 discount_text: Show your HMG member card when you arrive
+address: "29 Teo Hong Road, 088335, Singapore"
+coordinates:
+  lat: 1.2796596
+  lng: 103.8408203
 ---
 
 HairForm is a contemporary salon founded by Michael Chiew in December 2019. With a passion for hairstyling and a commitment to exceptional service, HairForm offers a wide range of professional hair care and grooming services. Whether you're looking for a trendy haircut, a stunning color transformation, or expert styling for a special occasion, HairForm's skilled team is dedicated to delivering personalized results that exceed your expectations. Step into HairForm and experience a modern salon environment where creativity meets expertise, making you feel confident and beautiful.

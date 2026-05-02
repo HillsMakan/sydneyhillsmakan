@@ -24,6 +24,10 @@ region: nsw
 discount_pct: 5
 discount_text: In-store 5% - Online order 10% excluding delivery - All Discounts
   is excluding any specials
+address: "Seven Hills Plaza, Shop 44 (Near Woolworths), 224 Prospect Hwy, Seven Hills, 2147, NSW, Australia"
+coordinates:
+  lat: 39.6540137
+  lng: -104.7753332
 ---
 
 ## Exclusive Member Discounts

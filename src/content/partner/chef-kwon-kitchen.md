@@ -21,6 +21,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
+address: "92 Yarrara Road, Pennant Hills, 2120, New South Wales, Australia"
+coordinates:
+  lat: -33.738137
+  lng: 151.071541
 ---
 
 **Location :** 92 Yarrara Road, Pennant Hills, 2120, New South Wales, Australia\

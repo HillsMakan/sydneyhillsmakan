@@ -25,6 +25,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
+address: "The Exchange, Shop 4, 1 Little Pier St, Haymarket, 2000, NSW, Australia"
 ---
 
 Dapur Sate was born from the concept of a “Dapur” or "kitchen," a place where Indonesia’s diverse satay dishes come to life. Inspired by the rich tradition of Indonesian satay, we envisioned a restaurant that offers a variety of satay dishes from across the archipelago, and thus, Dapur Sate was created.

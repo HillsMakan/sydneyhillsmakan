@@ -30,6 +30,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
+address: "Unit 8, 104-108 Wigram St, Harris Park, 2150, NSW."
+coordinates:
+  lat: -33.8208516
+  lng: 151.0092054
 ---
 
 Fusion Indian, Malaysian and Halal provides Momos/Dumplings, Briyani, Curries, Noodles, Tandoori and Etc.

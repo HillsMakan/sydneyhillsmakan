@@ -11,6 +11,10 @@ region: nsw
 discount_pct: 5
 discount_text: Cash Only, Free side soup and Free Teh Pucuk every meal purchased
   minimum order $15 and above
+address: "312 Church St, Parramatta, 2150, New South Wales, Australia"
+coordinates:
+  lat: -33.812038
+  lng: 151.0042477
 ---
 
 **Location :** 312 Church St, Parramatta, 2150, New South Wales, Australia\

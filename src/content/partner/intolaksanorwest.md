@@ -30,6 +30,7 @@ discount_pct: 10
 discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card individually
 comment: ''
+address: "Norwest Marketown, Shop T23A, 4 Century Cct, 2153, Norwest, New South Wales, Australia"
 ---
 
 We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.

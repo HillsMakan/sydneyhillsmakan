@@ -26,6 +26,10 @@ region: nsw
 discount_pct: 10
 discount_text: Cash payment for purchase over $30, Exclude public holidays and
   promotional items, Excluding Food Truck and Events
+address: "28/49 Carrington Rd, Marrickville, 2204, New South Wales, Australia"
+coordinates:
+  lat: -33.9179789
+  lng: 151.1567348
 ---
 
 **Location :** 28/49 Carrington Rd, Marrickville, 2204, New South Wales, Australia\

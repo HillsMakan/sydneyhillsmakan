@@ -12,6 +12,10 @@ region: nsw
 discount_pct: 5
 discount_text: In-store and Online. Not applicable to certain products and specials
 comment: 'Online discount code : GGVX394TYD42'
+address: "Unit 14, 7 Hoyle Ave., Castle Hill, 2154, New South Wales, Australia"
+coordinates:
+  lat: -33.7316321
+  lng: 150.9847383
 ---
 
 **Location :** Unit 14, 7 Hoyle Ave., Castle Hill, 2154, New South Wales, Australia

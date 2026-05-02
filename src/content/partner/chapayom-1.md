@@ -17,6 +17,10 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
+address: "99 John St, Cabramatta, 2166, New South Wales, Australia"
+coordinates:
+  lat: -33.8946481
+  lng: 150.9354827
 ---
 
 Home of delicious and fresh Thai.Tea.Bites crafted with only the finest Thai and local ingredients and abundance of passion.

@@ -30,6 +30,7 @@ cuisine:
 region: kyoto
 discount_pct: 0
 discount_text: Free topping, boiled egg / crispy skin for each ramen order
+address: "Halal Ramen Ayam Ya Karasuma Kyoto (Ramen restaurant)"
 ---
 
 Due to the complicity of the ticket vender/order payment machine. You will receive free topping, boiled egg / crispy skin for each ramen order when you visit and show your HMG International member card (last photo below, save to your Stocard app or mobile photo album).
