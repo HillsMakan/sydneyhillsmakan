@@ -19,7 +19,10 @@ const categories = await getCollection('categories', (category) => !category.dat
 ---
 
 <Layout frontmatter={frontmatter}>
-  <main class="h-auto p-4 pt-20 md:ml-64">
+  <main class="
+    h-auto p-4 pt-20
+    md:ml-64
+  ">
     <Breadcrumb links={[{ title: 'Categories', link: '/categories' }]} />
     <SubHero frontmatter={frontmatter} />
     <CategoryList categories={categories} />

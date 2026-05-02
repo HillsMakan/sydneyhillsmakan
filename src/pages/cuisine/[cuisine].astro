@@ -15,9 +15,7 @@ const { cuisine } = Astro.props
 export async function getStaticPaths() {
   const partners = await getCollection('partner', (partner) => !partner.data.draft)
 
-  let cuisines = Array.from(
-    new Set(partners.flatMap((partner) => partner.data.cuisine))
-  ) as string[]
+  let cuisines = [...new Set(partners.flatMap((partner) => partner.data.cuisine))] as string[]
 
   cuisines = cuisines.filter((cuisine) => cuisine !== undefined)
 
@@ -44,7 +42,10 @@ const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/$/, '')
 ---
 
 <Layout frontmatter={frontmatter}>
-  <main class="h-auto p-4 pt-20 md:ml-64">
+  <main class="
+    h-auto p-4 pt-20
+    md:ml-64
+  ">
     <Breadcrumb
       links={[
         { title: 'Cuisines', link: '/cuisines' },

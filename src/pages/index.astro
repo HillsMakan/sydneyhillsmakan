@@ -16,7 +16,10 @@ const frontmatter = {
 <script slot="in-head" is:inline src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
 <Layout frontmatter={frontmatter}>
-  <main class="h-auto p-4 pt-20 md:ml-64">
+  <main class="
+    h-auto p-4 pt-20
+    md:ml-64
+  ">
     <Breadcrumb />
     <Hero />
     <Regions />
@@ -24,10 +27,10 @@ const frontmatter = {
     <CTA />
   </main>
   <script is:inline>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on('init', (user) => {
+    if (globalThis.netlifyIdentity) {
+      globalThis.netlifyIdentity.on('init', (user) => {
         if (!user) {
-          window.netlifyIdentity.on('login', () => {
+          globalThis.netlifyIdentity.on('login', () => {
             document.location.href = '/admin/'
           })
         }

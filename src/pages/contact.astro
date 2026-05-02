@@ -9,16 +9,34 @@ const frontmatter = {
 ---
 
 <Layout frontmatter={frontmatter}>
-  <main class="h-auto p-4 pt-20 md:ml-64">
+  <main class="
+    h-auto p-4 pt-20
+    md:ml-64
+  ">
     <Breadcrumb />
-    <section class="bg-white dark:bg-gray-900">
-      <div class="mx-auto max-w-(--breakpoint-md) px-4 py-8 lg:py-16">
+    <section class="
+      bg-white
+      dark:bg-gray-900
+    ">
+      <div class="
+        mx-auto max-w-(--breakpoint-md) px-4 py-8
+        lg:py-16
+      ">
         <h2
-          class="mb-4 text-center text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white"
+          class="
+            mb-4 text-center text-4xl font-extrabold tracking-tight
+            text-gray-900
+            dark:text-white
+          "
         >
           {frontmatter.title}
         </h2>
-        <p class="mb-8 text-center font-light text-gray-500 sm:text-xl lg:mb-16 dark:text-gray-400">
+        <p class="
+          mb-8 text-center font-light text-gray-500
+          sm:text-xl
+          lg:mb-16
+          dark:text-gray-400
+        ">
           {frontmatter.description}
         </p>
         <form
@@ -34,42 +52,83 @@ const frontmatter = {
             </label>
           </div>
           <div>
-            <label class="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-300">
+            <label class="
+              mb-2 block text-sm font-medium text-gray-900
+              dark:text-gray-300
+            ">
               Your email
               <input
                 type="email"
                 name="email"
-                class="focus:border-primary-500 focus:ring-primary-500 dark:shadow-sm-light dark:focus:border-primary-500 dark:focus:ring-primary-500 block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 shadow-xs dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder:text-gray-400"
+                class="
+                  dark:shadow-sm-light
+                  block w-full rounded-lg border border-gray-300 bg-gray-50
+                  p-2.5 text-sm text-gray-900 shadow-xs
+                  focus:border-primary-500 focus:ring-primary-500
+                  dark:border-gray-600 dark:bg-gray-700 dark:text-white
+                  dark:placeholder:text-gray-400
+                  dark:focus:border-primary-500 dark:focus:ring-primary-500
+                "
                 placeholder="yourname@email.url"
                 required
               />
             </label>
           </div>
           <div>
-            <label class="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-300">
+            <label class="
+              mb-2 block text-sm font-medium text-gray-900
+              dark:text-gray-300
+            ">
               Subject
               <input
                 type="text"
                 name="subject"
-                class="focus:border-primary-500 focus:ring-primary-500 dark:shadow-sm-light dark:focus:border-primary-500 dark:focus:ring-primary-500 block w-full rounded-lg border border-gray-300 bg-gray-50 p-3 text-sm text-gray-900 shadow-xs dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder:text-gray-400"
+                class="
+                  dark:shadow-sm-light
+                  block w-full rounded-lg border border-gray-300 bg-gray-50 p-3
+                  text-sm text-gray-900 shadow-xs
+                  focus:border-primary-500 focus:ring-primary-500
+                  dark:border-gray-600 dark:bg-gray-700 dark:text-white
+                  dark:placeholder:text-gray-400
+                  dark:focus:border-primary-500 dark:focus:ring-primary-500
+                "
                 placeholder="Let us know how we can help you"
                 required
               />
             </label>
           </div>
           <div class="sm:col-span-2">
-            <label class="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-400">
+            <label class="
+              mb-2 block text-sm font-medium text-gray-900
+              dark:text-gray-400
+            ">
               Your message
               <textarea
                 name="message"
                 rows="6"
-                class="focus:border-primary-500 focus:ring-primary-500 dark:focus:border-primary-500 dark:focus:ring-primary-500 block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 shadow-xs dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder:text-gray-400"
+                class="
+                  block w-full rounded-lg border border-gray-300 bg-gray-50
+                  p-2.5 text-sm text-gray-900 shadow-xs
+                  focus:border-primary-500 focus:ring-primary-500
+                  dark:border-gray-600 dark:bg-gray-700 dark:text-white
+                  dark:placeholder:text-gray-400
+                  dark:focus:border-primary-500 dark:focus:ring-primary-500
+                "
                 placeholder="Leave a comment..."></textarea>
             </label>
           </div>
           <button
             type="submit"
-            class="bg-primary-700 hover:bg-primary-800 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 rounded-lg px-5 py-3 text-center text-sm font-medium text-white focus:ring-4 focus:outline-hidden sm:w-fit"
+            class="
+              rounded-lg bg-primary-700 px-5 py-3 text-center text-sm
+              font-medium text-white
+              hover:bg-primary-800
+              focus:ring-4 focus:ring-primary-300 focus:outline-hidden
+              sm:w-fit
+              dark:bg-primary-600
+              dark:hover:bg-primary-700
+              dark:focus:ring-primary-800
+            "
             >Send message</button
           >
         </form>

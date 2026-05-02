@@ -28,19 +28,19 @@ documents = documents.concat(
   }))
 )
 
-const idx = lunr(function () {
+const index = lunr(function () {
   this.ref('url')
   this.field('title')
   this.field('description')
   this.field('content')
 
-  documents.forEach(function (doc) {
-    this.add(doc)
+  documents.forEach(function (document_) {
+    this.add(document_)
   }, this)
 })
 
 export async function GET() {
-  return new Response(JSON.stringify(idx), {
+  return Response.json(index, {
     status: 200,
     headers: {
       'Content-Type': 'application/json'

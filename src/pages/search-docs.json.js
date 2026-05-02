@@ -17,7 +17,6 @@ documents = documents.concat(
     url: import.meta.env.BASE_URL + 'partner/' + partner.id,
     title: partner.data.title,
     description: partner.data.description,
-    title: partner.data.title,
     categories: partner.data.categories.map((category) => category.id),
     cuisine: partner.data.cuisine,
     region: partner.data.region.id,
@@ -27,7 +26,7 @@ documents = documents.concat(
 )
 
 export async function GET() {
-  return new Response(JSON.stringify(documents), {
+  return Response.json(documents, {
     status: 200,
     headers: {
       'Content-Type': 'application/json'

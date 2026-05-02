@@ -3,12 +3,15 @@ import globals from 'globals'
 import js from '@eslint/js'
 import tseslint from 'typescript-eslint'
 import astro from 'eslint-plugin-astro'
-import prettier from 'eslint-plugin-prettier'
+import astroParser from 'astro-eslint-parser'
 import markdown from '@eslint/markdown'
+import betterTailwindcss from 'eslint-plugin-better-tailwindcss'
+import { importX } from 'eslint-plugin-import-x'
+import unicorn from 'eslint-plugin-unicorn'
+import eslintConfigPrettier from 'eslint-config-prettier'
 
 // parsers
 const tsParser = tseslint.parser
-const astroParser = astro.parser
 
 export default defineConfig([
   // Global configuration
@@ -24,21 +27,37 @@ export default defineConfig([
   // Base configs
   js.configs.recommended,
   tseslint.configs.recommended,
+  betterTailwindcss.configs.recommended,
+  importX.flatConfigs.recommended,
+  unicorn.configs.recommended,
 
-  // Prettier config
+  // Custom settings and rules
   {
-    plugins: {
-      prettier: prettier
+    settings: {
+      'import-x/resolver': {
+        typescript: true,
+        node: true
+      },
+      'better-tailwindcss': {
+        entryPoint: './src/styles/global.css'
+      }
     },
     rules: {
-      // disable warnings, since prettier should format on save
-      'prettier/prettier': 'off'
+      'unicorn/prevent-abbreviations': 'off',
+      'unicorn/filename-case': 'off',
+      'better-tailwindcss/no-unknown-classes': 'off',
+      'import-x/no-unresolved': [
+        'error',
+        {
+          ignore: ['astro:content', 'astro:assets']
+        }
+      ]
     }
   },
 
   // astro setup with a11y
-  astro.configs.recommended,
-  astro.configs['jsx-a11y-recommended'],
+  ...astro.configs.recommended,
+  ...astro.configs['jsx-a11y-recommended'],
   {
     files: ['**/*.astro'],
     languageOptions: {
@@ -71,5 +90,8 @@ export default defineConfig([
   // Ignore patterns
   {
     ignores: ['dist/**', '**/*.d.ts', '.github/']
-  }
+  },
+
+  // Prettier config - MUST BE LAST
+  eslintConfigPrettier
 ])

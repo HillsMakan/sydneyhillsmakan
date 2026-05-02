@@ -13,9 +13,12 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
 ---
 
 <lightbox-inner data-id={id}>
-  <div class="grid grid-cols-2 gap-4 md:grid-cols-3">
+  <div class="
+    grid grid-cols-2 gap-4
+    md:grid-cols-3
+  ">
     {
-      images.map((image, i) => (
+      images.map((image, index) => (
         <div>
           <figure itemscope itemtype="http://schema.org/ImageObject">
             <a
@@ -26,7 +29,7 @@ const imagetitles = images.map((image) => image.src.split('/').reverse()[0].spli
             >
               <Image
                 src={image}
-                alt={imagetitles[i]}
+                alt={imagetitles[index]}
                 format="webp"
                 class="w-max-full h-auto rounded-lg"
               />

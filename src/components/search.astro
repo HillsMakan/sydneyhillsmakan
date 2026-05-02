@@ -58,7 +58,15 @@ import { Icon } from 'astro-icon/components'
         <input
           type="search"
           x-model="searchText"
-          class="form-control relative m-0 block w-full max-w-xs min-w-0 flex-auto rounded-sm border border-solid border-blue-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-500 transition ease-in-out focus:border-blue-500 focus:text-gray-700 focus:outline-hidden dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300 dark:focus:border-blue-600 dark:focus:text-gray-100"
+          class="
+            form-control relative m-0 block w-full max-w-xs min-w-0 flex-auto
+            rounded-sm border border-solid border-blue-300 bg-white
+            bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-500
+            transition ease-in-out
+            focus:border-blue-500 focus:text-gray-700 focus:outline-hidden
+            dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300
+            dark:focus:border-blue-600 dark:focus:text-gray-100
+          "
           id="lunrsearch"
           name="q"
           maxlength="255"
@@ -68,7 +76,14 @@ import { Icon } from 'astro-icon/components'
           aria-describedby="lunrbutton"
         />
         <button
-          class="btn inline-block items-center rounded-sm bg-blue-600 p-2 text-xs leading-tight font-medium text-white uppercase shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden active:bg-blue-800 active:shadow-lg"
+          class="
+            btn inline-block items-center rounded-sm bg-blue-600 p-2
+            text-xs/tight font-medium text-white uppercase shadow-md transition
+            duration-150 ease-in-out
+            hover:bg-blue-700 hover:shadow-lg
+            focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden
+            active:bg-blue-800 active:shadow-lg
+          "
           type="button"
           name="search"
           id="lunrbutton"
@@ -116,7 +131,9 @@ import { Icon } from 'astro-icon/components'
 
     <div class="fixed inset-0 overflow-hidden">
       <div class="absolute inset-0 overflow-hidden">
-        <div class="pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10">
+        <div class="
+          pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10
+        ">
           <div
             x-show="searchResults"
             x-transition:enter="transform transition ease-in-out duration-500 sm:duration-700"
@@ -135,11 +152,18 @@ import { Icon } from 'astro-icon/components'
               x-transition:leave="ease-in-out duration-500"
               x-transition:leave-start="opacity-100"
               x-transition:leave-end="opacity-0"
-              class="absolute top-0 left-0 -ml-8 flex pt-4 pr-2 sm:-ml-10 sm:pr-4"
+              class="
+                absolute top-0 left-0 -ml-8 flex pt-4 pr-2
+                sm:-ml-10 sm:pr-4
+              "
             >
               <button
                 type="button"
-                class="rounded-md text-blue-300 hover:text-pink-300 focus:ring-2 focus:ring-white focus:outline-hidden"
+                class="
+                  rounded-md text-blue-300
+                  hover:text-pink-300
+                  focus:ring-2 focus:ring-white focus:outline-hidden
+                "
                 x-on:click="searchResults = false"
               >
                 <span class="sr-only">Close panel</span>
@@ -149,21 +173,35 @@ import { Icon } from 'astro-icon/components'
             </div>
 
             <div
-              class="flex h-full flex-col overflow-y-scroll bg-white py-6 shadow-xl dark:bg-gray-800"
+              class="
+                flex h-full flex-col overflow-y-scroll bg-white py-6 shadow-xl
+                dark:bg-gray-800
+              "
             >
-              <div class="px-4 sm:px-6">
+              <div class="
+                px-4
+                sm:px-6
+              ">
                 <h2
-                  class="text-lg font-medium text-gray-900 dark:text-gray-100"
+                  class="
+                    text-lg font-medium text-gray-900
+                    dark:text-gray-100
+                  "
                   id="lunrsearchtitle"
                   class="modal-title"
                 >
                   Search results
                 </h2>
               </div>
-              <div id="lunrsearchmodal" class="relative mt-6 flex-1 px-4 sm:px-6">
+              <div id="lunrsearchmodal" class="
+                relative mt-6 flex-1 px-4
+                sm:px-6
+              ">
                 <div
                   id="lunrsearchresults"
-                  class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black/5"
+                  class="
+                    overflow-hidden rounded-lg shadow-lg ring-1 ring-black/5
+                  "
                 >
                   <ul></ul>
                 </div>
@@ -177,7 +215,7 @@ import { Icon } from 'astro-icon/components'
 </div>
 <script is:inline>
   // Get the input field
-  var input = document.getElementById('lunrsearch')
+  const input = document.querySelector('#lunrsearch')
 
   // Execute a function when the user presses a key on the keyboard
   input.addEventListener('keypress', function (event) {
@@ -186,7 +224,7 @@ import { Icon } from 'astro-icon/components'
       // Cancel the default action, if needed
       event.preventDefault()
       // Trigger the button element with a click
-      document.getElementById('lunrbutton').click()
+      document.querySelector('#lunrbutton').click()
     }
   })
 </script>
