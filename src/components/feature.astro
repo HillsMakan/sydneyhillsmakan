@@ -31,10 +31,11 @@ const features = [
 ---
 
 <section>
-  <div class="mx-auto max-w-(--breakpoint-xl) px-2 py-8">
+  <div class="mx-auto max-w-(--breakpoint-xl) px-4 py-8">
     <div class="mb-8 max-w-(--breakpoint-md)">
       <h2 class="
-        mb-4 text-4xl font-extrabold tracking-tight text-gray-900
+        mb-4 text-3xl font-extrabold tracking-tight text-gray-900
+        lg:text-4xl
         dark:text-white
       ">
         Explore our Partners
@@ -51,6 +52,7 @@ const features = [
       space-y-8
       md:grid md:grid-cols-2 md:gap-12 md:space-y-0
       lg:grid-cols-3
+      xl:grid-cols-4
     ">
       {
         features.map((feature) => (

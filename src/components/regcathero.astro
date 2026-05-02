@@ -17,8 +17,9 @@ const { region, category } = Astro.props
 ">
   <div
     class="
-      mx-auto mt-2 max-w-(--breakpoint-xl) items-center gap-16 p-4
-      lg:grid lg:grid-cols-2 lg:px-6 lg:py-8
+      mx-auto max-w-(--breakpoint-xl) items-center gap-8 px-4 py-8
+      sm:py-16
+      lg:grid lg:grid-cols-2 lg:gap-12 lg:px-6
     "
   >
     <div class="
@@ -34,12 +35,12 @@ const { region, category } = Astro.props
         {region.data.title}
       </h2>
       <h3 class="
-        flex text-4xl font-extrabold tracking-tight text-gray-900
-        dark:text-white
+        mt-2 flex text-2xl font-semibold tracking-tight text-gray-700
+        dark:text-gray-200
       ">
-        <Icon class="me-2 size-10" name={category.data.icon} />{category.data.title}
+        <Icon class="me-2 size-7" name={category.data.icon} />{category.data.title}
       </h3>
-      <p>Partners by location and category</p>
+      <p class="mt-4">Partners by location and category</p>
     </div>
     <div class="mt-8 grid grid-cols-2 gap-4">
       <Image class="w-full rounded-lg" src={region.data.image} alt={region.data.title} />
