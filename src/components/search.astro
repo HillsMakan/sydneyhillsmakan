@@ -15,28 +15,14 @@ import { Icon } from 'astro-icon/components'
           placeholder="Search"
           aria-label="Search"
           aria-describedby="lunrbutton"
-          class="
-            block w-full max-w-xs min-w-0 flex-auto rounded-sm border
-            border-blue-300 bg-white px-3 py-1.5 text-base font-normal
-            text-gray-500 transition ease-in-out
-            focus:border-blue-500 focus:text-gray-700 focus:outline-hidden
-            dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300
-            dark:focus:border-blue-600 dark:focus:text-gray-100
-          "
+          class="block w-full max-w-xs min-w-0 flex-auto rounded-sm border border-blue-300 bg-white px-3 py-1.5 text-base font-normal text-gray-500 transition ease-in-out focus:border-blue-500 focus:text-gray-700 focus:outline-hidden dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300 dark:focus:border-blue-600 dark:focus:text-gray-100"
         />
         <button
           id="lunrbutton"
           type="button"
           name="search"
           aria-label="Search Button"
-          class="
-            inline-flex items-center rounded-sm bg-blue-600 p-2 text-xs/tight
-            font-medium text-white uppercase shadow-md transition duration-150
-            ease-in-out
-            hover:bg-blue-700 hover:shadow-lg
-            focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden
-            active:bg-blue-800 active:shadow-lg
-          "
+          class="inline-flex items-center rounded-sm bg-blue-600 p-2 text-xs/tight font-medium text-white uppercase shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden active:bg-blue-800 active:shadow-lg"
         >
           <svg
             aria-hidden="true"
@@ -67,40 +53,25 @@ import { Icon } from 'astro-icon/components'
   >
     <div
       id="search-backdrop"
-      class="
-        fixed inset-0 bg-gray-500/75 opacity-0 transition-opacity duration-500
-      "
+      class="fixed inset-0 bg-gray-500/75 opacity-0 transition-opacity duration-500"
     >
     </div>
 
     <div class="fixed inset-0 overflow-hidden">
       <div class="absolute inset-0 overflow-hidden">
-        <div class="
-          pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10
-        ">
+        <div class="pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10">
           <div
             id="search-slideover"
-            class="
-              pointer-events-auto relative w-screen max-w-md translate-x-full
-              transition-transform duration-500
-            "
+            class="pointer-events-auto relative w-screen max-w-md translate-x-full transition-transform duration-500"
           >
             <div
               id="search-close-btn-wrap"
-              class="
-                absolute top-0 left-0 -ml-8 flex pt-4 pr-2 opacity-0
-                transition-opacity duration-500
-                sm:-ml-10 sm:pr-4
-              "
+              class="absolute top-0 left-0 -ml-8 flex pt-4 pr-2 opacity-0 transition-opacity duration-500 sm:-ml-10 sm:pr-4"
             >
               <button
                 id="search-close"
                 type="button"
-                class="
-                  rounded-md text-blue-300
-                  hover:text-pink-300
-                  focus:ring-2 focus:ring-white focus:outline-hidden
-                "
+                class="rounded-md text-blue-300 hover:text-pink-300 focus:ring-2 focus:ring-white focus:outline-hidden"
               >
                 <span class="sr-only">Close panel</span>
                 <Icon class="size-6" name="mdi:close-box" />
@@ -108,34 +79,20 @@ import { Icon } from 'astro-icon/components'
             </div>
 
             <div
-              class="
-                flex h-full flex-col overflow-y-scroll bg-white py-6 shadow-xl
-                dark:bg-gray-800
-              "
+              class="flex h-full flex-col overflow-y-scroll bg-white py-6 shadow-xl dark:bg-gray-800"
             >
-              <div class="
-                px-4
-                sm:px-6
-              ">
+              <div class="px-4 sm:px-6">
                 <h2
                   id="lunrsearchtitle"
-                  class="
-                    text-lg font-medium text-gray-900
-                    dark:text-gray-100
-                  "
+                  class="text-lg font-medium text-gray-900 dark:text-gray-100"
                 >
                   Search results
                 </h2>
               </div>
-              <div id="lunrsearchmodal" class="
-                relative mt-6 flex-1 px-4
-                sm:px-6
-              ">
+              <div id="lunrsearchmodal" class="relative mt-6 flex-1 px-4 sm:px-6">
                 <div
                   id="lunrsearchresults"
-                  class="
-                    overflow-hidden rounded-lg shadow-lg ring-1 ring-black/5
-                  "
+                  class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black/5"
                 >
                   <ul></ul>
                 </div>
@@ -196,7 +153,7 @@ import { Icon } from 'astro-icon/components'
   }
 
   function openPanel() {
-    const panel = document.querySelector('#search-panel')
+    const panel = document.querySelector<HTMLElement>('#search-panel')
     const backdrop = document.querySelector('#search-backdrop')
     const slideover = document.querySelector('#search-slideover')
     const closeBtnWrap = document.querySelector('#search-close-btn-wrap')
@@ -211,7 +168,7 @@ import { Icon } from 'astro-icon/components'
   }
 
   function closePanel() {
-    const panel = document.querySelector('#search-panel')
+    const panel = document.querySelector<HTMLElement>('#search-panel')
     const backdrop = document.querySelector('#search-backdrop')
     const slideover = document.querySelector('#search-slideover')
     const closeBtnWrap = document.querySelector('#search-close-btn-wrap')
@@ -238,9 +195,9 @@ import { Icon } from 'astro-icon/components'
   document.querySelector('#search-close')?.addEventListener('click', closePanel)
 
   document.querySelector('#lunrsearch')?.addEventListener('keypress', (e) => {
-    if (e.key === 'Enter') {
+    if ((e as KeyboardEvent).key === 'Enter') {
       e.preventDefault()
-      document.querySelector('#lunrbutton')?.click()
+      document.querySelector<HTMLElement>('#lunrbutton')?.click()
     }
   })
 </script>

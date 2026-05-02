@@ -46,6 +46,9 @@ export default defineConfig([
       'unicorn/prevent-abbreviations': 'off',
       'unicorn/filename-case': 'off',
       'better-tailwindcss/no-unknown-classes': 'off',
+      // prettier-plugin-tailwindcss already handles class formatting and ordering; these rules conflict
+      'better-tailwindcss/enforce-consistent-line-wrapping': 'off',
+      'better-tailwindcss/enforce-consistent-class-order': 'off',
       'import-x/no-unresolved': [
         'error',
         {

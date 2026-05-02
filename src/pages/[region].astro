@@ -38,10 +38,7 @@ const categories = await getEntries(uniquecats)
 ---
 
 <Layout frontmatter={region.data}>
-  <main class="
-    h-auto p-4 pt-20
-    md:ml-64
-  ">
+  <main class="h-auto p-4 pt-20 md:ml-64">
     <Breadcrumb links={[{ title: region.data.title, link: '/' + region.id }]} />
     <SubHero frontmatter={region.data} />
     <Content />

@@ -39,7 +39,11 @@ describe('uniqBy', () => {
   })
 
   it('handles all-duplicate entries returning only the first', () => {
-    const input = [{ id: 'z', n: 1 }, { id: 'z', n: 2 }, { id: 'z', n: 3 }]
+    const input = [
+      { id: 'z', n: 1 },
+      { id: 'z', n: 2 },
+      { id: 'z', n: 3 }
+    ]
     const result = uniqBy(input, (x) => x.id)
     expect(result).toHaveLength(1)
     expect(result[0].n).toBe(1)

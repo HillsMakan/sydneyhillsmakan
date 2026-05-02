@@ -34,6 +34,7 @@
     "@playwright/test": "^1.59.1",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.2.4",
+    "@types/lunr": "^2.3.7",
     "@types/node": "^25.6.0",
     "astro-eslint-parser": "^1.4.0",
     "astro-icon": "^1.1.5",

@@ -11,33 +11,16 @@ export interface Props {
 const { region, category } = Astro.props
 ---
 
-<section class="
-  rounded-lg bg-white
-  dark:bg-gray-800
-">
+<section class="rounded-lg bg-white dark:bg-gray-800">
   <div
-    class="
-      mx-auto max-w-(--breakpoint-xl) items-center gap-8 px-4 py-8
-      sm:py-16
-      lg:grid lg:grid-cols-2 lg:gap-12 lg:px-6
-    "
+    class="mx-auto max-w-(--breakpoint-xl) items-center gap-8 px-4 py-8 sm:py-16 lg:grid lg:grid-cols-2 lg:gap-12 lg:px-6"
   >
-    <div class="
-      font-light text-gray-500
-      sm:text-lg
-      dark:text-gray-400
-    ">
-      <h2 class="
-        flex text-4xl font-extrabold tracking-tight text-gray-900
-        dark:text-white
-      ">
+    <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+      <h2 class="flex text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
         <Icon class="me-2 size-10" name={region.data.icon} />
         {region.data.title}
       </h2>
-      <h3 class="
-        mt-2 flex text-2xl font-semibold tracking-tight text-gray-700
-        dark:text-gray-200
-      ">
+      <h3 class="mt-2 flex text-2xl font-semibold tracking-tight text-gray-700 dark:text-gray-200">
         <Icon class="me-2 size-7" name={category.data.icon} />{category.data.title}
       </h3>
       <p class="mt-4">Partners by location and category</p>
@@ -45,10 +28,7 @@ const { region, category } = Astro.props
     <div class="mt-8 grid grid-cols-2 gap-4">
       <Image class="w-full rounded-lg" src={region.data.image} alt={region.data.title} />
       <Image
-        class="
-          mt-4 w-full rounded-lg
-          lg:mt-10
-        "
+        class="mt-4 w-full rounded-lg lg:mt-10"
         src={category.data.image}
         alt={category.data.title}
       />
