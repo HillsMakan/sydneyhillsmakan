@@ -1,0 +1,8 @@
+{
+  "track_id": "geocoding_fallback_20260502",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-05-02T18:00:00Z",
+  "updated_at": "2026-05-02T18:00:00Z",
+  "description": "Enhance geocoding logic to fallback to partner name and region."
+}
