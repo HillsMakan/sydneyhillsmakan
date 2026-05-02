@@ -3,7 +3,9 @@
 ---
 
 <div
-  id="sticky-banner"
+  x-data="{ show: true }"
+  x-show="show"
+  x-cloak
   tabindex="-1"
   class="
     fixed inset-s-0 top-0 z-50 flex w-full justify-between border-b
@@ -37,25 +39,14 @@
             d="M15 1.943v12.114a1 1 0 0 1-1.581.814L8 11V5l5.419-3.871A1 1 0 0 1 15 1.943ZM7 4H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2v5a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2V4ZM4 17v-5h1v5H4ZM16 5.183v5.634a2.984 2.984 0 0 0 0-5.634Z"
           ></path>
         </svg>
-        <span class="sr-only">Light bulb</span>
+        <span class="sr-only">Announcement</span>
       </span>
-      <span
-        >New brand identity has been launched for the <a
-          href="https://flowbite.com"
-          class="
-            inline font-medium text-blue-600 underline decoration-solid
-            decoration-600 underline-offset-2
-            hover:no-underline
-            dark:text-blue-500 dark:decoration-500
-          "
-          >Flowbite Library</a
-        ></span
-      >
+      <span>Welcome to HMG International — connecting food, business, and community.</span>
     </p>
   </div>
   <div class="flex items-center">
     <button
-      data-dismiss-target="#sticky-banner"
+      x-on:click="show = false"
       type="button"
       class="
         inline-flex size-7 shrink-0 items-center justify-center rounded-lg p-1.5
