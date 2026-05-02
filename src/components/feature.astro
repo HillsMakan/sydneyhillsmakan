@@ -54,26 +54,31 @@ const features = [
     ">
       {
         features.map((feature) => (
-          <a class="
-            rounded-lg border border-gray-200
-            dark:border-gray-700
-          " href={feature.link}>
-            <Image
-              class="
-                h-64 w-full rounded-lg object-cover
-                md:h-48
-              "
-              src={feature.image}
-              alt={feature.title}
-            />
+          <a
+            class="
+              group overflow-hidden rounded-lg border border-gray-200 shadow-sm
+              transition-all duration-300
+              hover:shadow-lg
+              motion-safe:hover:-translate-y-1
+              dark:border-gray-700
+            "
+            href={feature.link}
+          >
+            <div class="overflow-hidden rounded-t-lg">
+              <Image
+                class="
+                  h-64 w-full object-cover transition-transform duration-300
+                  motion-safe:group-hover:scale-105
+                  md:h-48
+                "
+                src={feature.image}
+                alt={feature.title}
+              />
+            </div>
             <h3 class="
               mb-2 text-center text-xl font-bold
               dark:text-white
             ">{feature.title}</h3>
-            {/* <p class="text-gray-500 dark:text-gray-400">
-            Plan it, create it, launch it. Collaborate seamlessly with all the organization and hit
-            your marketing goals every month with our marketing plan.
-          </p> */}
           </a>
         ))
       }

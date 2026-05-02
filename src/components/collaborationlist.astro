@@ -23,9 +23,18 @@ const { collaborations } = Astro.props
     ">
       {
         collaborations.map((collab) => (
-          <article class="max-w-xs">
-            <a href={'/collaborations/' + collab.id}>
-              <Image src={collab.data.image!} class="mb-5 rounded-lg" alt={collab.data.title} />
+          <article class="group max-w-xs">
+            <a href={'/collaborations/' + collab.id} class="
+              mb-5 block overflow-hidden rounded-lg
+            ">
+              <Image
+                src={collab.data.image!}
+                class="
+                  transition-transform duration-300
+                  motion-safe:group-hover:scale-105
+                "
+                alt={collab.data.title}
+              />
             </a>
             <div class="flex">
               <h2 class="
@@ -43,7 +52,7 @@ const { collaborations } = Astro.props
               href={'/collaborations/' + collab.id}
               class="
                 inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5
-                text-sm font-medium text-white
+                text-sm font-medium text-white transition-colors duration-150
                 hover:bg-primary-800
                 focus:ring-4 focus:ring-primary-300 focus:outline-hidden
                 dark:bg-primary-600

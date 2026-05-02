@@ -30,11 +30,16 @@ const { categories, prefix = '/categories/', affix = '' } = Astro.props
       {
         categories.length > 0 ? (
           categories.map((category) => (
-            <article class="max-w-xs">
-              <a href={prefix + category.id + affix}>
+            <article class="group max-w-xs">
+              <a href={prefix + category.id + affix} class="
+                mb-5 block overflow-hidden rounded-lg
+              ">
                 <Image
                   src={category.data.image}
-                  class="mb-5 rounded-lg"
+                  class="
+                    transition-transform duration-300
+                    motion-safe:group-hover:scale-105
+                  "
                   alt={category.data.title}
                 />
               </a>
@@ -61,7 +66,7 @@ const { categories, prefix = '/categories/', affix = '' } = Astro.props
                 href={prefix + category.id + affix}
                 class="
                   inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5
-                  text-sm font-medium text-white
+                  text-sm font-medium text-white transition-colors duration-150
                   hover:bg-primary-800
                   focus:ring-4 focus:ring-primary-300 focus:outline-hidden
                   dark:bg-primary-600

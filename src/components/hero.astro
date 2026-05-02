@@ -20,6 +20,7 @@ const partners = await getCollection('partner', (partner) => !partner.data.draft
   >
     <div class="
       mr-auto place-self-center
+      motion-safe:animate-fade-in-up
       lg:col-span-7
     ">
       <h1
@@ -98,6 +99,7 @@ const partners = await getCollection('partner', (partner) => !partner.data.draft
     </div>
     <div class="
       mt-4
+      motion-safe:animate-fade-in motion-safe:[animation-delay:0.2s]
       lg:col-span-5 lg:mt-0
     ">
       <Image src={Site.image} class="rounded-lg" alt="hero" />
