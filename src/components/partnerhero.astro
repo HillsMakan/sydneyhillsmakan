@@ -20,7 +20,7 @@ const region = await getEntry(frontmatter.region)
   ">
     {frontmatter.title}
   </h1>
-  <div>
+  <div class="flex flex-wrap items-center gap-1">
     <RegBadge region={region} />
     <CatBadge categories={categories} />
   </div>

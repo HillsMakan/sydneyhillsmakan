@@ -89,7 +89,9 @@ for (const p of partners) {
                   )}
                 </div>
 
-                <CatBadge categories={partner.categories} />
+                <div class="flex flex-wrap gap-1">
+                  <CatBadge categories={partner.categories} />
+                </div>
 
                 <ul class="mt-2 flex items-center gap-4">
                   {partner.data.cuisine &&
