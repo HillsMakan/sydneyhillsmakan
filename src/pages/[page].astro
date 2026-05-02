@@ -21,6 +21,6 @@ export async function getStaticPaths() {
 }
 ---
 
-<Layout frontmatter={page.data}>
+<Layout frontmatter={page.data} breadcrumbs={[{ title: page.data.title, link: '/' + page.id }]}>
   <Content />
 </Layout>

@@ -1,21 +1,27 @@
 ---
 import Base from './base.astro'
+import Breadcrumb from '../components/breadcrumb.astro'
 import PageHero from '../components/pagehero.astro'
 import type { CollectionEntry } from 'astro:content'
 
 export interface Props {
   frontmatter: CollectionEntry<'pages'>['data']
+  breadcrumbs?: { title: string; link: string }[]
 }
 
-const { frontmatter } = Astro.props
+const { frontmatter, breadcrumbs } = Astro.props
 ---
 
 <Base {frontmatter}>
   <main class="
-    bg-white pt-8 pb-16 antialiased
-    lg:pt-16 lg:pb-24
+    bg-white pt-20 pb-16 antialiased
+    md:ml-64
+    lg:pb-24
     dark:bg-gray-900
   ">
+    <div class="mx-auto flex max-w-(--breakpoint-xl) justify-between px-4">
+      <Breadcrumb links={breadcrumbs} />
+    </div>
     <div class="mx-auto flex max-w-(--breakpoint-xl) justify-between px-4">
       <article
         class="
