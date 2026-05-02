@@ -20,7 +20,7 @@ const { frontmatter, breadcrumbs } = Astro.props
     dark:bg-gray-900
   ">
     <div class="mx-auto flex max-w-(--breakpoint-xl) justify-between px-4">
-      <Breadcrumb links={breadcrumbs} />
+      {breadcrumbs && <Breadcrumb links={breadcrumbs} />}
     </div>
     <div class="mx-auto flex max-w-(--breakpoint-xl) justify-between px-4">
       <article
