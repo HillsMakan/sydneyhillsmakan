@@ -9,5 +9,5 @@
 - [x] Task: Delete `src/data/geo-cache.json` and remove it from Git. (3abc405)
 - [x] Task: Verify that `pnpm run build` succeeds and the map component correctly uses the in-file coordinates. (3abc405)
 
-## Phase 3: Finalization
-- [ ] Task: Conductor - User Manual Verification 'Geocoding Refactor' (Protocol in workflow.md)
+## Phase 3: Finalization [checkpoint: e4b4798]
+- [x] Task: Conductor - User Manual Verification 'Geocoding Refactor' (Protocol in workflow.md) (e4b4798)
