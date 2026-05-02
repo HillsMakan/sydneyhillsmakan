@@ -96,25 +96,57 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 
     const markerGroup = L.layerGroup().addTo(map);
 
-    partners.forEach(partner => {
-      if (partner.coordinates) {
-        const marker = L.marker([partner.coordinates.lat, partner.coordinates.lng])
-          .bindPopup(`
-            <div class="p-1">
-              <h3 class="font-bold text-base mb-1">${partner.title}</h3>
-              <p class="text-xs text-gray-600 mb-2">${partner.description}</p>
-              <a href="${partner.link}" class="text-blue-600 hover:underline text-xs font-semibold">View Details →</a>
-            </div>
-          `);
-        markerGroup.addLayer(marker);
-      }
-    });
+    const regionFilter = document.getElementById('filter-region') as HTMLSelectElement;
+    const categoryFilter = document.getElementById('filter-category') as HTMLSelectElement;
+    const cuisineFilter = document.getElementById('filter-cuisine') as HTMLSelectElement;
 
-    if (partners.length > 0) {
-      const bounds = L.latLngBounds(partners.map(p => [p.coordinates.lat, p.coordinates.lng]));
-      map.fitBounds(bounds, { padding: [50, 50] });
+    function renderMarkers(filteredPartners: any[]) {
+      markerGroup.clearLayers();
+      const boundsArr: L.LatLngExpression[] = [];
+
+      filteredPartners.forEach(partner => {
+        if (partner.coordinates) {
+          const marker = L.marker([partner.coordinates.lat, partner.coordinates.lng])
+            .bindPopup(`
+              <div class="p-1">
+                <h3 class="font-bold text-base mb-1">${partner.title}</h3>
+                <p class="text-xs text-gray-600 mb-2">${partner.description}</p>
+                <a href="${partner.link}" class="text-blue-600 hover:underline text-xs font-semibold">View Details →</a>
+              </div>
+            `);
+          markerGroup.addLayer(marker);
+          boundsArr.push([partner.coordinates.lat, partner.coordinates.lng]);
+        }
+      });
+
+      if (boundsArr.length > 0) {
+        const bounds = L.latLngBounds(boundsArr);
+        map.fitBounds(bounds, { padding: [50, 50], maxZoom: 15 });
+      }
     }
 
-    console.log('Map initialized with markers');
+    function updateMarkers() {
+      const selectedRegion = regionFilter.value;
+      const selectedCategory = categoryFilter.value;
+      const selectedCuisine = cuisineFilter.value;
+
+      const filteredPartners = partners.filter((p: any) => {
+        const matchesRegion = !selectedRegion || p.region === selectedRegion;
+        const matchesCategory = !selectedCategory || p.categories.includes(selectedCategory);
+        const matchesCuisine = !selectedCuisine || p.cuisine.includes(selectedCuisine);
+        return matchesRegion && matchesCategory && matchesCuisine;
+      });
+
+      renderMarkers(filteredPartners);
+    }
+
+    // Initial render
+    renderMarkers(partners);
+
+    [regionFilter, categoryFilter, cuisineFilter].forEach(el => {
+      el.addEventListener('change', updateMarkers);
+    });
+
+    console.log('Map initialized with markers and filtering');
   }
 </script>
