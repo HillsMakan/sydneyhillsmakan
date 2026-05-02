@@ -5,6 +5,7 @@ description: Creates original songs for the creative community
 pubDate: 2025-12-01T19:54:00.000+11:00
 image: ../../assets/images/youtube_banner-final.jpg
 ---
+
 **ArtSHINE Music — Songs That Inspire, Connect, and Bring Stories to Life**
 
 ArtSHINE Music creates original songs for the creative community — music that inspires artists, designers, writers, dreamers, and anyone on a creative path.
@@ -45,7 +46,7 @@ creative support + uplifting music, giving the creative community a soundtrack t
 
 **[HMG International Theme Song "Taste The World Together" Spotify](https://open.spotify.com/track/5Nje4wKbtU2ZvTHc3Lvkkv?si=nDtvpdNQQhWstQpvbaf_lw)**
 
-**[](https://youtu.be/ZTcwANoBXKg)Contact :** Vinh Van Lam on [vinh@artshine.com](<>)\
+**[](https://youtu.be/ZTcwANoBXKg)Contact :** Vinh Van Lam on [vinh@artshine.com]()\
 \
 **Website :** [www.artshine.com.au/artshinemusic](https://artshine.com.au/artshinemusic)
 

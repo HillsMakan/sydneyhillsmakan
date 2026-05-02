@@ -30,14 +30,14 @@ const countries = await Promise.all(
 
 {
   countries.map((country) => (
-    <section class="bg-gray-50 py-4 antialiased dark:bg-gray-900 md:py-8">
+    <section class="bg-gray-50 py-4 antialiased md:py-8 dark:bg-gray-900">
       <div class="px-4 2xl:px-0">
         <div class="mb-4 flex md:mb-8">
           <Icon
             class="me-2 size-8 shrink-0 text-gray-900 dark:text-white"
             name={country.data.icon}
           />
-          <h2 class="text-xl font-semibold text-gray-900 dark:text-white sm:text-2xl">
+          <h2 class="text-xl font-semibold text-gray-900 sm:text-2xl dark:text-white">
             {country.data.title}
           </h2>
         </div>

@@ -25,13 +25,14 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
-comment: ""
+comment: ''
 ---
+
 **Location :** 339 Liverpool Rd, Ashfield, 2131, NSW
 
 (5 mins walk from Ashfield Station)
 
 **Trading :**
 
-* Wednesday - Monday : 11 am – 3 pm & 5 pm – 10 pm
-* Tuesday : Closed
+- Wednesday - Monday : 11 am – 3 pm & 5 pm – 10 pm
+- Tuesday : Closed

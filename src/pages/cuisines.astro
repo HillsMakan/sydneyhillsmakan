@@ -46,7 +46,7 @@ const cuisines = Array.from(tagmap.values()).sort((a, b) =>
     <Breadcrumb links={[{ title: 'Cuisines', link: '/cuisines' }]} />
     <SubHero frontmatter={frontmatter} />
     <div
-      class="mx-4 mb-24 mt-6 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 xl:gap-6"
+      class="mx-4 mt-6 mb-24 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 xl:gap-6"
     >
       {
         cuisines.map((tag) => (

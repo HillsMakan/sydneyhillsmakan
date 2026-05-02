@@ -32,7 +32,8 @@ region: nsw
 discount_pct: 5
 discount_text: Cash only
 ---
-Nanyang Kopi specialist in Malaysian cuisine and it's formally known as Rainbow Food Truck Eastwood before moving to Sydney CBD. 
+
+Nanyang Kopi specialist in Malaysian cuisine and it's formally known as Rainbow Food Truck Eastwood before moving to Sydney CBD.
 
 **Location :** 77 Liverpool St, Sydney, 2000, NSW
 

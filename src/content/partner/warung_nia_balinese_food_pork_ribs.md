@@ -46,6 +46,7 @@ region: bali
 discount_pct: 15
 discount_text: Food Only
 ---
+
 Warung Nia Seminyak – Balinese Food & Pork Ribs
 
 Located in the heart of Seminyak, Warung Nia is known for its delicious authentic Balinese cuisine, especially its signature pork ribs, sate, flavourful dishes served with fresh salads and many more.
@@ -56,6 +57,6 @@ In addition to great food, Warung Nia also offers Balinese cooking classes – a
 
 **Trading :**
 
-* Monday to Sunday : 10 am - 10 pm
+- Monday to Sunday : 10 am - 10 pm
 
 **Reservation in advance is preferred and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)

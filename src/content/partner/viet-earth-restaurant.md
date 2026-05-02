@@ -21,7 +21,7 @@ cuisine:
   - Vietnamese
 region: nsw
 discount_pct: 10
-discount_text: "5% discount for credit card. Excluding promotions "
+discount_text: '5% discount for credit card. Excluding promotions '
 ---
 
 Authentic Vietnamese cuisine made with love !

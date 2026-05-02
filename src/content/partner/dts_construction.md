@@ -50,25 +50,26 @@ region: nsw
 discount_pct: 10
 discount_text: When you mention that you are HMG member
 ---
+
 DTS Construction, led by Albert, is a trusted renovation and construction service dedicated to delivering quality workmanship and reliable solutions for residential and commercial properties across Sydney. Established in 2012, the business brings over a decade of hands-on industry experience.
 
 With a licensed carpentry qualification (License No. 240596C) and extensive hands-on experience in the building industry, Albert specialises in transforming homes through thoughtful design, skilled craftsmanship, and attention to detail. From small upgrades to full renovations, DTS Construction focuses on creating practical, functional, and well-finished spaces tailored to each client's needs.
 
 Their services include :
 
-* Complete house renovations
-* Kitchen and bathroom renovations
-* Internal home renovations and upgrades
-* Structural framing and reconstruction
-* Room division and layout alterations
-* Decking and pergola construction
-* Painting and decorative finishes
-* New concrete works and resurfacing of existing concrete
-* Professional tiling and bathroom accessory upgrades
-* Renovations and improvements for commercial properties
-* And Many More
+- Complete house renovations
+- Kitchen and bathroom renovations
+- Internal home renovations and upgrades
+- Structural framing and reconstruction
+- Room division and layout alterations
+- Decking and pergola construction
+- Painting and decorative finishes
+- New concrete works and resurfacing of existing concrete
+- Professional tiling and bathroom accessory upgrades
+- Renovations and improvements for commercial properties
+- And Many More
 
-DTS Construction proudly services Sydney Metropolitan areas only. 
+DTS Construction proudly services Sydney Metropolitan areas only.
 
 Albert is committed to delivering dependable service, quality results, and personalised solutions tailored to each client’s needs.
 

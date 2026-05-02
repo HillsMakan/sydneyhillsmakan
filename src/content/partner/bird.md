@@ -12,7 +12,7 @@ categories:
   - companies
 region: australia
 discount_pct: 15
-discount_text: ""
+discount_text: ''
 ---
 
 Special Offer when you mention HMG Member

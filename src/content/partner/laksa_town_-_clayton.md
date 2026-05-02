@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Laksa Town - Clayton
-description: "Malaysian Cuisine "
+description: 'Malaysian Cuisine '
 image: ../../assets/images/rab3-interior-laksa-town.jpg
 images:
   - ../../assets/images/laksa.jpg
@@ -48,8 +48,9 @@ cuisine:
   - Malaysian
 region: victoria
 discount_pct: 10
-discount_text: "Excluding promotions "
+discount_text: 'Excluding promotions '
 ---
+
 **Laksa Town – Authentic Malaysian Flavours in Clayton**
 
 Located in the heart of Clayton, Melbourne, Laksa Town brings the bold, authentic taste of Malaysian cuisine to life. Best known for its rich and aromatic laksa, the restaurant offers popular choices like **Crispy Pork Laksa**, **Seafood Laksa**, and **Chicken Laksa**, with customizable toppings such as roast pork, seafood, and beef.
@@ -60,8 +61,8 @@ Whether you're craving comfort food or exploring new flavours, Laksa Town delive
 
 **Location :** Shopping Plaza, Unit 9, 371-373 Clayton Rd, Clayton, 3168, Victoria, Australia (5 mins walk from Clayton Railway Station)
 
-**Trading :** [](<>)
+**Trading :** []()
 
-* Monday to Thursday : 11 am - 3.30 pm & 4 pm - 8 pm
-* Friday & Saturday : 11 am - 8.30 pm
-* Sunday : 11 am - 8 pm
+- Monday to Thursday : 11 am - 3.30 pm & 4 pm - 8 pm
+- Friday & Saturday : 11 am - 8.30 pm
+- Sunday : 11 am - 8 pm

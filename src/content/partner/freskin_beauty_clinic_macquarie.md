@@ -26,9 +26,10 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 ---
-**Freskin Beauty Clinic Macquarie** 
 
-*Advanced Aesthetic Care | Professional | Results-Driven*
+**Freskin Beauty Clinic Macquarie**
+
+_Advanced Aesthetic Care | Professional | Results-Driven_
 
 Freskin Beauty Clinic Macquarie is a renowned destination for high-quality, non-surgical beauty and aesthetic treatments, trusted and praised for its professional, knowledgeable, and highly trained team.
 
@@ -78,7 +79,7 @@ We invite you to visit Freskin Beauty Clinic Macquarie a professional consultati
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
-**Location :** Macquarie Shopping Centre, Level 2, Shop 2242, Macquarie Park, 2113, NSW, Australia 
+**Location :** Macquarie Shopping Centre, Level 2, Shop 2242, Macquarie Park, 2113, NSW, Australia
 
 (Around 7 mins walk from Macquarie University Metro Station)
 

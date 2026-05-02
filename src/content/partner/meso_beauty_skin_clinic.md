@@ -24,6 +24,7 @@ discount_pct: 20
 discount_text: Mentioning HMG International member during booking and presenting
   your HMG e-Member Card upon arrival
 ---
+
 ## Meso Beauty Skin Clinic
 
 HMG International Members receive 20% OFF when mentioning HMG International during booking and presenting your HMG e-Member Card upon arrival.
@@ -54,24 +55,24 @@ The name Meso represents the idea that “Me is so beautiful.” The clinic 
 
 The clinic specialises in improving a wide range of skin concerns, including:
 
-* Pigmentation
-* Sagging skin
-* Wrinkles
-* Large pores
-* Acne
-* Sensitive skin
-* Oily skin
+- Pigmentation
+- Sagging skin
+- Wrinkles
+- Large pores
+- Acne
+- Sensitive skin
+- Oily skin
 
 Healthy skin is achieved through a combination of clinical treatments and proper home care routines, helping clients maintain long-term results beyond the clinic.
 
 ## Services Offered
 
-* Skin Boosters
-* Microneedling
-* Cosmetic Tattoo
-* Mesopeel Treatments
-* Cosmetic Injectables
-* Mole & Skin Tag Removal
+- Skin Boosters
+- Microneedling
+- Cosmetic Tattoo
+- Mesopeel Treatments
+- Cosmetic Injectables
+- Mole & Skin Tag Removal
 
 **Location :** 488 Pacific Hwy, St Leonards, 2065, NSW, Australia
 

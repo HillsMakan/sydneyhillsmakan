@@ -13,11 +13,12 @@ categories:
 region: australia
 discount_pct: 33
 ---
+
 **D & T SPARKLING GRAPE JUICE**
 
 Zero Alcohol
 
-Product Of Australia 
+Product Of Australia
 
 This Sparkling is delicious vibrant, refreshing and carries the unmistakable characteristics of ripe blueberries, lychee and guava. This a perfect beverage for all ages and occasions, enjoy with family and friends.
 
@@ -25,7 +26,7 @@ This Sparkling is delicious vibrant, refreshing and carries the unmistakable cha
 
 RRP Price : $90
 
-HMG Members’ Offer : $60 Delivered*
+HMG Members’ Offer : $60 Delivered\*
 
 \* Free delivery to metro Sydney
 

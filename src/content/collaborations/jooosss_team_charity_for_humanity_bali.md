@@ -4,6 +4,7 @@ title: Jooosss Team "Charity For Humanity" Bali
 description: Charity Organisation
 image: ../../assets/images/jooossscharity.jpg
 ---
+
 **Jooosss Team – "Charity for Humanity" Bali**
 
 The Jooosss Team proudly leads the Charity for Humanity initiative in Bali, conducting regular charity programs every three months. These efforts are dedicated to supporting individuals and families living in poverty, assisting the less fortunate, and helping students access educational opportunities.
@@ -12,9 +13,9 @@ HMG International is honoured to support this cause by donating 100% of the comm
 
 For every cooking class booked through HMG International, the full commission amount will be donated :
 
-* Nia Bali Cooking Class Seminyak – IDR 42,500 per person
-* Mufu Bali Cooking Class – IDR 27,500 per person
-* Kekeb Cooking Class Nusa Dua – IDR 15,000 per person
+- Nia Bali Cooking Class Seminyak – IDR 42,500 per person
+- Mufu Bali Cooking Class – IDR 27,500 per person
+- Kekeb Cooking Class Nusa Dua – IDR 15,000 per person
 
 Additionally, HMG International members receive an exclusive 60% discount on these cooking classes – a great opportunity to experience Balinese culture while supporting a meaningful cause.
 
@@ -30,9 +31,9 @@ At HMG International, part of the commission we receive goes directly toward sub
 
 🍳 Booking & Information for Cooking Classes :
 
-* [Nia Bali Cooking Class Seminyak](https://hmginternational.com/partner/nia_bali_cooking_class_seminyak/)
-* [Mufu Bali Cooking Class](https://hmginternational.com/partner/mufu_bali_cooking_class/)
-* [Kekeb Cooking Class Nusa Dua](https://hmginternational.com/partner/kekeb_cooking_class_nusa_dua/)
+- [Nia Bali Cooking Class Seminyak](https://hmginternational.com/partner/nia_bali_cooking_class_seminyak/)
+- [Mufu Bali Cooking Class](https://hmginternational.com/partner/mufu_bali_cooking_class/)
+- [Kekeb Cooking Class Nusa Dua](https://hmginternational.com/partner/kekeb_cooking_class_nusa_dua/)
 
 \---
 

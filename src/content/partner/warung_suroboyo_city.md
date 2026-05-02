@@ -21,9 +21,10 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding promotions
 ---
-**Location :** 355 Sussex St, Sydney, 2000, NSW, Australia[](<>)
+
+**Location :** 355 Sussex St, Sydney, 2000, NSW, Australia[]()
 (Around 6 mins walk from Town Hall Station)
 
 **Trading :**
 
-* Monday - Sunday : 11.30 am - 11 pm
+- Monday - Sunday : 11.30 am - 11 pm

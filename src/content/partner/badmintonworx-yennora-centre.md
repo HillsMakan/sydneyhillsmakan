@@ -7,8 +7,8 @@ categories:
   - wellness
 region: nsw
 discount_pct: 0
-discount_text: ""
-comment: ""
+discount_text: ''
+comment: ''
 ---
 
 Anyone who don’t have a racquet, get free racquet hire (normal price is $5/each)\

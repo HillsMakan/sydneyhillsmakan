@@ -23,15 +23,16 @@ categories:
   - wellness
 region: nsw
 discount_pct: 16
-discount_text: ""
+discount_text: ''
 ---
-**Come along and zumba your way into happiness !** 
 
-Classes held every Monday evenings at North Kellyville Public School hall. For casual walk in, it’s $15 per class and there’s also a 10 classes pass for $120. 
+**Come along and zumba your way into happiness !**
 
-Offer, show your HMG International member card and receive $12 per class casual walk in or $100 for 10 classes. 
+Classes held every Monday evenings at North Kellyville Public School hall. For casual walk in, it’s $15 per class and there’s also a 10 classes pass for $120.
 
-**Name :** Sujita 
+Offer, show your HMG International member card and receive $12 per class casual walk in or $100 for 10 classes.
+
+**Name :** Sujita
 
 **Contact :** 0452 156 672
 
@@ -47,9 +48,9 @@ Get fit the fun way ! Zumba is a high-energy dance workout that helps burn calor
 
 **Benefits of Zumba :**
 
-* Burn fat and build stamina
-* Reduce stress and feel energized
-* Improve heart health and flexibility
-* Make new friends and have a blast !
+- Burn fat and build stamina
+- Reduce stress and feel energized
+- Improve heart health and flexibility
+- Make new friends and have a blast !
 
 **No dance experience needed – just bring your smile and energy. Let’s move together !**

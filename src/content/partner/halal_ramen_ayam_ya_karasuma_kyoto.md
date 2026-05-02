@@ -31,6 +31,7 @@ region: kyoto
 discount_pct: 0
 discount_text: Free topping, boiled egg / crispy skin for each ramen order
 ---
+
 Due to the complicity of the ticket vender/order payment machine. You will receive free topping, boiled egg / crispy skin for each ramen order when you visit and show your HMG International member card (last photo below, save to your Stocard app or mobile photo album).
 
 **Process :**
@@ -38,10 +39,10 @@ Due to the complicity of the ticket vender/order payment machine. You will recei
 1. Free topping boiled egg / crispy skin for each ramen order.
 2. Go to ticket vender/machine order, put money, and place order.
 3. Take order ticket and pass order ticket to Kyoto Ayam Ya friendly staff.
-4. Show your HMG International member card in the same time. 
+4. Show your HMG International member card in the same time.
 5. Tell Ayam Ya friendly staff which free topping boiled egg / crispy skin for each ramen order.
 
-\* If no show member cards, no free topping. 
+\* If no show member cards, no free topping.
 
 \* If the HMG member already paid for topping, no refund for paid topping. Only get another topping for free.
 
@@ -53,11 +54,11 @@ Halal Ramen Ayam Ya Karasuma Kyoto is the first halal ramen shop in Kyoto. Besid
 
 We use vending mechine and only use cash. Please prepare cash. Our ramen is authentic. We have non spicy ramen and spicy ramen. Our soup is rich chicken soup and we do not use pork and beef. If you want to eat the authentic halal ramen.
 
-**Location :** 
+**Location :**
 
 Halal Ramen Ayam Ya Karasuma Kyoto (Ramen restaurant)
 
-室町新町 の 間錦小路下る 観音堂町 
+室町新町 の 間錦小路下る 観音堂町
 
 470, Kannondocho, Nakagyo Ward, Kyoto, 604-8222, Japan
 

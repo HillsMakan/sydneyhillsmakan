@@ -9,6 +9,7 @@ categories:
 region: nsw
 discount_pct: 0
 ---
+
 **OpenPasskey Digital Stamps**
 
 **Replace paper coffee stamp cards with a simple tap — secure, app-free, and brand-ready.**
@@ -19,26 +20,26 @@ OpenPasskey is a digital loyalty solution powered by OpenPasskey seamless authen
 
 **1) Digital convenience (no more lost cards)**
 
-* **No physical card needed:** Customers keep their loyalty card digitally on their phone (Apple Wallet / Google Wallet).
-* **Tap to collect stamps:** A quick tap at the counter updates their stamps instantly.
-* **Works across iPhone & Android:** One experience for all customers.
+- **No physical card needed:** Customers keep their loyalty card digitally on their phone (Apple Wallet / Google Wallet).
+- **Tap to collect stamps:** A quick tap at the counter updates their stamps instantly.
+- **Works across iPhone & Android:** One experience for all customers.
 
 **2) No app downloads, no friction (optional)**
 
-* **No app. No lengthy sign-up:** Customers can start using the loyalty card with a simple tap.
-* **OnePasskey authentication runs in the background:** A seamless, secure way to recognise the customer without awkward onboarding.
+- **No app. No lengthy sign-up:** Customers can start using the loyalty card with a simple tap.
+- **OnePasskey authentication runs in the background:** A seamless, secure way to recognise the customer without awkward onboarding.
 
 **3) Stronger security & fraud prevention**
 
-* **Stops fake stamps:** Digital stamps can’t be forged like paper cards.
-* **Secure authentication:** Passkey-based verification can use biometrics (Face ID / fingerprint) or device PIN for added protection.
-* **Hard to share or misuse:** Digital loyalty is tied to verified access, reducing “pass-it-around” stamp fraud.
+- **Stops fake stamps:** Digital stamps can’t be forged like paper cards.
+- **Secure authentication:** Passkey-based verification can use biometrics (Face ID / fingerprint) or device PIN for added protection.
+- **Hard to share or misuse:** Digital loyalty is tied to verified access, reducing “pass-it-around” stamp fraud.
 
 **4) Better operations + smarter marketing for cafés**
 
-* **Faster at the counter:** Tap → stamp updates automatically → staff are prompted when a free coffee is due.
-* **Actionable customer insights (with permission):** Understand repeat visits, redemption behaviour, and campaign performance.
-* **Eco-friendly:** Reduce paper waste and printing costs.
+- **Faster at the counter:** Tap → stamp updates automatically → staff are prompted when a free coffee is due.
+- **Actionable customer insights (with permission):** Understand repeat visits, redemption behaviour, and campaign performance.
+- **Eco-friendly:** Reduce paper waste and printing costs.
 
 **Exclusive offer for Sydney Hills Makan / HMG members**
 

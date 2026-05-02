@@ -10,6 +10,7 @@ categories:
 region: international
 discount_pct: 20
 ---
+
 **✈️ TRAVELLING SOON ?**
 
 **SPECIAL 20% OFF FOR ALL HMG MEMBERS**
@@ -26,7 +27,7 @@ How to redeem ?
 2. Choose your eSIM package, the discount is automatically applied at checkout.
 3. After checkout, you will receive a QR code for your travel eSIM via email.
 
-**Important Notes :**  
+**Important Notes :**
 
 \- The eSIM is installed when the QR code is scanned. It can be scanned within 90 days of issue.
 
@@ -36,7 +37,7 @@ How to redeem ?
 
 \- Some eSIMs can activate even when you are not at your destination. For this reason, we recommend scanning the QR on the day before departure.
 
-**Customer Support :**  
+**Customer Support :**
 
 If you have any questions or need help with the eSIM service, please email support@etel.com.au or contact E.Tel Customer Support at +61 1300 383 588.
 

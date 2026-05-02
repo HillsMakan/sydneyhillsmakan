@@ -49,6 +49,7 @@ region: selangor
 discount_pct: 10
 discount_text: in Restaurant, Food Truck and including Catering
 ---
+
 **Cowboys Barbecue & Grill**
 
 Halal American BBQ — Muslim‑Run
@@ -67,13 +68,13 @@ We bring the best of Texan‑style barbecue to Malaysia — 100% halal, Muslim�
 
 **Menu Highlights**
 
-* Smoked Beef Brisket — melt‑in‑your‑mouth, slow‑smoked perfection
-* Sticky Signature Wings — crispy, juicy, and tossed in our secret sauce
-* Ribs — tender, saucy, and finger‑licking good
-* Juicy Lamb — richly spiced and slow‑cooked
-* Burgers & Hot Dogs — loaded and satisfying
-* Quesadillas & Wings — Tex‑Mex comfort with our BBQ flair
-* Hearty Sides — slaw, fries, mac, beans, and more
+- Smoked Beef Brisket — melt‑in‑your‑mouth, slow‑smoked perfection
+- Sticky Signature Wings — crispy, juicy, and tossed in our secret sauce
+- Ribs — tender, saucy, and finger‑licking good
+- Juicy Lamb — richly spiced and slow‑cooked
+- Burgers & Hot Dogs — loaded and satisfying
+- Quesadillas & Wings — Tex‑Mex comfort with our BBQ flair
+- Hearty Sides — slaw, fries, mac, beans, and more
 
 All sauces are made in‑house.
 
@@ -81,28 +82,28 @@ All sauces are made in‑house.
 
 Planning an event ? We’ll bring the smoke and sizzle to you.
 
-* Live Grill Station — chef‑led grilling on‑site for maximum theatre
-* Food Truck — perfect for festivals, school fairs, corporate days & private parties
-* Buffet & Set Menus — tailored packages to suit your budget and guest list
+- Live Grill Station — chef‑led grilling on‑site for maximum theatre
+- Food Truck — perfect for festivals, school fairs, corporate days & private parties
+- Buffet & Set Menus — tailored packages to suit your budget and guest list
 
 Tell us your date, headcount, and vibe—we’ll handle the food so you can focus on what matters.
 
 **Why Choose Us**
 
-* Certified Halal ingredients and preparation
-* Authentic Smokehouse Technique — low & slow
-* House‑Made Sauces and rubs
-* Friendly, Fast Service from our crew
-* Family‑Friendly and event‑ready
+- Certified Halal ingredients and preparation
+- Authentic Smokehouse Technique — low & slow
+- House‑Made Sauces and rubs
+- Friendly, Fast Service from our crew
+- Family‑Friendly and event‑ready
 
 **HMG International Member Benefits 10% Off**
 
-* Show your HMG International e‑Member Card at the restaurant or food truck for discounts.
-* Catering bookings : Mention you’re an HMG International member for discounts.
+- Show your HMG International e‑Member Card at the restaurant or food truck for discounts.
+- Catering bookings : Mention you’re an HMG International member for discounts.
 
 **Visit Us**
 
-Location : 5, Jalan PJU 1a/42, Ara Damansara, 47301, Petaling Jaya, Selangor, Malaysia 
+Location : 5, Jalan PJU 1a/42, Ara Damansara, 47301, Petaling Jaya, Selangor, Malaysia
 
 Phone : 011 - 5620 4093
 

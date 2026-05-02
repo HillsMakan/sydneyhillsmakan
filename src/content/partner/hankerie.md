@@ -34,6 +34,7 @@ region: nsw
 discount_pct: 0
 discount_text: '$50 off per person with discount code "Shmg50" at checkout '
 ---
+
 Hankerie is offering an exclusive HMG International deal :
 
 🎉 $50 OFF per person
@@ -44,7 +45,7 @@ Hankerie is offering an exclusive HMG International deal :
 
 • Usually run fortnightly / monthly
 
-🎥 Sneak Peek – Class Videos 
+🎥 Sneak Peek – Class Videos
 
 • Signature crispy-crust sourdough loaves
 👉 https://youtube.com/shorts/1CBJrEIR6Uo

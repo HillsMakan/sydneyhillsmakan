@@ -21,6 +21,7 @@ region: nsw
 discount_pct: 10
 discount_text: Minimum purchase 2 drinks and not eligible to collect Machi points
 ---
+
 **Famous Global Milk Tea Brand from Taiwan**
 
 **Welcome to Machi Machi Castle Hill**
@@ -39,6 +40,6 @@ With a focus on originality, quality, and innovation, Machi Machi continues to r
 
 **Trading :**
 
-* Monday - Wednesday : 12 noon - 9 pm
-* Thursday - Saturday : 11 am - 10 pm
-* Sunday : 11 am - 8 pm
+- Monday - Wednesday : 12 noon - 9 pm
+- Thursday - Saturday : 11 am - 10 pm
+- Sunday : 11 am - 8 pm

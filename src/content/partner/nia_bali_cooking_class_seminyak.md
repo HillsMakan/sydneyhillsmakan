@@ -71,13 +71,14 @@ discount_pct: 60
 discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
 ---
-In Nia Balinese Cooking Class, Best Bali Cooking Class at Seminyak, you can learn how to prepare and cook Authentic Balinese dishes with fun and ease in the comfort of our kitchens. 
 
-We offer a wide variety of hands-on Bali cooking classes led by friendly and experienced local chef instructors. Our goal is to provide you with an enjoyable culinary experience and teach you exciting Balinese recipes and Bali cooking techniques that you can use at home. At Nia Balinese Cooking Class in Seminyak, you can quickly create memorable dishes for your loved ones. In just half a day, either in the morning or afternoon, you will learn and enjoy Bali Cooking Lessons that include genuine and traditional Balinese recipes. 
+In Nia Balinese Cooking Class, Best Bali Cooking Class at Seminyak, you can learn how to prepare and cook Authentic Balinese dishes with fun and ease in the comfort of our kitchens.
+
+We offer a wide variety of hands-on Bali cooking classes led by friendly and experienced local chef instructors. Our goal is to provide you with an enjoyable culinary experience and teach you exciting Balinese recipes and Bali cooking techniques that you can use at home. At Nia Balinese Cooking Class in Seminyak, you can quickly create memorable dishes for your loved ones. In just half a day, either in the morning or afternoon, you will learn and enjoy Bali Cooking Lessons that include genuine and traditional Balinese recipes.
 
 Our welcoming and friendly instructors will make you feel right at home, and you’ll leave with new knowledge, skills, and memories that will last a lifetime. Don’t miss out on this incredible opportunity to experience Bali’s food and culture firsthand.
 
-Join us for an unforgettable experience filled with food, culture, and warm, authentic, and friendly Balinese hospitality. 
+Join us for an unforgettable experience filled with food, culture, and warm, authentic, and friendly Balinese hospitality.
 
 **Reservation in advance is compulsory and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)
 
@@ -93,7 +94,7 @@ At HMG International, part of the commission we receive goes directly toward sub
 
 **Charity Donation :**
 
-Part of HMG International commission receive is put into the discount for HMG International members. 
+Part of HMG International commission receive is put into the discount for HMG International members.
 
 HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating the rest 100% of the commission which is IDR 42,500 per person earned from Nia Balinese Cooking Class Seminyak bookings to Charity for Humanity.
 

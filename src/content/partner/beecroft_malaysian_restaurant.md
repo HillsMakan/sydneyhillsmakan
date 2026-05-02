@@ -31,8 +31,9 @@ cuisine:
   - Malaysian
 region: nsw
 discount_pct: 10
-discount_text: "Discount valid on Mondays to Thursdays only. Excluding Specials "
+discount_text: 'Discount valid on Mondays to Thursdays only. Excluding Specials '
 ---
+
 Beecroft Malaysian Restaurant 吉隆坡大炒 is a well-loved, family-run dining spot known for its comforting flavours, warm hospitality, and excellent value. With a strong reputation among locals, it has become a reliable go-to for both dine-in and takeaway, thanks to its generous portions and consistently high-quality dishes.
 
 The menu showcases a diverse selection of Asian cuisine, blending authentic Malaysian favourites with Cantonese classics. Signature dishes that diners often rave about include the steamed fish belly in sauce, satay chicken, garlic prawns, lemon chicken, and Peking shredded beef—many even calling them some of the best they’ve ever had.
@@ -51,6 +52,6 @@ Beecroft Malaysian Restaurant 吉隆坡大炒 is highly recommended by its loyal
 
 **Trading :** 
 
-* Monday : 11 am – 3 pm & 5 pm – 9 pm
-* Tuesday : Closed
-* Wednesday to Sunday : 11 am – 3 pm & 5 pm – 9 pm
+- Monday : 11 am – 3 pm & 5 pm – 9 pm
+- Tuesday : Closed
+- Wednesday to Sunday : 11 am – 3 pm & 5 pm – 9 pm

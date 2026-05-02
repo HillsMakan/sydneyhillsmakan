@@ -21,6 +21,7 @@ region: nsw
 discount_pct: 10
 discount_text: Mention HMG International member to receive discount
 ---
+
 Congratulations on your engagement ! Now let's get you married.
 
 If you’re looking for a fun, energetic and down to earth wedding celebrant with a wicked talent in romantic poetry, let's chat.
@@ -50,7 +51,7 @@ Contact me !
 Watch me in action !\
 <https://www.youtube.com/watch?si=wQ892_CO9LR-gvDI&v=b2R--chwX6s&feature=youtu.be>
 
-***Testimonials***
+**_Testimonials_**
 
 "We were so happy to have Terry as our celebrant! Right from the beginning we knew we had the right man for the job. He listened to what we envisioned for the script & our vows but also helped to convey what we wanted to say more beautifully & eloquently than we could ever have done so on our own. Thank you Terry for all the support & encouragement that you gave us on our special day! It certainly wouldn’t have been the same without you." - Brian and Rui Page
 

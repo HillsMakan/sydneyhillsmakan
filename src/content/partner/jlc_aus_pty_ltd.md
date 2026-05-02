@@ -24,11 +24,12 @@ categories:
 region: australia
 discount_pct: 0
 ---
+
 **HMG INTERNATIONAL MEMBERS OFFER – LIMITED RELEASE**
 
 We’re excited to introduce a limited release of modular, architecturally designed premium cabins/units — available exclusively to our community.
 
-These high-quality, pre-built, fully self-contained units are designed for flexibility and can be used as : 
+These high-quality, pre-built, fully self-contained units are designed for flexibility and can be used as :
 
 • Granny flats
 

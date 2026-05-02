@@ -35,11 +35,12 @@ region: bali
 discount_pct: 15
 discount_text: Airport Shuttle 5% ● Day Tour 10% ● Adventure Activities 15%
 ---
+
 Mention HMG International members to receive below discounts :
 
-* Airport Shuttle & Private Taxi : 5%
-* Day Tour : 10%
-* Adventure Activities : 15%
+- Airport Shuttle & Private Taxi : 5%
+- Day Tour : 10%
+- Adventure Activities : 15%
 
 Welcome to Bali Kini Holidays Tour & Travel. Your trusted local partner for transport, tours, and activities across beautiful Bali.
 
@@ -51,7 +52,7 @@ Your satisfaction and happiness are our top priorities. Explore our website for 
 
 **Contact for booking and quote :**
 
-* Name : Nowa Arnawa & Team
-* Email : balikiniholidays@gmail.com
-* Mobile : +62818356277
-* Website : https://www.balikiniholidays.com
+- Name : Nowa Arnawa & Team
+- Email : balikiniholidays@gmail.com
+- Mobile : +62818356277
+- Website : https://www.balikiniholidays.com

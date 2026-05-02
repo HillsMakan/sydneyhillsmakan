@@ -27,7 +27,7 @@ for (const p of partners) {
 }
 ---
 
-<section class="bg-gray-50 py-8 antialiased dark:bg-gray-900 md:py-8">
+<section class="bg-gray-50 py-8 antialiased md:py-8 dark:bg-gray-900">
   <div class="mx-auto px-2 2xl:px-0">
     <div class="mb-4 grid gap-4 md:mb-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {
@@ -78,7 +78,7 @@ for (const p of partners) {
                 <div class="mt-4 flex items-center justify-between gap-4">
                   <a
                     href={'/partner/' + partner.id}
-                    class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-hidden focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                    class="bg-primary-700 hover:bg-primary-800 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800 inline-flex items-center rounded-lg px-5 py-2.5 text-sm font-medium text-white focus:ring-4 focus:outline-hidden"
                   >
                     <Icon class="-ms-2 me-2 size-5" name="mdi:eye" />
                     View partner
@@ -88,7 +88,7 @@ for (const p of partners) {
             </div>
           ))
         ) : (
-          <div class="flex h-32 items-center justify-center rounded-lg border-2 border-dashed border-gray-300 text-gray-500 dark:border-gray-600 md:h-64">
+          <div class="flex h-32 items-center justify-center rounded-lg border-2 border-dashed border-gray-300 text-gray-500 md:h-64 dark:border-gray-600">
             No partners yet, please check again in the future
           </div>
         )

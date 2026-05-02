@@ -19,13 +19,14 @@ region: wa
 discount_pct: 10
 discount_text: Excluding promotions
 ---
+
 Rossmoyne Chinese Restaurant 客人来 is a hidden gem of authentic Hakka cuisine in Perth. The establishment offers a cozy and welcoming ambiance.
 
-**Location :** 2/55 Central Road, Rossmoyne, 6148, Western Australia[](<>)[](<>)
+**Location :** 2/55 Central Road, Rossmoyne, 6148, Western Australia[]()[]()
 
 **Trading :**
 
-* Monday & Tuesday : Closed
-* Wednesday & Thursday : 11.30 am - 2.30 pm & 5 pm - 8 pm
-* Friday : 11.30 am - 2.30 pm & 5 pm - 8.30 pm
-* Saturday & Sunday : 10.30 am -  2 pm & 5 pm - 8.30 pm
+- Monday & Tuesday : Closed
+- Wednesday & Thursday : 11.30 am - 2.30 pm & 5 pm - 8 pm
+- Friday : 11.30 am - 2.30 pm & 5 pm - 8.30 pm
+- Saturday & Sunday : 10.30 am - 2 pm & 5 pm - 8.30 pm

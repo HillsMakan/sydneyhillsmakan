@@ -12,7 +12,7 @@ categories:
   - companies
 region: new_zealand
 discount_pct: 15
-discount_text: ""
+discount_text: ''
 ---
 
 Special Offer when you mention HMG Member

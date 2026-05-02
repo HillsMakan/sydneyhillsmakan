@@ -11,10 +11,10 @@ const { frontmatter } = Astro.props
 ---
 
 <Base {frontmatter}>
-  <main class="bg-white pb-16 pt-8 antialiased dark:bg-gray-900 lg:pb-24 lg:pt-16">
+  <main class="bg-white pt-8 pb-16 antialiased lg:pt-16 lg:pb-24 dark:bg-gray-900">
     <div class="mx-auto flex max-w-(--breakpoint-xl) justify-between px-4">
       <article
-        class="format format-sm format-blue mx-auto w-full max-w-2xl dark:format-invert sm:format-base lg:format-lg"
+        class="format format-sm format-blue dark:format-invert sm:format-base lg:format-lg mx-auto w-full max-w-2xl"
       >
         <PageHero frontmatter={frontmatter} />
         <slot />

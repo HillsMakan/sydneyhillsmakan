@@ -1,4 +1,5 @@
-import { z, defineCollection, reference } from 'astro:content'
+import { defineCollection, reference } from 'astro:content'
+import { z } from 'astro/zod'
 import { glob } from 'astro/loaders'
 
 const categories = defineCollection({
@@ -47,7 +48,7 @@ const partner = defineCollection({
       draft: z.boolean().optional(),
       title: z.string(),
       description: z.string(),
-      link: z.string().url().optional(),
+      link: z.url().optional(),
       image: image(),
       images: z.array(image()).optional(),
       categories: z.array(reference('categories')),

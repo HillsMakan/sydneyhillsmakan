@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Kekeb Restaurant, Balinese Food Nusa Dua
-description: "Balinese Cuisine "
+description: 'Balinese Cuisine '
 image: ../../assets/images/20250627_104824.jpg
 images:
   - ../../assets/images/fb_img_1750945646435.jpg
@@ -103,13 +103,14 @@ cuisine:
   - Indonesian
 region: bali
 discount_pct: 10
-discount_text: "Food Only "
+discount_text: 'Food Only '
 ---
+
 Opened in 2018 with the goal of providing fresh, organic, seasonal foods. Kekeb Restaurant is a restaurant with a beachside view in ITDC Area Nusa Dua. We served the best Indonesian food, authentic Balinese food, and live Seafood.
 
 Since opening, we’ve been able to expand our menu, convert diners into loyal customers, and give back to the community through food drives and fundraising. We aspiration is that every visitor encounters the finest of best Indonesian food and authentic Balinese food experiences. Our diverse menu includes options like the Rendang package, Chicken Betutu, Sate, Grilled Honey Chicken, Whole Crispy Duck, Live Seafood, Grilled Grouper Fish, traditional fish dishes infused with Balinese spices served with steamed rice, and more.
 
-Why not have your special occasion like Birthday, Wedding, Honeymoon or Anniversaries at Kekeb Restaurant. Special Balinese costume photos taking is available like 3rd photo below for special occasions (request in advance is preferred). There is live band every night from 8pm to 9pm. 
+Why not have your special occasion like Birthday, Wedding, Honeymoon or Anniversaries at Kekeb Restaurant. Special Balinese costume photos taking is available like 3rd photo below for special occasions (request in advance is preferred). There is live band every night from 8pm to 9pm.
 
 In addition to great food, Kekeb Restaurant also offers Balinese cooking classes – a perfect way to immerse yourself in the local culinary culture.
 
@@ -117,6 +118,6 @@ In addition to great food, Kekeb Restaurant also offers Balinese cooking classes
 
 **Trading :**
 
-* Monday to Sunday : 10 am - 10 pm
+- Monday to Sunday : 10 am - 10 pm
 
 **Reservation in advance is preferred and chat directly on WhatsApp :** +62 877 6155 6688[ ](https://wa.me/6287761556688)(For Fast Response)

@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 11:11 Sweet Wahroonga
-description: "Dessert Shop "
+description: 'Dessert Shop '
 image: ../../assets/images/img-20251205-wa0004.jpg
 images:
   - ../../assets/images/sweet-1111-square-1200.png
@@ -36,8 +36,9 @@ cuisine:
   - Dessert
 region: nsw
 discount_pct: 15
-discount_text: "Excluding Promotions "
+discount_text: 'Excluding Promotions '
 ---
+
 **A Taste of Something New - Homemade Asian Dessert & Cafe**
 
 At 11:11 Sweet, we specialise in handcrafted desserts made from the finest, carefully selected ingredients.

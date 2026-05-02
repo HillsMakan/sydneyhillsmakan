@@ -52,6 +52,7 @@ region: victoria
 discount_pct: 10
 discount_text: Excluding specials
 ---
+
 **Finders Keepers Cafe – Hawthorn**
 
 Located just steps from the tram stop at Riversdale Rd and Glenferrie Rd, Finders Keepers Cafe is your cosy local serving up a simple, fresh, and flavour-packed brunch menu.
@@ -68,5 +69,5 @@ Whether you’re stopping by for your morning caffeine fix or a leisurely weeken
 
 **Trading :**
 
-* Monday - Friday : 7 am - 3 pm
-* Saturday & Sunday : 8 am - 3 pm
+- Monday - Friday : 7 am - 3 pm
+- Saturday & Sunday : 8 am - 3 pm

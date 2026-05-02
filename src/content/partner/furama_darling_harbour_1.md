@@ -34,8 +34,9 @@ discount_pct: 15
 discount_text: Scan the QR Code (photo below) and follow the instructions. (QR
   Code for 5% discount e-voucher, no limit. Stacked together with the 10% off
   for Furama First Members).
-comment: ""
+comment: ''
 ---
+
 Discover the perfect blend of convenience and comfort at Furama Darling Harbour Hotel, positioned amidst the vibrant energy of Sydney's CBD.
 
 Situated adjacent to the bustling Sydney Chinatown and mere steps away from the ICC International Convention & Exhibition Centre, Furama Darling Harbour offers unparalleled accessibility to the city's premier destinations including Cockle Bay, Sea Life Sydney Aquarium, and Madame Tussaud's Sydney- ensuring that every moment of the stay is filled with excitement and adventure.

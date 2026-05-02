@@ -28,9 +28,10 @@ region: nsw
 discount_pct: 4
 discount_text: Including Discount Items
 ---
-**Freskin Beauty Clinic Sydney CBD** 
 
-*Advanced Aesthetic Care | Professional | Results-Driven*
+**Freskin Beauty Clinic Sydney CBD**
+
+_Advanced Aesthetic Care | Professional | Results-Driven_
 
 Freskin Beauty Clinic Sydney CBD is a renowned destination for high-quality, non-surgical beauty and aesthetic treatments, trusted and praised for its professional, knowledgeable, and highly trained team.
 

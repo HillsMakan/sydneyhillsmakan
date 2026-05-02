@@ -21,6 +21,7 @@ region: international
 discount_pct: 6
 discount_text: Enter the code HMG during checkout/booking to receive your 6% discount.
 ---
+
 ### **Exclusive HMG Member Offer – Tomato Travel (6% OFF)**
 
 Discount Code : “HMG”
@@ -32,68 +33,68 @@ HMG members will receive 6% OFF when booking with Tomato Travel by applying the 
 1. Book online : Enter the code HMG during checkout/booking to receive your 6% discount. (See first image below)
 2. Book with the Tomato Travel team :
 
-* Email : info@tomatotravel.com.au
-* Phone (Sydney Office) : +612 8005 8383
-* Address : 502/121 Walker Street, North Sydney, 2060, NSW, Australia
-* Operating Hours : Monday to Friday from 9 am till 5.30 pm AEST
+- Email : info@tomatotravel.com.au
+- Phone (Sydney Office) : +612 8005 8383
+- Address : 502/121 Walker Street, North Sydney, 2060, NSW, Australia
+- Operating Hours : Monday to Friday from 9 am till 5.30 pm AEST
 
 When contacting the team, please provide :
 
-* Your preferred travel package
-* Your tour start date
-* Quote the dedicated code “HMG” to receive the 6% discount
+- Your preferred travel package
+- Your tour start date
+- Quote the dedicated code “HMG” to receive the 6% discount
 
-***Important note***
+**_Important note_**
 
 The 6% discount applies to tour costs only and excludes any peak season surcharges and single supplement fees, if applicable.
 
 ### **Promotional Travel Products (HMG Code Eligible)**
 
-* ***Sky Road Railway: China & Tibet’s Grand Journey***
+- **_Sky Road Railway: China & Tibet’s Grand Journey_**
 
 https://www.tomatotravel.com.au/products/sky-road-railway-tibets-grand-journey/498
 
-* ***Independent Around Japan***
+- **_Independent Around Japan_**
 
 https://www.tomatotravel.com.au/products/independent-around-japan/421
 
-* ***Aromas of Japan 2026***
+- **_Aromas of Japan 2026_**
 
 https://www.tomatotravel.com.au/products/Aromas-Of-Japan-Foodie/432
 
-* ***Discover Fukuoka***
+- **_Discover Fukuoka_**
 
 https://www.tomatotravel.com.au/products/discover-fukuoka/484
 
-* ***7 Days of Authentic Japan in Shikoku***
+- **_7 Days of Authentic Japan in Shikoku_**
 
 https://www.tomatotravel.com.au/products/7-days-of-authentic-japan-in-shikoku/504
 
-* ***Discover Japan with Hiroshima 2026***
+- **_Discover Japan with Hiroshima 2026_**
 
 https://www.tomatotravel.com.au/products/discover-japan-with-Hiroshima-2026/414
 
-* ***Highlights of Japan with Hiroshima 2026***
+- **_Highlights of Japan with Hiroshima 2026_**
 
 https://www.tomatotravel.com.au/products/highlights-of-japan-with-hiroshima/345
 
-* ***Japan Golden Route with Hiroshima 2026***
+- **_Japan Golden Route with Hiroshima 2026_**
 
 https://www.tomatotravel.com.au/products/Japan-Golden-Route-with-Hiroshima/413
 
-* ***Highlights of Japan 2026***
+- **_Highlights of Japan 2026_**
 
 https://www.tomatotravel.com.au/products/highlights-of-japan-2026/351
 
-* ***Around Taiwan 2026***
+- **_Around Taiwan 2026_**
 
 https://www.tomatotravel.com.au/products/around-taiwan/429
 
-* ***Imagine Endless Discoveries in Japan & South Korea 2026***
+- **_Imagine Endless Discoveries in Japan & South Korea 2026_**
 
 https://www.tomatotravel.com.au/products/imagine-endless-discoveries-in-japan-and-south-korea/427
 
-* ***Imagine Endless Discoveries in South Korea, Japan & Taiwan 2026***
+- **_Imagine Endless Discoveries in South Korea, Japan & Taiwan 2026_**
 
 https://www.tomatotravel.com.au/products/imagine-endless-discoveries-in-south-korea-japan-and-taiwan/428
 

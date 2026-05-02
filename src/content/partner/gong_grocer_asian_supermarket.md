@@ -20,8 +20,9 @@ categories:
   - supermarket
 region: nsw
 discount_pct: 0
-discount_text: ""
+discount_text: ''
 ---
+
 With over 30 years of experience, this proudly family-owned business has become a trusted destination for quality Asian groceries while staying deeply connected to the community it serves.
 
 Driven by a passion for food, culture, and family values, they are committed to providing customers with outstanding value through high-quality, unique, and diverse products at competitive prices. Their carefully curated selection features a wide variety of Asian products from across Southeast Asia, bringing authentic flavours and ingredients closer to home.
@@ -38,5 +39,5 @@ World Square Shopping Centre, Lower Ground, Shop 8.01, 644 George St, 2000, Sydn
 
 **Trading :**
 
-* Monday to Friday : 9 am - 10 pm
-* Saturday & Sunday : 9 am - 11 pm
+- Monday to Friday : 9 am - 10 pm
+- Saturday & Sunday : 9 am - 11 pm

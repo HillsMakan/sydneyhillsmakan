@@ -29,9 +29,10 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 ---
+
 **Freskin Beauty Clinic Honsby**
 
-*Advanced Aesthetic Care | Professional | Results-Driven*
+_Advanced Aesthetic Care | Professional | Results-Driven_
 
 Freskin Beauty Clinic Hornsby stands out as a premier destination for skincare enthusiasts seeking transformative and rejuvenating treatments.
 

@@ -22,6 +22,7 @@ categories:
 region: nsw
 discount_pct: 0
 ---
+
 Frozen Atelier . Let’s FREO !\
 Premium Frozen Yoghurt & Express Gelato\
 100% Natural Ingredients
@@ -36,5 +37,5 @@ At the toppings station, there’s a balance of healthy and indulgent add-ons, w
 
 **Trading :**
 
-* Monday - Friday : 12 noon - 10.30 pm
-* Saturday & Sunday : 12 noon - 11 pm
+- Monday - Friday : 12 noon - 10.30 pm
+- Saturday & Sunday : 12 noon - 11 pm

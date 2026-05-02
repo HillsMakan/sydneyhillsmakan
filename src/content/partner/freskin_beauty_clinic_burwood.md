@@ -31,9 +31,10 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 ---
-**Freskin Beauty Clinic Burwood** 
 
-*Advanced Aesthetic Care | Professional | Results-Driven*
+**Freskin Beauty Clinic Burwood**
+
+_Advanced Aesthetic Care | Professional | Results-Driven_
 
 Freskin Beauty Clinic Burwood is a renowned destination for high-quality, non-surgical beauty and aesthetic treatments, trusted and praised for its professional, knowledgeable, and highly trained team.
 

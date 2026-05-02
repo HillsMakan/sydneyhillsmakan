@@ -35,6 +35,7 @@ region: international
 discount_pct: 10
 discount_text: Excluding Postage. Worldwide shipping available
 ---
+
 **About Infusion8**
 
 Hi, I’m Shal – the founder of Infusion8 and a proud cancer survivor. After overcoming health challenges, I discovered the healing power of nature through botanical body oils and crystal-inspired soaps. They brought calm, comfort, and a renewed sense of wellbeing that I couldn’t wait to share with others.

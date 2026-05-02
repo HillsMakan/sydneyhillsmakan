@@ -12,9 +12,10 @@ region: australia
 discount_pct: 10
 discount_text: Free delivery within 20 km from Chatswood. Postage applies for all other orders
 ---
-**My Table Premium 5⭐️ Fish Sauce by My Table Pty Ltd** 
 
-*Pure. Premium. Naturally Umami.*
+**My Table Premium 5⭐️ Fish Sauce by My Table Pty Ltd**
+
+_Pure. Premium. Naturally Umami._
 
 My Table Premium 5⭐️ Fish Sauce is a premium, clean-label condiment crafted to deliver a rich, distinctive umami flavour. Naturally fermented from anchovies using a slow, traditional process, it is designed for versatility—perfect for both cooking and dipping—while staying true to quality and simplicity.
 
@@ -42,7 +43,7 @@ A high-quality, healthier alternative to elevate everyday meals.
 
 • Commercial cooking
 
-• Grilling 
+• Grilling
 
 • Dipping sauces
 
@@ -62,7 +63,7 @@ Normally RRP $7.50 for 750 ml bottle
 
 **How to Order & Enquiries (Mention that you are HMG International members)**
 
-***Customers / Consumers***
+**_Customers / Consumers_**
 
 Contact Person : CN Yong
 
@@ -70,7 +71,7 @@ Contact Person : CN Yong
 
 📧 Email : mytable388@gmail.com
 
-***Australian Business Owners (B2B)***
+**_Australian Business Owners (B2B)_**
 
 For cafés, restaurants, supermarkets, and other business enquiries. B2B pricing available upon application.
 
@@ -80,7 +81,7 @@ Contact Person : CN Yong
 
 📧 Email : mytable388@gmail.com
 
-***Overseas Expansion Opportunities***
+**_Overseas Expansion Opportunities_**
 
 My Table Pty Ltd is actively expanding into international markets and welcomes enquiries from overseas agencies and business partners. B2B pricing available upon application.
 

@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Mufu Bali Cooking Class
-description: "Cooking Class "
+description: 'Cooking Class '
 link: https://www.mufubalicookingclass.com
 image: ../../assets/images/cropped-logo-mufubalicookingclass.png
 images:
@@ -27,6 +27,7 @@ discount_pct: 60
 discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
 ---
+
 Cook With Locals in Ubud Bali and dive into the heart of Bali's culinary traditions through hands-on cooking sessions led by local chefs. With options for both morning and afternoon classes.[](https://www.mufubalicookingclass.com/cooking-class-program/)
 
 [](https://www.mufubalicookingclass.com/cooking-class-program/)In the Mufu Bali Cooking Class, you’ll gain a deeper understanding of the ingredients and how to bring out their flavors. By learning the basics of Balinese cuisine, you’ll develop an appreciation for this unique culinary tradition and be inspired to recreate it.
@@ -47,7 +48,7 @@ At HMG International, part of the commission we receive goes directly toward sub
 
 **Charity Donation :**
 
-Part of HMG International commission receive is put into the discount for HMG International members. 
+Part of HMG International commission receive is put into the discount for HMG International members.
 
 HMG International is honoured to support this Jooosss Team "Charity For Humanity" Bali cause by donating the rest 100% of the commission which is IDR 27,500 per person earned from Mufu Bali Cooking Class bookings to Charity for Humanity.
 

@@ -29,17 +29,18 @@ cuisine:
   - Western
 region: nsw
 discount_pct: 0
-discount_text: "Excluding promotions "
+discount_text: 'Excluding promotions '
 ---
+
 Welcome to The Local Cafe Macquarie Park — formerly known as Sambal Macquarie Restaurant.
 
 We’re continuing our love for great food with a fresh cafe experience, serving a delicious mix of Malaysian comfort dishes and Western favourites. From familiar flavours to cafe classics, there’s something here for everyone—any day of the week.
 
-**Location :**  Unit 6A, 277 Lane Cove Rd, Macquarie Park, 2113, NSW, Australia 
+**Location :**  Unit 6A, 277 Lane Cove Rd, Macquarie Park, 2113, NSW, Australia
 
 (Around 4 mins walk from Macquare Park Metro Station. Fyi, no parking if you are planning to drive. Park behind Macdonald which is also around 4 mins walk.)
 
 **Trading :** 
 
-* Monday to Friday : 7 am - 3 pm
-* Saturday & Sunday : 11 am - 3 pm
+- Monday to Friday : 7 am - 3 pm
+- Saturday & Sunday : 11 am - 3 pm

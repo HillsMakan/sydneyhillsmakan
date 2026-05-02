@@ -16,6 +16,7 @@ region: nsw
 discount_pct: 0
 discount_text: $1,500 Discount on Marketing Fee
 ---
+
 **Reginald Kurniawan**
 
 Sales Executive – Real Estate Agent at Triple S Property
@@ -36,5 +37,5 @@ Contact me and mention HMG International member to receive $1,500 discount on Ma
 
 **Contacts :**
 
-* Mobile : 0414980106
-* Email : reginald@triplesproperty.com.au[](mailto:reginald@triplesproperty.com.au)[](tel:0414980106)
+- Mobile : 0414980106
+- Email : reginald@triplesproperty.com.au[](mailto:reginald@triplesproperty.com.au)[](tel:0414980106)

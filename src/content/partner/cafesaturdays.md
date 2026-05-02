@@ -29,6 +29,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding specials
 ---
+
 10% Discount when you show your member card at the Café
 
 OR
@@ -50,5 +51,5 @@ Come experience the taste that’s made us a local favourite.
 
 **Trading :**
 
-* Monday - Saturday : 7 am - 4.30 pm
-* Sunday : 8 am - 2.30 pm
+- Monday - Saturday : 7 am - 4.30 pm
+- Sunday : 8 am - 2.30 pm

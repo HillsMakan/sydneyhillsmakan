@@ -9,6 +9,7 @@ image: ../../assets/images/HMGmembercard01.jpg
 icon: mdi:about
 order: 1
 ---
+
 HMG International is a vibrant and diverse community brought together by our shared love for food and culture. So, anyone and everyone are welcome to join.
 Our group celebrates the beauty of diversity through a variety of cuisines. From tantalizing street food to gourmet delights, mouthwatering Asian street food to classic European dishes, there's always something new to savor.
 

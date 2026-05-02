@@ -13,17 +13,17 @@ const partners = await getCollection('partner', (partner) => !partner.data.draft
   >
     <div class="mr-auto place-self-center lg:col-span-7">
       <h1
-        class="mb-4 max-w-2xl text-4xl font-extrabold leading-none tracking-tight dark:text-white md:text-5xl xl:text-6xl"
+        class="mb-4 max-w-2xl text-4xl leading-none font-extrabold tracking-tight md:text-5xl xl:text-6xl dark:text-white"
       >
         🍜 Welcome to HMG International – Where Flavor Meets Community! 🌏
       </h1>
       <p
-        class="mb-2 max-w-2xl font-light text-gray-600 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-xl"
+        class="mb-2 max-w-2xl font-light text-gray-600 md:text-lg lg:mb-8 lg:text-xl dark:text-gray-400"
       >
         {Site.description}
       </p>
       <p
-        class="mb-6 max-w-2xl italic text-gray-500 dark:text-gray-500 md:text-base lg:mb-8 lg:text-lg"
+        class="mb-6 max-w-2xl text-gray-500 italic md:text-base lg:mb-8 lg:text-lg dark:text-gray-500"
       >
         Note: Site last updated {
           Site.buildTime.toLocaleString('en-AU', {
@@ -35,7 +35,7 @@ const partners = await getCollection('partner', (partner) => !partner.data.draft
       </p>
       <a
         href={Site.link}
-        class="mr-3 inline-flex items-center justify-center rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+        class="bg-primary-700 hover:bg-primary-800 focus:ring-primary-300 dark:focus:ring-primary-900 mr-3 inline-flex items-center justify-center rounded-lg px-5 py-3 text-center text-base font-medium text-white focus:ring-4"
       >
         Join
         <svg

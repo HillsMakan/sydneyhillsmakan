@@ -34,6 +34,7 @@ region: nsw
 discount_pct: 10
 discount_text: Excluding Specials
 ---
+
 **Malaysia Small Chilli – Campsie**
 
 Located along vibrant Beamish Street, Malaysia Small Chilli is a highly-rated and authentic Malaysian restaurant known for its warm, intimate atmosphere and generous portions.
@@ -48,7 +49,7 @@ Whether you're craving something spicy, savoury, or simply a taste of home, Mala
 
 **Trading :** 
 
-* Monday & Tuesday : 10 am to 9.30 pm
-* Wednesday : Closed
-* Thursday to Saturday : 10 am to 9.30 pm
-* Sunday : 8 am to 9.30 pm
+- Monday & Tuesday : 10 am to 9.30 pm
+- Wednesday : Closed
+- Thursday to Saturday : 10 am to 9.30 pm
+- Sunday : 8 am to 9.30 pm

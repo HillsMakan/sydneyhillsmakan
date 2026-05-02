@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Canterbury Speedmart "
+title: 'Canterbury Speedmart '
 description: Asian Grocery
 image: ../../assets/images/canterbury-speedmart.jpg
 categories:

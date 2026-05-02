@@ -31,17 +31,18 @@ categories:
   - retailers
 region: nsw
 discount_pct: 10
-discount_text: "Mention HMG International member when getting a quote "
+discount_text: 'Mention HMG International member when getting a quote '
 ---
+
 Blinds Plus, with business presence since 1986, offers a one-stop solution for new home buyers, renovators, interior designers, and office designers. We are manufacturers and suppliers of Blinds, Screens, Doors, Awnings, Shutters, Pelmets, and Clothesline.
 
 Blinds Plus service area all over the Sydney metropolitan and outer Sydney suburbs, Newcastle, Nowra & Blue Mountains.
 
 Blinds Plus offers a comprehensive range of window treatments, including high-quality blinds, elegant curtains, and stylish shutters. Our expert team provides personalised solutions to suit any decor and budget. We pride ourselves on exceptional service, starting with a free measure and quote to ensure the perfect fit and finish for your windows. At Blinds Plus, we blend functionality with aesthetics to enhance your living spaces. Trust us to deliver superior products and professional installation, making your home or office more comfortable and visually appealing. Discover the difference with Blinds Plus today if you need any Roller Blinds, Roman Blinds, Awnings, Plantation shutters, Curtains, Security Doors or Fly Screens !
 
-Blinds Plus warranty provides 12 months on workmanship, 5 years on fabric & 2 years on motors. *Terms & Conditions 
+Blinds Plus warranty provides 12 months on workmanship, 5 years on fabric & 2 years on motors. \*Terms & Conditions
 
-Contact for quote and mention HMG International member. 
+Contact for quote and mention HMG International member.
 
 Address : Unit 17, 6 Gladstone Rd, Castle Hill, 2154, NSW
 
@@ -51,6 +52,6 @@ Email : sales@blindsplus.com.au
 
 Trading Hours :
 
-* Monday - Friday : 8.30 am - 4.30 pm
-* Saturday : 9 am - 4 pm
-* Weekend and After Hours by Appointment
+- Monday - Friday : 8.30 am - 4.30 pm
+- Saturday : 9 am - 4 pm
+- Weekend and After Hours by Appointment

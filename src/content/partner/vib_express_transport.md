@@ -28,31 +28,32 @@ region: nsw
 discount_pct: 5
 discount_text: 5% off + Refer a friend ONE TIME $10 OFF to redeem
 ---
+
 Special :
 
-* 5% off
+- 5% off
+  -
 
-  +
-* Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem (see 17th photos below)
+- Refer a friend and after your friend finish the trip. You receive a ONE TIME $10 OFF to redeem (see 17th photos below)
 
 Transportation Services (Pick Up and or Drop Off. Passenger and or Items) :
 
-* Airport
-* Grocery
-* Restaurant 
-* Food & Drinks
-* Online Shopping 
-* Commercial 
-* Catering 
-* Residential 
-* Moving Or Pick Up Services 
-* IKEA Pick Up Services 
+- Airport
+- Grocery
+- Restaurant
+- Food & Drinks
+- Online Shopping
+- Commercial
+- Catering
+- Residential
+- Moving Or Pick Up Services
+- IKEA Pick Up Services
 
-Vehicle : 
+Vehicle :
 
-* Model : Toyota Kluger Hybrid 2021
-* Number Of Passengers : Maximum 4
-* Number Of Bags : 4 Check in bags (25 kg each) + 4 Hand carry bags (7 kg each)
+- Model : Toyota Kluger Hybrid 2021
+- Number Of Passengers : Maximum 4
+- Number Of Bags : 4 Check in bags (25 kg each) + 4 Hand carry bags (7 kg each)
 
 Process :
 
@@ -62,5 +63,5 @@ Process :
 
 Contact :
 
-* Mobile : (+61) 406 162 265
-* Website : https://vibexpresstransport.com.au/
+- Mobile : (+61) 406 162 265
+- Website : https://vibexpresstransport.com.au/

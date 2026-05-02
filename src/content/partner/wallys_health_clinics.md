@@ -21,6 +21,7 @@ region: nsw
 discount_pct: 25
 discount_text: 25% off initial consultation. 10% subsequent consultation
 ---
+
 Mention and show your HMG International member card and receive 25% off initial consultation and 10% subsequent consultation.
 
 More than a quick fix. Evidence-based, hands-on expertise. Tailored Treatment Plans - No one-size-fits-all. We Accept a Wide Range of Insurance Plans.
@@ -35,19 +36,19 @@ Because healing isn’t just about the body—it’s about feeling understood, s
 
 **Opening Hours :**
 
-* Monday - Friday : 9 am - 5.30 pm
-* Saturday : By appointment only
-* Sunday :  Closed
+- Monday - Friday : 9 am - 5.30 pm
+- Saturday : By appointment only
+- Sunday : Closed
 
 **CONTACT US**
 
 Email : admin@wallyshealth.com.au​
 
-Phone : 
+Phone :
 
-* MyHealth Clinic : +61 2 9188 3893
-* Chana : +61 431 047 035
-* Alex : +61 426 525 347
+- MyHealth Clinic : +61 2 9188 3893
+- Chana : +61 431 047 035
+- Alex : +61 426 525 347
 
 Website : https://www.wallyshealth.com.au/ (online booking available)
 

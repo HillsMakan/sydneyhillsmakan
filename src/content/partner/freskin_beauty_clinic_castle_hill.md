@@ -29,9 +29,10 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 ---
+
 **Freskin Beauty Clinic Castle Hill**
 
-*Advanced Aesthetic Care | Professional | Results-Driven*
+_Advanced Aesthetic Care | Professional | Results-Driven_
 
 Freskin Beauty Clinic Castle Hill is a renowned destination for high-quality, non-surgical beauty and aesthetic treatments, trusted and praised for its professional, knowledgeable, and highly trained team.
 
@@ -45,7 +46,7 @@ Our architect-designed clinic provides a luxurious, comfortable, and relaxing en
 
 Freskin Beauty Clinic offers a comprehensive range of non-surgical cosmetic and aesthetic treatments, including :
 
-• Premium Facial 
+• Premium Facial
 
 • Laser & IPL
 
@@ -53,15 +54,15 @@ Freskin Beauty Clinic offers a comprehensive range of non-surgical cosmetic and 
 
 • Skin Boosters
 
-• RF Treatment 
+• RF Treatment
 
 • Microneedling
 
-• Body & Fat Reduction 
+• Body & Fat Reduction
 
-• Ance Treatment 
+• Ance Treatment
 
-• Other Services 
+• Other Services
 
 Our dedicated team includes Aesthetic Doctors, Nutritionists, and Professional Beauty Therapists, working together to deliver safe, effective, and results-focused care.
 

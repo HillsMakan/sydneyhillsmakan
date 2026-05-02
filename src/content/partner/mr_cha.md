@@ -19,8 +19,9 @@ cuisine:
   - Halal
 region: nsw
 discount_pct: 10
-discount_text: "Excluding specials "
+discount_text: 'Excluding specials '
 ---
+
 **Mr Cha Eatery**
 
 Authentic Malaysian Street Food in the Heart of Bankstown

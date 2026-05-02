@@ -27,9 +27,10 @@ region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
 ---
+
 **Freskin Beauty Clinic Chatswood**
 
-*Advanced Aesthetic Care | Professional | Results-Driven*
+_Advanced Aesthetic Care | Professional | Results-Driven_
 
 Freskin Beauty Clinic Chatswood stands out as a premier destination for skincare enthusiasts seeking transformative and rejuvenating treatments.
 
@@ -79,7 +80,7 @@ We invite you to visit Freskin Beauty Clinic Chatswood for a professional consul
 
 ✨ Book your consultation today and begin your journey to healthier, radiant skin.
 
-**Location :** Chatswood Chase, Shop B024, 345 Victoria Ave, Chatswood, 2067, NSW, Australia 
+**Location :** Chatswood Chase, Shop B024, 345 Victoria Ave, Chatswood, 2067, NSW, Australia
 
 (Around 9 mins walk from Chatswood Station)
 
