@@ -10,9 +10,7 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: Mention HMG member to receive discount.
-coordinates:
-  lat: 45.035209
-  lng: -92.8096385
+geocoding_failed: true
 ---
 
 Contact Valarie Tay at underonewoof2402@gmail.com

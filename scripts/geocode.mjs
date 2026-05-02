@@ -30,15 +30,27 @@ async function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function geocode(query) {
+async function geocode(query, regionId) {
   if (!query || query.length < 3) return null;
 
-  const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`;
-  console.log(`Geocoding: ${query}`);
+  // Map regionId to country code for Nominatim
+  const countryCodes = {
+    nsw: 'au', victoria: 'au', queensland: 'au', wa: 'au', sa: 'au', act: 'au', australia: 'au',
+    singapore: 'sg',
+    kl: 'my', selangor: 'my', penang: 'my', johor: 'my', malaysia: 'my', melaka: 'my',
+    bali: 'id', indonesia: 'id',
+    kyoto: 'jp', japan: 'jp',
+    new_zealand: 'nz',
+    united_kingdom: 'gb'
+  };
+  const cc = countryCodes[regionId] || '';
+
+  const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}${cc ? `&countrycodes=${cc}` : ''}`;
+  console.log(`Geocoding: ${query} (cc: ${cc})`);
   try {
     const response = await fetch(url, {
       headers: {
-        'User-Agent': 'SydneyHillsMakanGeocoder/1.1 (hmg@sydneyhillsmakan.com)'
+        'User-Agent': 'SydneyHillsMakanGeocoder/1.2 (hmg@sydneyhillsmakan.com)'
       }
     });
     if (!response.ok) {
@@ -75,9 +87,22 @@ async function run() {
     let body = content.slice(fmMatch[0].length);
     let changed = false;
 
-    // Skip if coordinates already exist
+    // Check if coordinates already exist
     if (fm.includes('coordinates:')) {
-        continue;
+        // Validation: Re-geocode if coordinates are in the Americas/Europe (wrong longitude for our project regions)
+        // Regions are AU, SG, MY, ID, NZ, JP (all Eastern) and GB (UK).
+        const lngMatch = fm.match(/lng:\s*(-?\d+\.\d+)/);
+        const lng = lngMatch ? parseFloat(lngMatch[1]) : 0;
+        const regionMatch = fm.match(/region:\s*(.*)/);
+        const regionId = regionMatch ? regionMatch[1].trim() : null;
+
+        if (lng < 0 && regionId !== 'united_kingdom') {
+            console.log(`Re-geocoding ${file} (detected Western longitude: ${lng} for region ${regionId})`);
+            fm = fm.replace(/\ncoordinates:[\s\S]*?lng: -?\d+\.\d+/, '');
+            changed = true;
+        } else {
+            continue;
+        }
     }
 
     // Extract fields
@@ -95,7 +120,7 @@ async function run() {
 
     let coords = null;
 
-    // 1. Try Address First
+    // 1. Try Address First (if strict enough)
     if (address && !/sydney metro area/i.test(address)) {
         let cleanAddress = address.split('(')[0].trim();
         cleanAddress = cleanAddress.replace(/^(Shop|Unit|Level|Suite|SShop)\s+[^,]+,\s*/i, '');
@@ -103,13 +128,12 @@ async function run() {
         
         if (cleanAddress.length > 5) {
             await delay(1200);
-            coords = await geocode(cleanAddress);
+            coords = await geocode(cleanAddress, regionId);
         }
     }
 
     // 2. Fallback to Title + Region
     if (!coords) {
-        // Strip non-latin characters from title for geocoding query
         const cleanTitle = title.replace(/[^\x00-\x7F]/g, '').trim();
         const queries = [
             `${cleanTitle}, ${regionName}`,
@@ -123,7 +147,7 @@ async function run() {
 
             console.log(`Fallback for ${file}: ${finalQuery}`);
             await delay(1200);
-            coords = await geocode(finalQuery);
+            coords = await geocode(finalQuery, regionId);
             if (coords) break;
         }
     }
