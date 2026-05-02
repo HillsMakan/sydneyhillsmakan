@@ -1,4 +1,4 @@
-# GEMINI.md - HMG International
+# GEMINI.md - HMG International (v4.0.1)
 
 ## Project Overview
 

@@ -1,7 +1,7 @@
 {
   "name": "sydneyhillsmakan",
   "description": "HMG (Hills Makan Group) International website",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "scripts": {
     "clean": "rm -rf node_modules .astro dist",
     "dev": "astro dev",

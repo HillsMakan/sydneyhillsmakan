@@ -68,7 +68,6 @@ const region = defineCollection({
       title: z.string(),
       description: z.string().optional(),
       country: reference('region').optional(),
-      geo: z.string().optional(),
       icon: z.string(),
       image: image()
     })

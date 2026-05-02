@@ -80,3 +80,4 @@ All commands are run from the root of the project, from a terminal:
 * 2.0.0: Rewritten using additional content collections
 * 3.0.0: Complete redesign — removed Flowbite, replaced with Tailwind CSS v4 and vanilla JS components; removed Alpine.js; added Vitest + Playwright test suite; Astro v6 best-practice refactor
 * 4.0.0: TypeScript type fixes, ESLint/Prettier conflict resolution, dependency cleanup
+* 4.0.1: Removed unused `geo` field from region collection schema
