@@ -30,7 +30,7 @@ const regions = allRegions
 const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 ---
 
-<div class="mb-6 grid grid-cols-1 md:grid-cols-3 gap-4">
+<div class="mb-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 items-end">
   <div>
     <label for="filter-region" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Region</label>
     <select id="filter-region" class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:border-gray-700 dark:text-white sm:text-sm">
@@ -51,6 +51,11 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
       <option value="">All Cuisines</option>
       {cuisines.map(c => <option value={c}>{c}</option>)}
     </select>
+  </div>
+  <div>
+    <button id="reset-map" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-md shadow-sm transition-colors text-sm">
+      Reset Map
+    </button>
   </div>
 </div>
 
@@ -145,6 +150,14 @@ const cuisines = [...new Set(mapPartners.flatMap(p => p.cuisine))].sort();
 
     [regionFilter, categoryFilter, cuisineFilter].forEach(el => {
       el.addEventListener('change', updateMarkers);
+    });
+
+    const resetBtn = document.getElementById('reset-map');
+    resetBtn?.addEventListener('click', () => {
+      regionFilter.value = '';
+      categoryFilter.value = '';
+      cuisineFilter.value = '';
+      renderMarkers(partners);
     });
 
     console.log('Map initialized with markers and filtering');
