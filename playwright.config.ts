@@ -21,9 +21,9 @@ export default defineConfig({
     }
   ],
   webServer: {
-    command: 'pnpm dev --port 4321',
+    command: 'rm -rf dist .astro && pnpm build && pnpm preview --port 4321 --host',
     url: BASE_URL,
-    reuseExistingServer: !process.env.CI,
-    timeout: 120_000
+    reuseExistingServer: false,
+    timeout: 300_000
   }
 })

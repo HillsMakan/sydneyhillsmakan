@@ -14,4 +14,7 @@
     "editor.tabSize": 2,
     // insert spaces when pressing Tab
     "editor.insertSpaces": true,
+    "chat.tools.terminal.autoApprove": {
+      "pnpm": true
+    },
   }

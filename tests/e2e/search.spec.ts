@@ -6,19 +6,18 @@ test.describe('Search widget', () => {
   })
 
   test('search input is visible in the top nav', async ({ page }) => {
-    const searchInput = page.locator('.pagefind-ui__search-input')
+    const searchHost = page.locator('nav').first().locator('pagefind-searchbox')
+    await expect(searchHost).toBeVisible({ timeout: 10_000 })
+
+    const searchInput = page.locator('nav').first().getByRole('combobox', { name: /search/i })
     await expect(searchInput).toBeVisible({ timeout: 10_000 })
   })
 
   test('typing in search input shows results', async ({ page }) => {
-    const searchInput = page.locator('.pagefind-ui__search-input')
+    const searchInput = page.locator('nav').first().getByRole('combobox', { name: /search/i })
     await searchInput.fill('sweet')
 
-    // Wait for results to appear in the drawer
-    const drawer = page.locator('.pagefind-ui__drawer')
-    await expect(drawer).toBeVisible({ timeout: 10_000 })
-
-    const resultItems = page.locator('.pagefind-ui__result')
+    const resultItems = page.getByRole('option')
     await expect(resultItems.first()).toBeVisible({ timeout: 10_000 })
 
     const count = await resultItems.count()

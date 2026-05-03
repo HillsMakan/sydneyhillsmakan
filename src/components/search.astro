@@ -1,26 +1,16 @@
 ---
-import { Icon } from 'astro-icon/components'
 ---
 
-<div id="search-widget" class="relative mx-4 w-full max-w-sm">
-  <div id="search"></div>
+<div
+  id="search-widget"
+  class="relative ml-2 w-40 sm:w-52 md:ml-4 md:w-72 lg:w-96 xl:w-136">
+  <pagefind-searchbox
+    id="search"
+    placeholder="Search"
+    debounce="150"
+    show-sub-results
+    hide-shortcut></pagefind-searchbox>
 </div>
-
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-<script is:inline src="/pagefind/pagefind-ui.js"></script>
-
-<script is:inline>
-  window.addEventListener('DOMContentLoaded', (event) => {
-    if (typeof PagefindUI !== 'undefined') {
-      new PagefindUI({ 
-        element: "#search", 
-        showSubResults: true,
-        resetStyles: false,
-        bundlePath: "/pagefind/"
-      });
-    }
-  });
-</script>
 
 <style is:global>
   :root {
@@ -39,23 +29,15 @@ import { Icon } from 'astro-icon/components'
     --pagefind-ui-tag: #374151;
   }
 
-  /* Styling Pagefind UI to look like a searchbox */
-  #search .pagefind-ui__search-input {
+  #search-widget .pf-searchbox-input {
     background-color: var(--pagefind-ui-background) !important;
     border-color: var(--pagefind-ui-border) !important;
     font-size: 0.875rem !important;
     border-radius: 0.375rem !important;
-    padding: 0.5rem 0.75rem !important;
+    padding: 0.5rem 0.75rem 0.5rem 2.25rem !important;
   }
 
-  #search .pagefind-ui__search-clear {
-    top: 50% !important;
-    transform: translateY(-50%) !important;
-    height: auto !important;
-    padding: 0 0.5rem !important;
-  }
-
-  #search .pagefind-ui__drawer {
+  #search-widget .pf-searchbox-dropdown {
     position: absolute !important;
     top: 100%;
     left: 0;
