@@ -162,20 +162,20 @@ const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
       const seenCoords = new Set<string>()
 
       for (const partner of filteredPartners) {
-      if (partner.coordinates) {
-        let lat = partner.coordinates.lat
-        let lng = partner.coordinates.lng
+        if (partner.coordinates) {
+          let lat = partner.coordinates.lat
+          let lng = partner.coordinates.lng
 
-        // Jitter if identical to another marker to avoid overlapping
-        const coordKey = `${lat.toFixed(4)},${lng.toFixed(4)}`
-        if (seenCoords.has(coordKey)) {
-          lat += jitter()
-          lng += jitter()
-        }
-        seenCoords.add(`${lat.toFixed(4)},${lng.toFixed(4)}`)
+          // Jitter if identical to another marker to avoid overlapping
+          const coordKey = `${lat.toFixed(4)},${lng.toFixed(4)}`
+          if (seenCoords.has(coordKey)) {
+            lat += jitter()
+            lng += jitter()
+          }
+          seenCoords.add(`${lat.toFixed(4)},${lng.toFixed(4)}`)
 
-        const marker = L.marker([lat, lng]).bindPopup(
-          `
+          const marker = L.marker([lat, lng]).bindPopup(
+            `
             <div class="p-1 min-w-[180px]">
               <h3 class="font-bold text-base mb-1 text-gray-900">${partner.title}</h3>
               <p class="text-[10px] font-bold text-blue-600 uppercase tracking-wider mb-1">${partner.regionName}</p>
@@ -183,14 +183,14 @@ const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
               <a href="${partner.link}" class="inline-block bg-blue-50 text-blue-700 hover:bg-blue-100 px-2 py-1 rounded text-[10px] font-bold uppercase transition-colors">View Details →</a>
             </div>
           `,
-          {
-            maxWidth: 250
-          }
-        )
-        markerGroup.addLayer(marker)
-        boundsArr.push([lat, lng])
+            {
+              maxWidth: 250
+            }
+          )
+          markerGroup.addLayer(marker)
+          boundsArr.push([lat, lng])
+        }
       }
-    }
 
       if (boundsArr.length > 0) {
         const bounds = L.latLngBounds(boundsArr)
@@ -224,10 +224,9 @@ const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
     setTimeout(() => {
       map.invalidateSize()
     }, 200)
-
-    ;for (const el of [regionFilter, categoryFilter, cuisineFilter]) {
-    el?.addEventListener('change', updateMarkers)
-  }
+    for (const el of [regionFilter, categoryFilter, cuisineFilter]) {
+      el?.addEventListener('change', updateMarkers)
+    }
 
     const resetBtn = document.querySelector('#reset-map')
     resetBtn?.addEventListener('click', () => {
