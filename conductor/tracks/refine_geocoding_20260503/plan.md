@@ -20,12 +20,12 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Core Refactor & Unit Testing' (Protocol in workflow.md) [7772758]
 
 ## Phase 3: Global Execution & Cleanup
-- [ ] Task: Execute the refactored geocoding script on all partners.
-    - [ ] Run `pnpm run geocode`.
-    - [ ] Monitor logs for successful fallbacks to regional capitals.
-- [ ] Task: Perform global frontmatter cleanup.
-    - [ ] Create a surgical script/one-liner to remove `geocoding_failed: true` lines from all `.md` files in `src/content/partner/`.
-- [ ] Task: Final verification and E2E testing.
-    - [ ] Run `pnpm run test:e2e` to ensure the map renders all markers correctly.
-    - [ ] Check `src/content/partner/` to confirm all files have coordinates.
+- [x] Task: Execute the refactored geocoding script on all partners. [4ef9565]
+    - [x] Run `pnpm run geocode`.
+    - [x] Monitor logs for successful fallbacks to regional capitals.
+- [x] Task: Perform global frontmatter cleanup. [4ef9565]
+    - [x] Create a surgical script/one-liner to remove `geocoding_failed: true` lines from all `.md` files in `src/content/partner/`.
+- [x] Task: Final verification and E2E testing. [4ef9565]
+    - [x] Run `pnpm run test:e2e` to ensure the map renders all markers correctly.
+    - [x] Check `src/content/partner/` to confirm all files have coordinates.
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: Global Execution & Cleanup' (Protocol in workflow.md)
