@@ -5,8 +5,8 @@
   "scripts": {
     "clean": "rm -rf node_modules .astro dist",
     "dev": "astro dev",
-    "geocode": "npx tsx scripts/geocode.ts",
-    "prebuild": "npm run geocode",
+    "geocode": "pnpm dlx tsx scripts/geocode.ts",
+    "prebuild": "pnpm run geocode",
     "build": "astro build",
     "preview": "astro preview",
     "lint": "pnpm run lint:prettier && pnpm run lint:eslint",

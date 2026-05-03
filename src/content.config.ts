@@ -55,10 +55,12 @@ const partner = defineCollection({
       cuisine: z.array(z.string()).optional(),
       region: reference('region'),
       address: z.string().optional(),
-      coordinates: z.object({
-        lat: z.number(),
-        lng: z.number()
-      }).optional(),
+      coordinates: z
+        .object({
+          lat: z.number(),
+          lng: z.number()
+        })
+        .optional(),
       discount_pct: z.number().optional(),
       discount_text: z.string().optional(),
       comment: z.string().optional()
