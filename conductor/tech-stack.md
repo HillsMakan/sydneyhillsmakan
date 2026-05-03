@@ -21,5 +21,6 @@
 
 ## Infrastructure & Tools
 - **Netlify:** Hosting and automated deployments.
+- **Decap CMS:** Git-based content management.
 - **pnpm:** Efficient package management.
 - **Zod:** Content schema validation.
