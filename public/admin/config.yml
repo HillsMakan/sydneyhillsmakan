@@ -15,7 +15,7 @@ anchors:
     description: &field-description
       label: "Description"
       name: "description"
-      widget: "string"
+      widget: "text" # Use text for potentially longer descriptions
       required: true
     image: &field-image
       label: "Main Image"
@@ -132,10 +132,8 @@ collections:
       - label: "Additional Images"
         name: "images"
         widget: "list"
-        field:
-          label: "Image"
-          name: "image"
-          widget: "image"
+        # Using a simple field without 'name' ensures a list of strings
+        field: { label: "Image", widget: "image" }
         required: false
       - label: "Categories"
         name: "categories"
@@ -152,6 +150,7 @@ collections:
       - label: "Cuisine"
         name: "cuisine"
         widget: "list"
+        # list widget with no 'field' or 'fields' defaults to list of strings
         required: false
       - label: "Country/State"
         name: "region"
@@ -168,7 +167,7 @@ collections:
         required: true
       - label: "Address"
         name: "address"
-        widget: "string"
+        widget: "text" # Better for potential long addresses
         required: false
       - label: "Discount %"
         name: "discount_pct"
@@ -177,11 +176,11 @@ collections:
         required: false
       - label: "Discount Text"
         name: "discount_text"
-        widget: "string"
+        widget: "text"
         required: false
       - label: "Comment"
         name: "comment"
-        widget: "string"
+        widget: "text"
         required: false
       - label: "Coordinates"
         name: "coordinates"
