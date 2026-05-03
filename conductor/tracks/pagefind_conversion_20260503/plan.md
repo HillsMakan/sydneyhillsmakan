@@ -1,10 +1,10 @@
 # Implementation Plan: Convert Search Implementation from Lunr to Pagefind
 
-## Phase 1: Dependency Updates & Build Configuration
+## Phase 1: Dependency Updates & Build Configuration [checkpoint: e879b9f]
 - [x] Task: Remove Lunr dependencies from `package.json`. [d97ad21]
 - [x] Task: Install `pagefind` as a dependency. [05ada10]
 - [x] Task: Update `package.json` build scripts to execute Pagefind indexing after the Astro build (e.g., `"build": "astro build && pagefind --site dist"`). [80db1a9]
-- [ ] Task: Conductor - User Manual Verification 'Dependency Updates & Build Configuration' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Dependency Updates & Build Configuration' (Protocol in workflow.md) [e879b9f]
 
 ## Phase 2: Lunr Teardown
 - [ ] Task: Delete Lunr API endpoints (`src/pages/search-docs.json.js`, `src/pages/search-index.json.js`).
