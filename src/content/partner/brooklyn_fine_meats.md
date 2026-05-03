@@ -26,8 +26,8 @@ region: nsw
 discount_pct: 10
 discount_text: 'Discount Code : SHMG10 | Sydney Metro Only'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 ## Exclusive Member Discounts - Sydney Metro only

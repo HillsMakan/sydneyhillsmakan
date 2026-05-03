@@ -36,8 +36,8 @@ discount_pct: 15
 discount_text: Excluding Promotions
 address: 'Shop C, 123-125 Longuevelle Road, 2066, Lane Cove, NSW, Australia (11:11 Sweet is located at the top of the Plaza between La Piazza and Sushi Maru)'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **A Taste of Something New - Homemade Asian Dessert & Cafe**

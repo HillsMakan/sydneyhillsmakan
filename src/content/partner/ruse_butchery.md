@@ -25,8 +25,8 @@ discount_pct: 10
 discount_text: Minimum spend $30
 address: 'Ruse Shopping Village, Shop 9, 225 Junction Rd, Ruse, 2560, NSW'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **Ruse Butchery**

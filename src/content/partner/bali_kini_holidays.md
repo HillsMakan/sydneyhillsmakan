@@ -35,8 +35,8 @@ region: bali
 discount_pct: 15
 discount_text: Airport Shuttle 5% ● Day Tour 10% ● Adventure Activities 15%
 coordinates:
-  lat: -8.2271303
-  lng: 115.1919203
+  lat: -8.6653349
+  lng: 115.2176191
 ---
 
 Mention HMG International members to receive below discounts :

@@ -34,8 +34,8 @@ discount_pct: 10
 discount_text: 'Discount valid on Mondays to Thursdays only. Excluding Specials '
 address: 'Beecroft Village, Shop 25, 8 Hannah St, Beecroft, 2119, NSW, Australia (3 mins walk from Beecroft Station)'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Beecroft Malaysian Restaurant 吉隆坡大炒 is a well-loved, family-run dining spot known for its comforting flavours, warm hospitality, and excellent value. With a strong reputation among locals, it has become a reliable go-to for both dine-in and takeaway, thanks to its generous portions and consistently high-quality dishes.

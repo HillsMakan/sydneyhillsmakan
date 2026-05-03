@@ -21,8 +21,8 @@ region: australia
 discount_pct: 0
 discount_text: 'Promo Code :   excluding delivery cost '
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Lisa Liu, herself as the Saucy Wench and delivered up food products as vibrant and enticing as her brand and personality.

@@ -13,8 +13,8 @@ discount_pct: 5
 discount_text: Minimum order above $20. Party & Function Rooms Available
 address: '48 Station Street E, Harris Park, 2150, New South Wales, Australia'
 coordinates:
-  lat: -33.820549
-  lng: 151.008142
+  lat: -33.8233375
+  lng: 151.0076541
 ---
 
 **Location :** 48 Station Street E, Harris Park, 2150, New South Wales, Australia\

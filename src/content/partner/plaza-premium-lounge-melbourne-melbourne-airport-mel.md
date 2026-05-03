@@ -22,8 +22,8 @@ discount_text: Please show your HMG International member card. Each visit is
   entitled for lounge use package of 2 hours at the lounge. Valid till 31st
   August 2025
 coordinates:
-  lat: -36.5986096
-  lng: 144.6780052
+  lat: -37.8142454
+  lng: 144.9631732
 ---
 
 **THE LOUNGE**

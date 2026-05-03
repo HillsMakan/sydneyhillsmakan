@@ -35,8 +35,8 @@ discount_pct: 0
 discount_text: '$50 off per person with discount code "Shmg50" at checkout '
 address: 'Ryde, NSW, Australia'
 coordinates:
-  lat: -33.8015751
-  lng: 151.1046052
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Hankerie is offering an exclusive HMG International deal :

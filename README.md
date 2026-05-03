@@ -47,11 +47,15 @@ The current site includes a responsive Leaflet-based partner map with filter con
 │   ├── content.config.ts       # Zod content collection schemas
 │   ├── geocoding-utils.ts      # Geocoding helpers and region validation
 │   ├── geocoding-utils.test.ts # Vitest tests for geocoding helpers
+│   ├── geocode-script.test.ts  # Vitest tests for geocode script helpers
 │   ├── site.ts                 # Centralised site metadata
 │   ├── styles/
 │   │   └── global.css          # Global styles and Tailwind entry point
 │   ├── utils.ts                # Shared utility helpers (e.g. uniqBy)
 │   └── utils.test.ts           # Vitest unit tests for utils
+│   └── utils/
+│       ├── geocode.mts         # Build-time geocoding script (direct filesystem mode)
+│       └── verify-geocoding.mjs# Geocoding status helper script
 ├── tests/
 │   └── e2e/                    # Playwright end-to-end tests
 │       ├── home.spec.ts
@@ -83,12 +87,30 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run clean` | Remove `node_modules`, `.astro`, and `dist` |
 | `pnpm run refresh` | Upgrade Astro and all dependencies to latest |
 
+### Geocoding Modes
+
+- Default mode only geocodes partner entries with missing, malformed, or out-of-region coordinates.
+- Use refresh-all mode to force fresh geocoding for every partner entry, even when coordinates already exist.
+- Geocoding currently reads partner markdown files directly from `src/content/partner` (no Astro content collection runtime dependency).
+
+```bash
+# Default selective mode (skip valid existing coordinates)
+pnpm run geocode
+
+# Force refresh all partner coordinates
+pnpm run geocode -- --refresh-all
+
+# Equivalent env var mode
+REFRESH_ALL=true pnpm run geocode
+```
+
 ## Notes
 
 - Search uses Pagefind Component UI assets loaded from the shared base layout rather than per-component script tags.
 - Local `dev` search works by generating the Pagefind index first and syncing it into `public/pagefind`.
 - Playwright E2E tests intentionally run against `pnpm build && pnpm preview` so Pagefind and other build-time assets behave the same as production.
 - The partner map component is root-scoped with data-attribute selectors, so it can be rendered more than once on a page without ID collisions.
+- The partner map initial render applies currently selected filters, so default zoom/bounds match a preselected region when one is set.
 
 ## Release History
 
@@ -98,3 +120,4 @@ All commands are run from the root of the project, from a terminal:
 * 4.0.0: TypeScript type fixes, ESLint/Prettier conflict resolution, dependency cleanup
 * 4.0.1: Removed unused `geo` field from region collection schema
 * 4.1.0: Integrated interactive partner map with dynamic filtering; implemented automated build-time geocoding with multi-step fallback strategy; moved coordinates to Markdown frontmatter; updated tech stack with Leaflet and custom geocoding scripts; added Pagefind Component UI search with local dev indexing support and stabilized E2E coverage for search and map flows
+* 4.2.0: Simplified geocoding runtime to direct filesystem mode (`src/utils/geocode.mts`) with `tsx` execution; removed Astro geocode runner dependency; updated partner map initial render so default zoom reflects current region filter selection

@@ -31,8 +31,8 @@ cuisine:
 region: queensland
 discount_pct: 10
 coordinates:
-  lat: -22.1646782
-  lng: 144.5844903
+  lat: -27.365991
+  lng: 152.948963
 ---
 
 HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry Pastes.

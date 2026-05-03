@@ -10,8 +10,8 @@ discount_pct: 10
 discount_text: Excluding sales and promotional items
 address: 'Sportsco Hurstville, Westfield Shoppingtown Hurstville, Shop 416A, Cnr Cross Street & Park Road, Hurstville, 2220, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **Location :** Sportsco Hurstville, Westfield Shoppingtown Hurstville, Shop 416A, Cnr Cross Street & Park Road, Hurstville, 2220, New South Wales, Australia\

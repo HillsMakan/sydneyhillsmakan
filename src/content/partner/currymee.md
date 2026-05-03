@@ -33,8 +33,8 @@ discount_pct: 5
 discount_text: Cash Only. Minimum purchase $20 & above and excluding promotions
 address: '131 Parramatta Rd, Homebush, 2140, New South Wales, Australia'
 coordinates:
-  lat: -33.8634203
-  lng: 151.0816076
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **Location :** 131 Parramatta Rd, Homebush, 2140, New South Wales, Australia\

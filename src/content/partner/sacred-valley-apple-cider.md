@@ -11,8 +11,8 @@ cuisine:
 region: australia
 discount_pct: 0
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Sacred Valley Apple Cider 4.5% Alc/Vol\

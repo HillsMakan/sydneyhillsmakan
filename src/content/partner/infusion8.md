@@ -35,8 +35,8 @@ region: australia
 discount_pct: 10
 discount_text: Excluding Postage. Worldwide shipping available
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 **About Infusion8**

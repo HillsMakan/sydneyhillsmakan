@@ -22,8 +22,8 @@ discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card individually
 address: '1 Rider Blvd Shop 55A , Rhodes Waterside, Rhodes, 2138, NSW, Australia'
 coordinates:
-  lat: -33.8348317
-  lng: 151.0852932
+  lat: -33.8347953
+  lng: 151.0853091
 ---
 
 We bring the sensational taste of authentic Malaysian Laksa right to your bowl. At Into Laksa, our chefs craft a stunning combination of delicious flavours that only quality Laksa can deliver, using fresh ingredients, and age-old recipes.

@@ -17,8 +17,8 @@ discount_pct: 5
 discount_text: Mention HMG member. Orders above $95 excluding delivery, set up
   and wedding cake orders.
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Contact Eugene and Edith at info.ee,cakery@gmail.com

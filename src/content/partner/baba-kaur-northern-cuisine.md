@@ -11,8 +11,8 @@ discount_pct: 10
 discount_text: Excluding promotions
 address: '58, Jalan Tokong, Kampung Dua, 75200, Melaka, Malaysia'
 coordinates:
-  lat: 2.3293744
-  lng: 102.2880962
+  lat: 2.1942647
+  lng: 102.2486651
 ---
 
 **Location :** 58, Jalan Tokong, Kampung Dua, 75200, Melaka, Malaysia\

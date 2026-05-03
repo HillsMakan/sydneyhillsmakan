@@ -17,8 +17,8 @@ region: australia
 discount_pct: 5
 discount_text: 'For orders $100 and above excluding deliveries. Mention Code HMG5. '
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Delivery Australia Wide. Order and Enquiries contact Kenny either :

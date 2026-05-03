@@ -28,8 +28,8 @@ discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
 address: 'Jl. Elang Blok Komplek Burung No.3, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia. (Around 12 mins drive from Bali I Gusti Ngurah Rai International Airport)'
 coordinates:
-  lat: -8.2271303
-  lng: 115.1919203
+  lat: -8.6653349
+  lng: 115.2176191
 ---
 
 Cook With Locals in Ubud Bali and dive into the heart of Bali's culinary traditions through hands-on cooking sessions led by local chefs. With options for both morning and afternoon classes.[](https://www.mufubalicookingclass.com/cooking-class-program/)

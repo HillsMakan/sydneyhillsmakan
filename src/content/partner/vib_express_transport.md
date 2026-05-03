@@ -28,8 +28,8 @@ region: nsw
 discount_pct: 5
 discount_text: 5% off + Refer a friend ONE TIME $10 OFF to redeem
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Special :

@@ -12,8 +12,8 @@ region: australia
 discount_pct: 10
 discount_text: Free delivery within 20 km from Chatswood. Postage applies for all other orders
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 **My Table Premium 5⭐️ Fish Sauce by My Table Pty Ltd**

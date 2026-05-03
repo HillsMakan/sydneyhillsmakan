@@ -30,8 +30,8 @@ discount_pct: 10
 discount_text: Excluding specials
 address: 'The Village Green Dural building, Shop 3, 22-24 Kenthurst Rd, Dural, 2158, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 10% Discount when you show your member card at the Café

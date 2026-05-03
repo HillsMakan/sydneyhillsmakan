@@ -1,4 +1,4 @@
-# GEMINI.md - HMG International (v4.1.0)
+# GEMINI.md - HMG International (v4.2.0)
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ HMG (Hills Makan Group) International website, a dynamic platform connecting foo
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com) with [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin) for prose content
 - **Interactivity:** Vanilla JS Astro `<script>` blocks (no external UI framework)
 - **Map Library:** [Leaflet](https://leafletjs.com) for interactive partner mapping
-- **Geocoding:** Custom build-time script (`scripts/geocode.ts`) using Nominatim (OpenStreetMap)
+- **Geocoding:** Custom build-time script (`src/utils/geocode.mts`) using Nominatim (OpenStreetMap)
 - **Search:** [Pagefind](https://pagefind.app) Component UI — indexed at build time and synced into `public/pagefind` for local dev
 - **Image Handling:** Astro's built-in `Image` component and [PhotoSwipe](https://photoswipe.com) for lightboxes.
 - **Validation:** [Zod](https://zod.dev) for content collection schemas.
@@ -35,11 +35,13 @@ HMG (Hills Makan Group) International website, a dynamic platform connecting foo
 - `src/site.ts`: Centralized site configuration and metadata.
 - `src/geocoding-utils.ts`: Shared geocoding helpers and region validation logic.
 - `src/geocoding-utils.test.ts`: Vitest tests for geocoding helpers.
+- `src/geocode-script.test.ts`: Vitest tests for geocode script helpers.
 - `src/utils.ts`: Shared utility helpers (e.g. `uniqBy<T>`).
 - `src/utils.test.ts`: Vitest unit tests for `src/utils.ts`.
+- `src/utils/geocode.mts`: Geocoding script for automated partner coordinate generation.
+- `src/utils/verify-geocoding.mjs`: Script for geocoding status verification.
 - `src/styles/global.css`: Global stylesheet and Tailwind CSS v4 entry point.
 - `src/content.config.ts`: Zod schemas for all content collections.
-- `scripts/geocode.ts`: Script for automated partner coordinate generation.
 - `tests/e2e/`: Playwright end-to-end tests covering home, navigation, categories, partners, search, and map verification.
 
 ## Development Commands
@@ -67,6 +69,7 @@ All commands are run from the project root using `pnpm`:
 - **Content Updates:** Add or modify Markdown files in `src/content/`. Ensure they match the Zod schema defined in `src/content.config.ts`. Partner coordinates are automatically populated by the geocoding script; manual overrides are supported in frontmatter.
 - **Styling:** Use Tailwind CSS v4 utility classes. Custom styles should be added sparingly to `src/styles/global.css`. No Flowbite or Alpine.js — all interactivity is vanilla JS inside Astro `<script>` blocks.
 - **Components:** Create new UI elements as Astro components in `src/components/`. For interactive components like `PartnerMap`, prefer root-scoped `data-*` selectors over global IDs so multiple instances can coexist safely.
+- **Map Filtering:** `PartnerMap` now applies currently selected filters during initial render, so default bounds/zoom reflect any preselected region.
 - **SEO:** Every page should use the `SEO` component and provide appropriate frontmatter.
 - **Images:** Prefer local images in `src/assets/images/` and use the Astro `Image` component for optimization.
 - **Site Metadata:** Global site information should be referenced from `src/site.ts`.

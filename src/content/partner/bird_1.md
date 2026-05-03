@@ -14,8 +14,8 @@ region: international
 discount_pct: 15
 discount_text: ''
 coordinates:
-  lat: 19.2688735
-  lng: 73.0463121
+  lat: 8.988307
+  lng: 38.791424
 ---
 
 Special Offer when you mention HMG Member

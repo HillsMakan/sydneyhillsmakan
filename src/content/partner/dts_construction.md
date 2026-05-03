@@ -50,8 +50,8 @@ region: nsw
 discount_pct: 10
 discount_text: When you mention that you are HMG member
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 DTS Construction, led by Albert, is a trusted renovation and construction service dedicated to delivering quality workmanship and reliable solutions for residential and commercial properties across Sydney. Established in 2012, the business brings over a decade of hands-on industry experience.

@@ -1,11 +1,11 @@
 {
   "name": "sydneyhillsmakan",
   "description": "HMG (Hills Makan Group) International website",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "scripts": {
     "clean": "rm -rf node_modules .astro dist",
     "dev": "pnpm run build:search-index && pnpm run sync:pagefind:dev && astro dev",
-    "geocode": "pnpm dlx tsx scripts/geocode.ts",
+    "geocode": "tsx src/utils/geocode.mts",
     "build": "pnpm run build:search-index",
     "build:search-index": "pnpm run geocode && astro build && pagefind --site dist",
     "sync:pagefind:dev": "rm -rf public/pagefind && cp -R dist/pagefind public/pagefind",
@@ -58,6 +58,7 @@
     "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.0",
+    "tsx": "^4.21.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.59.1",
     "vitest": "^4.1.5"

@@ -72,8 +72,8 @@ discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
 address: 'Jl. Kayu Aya No.22, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, 80361, Indonesia.'
 coordinates:
-  lat: -8.2271303
-  lng: 115.1919203
+  lat: -8.6653349
+  lng: 115.2176191
 ---
 
 In Nia Balinese Cooking Class, Best Bali Cooking Class at Seminyak, you can learn how to prepare and cook Authentic Balinese dishes with fun and ease in the comfort of our kitchens.

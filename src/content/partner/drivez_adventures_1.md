@@ -27,8 +27,8 @@ discount_pct: 10
 discount_text: Mention HMG member to receive discounts when you call/email/send
   message through the website for a quote or booking.
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 **Contact :**\

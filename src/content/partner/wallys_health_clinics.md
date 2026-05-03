@@ -21,8 +21,8 @@ region: nsw
 discount_pct: 25
 discount_text: 25% off initial consultation. 10% subsequent consultation
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Mention and show your HMG International member card and receive 25% off initial consultation and 10% subsequent consultation.

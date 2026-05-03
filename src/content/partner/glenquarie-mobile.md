@@ -13,8 +13,8 @@ discount_text: 10% Discount for Repairs ● 20% Discount Accessories case ●
 comment: ''
 address: 'Glenquarie Town Centre, Shop 21 (Opposite Target), 14 Brooks St, Macquarie Fields, 2564, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Glenquarie Mobile offers a wide range of phone accessories as well as expert repair services for all types of technology.

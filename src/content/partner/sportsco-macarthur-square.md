@@ -10,8 +10,8 @@ discount_pct: 10
 discount_text: Excluding sales and promotional items
 address: 'Sportsco Westpoint, Westpoint Shopping Centre, Shop M101, 17 Patrick St, Blacktown, 2148, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **Location :** Sportsco Westpoint, Westpoint Shopping Centre, Shop M101, 17 Patrick St, Blacktown, 2148, New South Wales, Australia\

@@ -31,8 +31,8 @@ cuisine:
 region: wa
 discount_pct: 10
 coordinates:
-  lat: -25.2303005
-  lng: 121.0187246
+  lat: -31.9558967
+  lng: 115.8605784
 ---
 
 HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry Pastes.

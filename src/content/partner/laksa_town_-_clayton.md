@@ -51,8 +51,8 @@ discount_pct: 10
 discount_text: 'Excluding promotions '
 address: 'Shopping Plaza, Unit 9, 371-373 Clayton Rd, Clayton, 3168, Victoria, Australia (5 mins walk from Clayton Railway Station)'
 coordinates:
-  lat: -36.5986096
-  lng: 144.6780052
+  lat: -37.8142454
+  lng: 144.9631732
 ---
 
 **Laksa Town – Authentic Malaysian Flavours in Clayton**

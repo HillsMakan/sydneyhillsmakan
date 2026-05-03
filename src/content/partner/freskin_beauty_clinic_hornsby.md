@@ -30,8 +30,8 @@ discount_pct: 5
 discount_text: Including Discount Items
 address: 'Shop 2096, Westfield Hornsby, 236 Pacific Hwy, Hornsby, 2077, NSW, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.7052981
+  lng: 151.1005851
 ---
 
 **Freskin Beauty Clinic Honsby**

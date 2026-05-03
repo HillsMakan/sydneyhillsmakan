@@ -13,8 +13,8 @@ discount_pct: 5
 discount_text: Excluding sales. Mention HMG member
 comment: ''
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Facebook : While They Napped

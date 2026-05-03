@@ -31,8 +31,8 @@ cuisine:
 region: victoria
 discount_pct: 10
 coordinates:
-  lat: -36.5986096
-  lng: 144.6780052
+  lat: -37.8142454
+  lng: 144.9631732
 ---
 
 HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry Pastes.

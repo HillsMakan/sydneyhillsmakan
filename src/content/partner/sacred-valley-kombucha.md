@@ -11,8 +11,8 @@ cuisine:
 region: australia
 discount_pct: 0
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Sacred Valley, incorporated since 2012, is a producer of 100% natural & organic Kombucha in NSW

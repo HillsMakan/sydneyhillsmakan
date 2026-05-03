@@ -22,8 +22,8 @@ discount_text: Please show your HMG International membership card. Each visit is
   August 2025
 comment: ''
 coordinates:
-  lat: -30.5343665
-  lng: 135.6301212
+  lat: -34.9281805
+  lng: 138.5999312
 ---
 
 **THE LOUNGE**\

@@ -22,8 +22,8 @@ discount_pct: 10
 discount_text: 'Mention HMG International Member and receive extended period of
   free session. If book 5 sessions receive 10% discount. '
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Welcome to Voices of Hope, a safe haven for exploring mental well-being. Our comprehensive range of services includes Telehealth consultations and private counselling rooms for face-to-face sessions. Additionally, we offer walk and talk sessions, driven by our unwavering commitment to serving the community.

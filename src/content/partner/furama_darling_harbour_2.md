@@ -36,8 +36,8 @@ discount_text: Scan the QR Code (photo below) and follow the instructions. (QR
   for Furama First Members).
 comment: ''
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Discover the perfect blend of convenience and comfort at Furama Darling Harbour Hotel, positioned amidst the vibrant energy of Sydney's CBD.

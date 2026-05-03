@@ -30,8 +30,8 @@ discount_pct: 10
 discount_text: Excluding promotions
 address: '86 Park Rd, Homebush, 2140, New South Wales, Australia'
 coordinates:
-  lat: -33.8636501
-  lng: 151.0823336
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Discounts only applies to food and drinks from Mamak Curry Homebush, Cik Senah/Hasnah Hamid and Sechawan Kitchen

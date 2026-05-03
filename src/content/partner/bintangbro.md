@@ -27,8 +27,8 @@ discount_pct: 10
 discount_text: Excluding promotions and Liven payment
 address: 'Little Indo Town, Central Park Mall, RB011, Lower Ground Floor, 28 Broadway, Chippendale, 2008, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 An Indonesian grill and street food specialist ! Our goal is simple, fresh food flame-grilled to perfection ! Where Every Bite Counts ! Enjoy a Delicious Variety of Burgers, Spicy Chicken, Sate, and More !

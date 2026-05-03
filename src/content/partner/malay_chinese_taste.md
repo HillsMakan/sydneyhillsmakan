@@ -21,8 +21,8 @@ discount_pct: 10
 discount_text: 'Excluding promotions '
 address: 'North Sydney Greenwood Plaza Metro Level/upstairs Foodcourt at Shop SFC08, 36 Blue St, North Sydney, 2060, NSW, Australia.'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8407478
+  lng: 151.2060366
 ---
 
 **Malay Chinese Taste – North Sydney**

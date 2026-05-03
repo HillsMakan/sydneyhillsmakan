@@ -13,8 +13,8 @@ discount_pct: 5
 discount_text: $10 and above (excluding promotions)
 address: 'Parklea Markets, 601 Sunnyholt Road, Parklea, 2768, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.7278744
+  lng: 150.9240137
 ---
 
 **Location :** Parklea Markets, 601 Sunnyholt Road, Parklea, 2768, New South Wales, Australia\

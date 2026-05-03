@@ -15,8 +15,8 @@ region: australia
 discount_pct: 0
 discount_text: ''
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 Planning your next trip ? Then check this out. If you are interested, please follow the steps below :

@@ -27,8 +27,8 @@ discount_pct: 5
 discount_text: Including Discount Items
 address: 'Macquarie Shopping Centre, Level 2, Shop 2242, Macquarie Park, 2113, NSW, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **Freskin Beauty Clinic Macquarie**

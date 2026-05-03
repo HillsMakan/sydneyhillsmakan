@@ -14,8 +14,8 @@ discount_pct: 5
 discount_text: Minimum order $50 & above
 comment: ''
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Please use Code “Hills Makan” at the checkout

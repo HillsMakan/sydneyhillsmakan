@@ -11,8 +11,8 @@ cuisine:
 region: australia
 discount_pct: 0
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 To know more about The Wine Doctor, please go to below website BUT please do not order through the website if you want the discount.

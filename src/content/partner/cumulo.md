@@ -12,8 +12,8 @@ discount_text: Durian Ice Cream in 2 litter tub for HMG members at $50 (normally
   $58), Pre-order only
 address: 'Kings Langley Shopping Centre, Shop 22, 125 James Cook Dr, Kings Langley, 2147, New South Wales, Australia'
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **Location :** Kings Langley Shopping Centre, Shop 22, 125 James Cook Dr, Kings Langley, 2147, New South Wales, Australia\

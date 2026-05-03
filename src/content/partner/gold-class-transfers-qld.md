@@ -8,8 +8,8 @@ categories:
 region: queensland
 discount_pct: 5
 coordinates:
-  lat: -22.1646782
-  lng: 144.5844903
+  lat: -27.365991
+  lng: 152.948963
 ---
 
 Hire Cars and Taxi Chauffeur Services for all your transfer needs Sydney wide, Melbourne, Brisbane, Canberra & Perth.\

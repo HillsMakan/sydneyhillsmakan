@@ -254,25 +254,12 @@ const filterSelectClass =
     const categoryFilter = root.querySelector<HTMLSelectElement>('[data-filter-category]')
     const cuisineFilter = root.querySelector<HTMLSelectElement>('[data-filter-cuisine]')
 
-    // Initial render
-    renderMarkers({ filteredPartners: partners, markerGroup, map })
-
-    // Force Leaflet to recalculate container size
-    setTimeout(() => {
-      map.invalidateSize()
-    }, 200)
-
-    const resizeObserver = new ResizeObserver(() => {
-      map.invalidateSize()
-    })
-    resizeObserver.observe(mapElement)
-
     if (regionFilter && categoryFilter && cuisineFilter) {
       const regionSelect = regionFilter
       const categorySelect = categoryFilter
       const cuisineSelect = cuisineFilter
 
-      function updateMarkers() {
+      const updateMarkers = () => {
         const selectedRegion = regionSelect.value
         const selectedCategory = categorySelect.value
         const selectedCuisine = cuisineSelect.value
@@ -288,6 +275,9 @@ const filterSelectClass =
         renderMarkers({ filteredPartners, markerGroup, map })
       }
 
+      // Initial render should respect any pre-selected filter values.
+      updateMarkers()
+
       for (const el of [regionSelect, categorySelect, cuisineSelect]) {
         el.addEventListener('change', updateMarkers)
       }
@@ -299,6 +289,18 @@ const filterSelectClass =
         cuisineSelect.value = ''
         updateMarkers()
       })
+    } else {
+      renderMarkers({ filteredPartners: partners, markerGroup, map })
     }
+
+    // Force Leaflet to recalculate container size
+    setTimeout(() => {
+      map.invalidateSize()
+    }, 200)
+
+    const resizeObserver = new ResizeObserver(() => {
+      map.invalidateSize()
+    })
+    resizeObserver.observe(mapElement)
   }
 </script>

@@ -21,8 +21,8 @@ discount_pct: 10
 discount_text: 'Promo Code : WELCOME10HMG (Including Sales Items. Excluding
   postage. Free Australia delivery on orders over $150)'
 coordinates:
-  lat: -24.7761086
-  lng: 134.755
+  lat: -35.2975906
+  lng: 149.1012676
 ---
 
 # **Mikazuki Knives – Precision Crafted Japanese Blades**

@@ -11,8 +11,8 @@ cuisine:
 region: nsw
 discount_pct: 5
 coordinates:
-  lat: -31.8759835
-  lng: 147.2869493
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Mention HMG member for catering

@@ -13,8 +13,8 @@ discount_pct: 10
 discount_text: Excluding promotions
 address: 'Shop R06, 275 Kent St, Sydney, 2000, New South Wales, Australia'
 coordinates:
-  lat: -33.8659215
-  lng: 151.20406
+  lat: -33.8657806
+  lng: 151.2040203
 ---
 
 **Location :** Shop R06, 275 Kent St, Sydney, 2000, New South Wales, Australia\

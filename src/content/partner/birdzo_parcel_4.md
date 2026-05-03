@@ -22,8 +22,8 @@ discount_pct: 10
 discount_text: Mention that you are HMG International member when you contact
   them for an enquiries or quote.
 coordinates:
-  lat: 36.5748441
-  lng: 139.2394179
+  lat: 35.6768601
+  lng: 139.7638947
 ---
 
 Birdzo Parcel is a leading courier service provider in Malaysia for both individuals and businesses. We ship anything, anywhere, for businesses and individuals (B2B & B2C).
