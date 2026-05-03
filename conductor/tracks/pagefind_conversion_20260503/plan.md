@@ -7,7 +7,7 @@
 - [x] Task: Conductor - User Manual Verification 'Dependency Updates & Build Configuration' (Protocol in workflow.md) [e879b9f]
 
 ## Phase 2: Lunr Teardown
-- [ ] Task: Delete Lunr API endpoints (`src/pages/search-docs.json.js`, `src/pages/search-index.json.js`).
+- [x] Task: Delete Lunr API endpoints (`src/pages/search-docs.json.js`, `src/pages/search-index.json.js`). [0c59307]
 - [ ] Task: Remove any custom utility functions related to Lunr indexing or searching.
 - [ ] Task: Conductor - User Manual Verification 'Lunr Teardown' (Protocol in workflow.md)
 

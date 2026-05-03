@@ -19,7 +19,7 @@ HMG (Hills Makan Group) International website, built using [Astro](https://astro
 │   │   ├── breadcrumb.astro    # Breadcrumb navigation
 │   │   ├── cards.astro         # Partner/category card grid
 │   │   ├── hero.astro          # Homepage hero section
-│   │   ├── search.astro        # Lunr-powered search panel
+│   │   ├── search.astro        # Search widget
 │   │   ├── sidemenu.astro      # Responsive sidebar navigation
 │   │   ├── seo.astro           # SEO meta tags component
 │   │   └── ...                 # Other UI components
@@ -39,9 +39,7 @@ HMG (Hills Makan Group) International website, built using [Astro](https://astro
 │   │   ├── [region]/           # Nested region routes
 │   │   ├── categories/         # Category listing & detail pages
 │   │   ├── collaborations/     # Collaboration pages
-│   │   ├── partner/            # Partner detail pages
-│   │   ├── search-docs.json.js # Search document index (JSON endpoint)
-│   │   └── search-index.json.js# Lunr search index (JSON endpoint)
+│   │   └── partner/            # Partner detail pages
 │   ├── content.config.ts       # Zod content collection schemas
 │   ├── site.ts                 # Centralised site metadata
 │   ├── styles/

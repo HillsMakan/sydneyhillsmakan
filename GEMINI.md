@@ -6,14 +6,14 @@ HMG (Hills Makan Group) International website, a dynamic platform connecting foo
 
 - **Purpose:** Showcase partners, regions, and community collaborations.
 - **Architecture:** Astro (SSG) with Markdown-based content management.
-- **Key Features:** Partner directory, regional categorization, Lunr full-text search, responsive sidebar navigation, and a dark-mode responsive design.
+- **Key Features:** Partner directory, regional categorization, Pagefind full-text search, responsive sidebar navigation, and a dark-mode responsive design.
 
 ## Tech Stack
 
 - **Framework:** [Astro v6](https://astro.build)
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com) with [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin) for prose content
 - **Interactivity:** Vanilla JS Astro `<script>` blocks (no external UI framework)
-- **Search:** [Lunr](https://lunrjs.com) — bundled locally, indexed at build time
+- **Search:** [Pagefind](https://pagefind.app) — indexed at build time
 - **Image Handling:** Astro's built-in `Image` component and [PhotoSwipe](https://photoswipe.com) for lightboxes.
 - **Validation:** [Zod](https://zod.dev) for content collection schemas.
 - **Testing:** [Vitest](https://vitest.dev) for unit tests, [Playwright](https://playwright.dev) for E2E tests.
@@ -29,7 +29,6 @@ HMG (Hills Makan Group) International website, a dynamic platform connecting foo
 - `src/components/`: Reusable Astro components (Hero, Cards, SEO, Search, Sidemenu, etc.).
 - `src/layouts/`: Base and specialized page layouts (`base.astro`, `page.astro`, `partner.astro`).
 - `src/pages/`: Astro routing, including dynamic routes for regions and partners.
-  - `search-docs.json.js` / `search-index.json.js`: Build-time JSON endpoints for the Lunr search index.
 - `src/site.ts`: Centralized site configuration and metadata.
 - `src/utils.ts`: Shared utility helpers (e.g. `uniqBy<T>`).
 - `src/utils.test.ts`: Vitest unit tests for `src/utils.ts`.
