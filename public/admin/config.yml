@@ -1,10 +1,40 @@
+# Anchors for repeated field definitions
+# -------------------------------------
+anchors:
+  fields:
+    draft: &field-draft
+      label: "Draft"
+      name: "draft"
+      widget: "boolean"
+      default: false
+    title: &field-title
+      label: "Title"
+      name: "title"
+      widget: "string"
+    description: &field-description
+      label: "Description"
+      name: "description"
+      widget: "string"
+    image: &field-image
+      label: "Main Image"
+      name: "image"
+      widget: "image"
+    body: &field-body
+      label: "Body"
+      name: "body"
+      widget: "markdown"
+    icon: &field-icon
+      label: "Icon"
+      name: "icon"
+      widget: "string"
+      hint: "Enter Iconify Icon Name eg. 'mdi:user'"
+
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
 
-# This line should *not* be indented
-media_folder: "src/assets/images" # Media files will be stored in the repo under images/uploads
-public_folder: "../../assets/images" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "src/assets/images"
+public_folder: "../../assets/images"
 
 site_url: https://hmginternational.com
 logo_url: https://hmginternational.com/icon-512.png
@@ -21,115 +51,76 @@ collections:
     folder: "src/content/categories"
     create: true
     fields:
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "description"
-        widget: "string"
-      - label: "Icon"
-        name: "icon"
-        widget: "string"
-        hint: "Enter Iconify Icon Name eg. 'mdi:user'"
-      - label: "Main Image"
-        name: "image"
-        widget: "image"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - *field-draft
+      - *field-title
+      - *field-description
+      - *field-icon
+      - *field-image
+      - <<: *field-body
         required: false
+
   - name: "collaborations"
     label: "Collaborations"
     label_singular: "Collaboration"
     folder: "src/content/collaborations"
     create: true
     fields:
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "description"
-        widget: "string"
+      - *field-draft
+      - *field-title
+      - <<: *field-description
+        required: false
       - label: "Publish Date"
         name: "pubDate"
         widget: "datetime"
         required: false
-      - label: "Main Image"
-        name: "image"
-        widget: "image"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - <<: *field-image
+        required: false
+      - *field-body
+
   - name: "pages"
     label: "Pages"
     label_singular: "Page"
     folder: "src/content/pages"
     create: true
     fields:
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
+      - *field-draft
       - label: "Menu Title"
         name: "menutitle"
         widget: "string"
         hint: "Short title for side menu"
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "description"
-        widget: "string"
+        required: false
+      - *field-title
+      - <<: *field-description
+        required: false
       - label: "Publish Date"
         name: "pubDate"
         widget: "datetime"
         required: false
-      - label: "Main Image"
-        name: "image"
-        widget: "image"
-      - label: "Icon"
-        name: "icon"
-        widget: "string"
-        hint: "Enter Iconify Icon Name eg. 'mdi:user'"
+      - <<: *field-image
+        required: false
+      - <<: *field-icon
+        required: false
       - label: "Sort Order"
         name: "order"
         widget: "number"
         hint: "Enter sequence that pages should be displayed in a menu"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-  - name: "partner" # Used in routes, e.g., /admin/collections/blog
-    label: "Partners" # Used in the UI
+        required: false
+      - *field-body
+
+  - name: "partner"
+    label: "Partners"
     label_singular: "Partner"
-    folder: "src/content/partner" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    # slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "description"
-        widget: "string"
+    folder: "src/content/partner"
+    create: true
+    fields:
+      - *field-draft
+      - *field-title
+      - *field-description
       - label: "Link"
         name: "link"
         widget: "string"
         required: false
-      - label: "Main Image"
-        name: "image"
-        widget: "image"
+      - *field-image
       - label: "Additional Images"
         name: "images"
         widget: "list"
@@ -138,32 +129,32 @@ collections:
           name: "image"
           widget: "image"
         required: false
-      - label: Categories
-        name: categories
-        widget: relation
-        collection: categories
+      - label: "Categories"
+        name: "categories"
+        widget: "relation"
+        collection: "categories"
         value_field: "{{slug}}"
-        search_fields: [title]
-        display_fields: [title]
+        search_fields: ["title"]
+        display_fields: ["title"]
         multiple: true
         min: 1
         filters:
-          - field: draft
+          - field: "draft"
             values: [false]
       - label: "Cuisine"
         name: "cuisine"
         widget: "list"
         required: false
-      - label: Country/State
-        name: region
-        widget: relation
-        collection: region
+      - label: "Country/State"
+        name: "region"
+        widget: "relation"
+        collection: "region"
         value_field: "{{slug}}"
-        search_fields: [title]
-        display_fields: [title]
+        search_fields: ["title"]
+        display_fields: ["title"]
         multiple: false
         filters:
-          - field: draft
+          - field: "draft"
             values: [false]
         hint: "Select country of state partner is in."
       - label: "Discount %"
@@ -179,52 +170,34 @@ collections:
         name: "comment"
         widget: "string"
         required: false
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - *field-body
+
   - name: "region"
     label: "Countries/States"
     label_singular: "Country/State"
     folder: "src/content/region"
     create: true
     fields:
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "description"
-        widget: "string"
-      - label: Country
-        name: country
-        widget: relation
-        collection: region
+      - *field-draft
+      - *field-title
+      - <<: *field-description
+        required: false
+      - label: "Country"
+        name: "country"
+        widget: "relation"
+        collection: "region"
         value_field: "{{slug}}"
-        search_fields: [title]
-        display_fields: [title]
+        search_fields: ["title"]
+        display_fields: ["title"]
         multiple: false
         required: false
         filters:
-          - field: draft
+          - field: "draft"
             values: [false]
-          - field: country
-            values: [international]
+          - field: "country"
+            values: ["international"]
         hint: "Select 'international' if this is a country. If this is a region or state within a country, then select the country this belongs in."
-      - label: "Geographical Coordinates"
-        name: "geo"
-        widget: "map"
-        required: false
-      - label: "Icon"
-        name: "icon"
-        widget: "string"
-        hint: "Enter Iconify Icon Name eg. 'mdi:user'"
-      - label: "Main Image"
-        name: "image"
-        widget: "image"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - *field-icon
+      - *field-image
+      - <<: *field-body
         required: false
