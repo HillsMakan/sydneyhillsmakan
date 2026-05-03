@@ -12,6 +12,9 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Schema Parity and Data Validation' (Protocol in workflow.md) [30185e1]
 
 ## Phase 3: Media Handling and Editor Experience [checkpoint: e36f319]
-- [x] Task: Verify and update the `media_folder` and `public_folder` settings in `admin/config.yml` to ensure compatibility with Astro's image optimization. [f759f4e]
+- [x] Task: Verify and update the `media_folder` and `public_folder` settings in `admin/config.yml` to ensure compatibility with Astro's image optimization. [1bb26a1]
 - [x] Task: Review widget configurations (e.g., using `markdown` vs `text` widgets appropriately) for optimal editor experience. [1bb26a1]
 - [x] Task: Conductor - User Manual Verification 'Phase 3: Media Handling and Editor Experience' (Protocol in workflow.md) [e36f319]
+
+## Phase: Review Fixes
+- [x] Task: Apply review suggestions
