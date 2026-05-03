@@ -1,9 +1,9 @@
 # Implementation Plan: Refine Geocoding Approach
 
-## Phase 1: Preparation and Environment Setup
+## Phase 1: Preparation and Environment Setup [checkpoint: bbbc8cf]
 - [x] Task: Create a reproduction script `scripts/verify-geocoding.mjs` to identify current missing or incorrect coordinates. [fa246d3]
     - [x] List all partners missing `coordinates` or having `geocoding_failed: true`.
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Preparation and Environment Setup' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Preparation and Environment Setup' (Protocol in workflow.md) [bbbc8cf]
 
 ## Phase 2: Core Refactor & Unit Testing
 - [ ] Task: Create `scripts/geocode.test.ts` to test the logic before implementation.
