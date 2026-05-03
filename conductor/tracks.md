@@ -12,7 +12,3 @@ This file tracks all major tracks for the project. Each track has its own detail
   *Link: [./tracks/refactor_geocoding_20260502/](./tracks/refactor_geocoding_20260502/)*
 - [x] **Track: Implement an interactive map component for displaying partners with dynamic filtering and automatic coordinate population at build time.**
   *Link: [./tracks/partner_map_20260502/](./tracks/partner_map_20260502/)*
----
-
-- [x] **Track: Convert search implementation from Lunr to Pagefind**
-*Link: [./tracks/pagefind_conversion_20260503/](./tracks/pagefind_conversion_20260503/)*
