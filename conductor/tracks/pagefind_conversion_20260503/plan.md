@@ -12,8 +12,8 @@
 - [x] Task: Conductor - User Manual Verification 'Lunr Teardown' (Protocol in workflow.md) [2ace057]
 
 ## Phase 3: Pagefind Integration
-- [ ] Task: Replace existing search UI in `src/components/search.astro` (or relevant component) with Pagefind's default UI component. Include necessary CSS and JS links.
-- [ ] Task: Configure Astro components to include `data-pagefind-body` attributes where necessary to guide the indexer, and `data-pagefind-ignore` to exclude boilerplate.
+- [x] Task: Replace existing search UI in `src/components/search.astro` (or relevant component) with Pagefind's default UI component. Include necessary CSS and JS links. [0ce2dfe]
+- [~] Task: Configure Astro components to include `data-pagefind-body` attributes where necessary to guide the indexer, and `data-pagefind-ignore` to exclude boilerplate.
 - [ ] Task: Conductor - User Manual Verification 'Pagefind Integration' (Protocol in workflow.md)
 
 ## Phase 4: E2E Testing
