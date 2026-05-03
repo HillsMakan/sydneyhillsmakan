@@ -6,10 +6,10 @@
 - [x] Task: Update `package.json` build scripts to execute Pagefind indexing after the Astro build (e.g., `"build": "astro build && pagefind --site dist"`). [80db1a9]
 - [x] Task: Conductor - User Manual Verification 'Dependency Updates & Build Configuration' (Protocol in workflow.md) [e879b9f]
 
-## Phase 2: Lunr Teardown
+## Phase 2: Lunr Teardown [checkpoint: 2ace057]
 - [x] Task: Delete Lunr API endpoints (`src/pages/search-docs.json.js`, `src/pages/search-index.json.js`). [0c59307]
 - [x] Task: Remove any custom utility functions related to Lunr indexing or searching. [3016024]
-- [ ] Task: Conductor - User Manual Verification 'Lunr Teardown' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Lunr Teardown' (Protocol in workflow.md) [2ace057]
 
 ## Phase 3: Pagefind Integration
 - [ ] Task: Replace existing search UI in `src/components/search.astro` (or relevant component) with Pagefind's default UI component. Include necessary CSS and JS links.
