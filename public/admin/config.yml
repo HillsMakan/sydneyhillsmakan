@@ -11,23 +11,30 @@ anchors:
       label: "Title"
       name: "title"
       widget: "string"
+      required: true
     description: &field-description
       label: "Description"
       name: "description"
       widget: "string"
+      required: true
     image: &field-image
       label: "Main Image"
       name: "image"
       widget: "image"
+      required: true
     body: &field-body
       label: "Body"
       name: "body"
       widget: "markdown"
+      required: true
     icon: &field-icon
       label: "Icon"
       name: "icon"
       widget: "string"
       hint: "Enter Iconify Icon Name eg. 'mdi:user'"
+      required: true
+    url_pattern: &pattern-url
+      pattern: ['^https?://.*', "Must be a valid URL starting with http:// or https://"]
 
 backend:
   name: git-gateway
@@ -120,6 +127,7 @@ collections:
         name: "link"
         widget: "string"
         required: false
+        <<: *pattern-url
       - *field-image
       - label: "Additional Images"
         name: "images"
@@ -157,6 +165,11 @@ collections:
           - field: "draft"
             values: [false]
         hint: "Select country of state partner is in."
+        required: true
+      - label: "Address"
+        name: "address"
+        widget: "string"
+        required: false
       - label: "Discount %"
         name: "discount_pct"
         widget: "number"
@@ -179,10 +192,12 @@ collections:
             name: "lat"
             widget: "number"
             value_type: "float"
+            required: true
           - label: "Longitude"
             name: "lng"
             widget: "number"
             value_type: "float"
+            required: true
       - *field-body
 
   - name: "region"
