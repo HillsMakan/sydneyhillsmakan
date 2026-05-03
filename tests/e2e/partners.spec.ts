@@ -80,8 +80,8 @@ test.describe('Partner detail page (11:11 Sweet Lane Cove)', () => {
   })
 
   test('renders a region badge', async ({ page }) => {
-    // Region badge links to a region page
-    const regionBadge = page.locator('a[href*="nsw"]')
+    // Region badge links to a region page, look in main content
+    const regionBadge = page.locator('main').locator('a[href*="nsw"]')
     await expect(regionBadge.first()).toBeVisible()
   })
 

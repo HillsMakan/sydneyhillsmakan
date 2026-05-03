@@ -28,8 +28,8 @@ test.describe('Home page', () => {
     expect(href).toMatch(/linktr\.ee/)
   })
 
-  test('has an "About Us" link', async ({ page }) => {
-    await expect(page.getByRole('link', { name: 'About Us' })).toBeVisible()
+  test('has an "About Us" link in the hero', async ({ page }) => {
+    await expect(page.getByRole('main').getByRole('link', { name: 'About Us' })).toBeVisible()
   })
 
   test('renders the regions section', async ({ page }) => {
