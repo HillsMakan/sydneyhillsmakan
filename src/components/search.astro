@@ -4,42 +4,15 @@ import { Icon } from 'astro-icon/components'
 
 <div id="search-widget">
   <div class="flex justify-center">
-    <div class="w-48">
-      <div class="relative flex w-full items-stretch">
-        <input
-          type="search"
-          id="lunrsearch"
-          name="q"
-          maxlength="255"
-          value=""
-          placeholder="Search"
-          aria-label="Search"
-          aria-describedby="lunrbutton"
-          class="block w-full max-w-xs min-w-0 flex-auto rounded-sm border border-blue-300 bg-white px-3 py-1.5 text-base font-normal text-gray-500 transition ease-in-out focus:border-blue-500 focus:text-gray-700 focus:outline-hidden dark:border-blue-700 dark:bg-gray-900 dark:text-gray-300 dark:focus:border-blue-600 dark:focus:text-gray-100"
-        />
-        <button
-          id="lunrbutton"
-          type="button"
-          name="search"
-          aria-label="Search Button"
-          class="inline-flex items-center rounded-sm bg-blue-600 p-2 text-xs/tight font-medium text-white uppercase shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden active:bg-blue-800 active:shadow-lg"
-        >
-          <svg
-            aria-hidden="true"
-            focusable="false"
-            class="size-4"
-            role="img"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 512 512"
-          >
-            <path
-              fill="currentColor"
-              d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"
-            ></path>
-          </svg>
-        </button>
-      </div>
-    </div>
+    <button
+      id="search-open"
+      type="button"
+      class="inline-flex items-center rounded-sm bg-blue-600 p-2 text-xs/tight font-medium text-white uppercase shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden active:bg-blue-800 active:shadow-lg"
+      aria-label="Open Search"
+    >
+      <Icon class="size-4 mr-2" name="mdi:magnify" />
+      Search
+    </button>
   </div>
 
   <!-- Search results panel -->
@@ -47,7 +20,6 @@ import { Icon } from 'astro-icon/components'
     id="search-panel"
     hidden
     class="relative z-50"
-    aria-labelledby="lunrsearchtitle"
     role="dialog"
     aria-modal="true"
   >
@@ -83,19 +55,13 @@ import { Icon } from 'astro-icon/components'
             >
               <div class="px-4 sm:px-6">
                 <h2
-                  id="lunrsearchtitle"
                   class="text-lg font-medium text-gray-900 dark:text-gray-100"
                 >
-                  Search results
+                  Search
                 </h2>
               </div>
-              <div id="lunrsearchmodal" class="relative mt-6 flex-1 px-4 sm:px-6">
-                <div
-                  id="lunrsearchresults"
-                  class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black/5"
-                >
-                  <ul></ul>
-                </div>
+              <div class="relative mt-6 flex-1 px-4 sm:px-6">
+                <div id="search"></div>
               </div>
             </div>
           </div>
@@ -105,52 +71,15 @@ import { Icon } from 'astro-icon/components'
   </div>
 </div>
 
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+
 <script>
-  import lunr from 'lunr'
-
-  const BASE_URL = import.meta.env.BASE_URL
-
-  let idx: ReturnType<(typeof lunr.Index)['load']> | undefined
-  let docs: Array<{ url: string; title: string; description: string }> | undefined
-
-  async function lunrSearch(term: string) {
-    if (!docs) {
-      const res = await fetch(BASE_URL + 'search-docs.json')
-      docs = await res.json()
-    }
-    if (!idx) {
-      const res = await fetch(BASE_URL + 'search-index.json')
-      const data = await res.json()
-      idx = lunr.Index.load(data)
-    }
-
-    const resultsEl = document.querySelector('#lunrsearchresults')
-    const titleEl = document.querySelector('#lunrsearchtitle')
-    if (!resultsEl) return
-
-    resultsEl.innerHTML =
-      '<ul class="relative grid gap-6 bg-white dark:bg-gray-700 dark:text-gray-100 px-5 py-6 sm:gap-8 sm:p-8"></ul>'
-
-    if (!term) return
-
-    if (titleEl) titleEl.textContent = `Search results for '${term}'`
-
-    const results = idx!.search(term)
-    const list = resultsEl.querySelector('ul')!
-    if (results.length > 0) {
-      for (const result of results) {
-        const doc = docs!.find((d) => d.url === result.ref)
-        if (!doc) continue
-        const li = document.createElement('li')
-        li.className =
-          '-m-3 p-3 flex items-start rounded-lg hover:bg-blue-200 dark:hover:bg-blue-900'
-        li.innerHTML = `<a href="${doc.url}"><p class="text-base font-medium text-gray-900 dark:text-gray-100">${doc.title}</p><p class="mt-1 text-sm text-gray-500 dark:text-gray-400">${doc.description}</p></a>`
-        list.append(li)
-      }
-    } else {
-      list.textContent = 'No results found...'
-    }
-  }
+  // @ts-ignore
+  window.addEventListener('DOMContentLoaded', (event) => {
+    // @ts-ignore
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
 
   function openPanel() {
     const panel = document.querySelector<HTMLElement>('#search-panel')
@@ -186,18 +115,24 @@ import { Icon } from 'astro-icon/components'
     )
   }
 
-  document.querySelector('#lunrbutton')?.addEventListener('click', async () => {
-    const searchText = (document.querySelector('#lunrsearch') as HTMLInputElement)?.value || ''
-    await lunrSearch(searchText)
-    openPanel()
-  })
-
+  document.querySelector('#search-open')?.addEventListener('click', openPanel)
   document.querySelector('#search-close')?.addEventListener('click', closePanel)
-
-  document.querySelector('#lunrsearch')?.addEventListener('keypress', (e) => {
-    if ((e as KeyboardEvent).key === 'Enter') {
-      e.preventDefault()
-      document.querySelector<HTMLElement>('#lunrbutton')?.click()
-    }
-  })
 </script>
+
+<style is:global>
+  :root {
+    --pagefind-ui-primary: #2563eb;
+    --pagefind-ui-text: #111827;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #d1d5db;
+    --pagefind-ui-tag: #f3f4f6;
+  }
+
+  .dark {
+    --pagefind-ui-primary: #3b82f6;
+    --pagefind-ui-text: #f9fafb;
+    --pagefind-ui-background: #1f2937;
+    --pagefind-ui-border: #374151;
+    --pagefind-ui-tag: #374151;
+  }
+</style>
