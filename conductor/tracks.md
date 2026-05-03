@@ -13,6 +13,3 @@ This file tracks all major tracks for the project. Each track has its own detail
 - [x] **Track: Implement an interactive map component for displaying partners with dynamic filtering and automatic coordinate population at build time.**
   *Link: [./tracks/partner_map_20260502/](./tracks/partner_map_20260502/)*
 ---
-
-- [x] **Track: review Decap CMS implementation and ensure it matches recent changes and aligned to best practices**
-*Link: [./tracks/decap_cms_review_20260503/](./tracks/decap_cms_review_20260503/)*
