@@ -11,7 +11,7 @@
 - [x] Task: Update configurations for `region`, `categories`, `collaborations`, and `pages` collections to ensure 100% parity with `src/content.config.ts`. [8d4e420]
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Schema Parity and Data Validation' (Protocol in workflow.md) [30185e1]
 
-## Phase 3: Media Handling and Editor Experience
-- [ ] Task: Verify and update the `media_folder` and `public_folder` settings in `admin/config.yml` to ensure compatibility with Astro's image optimization.
-- [ ] Task: Review widget configurations (e.g., using `markdown` vs `text` widgets appropriately) for optimal editor experience.
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Media Handling and Editor Experience' (Protocol in workflow.md)
+## Phase 3: Media Handling and Editor Experience [checkpoint: e36f319]
+- [x] Task: Verify and update the `media_folder` and `public_folder` settings in `admin/config.yml` to ensure compatibility with Astro's image optimization. [f759f4e]
+- [x] Task: Review widget configurations (e.g., using `markdown` vs `text` widgets appropriately) for optimal editor experience. [1bb26a1]
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Media Handling and Editor Experience' (Protocol in workflow.md) [e36f319]
