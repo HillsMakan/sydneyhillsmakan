@@ -10,13 +10,13 @@
     - [x] Mock Nominatim API responses.
     - [x] Test address simplification steps.
     - [x] Test regional capital fallback logic.
-- [ ] Task: Refactor `scripts/geocode.mjs` core logic.
-    - [ ] Implement iterative address simplification (regex/string manipulation).
-    - [ ] Implement `isCoordInRegion` using rough bounding boxes for regions defined in `scripts/geocode.mjs`.
-    - [ ] Implement step-by-step strategy: (1) Address -> (2) Simplified Address -> (3) Name/Title -> (4) Regional Capital.
-- [ ] Task: Update the main execution loop in `scripts/geocode.mjs`.
-    - [ ] Ensure it only processes files missing `coordinates`.
-    - [ ] Remove `geocoding_failed` flags upon successful update.
+- [x] Task: Refactor `scripts/geocode.mjs` core logic. [aadf667]
+    - [x] Implement iterative address simplification (regex/string manipulation).
+    - [x] Implement `isCoordInRegion` using rough bounding boxes for regions defined in `scripts/geocode.mjs`.
+    - [x] Implement step-by-step strategy: (1) Address -> (2) Simplified Address -> (3) Name/Title -> (4) Regional Capital.
+- [x] Task: Update the main execution loop in `scripts/geocode.mjs`. [aadf667]
+    - [x] Ensure it only processes files missing `coordinates`.
+    - [x] Remove `geocoding_failed` flags upon successful update.
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Core Refactor & Unit Testing' (Protocol in workflow.md)
 
 ## Phase 3: Global Execution & Cleanup
