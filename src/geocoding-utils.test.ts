@@ -27,7 +27,7 @@ describe('geocode', () => {
     })
 
     const result = await geocode('New South Wales', 'nsw', true)
-    expect(result).toBeNull()
+    expect(result).toBeUndefined()
   })
 })
 

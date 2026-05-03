@@ -11,6 +11,18 @@ importers:
       '@astrojs/sitemap':
         specifier: ^3.7.2
         version: 3.7.2
+      '@iconify-json/mdi':
+        specifier: ^1.2.3
+        version: 1.2.3
+      '@iconify-json/noto':
+        specifier: ^1.2.7
+        version: 1.2.7
+      '@iconify-json/ph':
+        specifier: ^1.2.2
+        version: 1.2.2
+      '@iconify-json/twemoji':
+        specifier: ^1.2.5
+        version: 1.2.5
       astro:
         specifier: ^6.2.1
         version: 6.2.1(@types/node@25.6.0)(jiti@2.6.1)(lightningcss@1.32.0)(rollup@4.60.2)(typescript@6.0.3)(yaml@2.8.3)
@@ -23,6 +35,9 @@ importers:
       astro-seo:
         specifier: ^1.1.0
         version: 1.1.0(prettier-plugin-astro@0.14.1)(prettier@3.8.3)(typescript@6.0.3)
+      leaflet:
+        specifier: ^1.9.4
+        version: 1.9.4
       pagefind:
         specifier: ^1.5.2
         version: 1.5.2
@@ -48,18 +63,6 @@ importers:
       '@eslint/markdown':
         specifier: ^8.0.1
         version: 8.0.1
-      '@iconify-json/mdi':
-        specifier: ^1.2.3
-        version: 1.2.3
-      '@iconify-json/noto':
-        specifier: ^1.2.7
-        version: 1.2.7
-      '@iconify-json/ph':
-        specifier: ^1.2.2
-        version: 1.2.2
-      '@iconify-json/twemoji':
-        specifier: ^1.2.5
-        version: 1.2.5
       '@playwright/test':
         specifier: ^1.59.1
         version: 1.59.1
@@ -105,9 +108,6 @@ importers:
       globals:
         specifier: ^17.6.0
         version: 17.6.0
-      leaflet:
-        specifier: ^1.9.4
-        version: 1.9.4
       prettier:
         specifier: ^3.8.3
         version: 3.8.3

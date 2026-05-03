@@ -26,7 +26,10 @@ const { frontmatter } = Astro.props
     <link rel="manifest" href={`${import.meta.env.BASE_URL}site.webmanifest`} />
     <link rel="sitemap" href={`${import.meta.env.BASE_URL}sitemap-index.xml`} />
     <link href={`${import.meta.env.BASE_URL}pagefind/pagefind-component-ui.css`} rel="stylesheet" />
-    <script src={`${import.meta.env.BASE_URL}pagefind/pagefind-component-ui.js`} type="module"></script>
+    <script
+      is:inline
+      src={`${import.meta.env.BASE_URL}pagefind/pagefind-component-ui.js`}
+      type="module"></script>
     <SEO frontmatter={frontmatter} />
     <meta name="generator" content={Astro.generator} />
     <script>

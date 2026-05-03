@@ -183,7 +183,7 @@ export const COUNTRY_CODES: Record<string, string> = {
  * Geocodes a query using Nominatim.
  */
 export async function geocode(query: string, regionId: string, strict = false) {
-  if (!query || query.length < 3) return null
+  if (!query || query.length < 3) return
 
   const cc = COUNTRY_CODES[regionId] || ''
   const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}${cc ? `&countrycodes=${cc}` : ''}&addressdetails=1`
@@ -195,7 +195,7 @@ export async function geocode(query: string, regionId: string, strict = false) {
       }
     })
 
-    if (!response.ok) return null
+    if (!response.ok) return
 
     const data = await response.json()
     if (data && data.length > 0) {
@@ -205,7 +205,7 @@ export async function geocode(query: string, regionId: string, strict = false) {
         const isGeneric =
           ['country', 'state', 'province', 'region', 'administrative'].includes(bestMatch.type) ||
           ['boundary', 'place'].includes(bestMatch.class)
-        if (isGeneric) return null
+        if (isGeneric) return
       }
 
       return {
@@ -216,5 +216,5 @@ export async function geocode(query: string, regionId: string, strict = false) {
   } catch (error) {
     console.error(`Error geocoding ${query}:`, error)
   }
-  return null
+  return
 }

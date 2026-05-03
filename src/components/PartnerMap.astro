@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content'
 
+const baseUrl = import.meta.env.BASE_URL
 const allPartners = await getCollection('partner', (p) => !p.data.draft)
 const allRegions = await getCollection('region', (r) => !r.data.draft)
 
@@ -21,8 +22,8 @@ const mapPartners = allPartners
       cuisine: p.data.cuisine || [],
       region: regionId,
       regionName: region?.data.title || regionId,
-      country: region?.data.country?.id || null,
-      link: `/partner/${p.id}/`
+      country: region?.data.country?.id,
+      link: `${baseUrl}partner/${p.id}/`
     }
   })
 
@@ -30,78 +31,67 @@ const activeCategoryIds = new Set(mapPartners.flatMap((p) => p.categories))
 const allCategories = await getCollection('categories')
 const categories = allCategories
   .filter((c) => activeCategoryIds.has(c.id))
-  .sort((a, b) => a.data.title.localeCompare(b.data.title))
+  .toSorted((a, b) => a.data.title.localeCompare(b.data.title))
 
 const activeRegionIds = new Set(mapPartners.map((p) => p.region))
 // Also include countries that have active regions
-const activeCountryIds = new Set(
-  mapPartners.filter((p) => p.country).map((p) => p.country as string)
-)
+const activeCountryIds = new Set(mapPartners.flatMap((p) => (p.country ? [p.country] : [])))
 
 const regions = allRegions
   .filter((r) => activeRegionIds.has(r.id) || activeCountryIds.has(r.id))
-  .sort((a, b) => a.data.title.localeCompare(b.data.title))
+  .toSorted((a, b) => a.data.title.localeCompare(b.data.title))
 
-const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
+const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].toSorted()
+const filterSelectClass =
+  'min-h-10 w-full rounded-md border-gray-300 text-sm shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:border-gray-700 dark:bg-gray-800 dark:text-white'
 ---
 
-<div class="mb-6 grid grid-cols-1 items-end gap-4 sm:grid-cols-2 lg:grid-cols-4">
-  <div>
-    <label
-      for="filter-region"
-      class="mb-1 block text-sm font-medium text-gray-700 dark:text-gray-300"
-      >Region / Country</label
-    >
-    <select
-      id="filter-region"
-      class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm dark:border-gray-700 dark:bg-gray-800 dark:text-white"
-    >
-      <option value="">All Regions</option>
-      {regions.map((r) => <option value={r.id}>{r.data.title}</option>)}
-    </select>
+<section data-partner-map-root data-partners={JSON.stringify(mapPartners)}>
+  <div class="mb-4 grid grid-cols-1 items-end gap-3 sm:mb-6 sm:grid-cols-2 sm:gap-4 xl:grid-cols-4">
+    <div>
+      <label class="mb-1 block text-sm font-medium text-gray-700 dark:text-gray-300">
+        Region / Country
+        <select data-filter-region class={filterSelectClass}>
+          <option value="">All Regions</option>
+          {regions.map((r) => <option value={r.id}>{r.data.title}</option>)}
+        </select>
+      </label>
+    </div>
+    <div>
+      <label class="mb-1 block text-sm font-medium text-gray-700 dark:text-gray-300">
+        Category
+        <select data-filter-category class={filterSelectClass}>
+          <option value="">All Categories</option>
+          {categories.map((c) => <option value={c.id}>{c.data.title}</option>)}
+        </select>
+      </label>
+    </div>
+    <div>
+      <label class="mb-1 block text-sm font-medium text-gray-700 dark:text-gray-300">
+        Cuisine
+        <select data-filter-cuisine class={filterSelectClass}>
+          <option value="">All Cuisines</option>
+          {cuisines.map((c) => <option value={c}>{c}</option>)}
+        </select>
+      </label>
+    </div>
+    <div>
+      <button
+        data-reset-map
+        type="button"
+        class="min-h-10 w-full rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-blue-700"
+      >
+        Reset Map
+      </button>
+    </div>
   </div>
-  <div>
-    <label
-      for="filter-category"
-      class="mb-1 block text-sm font-medium text-gray-700 dark:text-gray-300">Category</label
-    >
-    <select
-      id="filter-category"
-      class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm dark:border-gray-700 dark:bg-gray-800 dark:text-white"
-    >
-      <option value="">All Categories</option>
-      {categories.map((c) => <option value={c.id}>{c.data.title}</option>)}
-    </select>
-  </div>
-  <div>
-    <label
-      for="filter-cuisine"
-      class="mb-1 block text-sm font-medium text-gray-700 dark:text-gray-300">Cuisine</label
-    >
-    <select
-      id="filter-cuisine"
-      class="w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm dark:border-gray-700 dark:bg-gray-800 dark:text-white"
-    >
-      <option value="">All Cuisines</option>
-      {cuisines.map((c) => <option value={c}>{c}</option>)}
-    </select>
-  </div>
-  <div>
-    <button
-      id="reset-map"
-      class="w-full rounded-md bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-blue-700"
-    >
-      Reset Map
-    </button>
-  </div>
-</div>
 
-<div
-  id="partner-map"
-  class="z-0 h-[400px] w-full rounded-lg shadow-md md:h-[600px]"
-  data-partners={JSON.stringify(mapPartners)}
->
-</div>
+  <div
+    data-map-canvas
+    class="z-0 h-[clamp(16rem,42vh,20rem)] w-full max-w-full rounded-lg shadow-md sm:h-[clamp(18rem,46vh,24rem)] lg:h-[clamp(22rem,52vh,32rem)] 2xl:h-[clamp(26rem,60vh,40rem)]"
+  >
+  </div>
+</section>
 
 <style>
   /* Ensure Leaflet popups are readable in dark mode */
@@ -120,11 +110,107 @@ const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
   import iconRetinaUrl from 'leaflet/dist/images/marker-icon-2x.png?url'
   import shadowUrl from 'leaflet/dist/images/marker-shadow.png?url'
 
+  type AssetUrl = string | { src: string }
+
+  type MapPartner = {
+    title: string
+    description: string
+    regionName: string
+    coordinates: { lat: number; lng: number }
+    categories: string[]
+    cuisine: string[]
+    region: string
+    country?: string
+    link: string
+  }
+
+  type RenderMarkersOptions = {
+    filteredPartners: MapPartner[]
+    markerGroup: L.LayerGroup
+    map: L.Map
+  }
+
+  const escapeHtml = (value: string) =>
+    value
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;')
+
+  const isMapPartner = (value: unknown): value is MapPartner => {
+    if (!value || typeof value !== 'object') {
+      return false
+    }
+
+    const record = value as Partial<MapPartner>
+    return (
+      typeof record.title === 'string' &&
+      typeof record.description === 'string' &&
+      typeof record.regionName === 'string' &&
+      typeof record.region === 'string' &&
+      typeof record.link === 'string' &&
+      Array.isArray(record.categories) &&
+      Array.isArray(record.cuisine) &&
+      !!record.coordinates &&
+      typeof record.coordinates.lat === 'number' &&
+      typeof record.coordinates.lng === 'number'
+    )
+  }
+
+  const getAssetUrl = (asset: AssetUrl) => (typeof asset === 'string' ? asset : asset.src)
+
+  const jitterCoordinate = () => (Math.random() - 0.5) * 0.005
+
+  function renderMarkers({ filteredPartners, markerGroup, map }: RenderMarkersOptions) {
+    markerGroup.clearLayers()
+    const boundsArr: L.LatLngExpression[] = []
+    const seenCoords = new Set<string>()
+
+    for (const partner of filteredPartners) {
+      let lat = partner.coordinates.lat
+      let lng = partner.coordinates.lng
+
+      // Jitter if identical to another marker to avoid overlapping
+      const coordKey = `${lat.toFixed(4)},${lng.toFixed(4)}`
+      if (seenCoords.has(coordKey)) {
+        lat += jitterCoordinate()
+        lng += jitterCoordinate()
+      }
+      seenCoords.add(`${lat.toFixed(4)},${lng.toFixed(4)}`)
+
+      const safeTitle = escapeHtml(partner.title)
+      const safeRegionName = escapeHtml(partner.regionName)
+      const safeDescription = escapeHtml(partner.description)
+
+      const marker = L.marker([lat, lng]).bindPopup(
+        `
+        <div class="p-1 min-w-[180px]">
+          <h3 class="mb-1 text-base font-bold text-gray-900">${safeTitle}</h3>
+          <p class="mb-1 text-[10px] font-bold uppercase tracking-wider text-blue-600">${safeRegionName}</p>
+          <p class="mb-2 text-xs leading-tight text-gray-600">${safeDescription}</p>
+          <a href="${partner.link}" class="inline-block rounded bg-blue-50 px-2 py-1 text-[10px] font-bold uppercase text-blue-700 transition-colors hover:bg-blue-100">View Details -></a>
+        </div>
+      `,
+        {
+          maxWidth: 250
+        }
+      )
+      markerGroup.addLayer(marker)
+      boundsArr.push([lat, lng])
+    }
+
+    if (boundsArr.length > 0) {
+      const bounds = L.latLngBounds(boundsArr)
+      map.fitBounds(bounds, { padding: [50, 50], maxZoom: 15 })
+    }
+  }
+
   // Fix Leaflet default icon paths for Vite
   const DefaultIcon = L.icon({
-    iconUrl: typeof iconUrl === 'string' ? iconUrl : (iconUrl as any).src,
-    iconRetinaUrl: typeof iconRetinaUrl === 'string' ? iconRetinaUrl : (iconRetinaUrl as any).src,
-    shadowUrl: typeof shadowUrl === 'string' ? shadowUrl : (shadowUrl as any).src,
+    iconUrl: getAssetUrl(iconUrl),
+    iconRetinaUrl: getAssetUrl(iconRetinaUrl),
+    shadowUrl: getAssetUrl(shadowUrl),
     iconSize: [25, 41],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],
@@ -132,12 +218,27 @@ const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
   })
   L.Marker.prototype.options.icon = DefaultIcon
 
-  const mapElement = document.querySelector('#partner-map')
-  if (mapElement) {
-    const partners = JSON.parse(mapElement.dataset.partners || '[]')
-    console.log(`Loaded ${partners.length} partners for the map`)
+  const mapRoots = document.querySelectorAll<HTMLElement>('[data-partner-map-root]')
+  for (const root of mapRoots) {
+    const mapElement = root.querySelector<HTMLDivElement>('[data-map-canvas]')
+    if (!mapElement) {
+      continue
+    }
 
-    const map = L.map('partner-map', {
+    const partnerData = root.dataset.partners
+    let partners: MapPartner[] = []
+
+    try {
+      const parsed = JSON.parse(partnerData || '[]') as unknown
+      if (Array.isArray(parsed)) {
+        partners = parsed.filter(isMapPartner)
+      }
+    } catch {
+      partners = []
+    }
+
+    // eslint-disable-next-line unicorn/no-array-callback-reference, unicorn/no-array-method-this-argument
+    const map = L.map(mapElement, {
       scrollWheelZoom: false
     }).setView([-33.8688, 151.2093], 12)
 
@@ -149,93 +250,55 @@ const cuisines = [...new Set(mapPartners.flatMap((p) => p.cuisine))].sort()
 
     const markerGroup = L.layerGroup().addTo(map)
 
-    const regionFilter = document.querySelector('#filter-region') as HTMLSelectElement
-    const categoryFilter = document.querySelector('#filter-category') as HTMLSelectElement
-    const cuisineFilter = document.querySelector('#filter-cuisine') as HTMLSelectElement
-
-    // Helper to jitter overlapping coordinates
-    const jitter = () => (Math.random() - 0.5) * 0.005
-
-    function renderMarkers(filteredPartners: any[]) {
-      markerGroup.clearLayers()
-      const boundsArr: L.LatLngExpression[] = []
-      const seenCoords = new Set<string>()
-
-      for (const partner of filteredPartners) {
-        if (partner.coordinates) {
-          let lat = partner.coordinates.lat
-          let lng = partner.coordinates.lng
-
-          // Jitter if identical to another marker to avoid overlapping
-          const coordKey = `${lat.toFixed(4)},${lng.toFixed(4)}`
-          if (seenCoords.has(coordKey)) {
-            lat += jitter()
-            lng += jitter()
-          }
-          seenCoords.add(`${lat.toFixed(4)},${lng.toFixed(4)}`)
-
-          const marker = L.marker([lat, lng]).bindPopup(
-            `
-            <div class="p-1 min-w-[180px]">
-              <h3 class="font-bold text-base mb-1 text-gray-900">${partner.title}</h3>
-              <p class="text-[10px] font-bold text-blue-600 uppercase tracking-wider mb-1">${partner.regionName}</p>
-              <p class="text-xs text-gray-600 mb-2 leading-tight">${partner.description}</p>
-              <a href="${partner.link}" class="inline-block bg-blue-50 text-blue-700 hover:bg-blue-100 px-2 py-1 rounded text-[10px] font-bold uppercase transition-colors">View Details →</a>
-            </div>
-          `,
-            {
-              maxWidth: 250
-            }
-          )
-          markerGroup.addLayer(marker)
-          boundsArr.push([lat, lng])
-        }
-      }
-
-      if (boundsArr.length > 0) {
-        const bounds = L.latLngBounds(boundsArr)
-        map.fitBounds(bounds, { padding: [50, 50], maxZoom: 15 })
-      }
-    }
-
-    function updateMarkers() {
-      const selectedRegion = regionFilter.value
-      const selectedCategory = categoryFilter.value
-      const selectedCuisine = cuisineFilter.value
-
-      const filteredPartners = partners.filter((p: any) => {
-        const matchesRegion =
-          !selectedRegion || p.region === selectedRegion || p.country === selectedRegion
-        const matchesCategory = !selectedCategory || p.categories.includes(selectedCategory)
-        const matchesCuisine = !selectedCuisine || p.cuisine.includes(selectedCuisine)
-        return matchesRegion && matchesCategory && matchesCuisine
-      })
-
-      console.log(
-        `Filtering: region=${selectedRegion}, category=${selectedCategory}, cuisine=${selectedCuisine} -> Found ${filteredPartners.length} matches`
-      )
-      renderMarkers(filteredPartners)
-    }
+    const regionFilter = root.querySelector<HTMLSelectElement>('[data-filter-region]')
+    const categoryFilter = root.querySelector<HTMLSelectElement>('[data-filter-category]')
+    const cuisineFilter = root.querySelector<HTMLSelectElement>('[data-filter-cuisine]')
 
     // Initial render
-    renderMarkers(partners)
+    renderMarkers({ filteredPartners: partners, markerGroup, map })
 
     // Force Leaflet to recalculate container size
     setTimeout(() => {
       map.invalidateSize()
     }, 200)
-    for (const el of [regionFilter, categoryFilter, cuisineFilter]) {
-      el?.addEventListener('change', updateMarkers)
-    }
 
-    const resetBtn = document.querySelector('#reset-map')
-    resetBtn?.addEventListener('click', () => {
-      regionFilter.value = ''
-      categoryFilter.value = ''
-      cuisineFilter.value = ''
-      updateMarkers()
+    const resizeObserver = new ResizeObserver(() => {
+      map.invalidateSize()
     })
+    resizeObserver.observe(mapElement)
 
-    console.log('Map initialized with markers and filtering')
+    if (regionFilter && categoryFilter && cuisineFilter) {
+      const regionSelect = regionFilter
+      const categorySelect = categoryFilter
+      const cuisineSelect = cuisineFilter
+
+      function updateMarkers() {
+        const selectedRegion = regionSelect.value
+        const selectedCategory = categorySelect.value
+        const selectedCuisine = cuisineSelect.value
+
+        const filteredPartners = partners.filter((p) => {
+          const matchesRegion =
+            !selectedRegion || p.region === selectedRegion || p.country === selectedRegion
+          const matchesCategory = !selectedCategory || p.categories.includes(selectedCategory)
+          const matchesCuisine = !selectedCuisine || p.cuisine.includes(selectedCuisine)
+          return matchesRegion && matchesCategory && matchesCuisine
+        })
+
+        renderMarkers({ filteredPartners, markerGroup, map })
+      }
+
+      for (const el of [regionSelect, categorySelect, cuisineSelect]) {
+        el.addEventListener('change', updateMarkers)
+      }
+
+      const resetBtn = root.querySelector<HTMLButtonElement>('[data-reset-map]')
+      resetBtn?.addEventListener('click', () => {
+        regionSelect.value = ''
+        categorySelect.value = ''
+        cuisineSelect.value = ''
+        updateMarkers()
+      })
+    }
   }
 </script>
