@@ -14,5 +14,5 @@ This file tracks all major tracks for the project. Each track has its own detail
   *Link: [./tracks/partner_map_20260502/](./tracks/partner_map_20260502/)*
 ---
 
-- [~] **Track: revisit the geocoding with a new approach which I will specify.**
+- [x] **Track: revisit the geocoding with a new approach which I will specify.**
 *Link: [./tracks/refine_geocoding_20260503/](./tracks/refine_geocoding_20260503/)*
