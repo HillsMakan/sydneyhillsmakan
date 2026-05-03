@@ -10,7 +10,7 @@
 - **Tailwind CSS v4:** Utility-first CSS framework for modern, responsive designs.
 
 ## Search
-- **Lunr:** Local full-text search engine for fast discovery across content collections.
+- **Pagefind:** Highly performant, static-site search engine with post-build indexing.
 
 ## Interactivity
 - **Leaflet:** Lightweight, open-source library for interactive maps and marker visualization.
