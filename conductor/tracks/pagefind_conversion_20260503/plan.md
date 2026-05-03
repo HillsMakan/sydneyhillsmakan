@@ -8,7 +8,7 @@
 
 ## Phase 2: Lunr Teardown
 - [x] Task: Delete Lunr API endpoints (`src/pages/search-docs.json.js`, `src/pages/search-index.json.js`). [0c59307]
-- [ ] Task: Remove any custom utility functions related to Lunr indexing or searching.
+- [x] Task: Remove any custom utility functions related to Lunr indexing or searching. [3016024]
 - [ ] Task: Conductor - User Manual Verification 'Lunr Teardown' (Protocol in workflow.md)
 
 ## Phase 3: Pagefind Integration
