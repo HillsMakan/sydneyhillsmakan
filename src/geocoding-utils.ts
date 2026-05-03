@@ -22,6 +22,7 @@ export const REGION_NAMES: Record<string, string> = {
   united_kingdom: 'United Kingdom',
   victoria: 'Victoria, Australia',
   wa: 'Western Australia, Australia',
+  international: 'International',
 };
 
 /**
@@ -48,6 +49,7 @@ export const REGIONAL_CAPITALS: Record<string, string> = {
   united_kingdom: 'London, United Kingdom',
   victoria: 'Melbourne, Victoria, Australia',
   wa: 'Perth, Western Australia, Australia',
+  international: 'Sydney, Australia',
 };
 
 /**
@@ -74,6 +76,7 @@ export const REGION_BOUNDS: Record<string, [number, number, number, number]> = {
   kyoto: [34.7, 35.8, 134.8, 136.0],
   new_zealand: [-47.5, -34.0, 166.0, 179.0],
   united_kingdom: [49.8, 60.9, -8.7, 1.8],
+  international: [-90, 90, -180, 180],
 };
 
 /**
