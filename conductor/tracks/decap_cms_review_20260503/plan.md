@@ -1,9 +1,9 @@
 # Implementation Plan: Decap CMS Implementation Review & Alignment
 
-## Phase 1: Analysis and Structural Refactoring
-- [ ] Task: Analyze `src/content.config.ts` and document all required schema fields for each collection.
-- [ ] Task: Refactor `public/admin/config.yml` to utilize YAML anchors/aliases for repeated field definitions (e.g., common SEO fields or draft flags) to improve maintainability.
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Analysis and Structural Refactoring' (Protocol in workflow.md)
+## Phase 1: Analysis and Structural Refactoring [checkpoint: 9738e93]
+- [x] Task: Analyze `src/content.config.ts` and document all required schema fields for each collection. [ebafe17]
+- [x] Task: Refactor `public/admin/config.yml` to utilize YAML anchors/aliases for repeated field definitions (e.g., common SEO fields or draft flags) to improve maintainability. [5888b35]
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Analysis and Structural Refactoring' (Protocol in workflow.md) [9738e93]
 
 ## Phase 2: Schema Parity and Data Validation
 - [ ] Task: Update the `partner` collection configuration in `admin/config.yml` to include the `coordinates` object (with `lat` and `lng` number widgets).
