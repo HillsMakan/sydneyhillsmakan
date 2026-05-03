@@ -41,7 +41,7 @@ const categories = await getEntries(uniquecats)
 ---
 
 <Layout frontmatter={region.data}>
-  <main class="h-auto p-4 pt-20 md:ml-64">
+  <main data-pagefind-body class="h-auto p-4 pt-20 md:ml-64">
     <Breadcrumb
       links={[
         { title: country.data.title, link: '/' + country.id },

@@ -13,7 +13,10 @@ const { frontmatter, breadcrumbs } = Astro.props
 ---
 
 <Base {frontmatter}>
-  <main class="bg-white pt-20 pb-16 antialiased md:ml-64 lg:pb-24 dark:bg-gray-900">
+  <main
+    data-pagefind-body
+    class="bg-white pt-20 pb-16 antialiased md:ml-64 lg:pb-24 dark:bg-gray-900"
+  >
     <div class="mx-auto flex max-w-(--breakpoint-xl) justify-between px-4">
       {breadcrumbs && <Breadcrumb links={breadcrumbs} />}
     </div>
