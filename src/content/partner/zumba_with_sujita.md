@@ -24,7 +24,7 @@ categories:
 region: nsw
 discount_pct: 16
 discount_text: ''
-address: "North Kellyville Public School Hall, 120 Hezlett Rd, North Kellyville, 2155, NSW"
+address: 'North Kellyville Public School Hall, 120 Hezlett Rd, North Kellyville, 2155, NSW'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

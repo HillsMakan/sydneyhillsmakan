@@ -11,7 +11,7 @@ discount_pct: 20
 discount_text: 10% Discount for Repairs ● 20% Discount Accessories case ●
   Excluding specials & gift card.
 comment: ''
-address: "Glenquarie Town Centre, Shop 21 (Opposite Target), 14 Brooks St, Macquarie Fields, 2564, New South Wales, Australia"
+address: 'Glenquarie Town Centre, Shop 21 (Opposite Target), 14 Brooks St, Macquarie Fields, 2564, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

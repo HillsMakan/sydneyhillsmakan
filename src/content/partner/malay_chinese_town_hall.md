@@ -29,7 +29,7 @@ cuisine:
 region: nsw
 discount_pct: 0
 discount_text: Excluding promotions
-address: "Shop 1, 267 Sussex St, Sydney, 2000, NSW"
+address: 'Shop 1, 267 Sussex St, Sydney, 2000, NSW'
 coordinates:
   lat: -33.8735044
   lng: 151.2039311

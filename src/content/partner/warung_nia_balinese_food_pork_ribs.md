@@ -45,7 +45,7 @@ cuisine:
 region: bali
 discount_pct: 15
 discount_text: Food Only
-address: "Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia"
+address: 'Kayu Aya Square, Jl. Kayu Aya No.19-21, Seminyak, Kec. Kuta Utara, Bali, 80361, Indonesia'
 coordinates:
   lat: -8.2271303
   lng: 115.1919203

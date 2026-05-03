@@ -9,7 +9,9 @@ categories:
   - professionals
 region: international
 discount_pct: 5
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Hire chauffeur services and luxury airport transfers in Sydney, fleet of Tesla cars (2022 Tesla Model 3 and the latest Model Y) \

@@ -9,7 +9,7 @@ cuisine:
   - Halal
 region: nsw
 discount_pct: 5
-address: "North Kellyville Square, 46 Withers Rd, North Kellyville, 2155, New South Wales, Australia"
+address: 'North Kellyville Square, 46 Withers Rd, North Kellyville, 2155, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

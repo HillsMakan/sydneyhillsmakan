@@ -51,7 +51,7 @@ cuisine:
 region: victoria
 discount_pct: 10
 discount_text: Excluding specials
-address: "87-89 Riversdale Rd, Hawthorn, 3122, VIC, Australia"
+address: '87-89 Riversdale Rd, Hawthorn, 3122, VIC, Australia'
 coordinates:
   lat: -37.8285461
   lng: 145.0338606

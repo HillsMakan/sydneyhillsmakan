@@ -9,7 +9,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: During weekdays 11 am – 3.30 pm only
-address: "Shop 2, 43 North Parade, Campsie, 2194, New South Wales, Australia"
+address: 'Shop 2, 43 North Parade, Campsie, 2194, New South Wales, Australia'
 coordinates:
   lat: -33.9094859
   lng: 151.1070805

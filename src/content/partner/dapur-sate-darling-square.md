@@ -25,7 +25,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
-address: "The Exchange, Shop 4, 1 Little Pier St, Haymarket, 2000, NSW, Australia"
+address: 'The Exchange, Shop 4, 1 Little Pier St, Haymarket, 2000, NSW, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

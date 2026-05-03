@@ -8,7 +8,7 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: Excluding sales and promotional items
-address: "Sportsco Macarthur Square, MacArthur Square Shopping Centre, Shop 136, Gilchrist Drive, Campbelltown, 2560, New South Wales, Australia"
+address: 'Sportsco Macarthur Square, MacArthur Square Shopping Centre, Shop 136, Gilchrist Drive, Campbelltown, 2560, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

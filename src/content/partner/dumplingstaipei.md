@@ -8,7 +8,7 @@ cuisine:
   - Taiwanese
 region: nsw
 discount_pct: 5
-address: "Garden Piazza Building, Unit 13, 3-9 Terminus Street, Castle Hill, 2154, New South Wales, Australia"
+address: 'Garden Piazza Building, Unit 13, 3-9 Terminus Street, Castle Hill, 2154, New South Wales, Australia'
 coordinates:
   lat: -33.7613798
   lng: 150.9928112

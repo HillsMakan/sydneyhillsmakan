@@ -26,7 +26,7 @@ cuisine:
   - Italian
 region: nsw
 discount_pct: 10
-address: "35 Tumbalong Bvd, Haymarket, 2000, New South Wales, Australia"
+address: '35 Tumbalong Bvd, Haymarket, 2000, New South Wales, Australia'
 coordinates:
   lat: -33.8784508
   lng: 151.2020098

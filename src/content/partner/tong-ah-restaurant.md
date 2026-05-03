@@ -10,7 +10,7 @@ cuisine:
 region: singapore
 discount_pct: 10
 discount_text: Excluding breakfast menu and promotions
-address: "No. 35 Keong Saik Road, 089142, Singapore"
+address: 'No. 35 Keong Saik Road, 089142, Singapore'
 coordinates:
   lat: 1.2799409
   lng: 103.8415298

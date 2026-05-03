@@ -19,7 +19,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
-address: "Eastwood Markets, Kios 10, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia"
+address: 'Eastwood Markets, Kios 10, 178-180 Rowe St, Eastwood, 2122, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

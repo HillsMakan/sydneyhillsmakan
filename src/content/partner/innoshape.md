@@ -40,7 +40,7 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: Including Products. When mention & show your HMG International member card
-address: "C4, 1/3 Burbank Pl, Norwest, 2153, NSW"
+address: 'C4, 1/3 Burbank Pl, Norwest, 2153, NSW'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

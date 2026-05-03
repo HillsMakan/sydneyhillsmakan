@@ -30,7 +30,9 @@ cuisine:
   - Singaporean
 region: international
 discount_pct: 10
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 HMG members 10 % Discount. Check out Jackie's Authentic Handcrafted 😋 Curry Pastes.

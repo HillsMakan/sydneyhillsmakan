@@ -28,7 +28,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding specials
-address: "The Village Green Dural building, Shop 3, 22-24 Kenthurst Rd, Dural, 2158, New South Wales, Australia"
+address: 'The Village Green Dural building, Shop 3, 22-24 Kenthurst Rd, Dural, 2158, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

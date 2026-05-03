@@ -10,7 +10,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding cafe, drinks bar, specials and promotions
-address: "Seven Hills RSL Club, 108 Best Road, Seven Hills, 2147, New South Wales, Australia"
+address: 'Seven Hills RSL Club, 108 Best Road, Seven Hills, 2147, New South Wales, Australia'
 coordinates:
   lat: -33.6651966
   lng: 150.8023011

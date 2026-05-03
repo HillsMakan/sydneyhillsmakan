@@ -10,7 +10,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Dine in and excludes Pubic Holidays & not in conjunction with any other offer
-address: "297 Lane Cove Road, Macquarie Park, 2113, New South Wales, Australia"
+address: '297 Lane Cove Road, Macquarie Park, 2113, New South Wales, Australia'
 coordinates:
   lat: -33.7838457
   lng: 151.1301723

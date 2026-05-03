@@ -8,7 +8,9 @@ categories:
   - professionals
 region: international
 discount_pct: 10
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Unique Bikes Rental (UBR), Singapore is offering Guided 3 hours tours around Singapore, Self-Riding. This is a cool way to see Singapore.

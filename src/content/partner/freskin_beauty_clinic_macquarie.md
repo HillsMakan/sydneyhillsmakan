@@ -25,7 +25,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
-address: "Macquarie Shopping Centre, Level 2, Shop 2242, Macquarie Park, 2113, NSW, Australia"
+address: 'Macquarie Shopping Centre, Level 2, Shop 2242, Macquarie Park, 2113, NSW, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

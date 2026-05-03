@@ -20,7 +20,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Cash and meals only
-address: "Westfield Chatswood, Shop FM2, Level 2, 1 Anderson St., 2067, Chatswood, New South Wales, Australia"
+address: 'Westfield Chatswood, Shop FM2, Level 2, 1 Anderson St., 2067, Chatswood, New South Wales, Australia'
 coordinates:
   lat: -33.7965262
   lng: 151.1841604

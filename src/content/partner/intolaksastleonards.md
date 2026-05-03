@@ -29,7 +29,7 @@ region: nsw
 discount_pct: 10
 discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card individually
-address: "Mall 88, Shop LG01/88 Christie St, St Leonards, 2065, New South Wales, Australia"
+address: 'Mall 88, Shop LG01/88 Christie St, St Leonards, 2065, New South Wales, Australia'
 coordinates:
   lat: -33.8242014
   lng: 151.1951631

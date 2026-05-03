@@ -11,7 +11,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: OR 10% Discount (Regular Coffee & Pastry OR Regular Coffee & Sandwich)
-address: "The Langston Apartments, Ground Floor, 8 Chambers Court, Epping, 2121, New South Wales, Australia"
+address: 'The Langston Apartments, Ground Floor, 8 Chambers Court, Epping, 2121, New South Wales, Australia'
 coordinates:
   lat: -33.9116928
   lng: 151.2020336

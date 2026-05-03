@@ -19,7 +19,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
-address: "322 Victoria Rd, Marrickville, 2204, New South Wales, Australia"
+address: '322 Victoria Rd, Marrickville, 2204, New South Wales, Australia'
 coordinates:
   lat: -33.9135568
   lng: 151.1591179

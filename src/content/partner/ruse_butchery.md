@@ -23,7 +23,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Minimum spend $30
-address: "Ruse Shopping Village, Shop 9, 225 Junction Rd, Ruse, 2560, NSW"
+address: 'Ruse Shopping Village, Shop 9, 225 Junction Rd, Ruse, 2560, NSW'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

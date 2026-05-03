@@ -11,7 +11,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
-address: "Broadway Shopping Centre Food Court, Shop 220, 1 Bay St, Glebe, 2037, New South Wales, Australia"
+address: 'Broadway Shopping Centre Food Court, Shop 220, 1 Bay St, Glebe, 2037, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

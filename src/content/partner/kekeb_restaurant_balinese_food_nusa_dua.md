@@ -104,7 +104,7 @@ cuisine:
 region: bali
 discount_pct: 10
 discount_text: 'Food Only '
-address: "ITDC Area Nusa Dua, Lot C-0, Jl. Nusa Dua, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia"
+address: 'ITDC Area Nusa Dua, Lot C-0, Jl. Nusa Dua, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia'
 coordinates:
   lat: -8.2271303
   lng: 115.1919203

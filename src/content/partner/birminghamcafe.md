@@ -11,7 +11,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
-address: "Unit 17a, 4 Birmingham Avenue, Villawood, 2163, New South Wales, Australia"
+address: 'Unit 17a, 4 Birmingham Avenue, Villawood, 2163, New South Wales, Australia'
 coordinates:
   lat: -33.8779512
   lng: 150.9862149

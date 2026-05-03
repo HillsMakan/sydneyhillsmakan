@@ -30,7 +30,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Including Discount Items
-address: "Shop 1, 35 Belmore St, Burwood, 2134, NSW, Australia"
+address: 'Shop 1, 35 Belmore St, Burwood, 2134, NSW, Australia'
 coordinates:
   lat: -33.8791206
   lng: 151.1048826

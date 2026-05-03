@@ -12,7 +12,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: ''
-address: "10 Aurelia Street, Toongabbie, 2146, New South Wales, Australia"
+address: '10 Aurelia Street, Toongabbie, 2146, New South Wales, Australia'
 coordinates:
   lat: -33.7887629
   lng: 150.9489978

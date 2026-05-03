@@ -9,7 +9,7 @@ region: nsw
 discount_pct: 0
 discount_text: ''
 comment: ''
-address: "Unit 7B, 26 Nelson Road, Yennora, 2161, New South Wales, Australia"
+address: 'Unit 7B, 26 Nelson Road, Yennora, 2161, New South Wales, Australia'
 coordinates:
   lat: -33.8643922
   lng: 150.9710748

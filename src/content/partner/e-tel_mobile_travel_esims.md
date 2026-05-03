@@ -9,7 +9,9 @@ categories:
   - travel
 region: international
 discount_pct: 20
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **✈️ TRAVELLING SOON ?**

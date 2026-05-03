@@ -44,7 +44,7 @@ region: act
 discount_pct: 10
 discount_text: May be times Promo code may not be accessible due to restrictions
   imposed during peak seasons
-address: "3 Leichhardt Street, Kingston, 2604, Australian Capital Territory, Australia"
+address: '3 Leichhardt Street, Kingston, 2604, Australian Capital Territory, Australia'
 coordinates:
   lat: -35.3191586
   lng: 149.1428287

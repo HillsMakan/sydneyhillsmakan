@@ -25,7 +25,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding promotions and Liven payment
-address: "Little Indo Town, Central Park Mall, RB011, Lower Ground Floor, 28 Broadway, Chippendale, 2008, New South Wales, Australia"
+address: 'Little Indo Town, Central Park Mall, RB011, Lower Ground Floor, 28 Broadway, Chippendale, 2008, New South Wales, Australia'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

@@ -40,7 +40,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: 'Cash Only. Excluding lunch and promotions '
-address: "357 King St, Newtown, NSW (2 mins walk from Newtown Train Station)"
+address: '357 King St, Newtown, NSW (2 mins walk from Newtown Train Station)'
 coordinates:
   lat: -33.8986389
   lng: 151.1777523

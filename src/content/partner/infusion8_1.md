@@ -34,7 +34,9 @@ categories:
 region: international
 discount_pct: 10
 discount_text: Excluding Postage. Worldwide shipping available
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 **About Infusion8**

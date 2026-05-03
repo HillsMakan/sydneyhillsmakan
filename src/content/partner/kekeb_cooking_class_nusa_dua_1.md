@@ -49,8 +49,10 @@ region: international
 discount_pct: 60
 discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
-address: "ITDC Area, Jl. Nusa Dua Lot C-1B, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia."
-geocoding_failed: true
+address: 'ITDC Area, Jl. Nusa Dua Lot C-1B, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia.'
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Immerse yourself in a culinary journey filled with vibrant flavors and captivating aromas with a breathtaking beauty beach side view in Nusa Dua.

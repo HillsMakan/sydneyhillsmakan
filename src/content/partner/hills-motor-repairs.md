@@ -20,7 +20,7 @@ region: nsw
 discount_pct: 15
 discount_text: 15% discount off labor cost for any car service  OR  15% discount
   off labor cost and FREE Pink Slip if doing any car service in the same time
-address: "Unit 24, 7 Carrington Rd, 2154, Castle Hill, NSW, Australia"
+address: 'Unit 24, 7 Carrington Rd, 2154, Castle Hill, NSW, Australia'
 coordinates:
   lat: -33.728382
   lng: 150.984665

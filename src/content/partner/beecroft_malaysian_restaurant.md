@@ -32,7 +32,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: 'Discount valid on Mondays to Thursdays only. Excluding Specials '
-address: "Beecroft Village, Shop 25, 8 Hannah St, Beecroft, 2119, NSW, Australia (3 mins walk from Beecroft Station)"
+address: 'Beecroft Village, Shop 25, 8 Hannah St, Beecroft, 2119, NSW, Australia (3 mins walk from Beecroft Station)'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

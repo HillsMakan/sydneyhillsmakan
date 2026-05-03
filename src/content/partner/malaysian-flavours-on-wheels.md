@@ -25,7 +25,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Minimum spend $30
-address: "5 Octavia Street, Toongabbie, 2146, New South Wales, Australia"
+address: '5 Octavia Street, Toongabbie, 2146, New South Wales, Australia'
 coordinates:
   lat: -33.7901027
   lng: 150.9468997

@@ -28,7 +28,7 @@ cuisine:
 region: victoria
 discount_pct: 10
 discount_text: 'Excluding Specials '
-address: "14 Boronia Rd, Vermont, 3133, VIC, Australia"
+address: '14 Boronia Rd, Vermont, 3133, VIC, Australia'
 coordinates:
   lat: -37.8368428
   lng: 145.1956126

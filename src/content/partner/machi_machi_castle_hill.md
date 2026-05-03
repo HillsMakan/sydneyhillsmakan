@@ -20,7 +20,7 @@ categories:
 region: nsw
 discount_pct: 10
 discount_text: Minimum purchase 2 drinks and not eligible to collect Machi points
-address: "Shop 2, 289 Old Northern Rd, Castle Hill, 2154, NSW"
+address: 'Shop 2, 289 Old Northern Rd, Castle Hill, 2154, NSW'
 coordinates:
   lat: -33.7326132
   lng: 151.0055947

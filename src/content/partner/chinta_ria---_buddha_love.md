@@ -83,7 +83,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: 'Excluding promotions and public holidays '
-address: "14 Nicolle Walk, Haymarket, 2000, NSW"
+address: '14 Nicolle Walk, Haymarket, 2000, NSW'
 coordinates:
   lat: -33.8781096
   lng: 151.202466

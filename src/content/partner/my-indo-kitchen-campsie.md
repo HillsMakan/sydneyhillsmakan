@@ -21,7 +21,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Cash only and Exclude promotion
-address: "270 Beamish St, Campsie, 2194, NSW, Australia"
+address: '270 Beamish St, Campsie, 2194, NSW, Australia'
 coordinates:
   lat: -33.9160246
   lng: 151.1042059

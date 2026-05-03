@@ -39,7 +39,7 @@ region: singapore
 discount_pct: 10
 discount_text: Reservations required · Has private dining room
 comment: ''
-address: "One Raffles Pl, #04-48, 048616, Singapore"
+address: 'One Raffles Pl, #04-48, 048616, Singapore'
 coordinates:
   lat: 1.357107
   lng: 103.8194992

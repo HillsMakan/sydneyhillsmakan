@@ -10,7 +10,7 @@ cuisine:
 region: act
 discount_pct: 5
 discount_text: Cash only and excluding special
-address: "7/11 Botany Street, Phillip, 2606, Australian Capital Territory, Australia"
+address: '7/11 Botany Street, Phillip, 2606, Australian Capital Territory, Australia'
 coordinates:
   lat: -35.350363
   lng: 149.0883373

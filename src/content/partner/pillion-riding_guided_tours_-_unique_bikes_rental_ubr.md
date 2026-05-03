@@ -8,7 +8,9 @@ categories:
   - professionals
 region: international
 discount_pct: 10
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Like to tour around Singapore on motorbikes but do not have a license. Do not worry.

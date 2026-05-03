@@ -15,7 +15,9 @@ categories:
 region: international
 discount_pct: 0
 discount_text: ''
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Planning your next trip ? Then check this out. If you are interested, please follow the steps below :

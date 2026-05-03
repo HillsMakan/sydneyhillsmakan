@@ -70,7 +70,7 @@ region: bali
 discount_pct: 60
 discount_text: Mention HMG International Member when making reservations and
   show membercard when check-in
-address: "Jl. Kayu Aya No.22, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, 80361, Indonesia."
+address: 'Jl. Kayu Aya No.22, Seminyak, Kec. Kuta, Kabupaten Badung, Bali, 80361, Indonesia.'
 coordinates:
   lat: -8.2271303
   lng: 115.1919203

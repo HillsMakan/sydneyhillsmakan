@@ -8,7 +8,7 @@ categories:
 region: nsw
 discount_pct: 5
 discount_text: Excluding specials
-address: "263 Old Northern Rd, Castle Hill, 2154, New South Wales, Australia"
+address: '263 Old Northern Rd, Castle Hill, 2154, New South Wales, Australia'
 coordinates:
   lat: -33.7342671
   lng: 151.0039207

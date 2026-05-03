@@ -29,7 +29,7 @@ region: nsw
 discount_pct: 10
 discount_text: Cash or card payment. Split bill is acceptable but must show HMG
   International member card individually
-address: "Shop 5, 5 Archibald Avenue, Waterloo, 2017, New South Wales, Australia"
+address: 'Shop 5, 5 Archibald Avenue, Waterloo, 2017, New South Wales, Australia'
 coordinates:
   lat: -33.9016473
   lng: 151.2104355

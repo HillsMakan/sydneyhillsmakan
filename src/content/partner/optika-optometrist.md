@@ -9,7 +9,7 @@ categories:
 region: nsw
 discount_pct: 20
 discount_text: Frames only (Excluding Sales/Promotions)
-address: "Shop 2, 40 Park Rd, Cabramatta, 2166, New South Wales, Australia"
+address: 'Shop 2, 40 Park Rd, Cabramatta, 2166, New South Wales, Australia'
 coordinates:
   lat: -33.8934444
   lng: 150.9375253

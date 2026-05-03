@@ -9,10 +9,10 @@ cuisine:
 region: kl
 discount_pct: 20
 discount_text: Excluding promotions
-address: "44, Jalan Medan Putra 3, Medan Putra Business Centre, 52200, Kuala Lumpur, Malaysia"
+address: '44, Jalan Medan Putra 3, Medan Putra Business Centre, 52200, Kuala Lumpur, Malaysia'
 coordinates:
-  lat: 5.6287505
-  lng: 102.7910234
+  lat: 3.1516964
+  lng: 101.6942371
 ---
 
 **Location :** 44, Jalan Medan Putra 3, Medan Putra Business Centre, 52200, Kuala Lumpur, Malaysia\

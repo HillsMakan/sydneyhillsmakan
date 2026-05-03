@@ -49,7 +49,7 @@ cuisine:
 region: victoria
 discount_pct: 10
 discount_text: 'Excluding promotions '
-address: "Shopping Plaza, Unit 9, 371-373 Clayton Rd, Clayton, 3168, Victoria, Australia (5 mins walk from Clayton Railway Station)"
+address: 'Shopping Plaza, Unit 9, 371-373 Clayton Rd, Clayton, 3168, Victoria, Australia (5 mins walk from Clayton Railway Station)'
 coordinates:
   lat: -36.5986096
   lng: 144.6780052

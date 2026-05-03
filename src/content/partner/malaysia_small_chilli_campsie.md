@@ -33,7 +33,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Excluding Specials
-address: "148 Beamish St, Campsie, 2194, NSW, Australia (2 mins walk from Campsie Station)"
+address: '148 Beamish St, Campsie, 2194, NSW, Australia (2 mins walk from Campsie Station)'
 coordinates:
   lat: -33.9160246
   lng: 151.1042059

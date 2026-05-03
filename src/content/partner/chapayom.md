@@ -21,7 +21,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
-address: "551 George St, Sydney, 2000, New South Wales, Australia"
+address: '551 George St, Sydney, 2000, New South Wales, Australia'
 coordinates:
   lat: -33.8800469
   lng: 151.205235

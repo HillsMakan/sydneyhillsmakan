@@ -10,7 +10,7 @@ cuisine:
 region: wa
 discount_pct: 10
 discount_text: Excluding specials
-address: "430 Treeton Rd, Cowaramup, 6284, Western Australia, Australia"
+address: '430 Treeton Rd, Cowaramup, 6284, Western Australia, Australia'
 coordinates:
   lat: -33.8489394
   lng: 115.1341689

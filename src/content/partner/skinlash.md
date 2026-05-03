@@ -16,7 +16,7 @@ categories:
 region: singapore
 discount_pct: 15
 discount_text: Show your HMG member card when you arrive
-address: "29 Teo Hong Road, 088335, Singapore"
+address: '29 Teo Hong Road, 088335, Singapore'
 coordinates:
   lat: 1.2796596
   lng: 103.8408203

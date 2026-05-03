@@ -18,7 +18,7 @@ cuisine:
 region: wa
 discount_pct: 10
 discount_text: Excluding promotions
-address: "2/55 Central Road, Rossmoyne, 6148, Western Australia[]()[]()"
+address: '2/55 Central Road, Rossmoyne, 6148, Western Australia[]()[]()'
 coordinates:
   lat: -32.0386305
   lng: 115.8708917

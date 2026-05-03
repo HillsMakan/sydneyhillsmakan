@@ -18,7 +18,7 @@ categories:
 region: nsw
 discount_pct: 15
 discount_text: Mention HMG International member to receive discount
-address: "Sydney Metro Area"
+address: 'Sydney Metro Area'
 coordinates:
   lat: -31.8759835
   lng: 147.2869493

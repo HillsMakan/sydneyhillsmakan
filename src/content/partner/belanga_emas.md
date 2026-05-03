@@ -31,7 +31,7 @@ cuisine:
   - Halal
 region: wa
 discount_pct: 3
-address: "Shop 83, 7 Bonner Dr, Malaga, 6090, WA, Australia"
+address: 'Shop 83, 7 Bonner Dr, Malaga, 6090, WA, Australia'
 coordinates:
   lat: -31.8501728
   lng: 115.879359

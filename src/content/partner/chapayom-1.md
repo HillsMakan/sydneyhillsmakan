@@ -17,7 +17,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
-address: "99 John St, Cabramatta, 2166, New South Wales, Australia"
+address: '99 John St, Cabramatta, 2166, New South Wales, Australia'
 coordinates:
   lat: -33.8946481
   lng: 150.9354827

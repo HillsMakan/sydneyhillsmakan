@@ -33,7 +33,7 @@ cuisine: []
 region: nsw
 discount_pct: 0
 discount_text: '$50 off per person with discount code "Shmg50" at checkout '
-address: "Ryde, NSW, Australia"
+address: 'Ryde, NSW, Australia'
 coordinates:
   lat: -33.8015751
   lng: 151.1046052

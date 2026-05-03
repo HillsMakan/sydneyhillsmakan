@@ -32,7 +32,7 @@ cuisine:
 region: wa
 discount_pct: 10
 discount_text: 'Excluding promotions '
-address: "641 Beach Rd, Warwick, 6024, Western Australia, Australia"
+address: '641 Beach Rd, Warwick, 6024, Western Australia, Australia'
 coordinates:
   lat: -31.8452604
   lng: 115.8107042

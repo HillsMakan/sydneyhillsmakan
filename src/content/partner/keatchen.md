@@ -8,8 +8,8 @@ categories:
 region: selangor
 discount_pct: 20
 coordinates:
-  lat: 43.6170448
-  lng: 1.4367459
+  lat: 3.0739429
+  lng: 101.5185278
 ---
 
 Go to www.order.keatchen.my for order.\

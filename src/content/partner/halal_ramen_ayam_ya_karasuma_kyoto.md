@@ -30,7 +30,7 @@ cuisine:
 region: kyoto
 discount_pct: 0
 discount_text: Free topping, boiled egg / crispy skin for each ramen order
-address: "Halal Ramen Ayam Ya Karasuma Kyoto (Ramen restaurant)"
+address: 'Halal Ramen Ayam Ya Karasuma Kyoto (Ramen restaurant)'
 coordinates:
   lat: 35.0115754
   lng: 135.7681441

@@ -34,7 +34,9 @@ categories:
 region: international
 discount_pct: 15
 discount_text: Airport Shuttle 5% ● Day Tour 10% ● Adventure Activities 15%
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 Mention HMG International members to receive below discounts :

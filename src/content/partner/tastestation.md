@@ -11,7 +11,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Cash Only
-address: "2 Hercules St, Ashfield, 2131, New South Wales, Australia"
+address: '2 Hercules St, Ashfield, 2131, New South Wales, Australia'
 coordinates:
   lat: -33.8880365
   lng: 151.1257603

@@ -26,7 +26,7 @@ cuisine:
 region: nsw
 discount_pct: 10
 discount_text: Cash only and Exclude promotion
-address: "348 Sussex St, Sydney, 2000, NSW, Australia"
+address: '348 Sussex St, Sydney, 2000, NSW, Australia'
 coordinates:
   lat: -33.8759287
   lng: 151.2047455

@@ -20,7 +20,9 @@ categories:
 region: international
 discount_pct: 6
 discount_text: Enter the code HMG during checkout/booking to receive your 6% discount.
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 ### **Exclusive HMG Member Offer – Tomato Travel (6% OFF)**

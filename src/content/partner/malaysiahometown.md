@@ -9,7 +9,7 @@ cuisine:
 region: nsw
 discount_pct: 5
 discount_text: Excluding promotions
-address: "228 Beamish Street, Campsie, 2194, New South Wales, Australia"
+address: '228 Beamish Street, Campsie, 2194, New South Wales, Australia'
 coordinates:
   lat: -33.9160246
   lng: 151.1042059

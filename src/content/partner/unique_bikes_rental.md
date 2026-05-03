@@ -10,7 +10,9 @@ categories:
   - travel
 region: international
 discount_pct: 0
-geocoding_failed: true
+coordinates:
+  lat: -33.8698439
+  lng: 151.2082848
 ---
 
 HMG members enjoy Off Peak 15% off rental rates and Peak 10% off rental rates. \
