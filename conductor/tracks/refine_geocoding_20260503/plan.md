@@ -5,7 +5,7 @@
     - [x] List all partners missing `coordinates` or having `geocoding_failed: true`.
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Preparation and Environment Setup' (Protocol in workflow.md) [bbbc8cf]
 
-## Phase 2: Core Refactor & Unit Testing
+## Phase 2: Core Refactor & Unit Testing [checkpoint: 7772758]
 - [x] Task: Create `scripts/geocode.test.ts` to test the logic before implementation. [1d352c7]
     - [x] Mock Nominatim API responses.
     - [x] Test address simplification steps.
@@ -17,7 +17,7 @@
 - [x] Task: Update the main execution loop in `scripts/geocode.mjs`. [aadf667]
     - [x] Ensure it only processes files missing `coordinates`.
     - [x] Remove `geocoding_failed` flags upon successful update.
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Core Refactor & Unit Testing' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Core Refactor & Unit Testing' (Protocol in workflow.md) [7772758]
 
 ## Phase 3: Global Execution & Cleanup
 - [ ] Task: Execute the refactored geocoding script on all partners.
