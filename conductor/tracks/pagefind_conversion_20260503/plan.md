@@ -2,7 +2,7 @@
 
 ## Phase 1: Dependency Updates & Build Configuration
 - [x] Task: Remove Lunr dependencies from `package.json`. [d97ad21]
-- [ ] Task: Install `pagefind` as a dependency.
+- [x] Task: Install `pagefind` as a dependency. [05ada10]
 - [ ] Task: Update `package.json` build scripts to execute Pagefind indexing after the Astro build (e.g., `"build": "astro build && pagefind --site dist"`).
 - [ ] Task: Conductor - User Manual Verification 'Dependency Updates & Build Configuration' (Protocol in workflow.md)
 
