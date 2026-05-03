@@ -170,6 +170,19 @@ collections:
         name: "comment"
         widget: "string"
         required: false
+      - label: "Coordinates"
+        name: "coordinates"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Latitude"
+            name: "lat"
+            widget: "number"
+            value_type: "float"
+          - label: "Longitude"
+            name: "lng"
+            widget: "number"
+            value_type: "float"
       - *field-body
 
   - name: "region"
