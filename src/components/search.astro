@@ -2,121 +2,24 @@
 import { Icon } from 'astro-icon/components'
 ---
 
-<div id="search-widget">
-  <div class="flex justify-center">
-    <button
-      id="search-open"
-      type="button"
-      class="inline-flex items-center rounded-sm bg-blue-600 p-2 text-xs/tight font-medium text-white uppercase shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:ring-0 focus:outline-hidden active:bg-blue-800 active:shadow-lg"
-      aria-label="Open Search"
-    >
-      <Icon class="size-4 mr-2" name="mdi:magnify" />
-      Search
-    </button>
-  </div>
-
-  <!-- Search results panel -->
-  <div
-    id="search-panel"
-    hidden
-    class="relative z-50"
-    role="dialog"
-    aria-modal="true"
-  >
-    <div
-      id="search-backdrop"
-      class="fixed inset-0 bg-gray-500/75 opacity-0 transition-opacity duration-500"
-    >
-    </div>
-
-    <div class="fixed inset-0 overflow-hidden">
-      <div class="absolute inset-0 overflow-hidden">
-        <div class="pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10">
-          <div
-            id="search-slideover"
-            class="pointer-events-auto relative w-screen max-w-md translate-x-full transition-transform duration-500"
-          >
-            <div
-              id="search-close-btn-wrap"
-              class="absolute top-0 left-0 -ml-8 flex pt-4 pr-2 opacity-0 transition-opacity duration-500 sm:-ml-10 sm:pr-4"
-            >
-              <button
-                id="search-close"
-                type="button"
-                class="rounded-md text-blue-300 hover:text-pink-300 focus:ring-2 focus:ring-white focus:outline-hidden"
-              >
-                <span class="sr-only">Close panel</span>
-                <Icon class="size-6" name="mdi:close-box" />
-              </button>
-            </div>
-
-            <div
-              class="flex h-full flex-col overflow-y-scroll bg-white py-6 shadow-xl dark:bg-gray-800"
-            >
-              <div class="px-4 sm:px-6">
-                <h2
-                  class="text-lg font-medium text-gray-900 dark:text-gray-100"
-                >
-                  Search
-                </h2>
-              </div>
-              <div class="relative mt-6 flex-1 px-4 sm:px-6">
-                <div id="search"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div id="search-widget" class="relative mx-4 w-full max-w-sm">
+  <div id="search"></div>
 </div>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
 <script is:inline src="/pagefind/pagefind-ui.js"></script>
 
-<script>
-  // @ts-ignore
+<script is:inline>
   window.addEventListener('DOMContentLoaded', (event) => {
-    // @ts-ignore
-    new PagefindUI({ element: "#search", showSubResults: true });
+    if (typeof PagefindUI !== 'undefined') {
+      new PagefindUI({ 
+        element: "#search", 
+        showSubResults: true,
+        resetStyles: false,
+        bundlePath: "/pagefind/"
+      });
+    }
   });
-
-  function openPanel() {
-    const panel = document.querySelector<HTMLElement>('#search-panel')
-    const backdrop = document.querySelector('#search-backdrop')
-    const slideover = document.querySelector('#search-slideover')
-    const closeBtnWrap = document.querySelector('#search-close-btn-wrap')
-    if (!panel) return
-    panel.hidden = false
-    // Trigger transitions on next frame
-    requestAnimationFrame(() => {
-      backdrop?.classList.replace('opacity-0', 'opacity-100')
-      slideover?.classList.replace('translate-x-full', 'translate-x-0')
-      closeBtnWrap?.classList.replace('opacity-0', 'opacity-100')
-    })
-  }
-
-  function closePanel() {
-    const panel = document.querySelector<HTMLElement>('#search-panel')
-    const backdrop = document.querySelector('#search-backdrop')
-    const slideover = document.querySelector('#search-slideover')
-    const closeBtnWrap = document.querySelector('#search-close-btn-wrap')
-    if (!panel) return
-    backdrop?.classList.replace('opacity-100', 'opacity-0')
-    slideover?.classList.replace('translate-x-0', 'translate-x-full')
-    closeBtnWrap?.classList.replace('opacity-100', 'opacity-0')
-    // Hide after transition ends
-    slideover?.addEventListener(
-      'transitionend',
-      () => {
-        panel.hidden = true
-      },
-      { once: true }
-    )
-  }
-
-  document.querySelector('#search-open')?.addEventListener('click', openPanel)
-  document.querySelector('#search-close')?.addEventListener('click', closePanel)
 </script>
 
 <style is:global>
@@ -134,5 +37,37 @@ import { Icon } from 'astro-icon/components'
     --pagefind-ui-background: #1f2937;
     --pagefind-ui-border: #374151;
     --pagefind-ui-tag: #374151;
+  }
+
+  /* Styling Pagefind UI to look like a searchbox */
+  #search .pagefind-ui__search-input {
+    background-color: var(--pagefind-ui-background) !important;
+    border-color: var(--pagefind-ui-border) !important;
+    font-size: 0.875rem !important;
+    border-radius: 0.375rem !important;
+    padding: 0.5rem 0.75rem !important;
+  }
+
+  #search .pagefind-ui__search-clear {
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    height: auto !important;
+    padding: 0 0.5rem !important;
+  }
+
+  #search .pagefind-ui__drawer {
+    position: absolute !important;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    background-color: var(--pagefind-ui-background);
+    padding: 1rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--pagefind-ui-border);
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+    max-height: 60vh;
+    overflow-y: auto;
   }
 </style>
