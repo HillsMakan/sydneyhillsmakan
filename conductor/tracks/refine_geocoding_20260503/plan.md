@@ -6,10 +6,10 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Preparation and Environment Setup' (Protocol in workflow.md) [bbbc8cf]
 
 ## Phase 2: Core Refactor & Unit Testing
-- [ ] Task: Create `scripts/geocode.test.ts` to test the logic before implementation.
-    - [ ] Mock Nominatim API responses.
-    - [ ] Test address simplification steps.
-    - [ ] Test regional capital fallback logic.
+- [x] Task: Create `scripts/geocode.test.ts` to test the logic before implementation. [1d352c7]
+    - [x] Mock Nominatim API responses.
+    - [x] Test address simplification steps.
+    - [x] Test regional capital fallback logic.
 - [ ] Task: Refactor `scripts/geocode.mjs` core logic.
     - [ ] Implement iterative address simplification (regex/string manipulation).
     - [ ] Implement `isCoordInRegion` using rough bounding boxes for regions defined in `scripts/geocode.mjs`.
