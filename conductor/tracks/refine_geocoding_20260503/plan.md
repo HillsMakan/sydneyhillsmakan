@@ -19,7 +19,7 @@
     - [x] Remove `geocoding_failed` flags upon successful update.
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Core Refactor & Unit Testing' (Protocol in workflow.md) [7772758]
 
-## Phase 3: Global Execution & Cleanup
+## Phase 3: Global Execution & Cleanup [checkpoint: 25324c6]
 - [x] Task: Execute the refactored geocoding script on all partners. [4ef9565]
     - [x] Run `pnpm run geocode`.
     - [x] Monitor logs for successful fallbacks to regional capitals.
@@ -28,4 +28,4 @@
 - [x] Task: Final verification and E2E testing. [4ef9565]
     - [x] Run `pnpm run test:e2e` to ensure the map renders all markers correctly.
     - [x] Check `src/content/partner/` to confirm all files have coordinates.
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Global Execution & Cleanup' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Global Execution & Cleanup' (Protocol in workflow.md) [25324c6]
