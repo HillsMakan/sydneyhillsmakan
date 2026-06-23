@@ -3,6 +3,6 @@ targetPort = 3000
 command = "pnpm run dev"
 
 [build]
-command = "pnpm run build"
+command = "NODE_OPTIONS=--max_old_space_size=4096 pnpm run build"
 functions = "netlify/functions"
 publish = "dist"
