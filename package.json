@@ -25,7 +25,7 @@
     "@iconify-json/noto": "^1.2.7",
     "@iconify-json/ph": "^1.2.2",
     "@iconify-json/twemoji": "^1.2.5",
-    "astro": "^7.0.0",
+    "astro": "^6.4.8",
     "astro-icon": "^1.1.5",
     "astro-robots-txt": "^1.0.0",
     "astro-seo": "^1.1.0",
