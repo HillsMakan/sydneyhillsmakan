@@ -50,8 +50,8 @@ describe('uniqBy', () => {
   })
 
   it('supports JSON.stringify as key function for object references', () => {
-    const ref = { id: 'cats/food' }
-    const input = [ref, { id: 'cats/drink' }, ref]
+    const reference = { id: 'cats/food' }
+    const input = [reference, { id: 'cats/drink' }, reference]
     const result = uniqBy(input, JSON.stringify)
     expect(result).toHaveLength(2)
   })

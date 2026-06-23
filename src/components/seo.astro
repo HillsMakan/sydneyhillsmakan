@@ -33,7 +33,7 @@ const image = await getImage({
   width: 1200,
   format: 'jpg'
 })
-const imageUrl = new URL(image.src, Astro.url).toString()
+const imageUrl = new URL(image.src, Astro.url).href
 const openGraph = {
   basic: {
     title: frontmatter.title,
@@ -68,7 +68,7 @@ const website: WithContext<WebSite> = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   about: {
-    '@id': new URL('about', siteurl).toString()
+    '@id': new URL('about', siteurl).href
   },
   audience: 'public',
   abstract: Site.description,
@@ -112,11 +112,11 @@ const organization: WithContext<Organization> = {
   location: Site.location,
   image: {
     '@type': 'ImageObject',
-    url: new URL(Site.logo.src, siteurl).toString()
+    url: new URL(Site.logo.src, siteurl).href
   },
   logo: {
     '@type': 'ImageObject',
-    url: new URL(Site.logo.src, siteurl).toString()
+    url: new URL(Site.logo.src, siteurl).href
   },
   name: Site.org.name,
   url: Site.org.url

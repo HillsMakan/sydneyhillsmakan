@@ -92,11 +92,11 @@ export function analyzePartnerGeocoding(content: string) {
   }
 
   const fm = fmMatch[1]
-  const missingCoordinates = !fm.includes('coordinates:')
+  const isMissingCoordinates = !fm.includes('coordinates:')
   const geocodingFailed = fm.includes('geocoding_failed: true')
 
   return {
-    missingCoordinates,
+    missingCoordinates: isMissingCoordinates,
     geocodingFailed
   }
 }

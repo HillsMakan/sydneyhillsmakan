@@ -18,7 +18,7 @@ interface Country extends CollectionEntry<'region'> {
   subregions?: CollectionEntry<'region'>[]
 }
 
-let regions = (await getCollection(
+const regions = (await getCollection(
   'region',
   (region) => !region.data.draft && region.data.country!.id == 'international'
 )) as Country[]
@@ -397,39 +397,45 @@ const countries = await Promise.all(
   })
 
   // User menu dropdown
-  const userMenuBtn = document.querySelector('#user-menu-button')
+  const userMenuButton = document.querySelector('#user-menu-button')
   const userDropdown = document.querySelector<HTMLElement>('#user-dropdown')
 
-  userMenuBtn?.addEventListener('click', (e) => {
+  userMenuButton?.addEventListener('click', (e) => {
     e.stopPropagation()
     const isOpen = !userDropdown?.hidden
     if (userDropdown) userDropdown.hidden = isOpen
-    userMenuBtn.setAttribute('aria-expanded', String(!isOpen))
+    userMenuButton.setAttribute('aria-expanded', String(!isOpen))
   })
 
   document.addEventListener('click', (e) => {
     if (
-      userDropdown &&
-      !userDropdown.hidden &&
-      !userDropdown.contains(e.target as Node) &&
-      !userMenuBtn?.contains(e.target as Node)
+      !(
+        userDropdown &&
+        !userDropdown.hidden &&
+        !userDropdown.contains(e.target as Node) &&
+        !userMenuButton?.contains(e.target as Node)
+      )
     ) {
-      userDropdown.hidden = true
-      userMenuBtn?.setAttribute('aria-expanded', 'false')
+      return
     }
+
+    userDropdown.hidden = true
+    userMenuButton?.setAttribute('aria-expanded', 'false')
   })
 
   // Accordion collapsibles (regions + collaborations)
-  for (const btn of document.querySelectorAll<HTMLButtonElement>('[aria-controls^="dropdown-"]')) {
-    const targetId = btn.getAttribute('aria-controls')!
+  for (const button of document.querySelectorAll<HTMLButtonElement>(
+    '[aria-controls^="dropdown-"]'
+  )) {
+    const targetId = button.getAttribute('aria-controls')!
     const target = document.querySelector<HTMLElement>(`#${targetId}`)
     if (!target) continue
-    const chevron = btn.querySelector<SVGElement>('svg:last-of-type')
+    const chevron = button.querySelector<SVGElement>('svg:last-of-type')
 
-    btn.addEventListener('click', () => {
+    button.addEventListener('click', () => {
       const isOpen = !target.hidden
       target.hidden = isOpen
-      btn.setAttribute('aria-expanded', String(!isOpen))
+      button.setAttribute('aria-expanded', String(!isOpen))
       chevron?.classList.toggle('rotate-180', !isOpen)
     })
   }

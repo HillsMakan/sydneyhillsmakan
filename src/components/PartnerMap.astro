@@ -164,7 +164,7 @@ const filterSelectClass =
 
   function renderMarkers({ filteredPartners, markerGroup, map }: RenderMarkersOptions) {
     markerGroup.clearLayers()
-    const boundsArr: L.LatLngExpression[] = []
+    const boundsArray: L.LatLngExpression[] = []
     const seenCoords = new Set<string>()
 
     for (const partner of filteredPartners) {
@@ -185,23 +185,23 @@ const filterSelectClass =
 
       const marker = L.marker([lat, lng]).bindPopup(
         `
-        <div class="p-1 min-w-[180px]">
-          <h3 class="mb-1 text-base font-bold text-gray-900">${safeTitle}</h3>
-          <p class="mb-1 text-[10px] font-bold uppercase tracking-wider text-blue-600">${safeRegionName}</p>
-          <p class="mb-2 text-xs leading-tight text-gray-600">${safeDescription}</p>
-          <a href="${partner.link}" class="inline-block rounded bg-blue-50 px-2 py-1 text-[10px] font-bold uppercase text-blue-700 transition-colors hover:bg-blue-100">View Details -></a>
-        </div>
-      `,
+      <div class="p-1 min-w-[180px]">
+        <h3 class="mb-1 text-base font-bold text-gray-900">${safeTitle}</h3>
+        <p class="mb-1 text-[10px] font-bold uppercase tracking-wider text-blue-600">${safeRegionName}</p>
+        <p class="mb-2 text-xs leading-tight text-gray-600">${safeDescription}</p>
+        <a href="${partner.link}" class="inline-block rounded bg-blue-50 px-2 py-1 text-[10px] font-bold uppercase text-blue-700 transition-colors hover:bg-blue-100">View Details -></a>
+      </div>
+    `,
         {
           maxWidth: 250
         }
       )
       markerGroup.addLayer(marker)
-      boundsArr.push([lat, lng])
+      boundsArray.push([lat, lng])
     }
 
-    if (boundsArr.length > 0) {
-      const bounds = L.latLngBounds(boundsArr)
+    if (boundsArray.length > 0) {
+      const bounds = L.latLngBounds(boundsArray)
       map.fitBounds(bounds, { padding: [50, 50], maxZoom: 15 })
     }
   }
@@ -265,11 +265,11 @@ const filterSelectClass =
         const selectedCuisine = cuisineSelect.value
 
         const filteredPartners = partners.filter((p) => {
-          const matchesRegion =
+          const isMatchesRegion =
             !selectedRegion || p.region === selectedRegion || p.country === selectedRegion
           const matchesCategory = !selectedCategory || p.categories.includes(selectedCategory)
           const matchesCuisine = !selectedCuisine || p.cuisine.includes(selectedCuisine)
-          return matchesRegion && matchesCategory && matchesCuisine
+          return isMatchesRegion && matchesCategory && matchesCuisine
         })
 
         renderMarkers({ filteredPartners, markerGroup, map })
@@ -278,12 +278,12 @@ const filterSelectClass =
       // Initial render should respect any pre-selected filter values.
       updateMarkers()
 
-      for (const el of [regionSelect, categorySelect, cuisineSelect]) {
-        el.addEventListener('change', updateMarkers)
+      for (const element of [regionSelect, categorySelect, cuisineSelect]) {
+        element.addEventListener('change', updateMarkers)
       }
 
-      const resetBtn = root.querySelector<HTMLButtonElement>('[data-reset-map]')
-      resetBtn?.addEventListener('click', () => {
+      const resetButton = root.querySelector<HTMLButtonElement>('[data-reset-map]')
+      resetButton?.addEventListener('click', () => {
         regionSelect.value = ''
         categorySelect.value = ''
         cuisineSelect.value = ''

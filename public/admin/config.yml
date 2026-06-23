@@ -36,6 +36,8 @@ anchors:
     url_pattern: &pattern-url
       pattern: ['^https?://.*', "Must be a valid URL starting with http:// or https://"]
 
+local_backend: true
+
 backend:
   name: git-gateway
   branch: main
@@ -110,6 +112,7 @@ collections:
       - label: "Sort Order"
         name: "order"
         widget: "number"
+        value_type: "int"
         hint: "Enter sequence that pages should be displayed in a menu"
         required: false
       - *field-body
@@ -133,7 +136,7 @@ collections:
         name: "images"
         widget: "list"
         # Using a simple field without 'name' ensures a list of strings
-        field: { label: "Image", widget: "image" }
+        field: { name: "image", label: "Image", widget: "image" }
         required: false
       - label: "Categories"
         name: "categories"
@@ -172,6 +175,7 @@ collections:
       - label: "Discount %"
         name: "discount_pct"
         widget: "number"
+        value_type: "int"
         default: 0
         required: false
       - label: "Discount Text"

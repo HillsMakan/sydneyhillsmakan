@@ -15,7 +15,7 @@ interface Partner extends CollectionEntry<'partner'> {
   categories: CollectionEntry<'categories'>[]
 }
 const { partners } = Astro.props
-let pext: Partner[] = []
+const pext: Partner[] = []
 for (const p of partners) {
   const region = await getEntry(p.data.region)
   const categories = await getEntries(p.data.categories)

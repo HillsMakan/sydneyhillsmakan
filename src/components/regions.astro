@@ -8,7 +8,7 @@ interface Country extends CollectionEntry<'region'> {
   subregions?: CollectionEntry<'region'>[]
 }
 
-let regions = (await getCollection(
+const regions = (await getCollection(
   'region',
   (region) => !region.data.draft && region.data.country!.id == 'international'
 )) as Country[]

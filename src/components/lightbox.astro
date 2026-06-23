@@ -10,7 +10,7 @@ export interface Props {
 
 const { id, images } = Astro.props
 
-const imagetitles = images.map((image) => image.src.split('/').toReversed()[0].split('.')[0])
+const imagetitles = images.map((image) => image.src.split('/').toReversed()[0].split('.', 1)[0])
 ---
 
 <lightbox-inner data-id={id}>
@@ -18,7 +18,7 @@ const imagetitles = images.map((image) => image.src.split('/').toReversed()[0].s
     {
       images.map((image, index) => (
         <div>
-          <figure itemscope itemtype="http://schema.org/ImageObject">
+          <figure itemscope itemtype="https://schema.org/ImageObject">
             <a
               href={image.src}
               itemprop="contentUrl"
